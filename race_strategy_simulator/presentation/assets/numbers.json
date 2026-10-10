@@ -1,0 +1,137 @@
+{
+  "sd": {
+    "race_sd_pct": 0.5447317625113149,
+    "stint_sd_pct": 0.43786852569412055,
+    "lap_sd_pct": 0.6504566836204211
+  },
+  "final_model_iterations": 300,
+  "val_mean_y": -1.180862254784257,
+  "val_sd_y": 1.2204754386095762,
+  "val_rmse_zero": 1.6982331880585175,
+  "train_mean_y": -1.232939294844163,
+  "train_fit_iterations": 300,
+  "early_stopping": true,
+  "val_rmse_boosting": 0.9021870788474317,
+  "train_rmse_boosting": 0.755107504878093,
+  "val_rmse_linear": 0.9300807148323511,
+  "train_rmse_linear": 0.9133544573702674,
+  "linear_coefficients": 13,
+  "complexity": [
+    {
+      "leaves": 2,
+      "train": 0.8431380138428063,
+      "validation": 0.9264569679657654,
+      "iterations": 300
+    },
+    {
+      "leaves": 3,
+      "train": 0.7839635184716716,
+      "validation": 0.9050064439765585,
+      "iterations": 300
+    },
+    {
+      "leaves": 4,
+      "train": 0.755107504878093,
+      "validation": 0.9021870788474317,
+      "iterations": 300
+    },
+    {
+      "leaves": 6,
+      "train": 0.724399872267682,
+      "validation": 0.9131698267770909,
+      "iterations": 300
+    },
+    {
+      "leaves": 8,
+      "train": 0.7061834302014208,
+      "validation": 0.9214174032639476,
+      "iterations": 300
+    },
+    {
+      "leaves": 12,
+      "train": 0.6839463658056004,
+      "validation": 0.9233844721965978,
+      "iterations": 300
+    },
+    {
+      "leaves": 16,
+      "train": 0.6700935092484295,
+      "validation": 0.9325781207646661,
+      "iterations": 300
+    },
+    {
+      "leaves": 31,
+      "train": 0.6394202744220322,
+      "validation": 0.939702337922423,
+      "iterations": 300
+    },
+    {
+      "leaves": 63,
+      "train": 0.6230047227652035,
+      "validation": 0.938823377414297,
+      "iterations": 300
+    }
+  ],
+  "default_settings": {
+    "train": 0.6122247150837845,
+    "validation": 0.9292163944005096
+  },
+  "variance": {
+    "race": 0.2967326930886836,
+    "stint": 0.1917288457935427,
+    "lap": 0.42309389726647656,
+    "sum": 0.9115554361487028,
+    "residual_mse": 0.8139415252392619,
+    "residual_mean": 0.11374886112985731,
+    "share_race": 0.32552347484468,
+    "share_stint": 0.21033152586264192,
+    "share_lap": 0.4641449992926781,
+    "laps_per_driver_race": 43.06741573033708,
+    "driver_races": 356,
+    "design_effect": 14.69393134627508,
+    "effective_laps": 1043.423957733862,
+    "validation_laps": 15332
+  },
+  "race_time": {
+    "n": 60,
+    "implied_sd_s": 28.024532233798862,
+    "implied_mae_s": 22.259074324141167,
+    "observed_mae_s": 24.270705739103104,
+    "observed_rmse_s": 27.908648490870824,
+    "observed_bias_s": 2.20138514790029,
+    "z_sd": 1.0299621035520203,
+    "z_within_2": 0.9833333333333333
+  },
+  "pit_lap": {
+    "n": 182,
+    "mean_signed_laps": 4.285714285714286,
+    "share_later": 0.6648351648351648
+  },
+  "example": {
+    "event": "2025 Saudi Arabian Grand Prix",
+    "driver": "PIA",
+    "start_lap": 12,
+    "total_laps": 50,
+    "n_laps": 39,
+    "baseline_s": 93.8505,
+    "pit_loss_s": 21.91,
+    "start_compound": "MEDIUM",
+    "team": "MEDIUM -> lap 19 HARD",
+    "recommended": "MEDIUM -> lap 33 SOFT",
+    "team_pit_lap": 19,
+    "recommended_pit_lap": 33,
+    "one_stop_candidates": 90,
+    "two_stop_candidates": 702,
+    "valid_strategies": 497,
+    "valid_one_stop": 23,
+    "valid_two_stop": 474,
+    "within_2s_of_best": 15,
+    "within_5s_of_best": 23,
+    "gap_team_minus_best_s": 3.2206442266301565,
+    "noise_sd_best_s": 12.044608772981418,
+    "monte_carlo_sd_best_s": 11.883348876269894,
+    "sd_gap_s": 18.24009973129219,
+    "prob_best_faster_normal": 0.5700767005679296,
+    "prob_best_faster_monte_carlo": 0.57825
+  }
+}
