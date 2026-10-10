@@ -78,45 +78,11 @@ except ImportError:
 # =====================================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-MODEL_DIR = PROJECT_ROOT / "models"
-DATA_PATH = PROJECT_ROOT / "data" / "F1_2026_Synthetic_Dataset_Mode1.csv"
 
-REFERENCE_MODEL_PATH = MODEL_DIR / "reference_aero_model.pkl"
-
-INPUT_COLUMNS = [
-    "velocity_ms",
-    "flap_front_angle",
-    "flap_rear_angle",
-    "ride_height_front",
-    "ride_height_rear",
-    "battery_soc",
-]
-
-TARGET_COLUMNS = [
-    "cl_total",
-    "cd_total",
-    "cop_shift",
-    "energy_drain_kw",
-]
-
-SURROGATE_MODEL_FILES = {
-    "cl_total": "cl_model.pkl",
-    "cd_total": "cd_model.pkl",
-    "cop_shift": "cop_shift_model.pkl",
-    "energy_drain_kw": "energy_drain_kw_model.pkl",
-}
-
-# Same demonstration assumptions as Phase 8.
-AIR_DENSITY_KG_M3 = 1.225
-FRONTAL_AREA_M2 = 1.50
-VEHICLE_MASS_KG = 800.0
-ROLLING_RESISTANCE_COEFFICIENT = 0.015
-GRAVITY_M_S2 = 9.81
-
-TIME_STEP_S = 0.05
+# Vehicle parameters, equations, model loading and the simulation engine all
+# come from the Phase-8 module (loaded below), so the app cannot drift away
+# from the scripted simulator.
 DEFAULT_DURATION_S = 15.0
-MIN_VELOCITY_MS = 0.10
-BOUNDARY_EPSILON = 1e-9
 
 DEFAULTS = {
     "velocity_ms": 80.0,
@@ -163,12 +129,15 @@ st.markdown(
 
 
 # =====================================================================
-# Phase-8 compatibility import
+# Phase-8 simulation engine
 # =====================================================================
 
 @st.cache_resource(show_spinner=False)
 def load_core_module():
     """Load Phase-8 definitions without executing its main pipeline."""
+    if str(PROJECT_ROOT) not in sys.path:
+        sys.path.insert(0, str(PROJECT_ROOT))
+
     try:
         return importlib.import_module("08_vehicle_longitudinal_simulator")
     except Exception as exc:
@@ -178,30 +147,32 @@ def load_core_module():
         ) from exc
 
 
+try:
+    core = load_core_module()
+except Exception as exc:
+    st.error(str(exc))
+    st.stop()
+
+INPUT_COLUMNS = core.INPUT_COLUMNS
+TARGET_COLUMNS = core.TARGET_COLUMNS
+
+
 # =====================================================================
 # Cached model loading
 # =====================================================================
 
 @st.cache_resource(show_spinner="Loading aerodynamic models…")
-def load_models() -> tuple[Any, dict[str, Any], Any]:
+def load_models() -> tuple[Any, dict[str, Any]]:
     """
     Load Phase-7 reference model and Phase-5 surrogate models exactly once.
 
     Returns
     -------
-    reference_model, surrogate_models, core_module
+    reference_model, surrogate_models
     """
-    core = load_core_module()
-
-    # Phase 7 was executed as a standalone script, so its pickle records
-    # ReferenceAerodynamicModel as __main__.ReferenceAerodynamicModel.
-    # Under Streamlit, __main__ is this app module. Register the exact
-    # Phase-8-compatible class there before joblib attempts to unpickle.
-    setattr(sys.modules["__main__"], "ReferenceAerodynamicModel", core.ReferenceAerodynamicModel)
-
     reference_model = core.load_reference_model()
     surrogate_models = core.load_surrogate_models()
-    return reference_model, surrogate_models, core
+    return reference_model, surrogate_models
 
 
 # =====================================================================
@@ -218,71 +189,11 @@ def format_value(value: float, digits: int = 3) -> str:
     return f"{value:,.{digits}f}"
 
 
-def aerodynamic_forces(cd: float, cl: float, velocity_ms: float) -> tuple[float, float]:
-    """Calculate drag and downforce using the Phase-8 equations."""
-    dynamic_term = (
-        0.5
-        * AIR_DENSITY_KG_M3
-        * FRONTAL_AREA_M2
-        * velocity_ms**2
-    )
-    return float(dynamic_term * cd), float(dynamic_term * cl)
-
-
-def longitudinal_step(
-    velocity_ms: float,
-    drag_n: float,
-    downforce_n: float,
-) -> tuple[float, float, float]:
-    """Perform one semi-implicit Euler coast-down step."""
-    rolling_resistance_n = (
-        ROLLING_RESISTANCE_COEFFICIENT
-        * (
-            VEHICLE_MASS_KG * GRAVITY_M_S2
-            + downforce_n
-        )
-    )
-
-    acceleration_m_s2 = -(
-        drag_n + rolling_resistance_n
-    ) / VEHICLE_MASS_KG
-
-    new_velocity_ms = max(
-        0.0,
-        velocity_ms + acceleration_m_s2 * TIME_STEP_S,
-    )
-
-    return (
-        float(acceleration_m_s2),
-        float(new_velocity_ms),
-        float(rolling_resistance_n),
-    )
-
-
 def make_query(state: dict[str, float]) -> pd.DataFrame:
     """Create a one-row model query in the correct feature order."""
     return pd.DataFrame(
         [{column: float(state[column]) for column in INPUT_COLUMNS}]
     )
-
-
-def reference_predict(reference_model: Any, state: dict[str, float]) -> dict[str, float]:
-    """Predict all reference aerodynamic outputs for one state."""
-    query = make_query(state)
-    pred = reference_model.predict_dataframe(query, reject_outside=True).iloc[0]
-    return {target: float(pred[target]) for target in TARGET_COLUMNS}
-
-
-def surrogate_predict(
-    surrogate_models: dict[str, Any],
-    state: dict[str, float],
-) -> dict[str, float]:
-    """Predict all four aerodynamic outputs using the saved ML models."""
-    query = make_query(state)
-    outputs = {}
-    for target in TARGET_COLUMNS:
-        outputs[target] = float(surrogate_models[target].predict(query)[0])
-    return outputs
 
 
 def inside_observed_envelope(
@@ -357,147 +268,57 @@ def build_svg_car(
     """
 
 
-def simulate_path(
-    path_name: str,
+def build_control_schedule(
     reference_model: Any,
-    surrogate_models: dict[str, Any],
     initial_state: dict[str, float],
     duration_s: float,
     active_pulse: bool,
     high_flap_delta_deg: float = 15.0,
 ) -> pd.DataFrame:
-    """Run one interactive coast-down path using the Phase-8 dynamics."""
-    n_steps = int(round(duration_s / TIME_STEP_S)) + 1
-    times = np.arange(n_steps, dtype=float) * TIME_STEP_S
+    """
+    Build the control schedule for one interactive run.
+
+    The schedule has the same columns as the Phase-8 schedule, so the
+    Phase-8 simulation engine can run it unchanged.
+    """
+    n_steps = int(round(duration_s / core.TIME_STEP_S)) + 1
+    times = np.arange(n_steps, dtype=float) * core.TIME_STEP_S
 
     low_rear = float(initial_state["flap_rear_angle"])
-    observed_max_rear = float(reference_model.feature_max[INPUT_COLUMNS.index("flap_rear_angle")])
-    observed_min_velocity = float(reference_model.feature_min[INPUT_COLUMNS.index("velocity_ms")])
+    observed_max_rear = float(
+        reference_model.feature_max[INPUT_COLUMNS.index("flap_rear_angle")]
+    )
 
     high_rear = min(
         low_rear + high_flap_delta_deg,
         observed_max_rear,
     )
 
-    velocity_ms = float(initial_state["velocity_ms"])
-    distance_m = 0.0
-    rows: list[dict[str, float | str]] = []
+    if active_pulse:
+        rear_flap = np.where(
+            (times >= 5.0) & (times < 10.0),
+            high_rear,
+            low_rear,
+        )
+    else:
+        rear_flap = np.full(n_steps, low_rear)
 
-    for step_index, time_s in enumerate(times):
-        if active_pulse and 5.0 <= time_s < 10.0:
-            rear_flap = high_rear
-        else:
-            rear_flap = low_rear
-
-        state = {
-            "velocity_ms": velocity_ms,
-            "flap_front_angle": float(initial_state["flap_front_angle"]),
+    schedule = pd.DataFrame(
+        {
+            "time_s": times,
             "flap_rear_angle": rear_flap,
-            "ride_height_front": float(initial_state["ride_height_front"]),
-            "ride_height_rear": float(initial_state["ride_height_rear"]),
-            "battery_soc": float(initial_state["battery_soc"]),
         }
-
-        inside, outside = inside_observed_envelope(reference_model, state)
-        if not inside:
-            raise ValueError(
-                "Simulation reached the edge of the observed dataset domain. "
-                f"Outside variables: {', '.join(outside)}. "
-                f"Current state: {state}"
-            )
-
-        if path_name == "reference":
-            aero = reference_predict(reference_model, state)
-        else:
-            aero = surrogate_predict(surrogate_models, state)
-
-        drag_n, downforce_n = aerodynamic_forces(
-            aero["cd_total"],
-            aero["cl_total"],
-            velocity_ms,
-        )
-
-        acceleration, new_velocity, rolling_resistance = longitudinal_step(
-            velocity_ms,
-            drag_n,
-            downforce_n,
-        )
-
-        if step_index > 0:
-            distance_m += 0.5 * (velocity_ms + new_velocity) * TIME_STEP_S
-
-        rows.append(
-            {
-                "path": path_name,
-                "step": float(step_index),
-                "time_s": float(time_s),
-                "velocity_ms": velocity_ms,
-                "distance_m": distance_m,
-                "acceleration_m_s2": acceleration,
-                "flap_front_angle": state["flap_front_angle"],
-                "flap_rear_angle": state["flap_rear_angle"],
-                "ride_height_front": state["ride_height_front"],
-                "ride_height_rear": state["ride_height_rear"],
-                "battery_soc": state["battery_soc"],
-                "cl_total": aero["cl_total"],
-                "cd_total": aero["cd_total"],
-                "cop_shift": aero["cop_shift"],
-                "energy_drain_kw": aero["energy_drain_kw"],
-                "drag_force_N": drag_n,
-                "downforce_N": downforce_n,
-                "rolling_resistance_N": rolling_resistance,
-            }
-        )
-
-        velocity_ms = new_velocity
-
-        # The model is only valid inside the observed envelope. Stop before
-        # the next query would leave the available velocity domain.
-        if velocity_ms < observed_min_velocity - BOUNDARY_EPSILON:
-            break
-
-        if velocity_ms < MIN_VELOCITY_MS:
-            break
-
-    return pd.DataFrame(rows)
-
-
-def compare(reference: pd.DataFrame, surrogate: pd.DataFrame) -> pd.DataFrame:
-    """Join trajectories and compute surrogate-reference errors."""
-    merge_columns = [
-        "time_s",
-        "velocity_ms",
-        "distance_m",
-        "acceleration_m_s2",
-        "cl_total",
-        "cd_total",
-        "cop_shift",
-        "energy_drain_kw",
-        "drag_force_N",
-        "downforce_N",
-    ]
-
-    comparison = reference[merge_columns].merge(
-        surrogate[merge_columns],
-        on="time_s",
-        how="inner",
-        suffixes=("_reference", "_surrogate"),
     )
 
-    if comparison.empty:
-        raise ValueError("Reference and surrogate trajectories have no common times.")
+    for column in (
+        "flap_front_angle",
+        "ride_height_front",
+        "ride_height_rear",
+        "battery_soc",
+    ):
+        schedule[column] = float(initial_state[column])
 
-    for column in merge_columns[1:]:
-        comparison[f"{column}_error"] = (
-            comparison[f"{column}_surrogate"]
-            - comparison[f"{column}_reference"]
-        )
-
-    return comparison
-
-
-def trajectory_rmse(reference: np.ndarray, surrogate: np.ndarray) -> float:
-    return float(np.sqrt(np.mean((surrogate - reference) ** 2)))
+    return schedule
 
 
 def initial_dashboard_rows(
@@ -506,14 +327,14 @@ def initial_dashboard_rows(
     state: dict[str, float],
 ) -> tuple[dict[str, float], dict[str, float]]:
     """Get reference and ML values for the selected operating point."""
-    reference = reference_predict(reference_model, state)
-    surrogate = surrogate_predict(surrogate_models, state)
+    reference = core.reference_predict(reference_model, state)
+    surrogate = core.surrogate_predict(surrogate_models, state)
 
     for values in (reference, surrogate):
-        drag, downforce = aerodynamic_forces(
-            values["cd_total"],
-            values["cl_total"],
-            state["velocity_ms"],
+        drag, downforce = core.aerodynamic_forces(
+            cd=values["cd_total"],
+            cl=values["cl_total"],
+            velocity_ms=state["velocity_ms"],
         )
         values["drag_force_N"] = drag
         values["downforce_N"] = downforce
@@ -526,7 +347,7 @@ def initial_dashboard_rows(
 # =====================================================================
 
 try:
-    reference_model, surrogate_models, core = load_models()
+    reference_model, surrogate_models = load_models()
 except Exception as exc:
     st.error(str(exc))
     st.info(
@@ -626,7 +447,7 @@ duration = st.sidebar.slider(
 run_simulation = st.sidebar.button(
     "▶ Run simulation",
     type="primary",
-    use_container_width=True,
+    width="stretch",
 )
 
 
@@ -736,7 +557,7 @@ with right:
                 "ML - Reference": "{:+.4f}",
             }
         ),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
@@ -772,25 +593,32 @@ else:
     if run_simulation:
         with st.spinner("Running reference and ML-surrogate coast-down simulations…"):
             try:
-                reference_trajectory = simulate_path(
+                control_schedule = build_control_schedule(
+                    reference_model,
+                    simulation_state,
+                    simulation_duration,
+                    simulation_active_pulse,
+                )
+
+                reference_trajectory = core.simulate_path(
                     path_name="reference",
                     reference_model=reference_model,
                     surrogate_models=surrogate_models,
-                    initial_state=simulation_state,
-                    duration_s=simulation_duration,
-                    active_pulse=simulation_active_pulse,
+                    use_reference=True,
+                    control_schedule=control_schedule,
+                    initial_velocity_ms=simulation_state["velocity_ms"],
                 )
 
-                surrogate_trajectory = simulate_path(
+                surrogate_trajectory = core.simulate_path(
                     path_name="ml_surrogate",
                     reference_model=reference_model,
                     surrogate_models=surrogate_models,
-                    initial_state=simulation_state,
-                    duration_s=simulation_duration,
-                    active_pulse=simulation_active_pulse,
+                    use_reference=False,
+                    control_schedule=control_schedule,
+                    initial_velocity_ms=simulation_state["velocity_ms"],
                 )
 
-                comparison = compare(
+                comparison = core.compare_trajectories(
                     reference_trajectory,
                     surrogate_trajectory,
                 )
@@ -798,6 +626,14 @@ else:
                 st.session_state["reference_trajectory"] = reference_trajectory
                 st.session_state["surrogate_trajectory"] = surrogate_trajectory
                 st.session_state["comparison"] = comparison
+                st.session_state["stop_reasons"] = [
+                    f"{label}: {trajectory.attrs['stop_reason']}"
+                    for label, trajectory in (
+                        ("Reference", reference_trajectory),
+                        ("ML surrogate", surrogate_trajectory),
+                    )
+                    if trajectory.attrs.get("stop_reason")
+                ]
             except Exception as exc:
                 st.error(f"Simulation could not be completed: {exc}")
                 st.stop()
@@ -810,26 +646,34 @@ else:
         st.info("Press **Run simulation** to generate the trajectory comparison.")
         st.stop()
 
+    stop_reasons = st.session_state.get("stop_reasons", [])
+
+    if stop_reasons:
+        st.warning(
+            "The run ended before the requested duration. "
+            + " ".join(f"{reason}." for reason in stop_reasons)
+        )
+
     # -----------------------------------------------------------------
     # Headline trajectory metrics
     # -----------------------------------------------------------------
-    speed_rmse = trajectory_rmse(
+    speed_rmse = core.rmse(
         comparison["velocity_ms_reference"].to_numpy(),
         comparison["velocity_ms_surrogate"].to_numpy(),
     )
-    distance_rmse = trajectory_rmse(
+    distance_rmse = core.rmse(
         comparison["distance_m_reference"].to_numpy(),
         comparison["distance_m_surrogate"].to_numpy(),
     )
-    cl_rmse = trajectory_rmse(
+    cl_rmse = core.rmse(
         comparison["cl_total_reference"].to_numpy(),
         comparison["cl_total_surrogate"].to_numpy(),
     )
-    cd_rmse = trajectory_rmse(
+    cd_rmse = core.rmse(
         comparison["cd_total_reference"].to_numpy(),
         comparison["cd_total_surrogate"].to_numpy(),
     )
-    downforce_rmse = trajectory_rmse(
+    downforce_rmse = core.rmse(
         comparison["downforce_N_reference"].to_numpy(),
         comparison["downforce_N_surrogate"].to_numpy(),
     )
@@ -913,7 +757,7 @@ else:
         fig.update_yaxes(title_text="Distance (m)", row=2, col=1)
         fig.update_xaxes(title_text="Time (s)", row=2, col=1)
         fig.update_layout(height=620, hovermode="x unified")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         final_speed_ref = float(comparison["velocity_ms_reference"].iloc[-1])
         final_speed_ml = float(comparison["velocity_ms_surrogate"].iloc[-1])
@@ -1028,7 +872,7 @@ else:
         fig.update_yaxes(title_text="Force (N)", row=2, col=1)
         fig.update_xaxes(title_text="Time (s)", row=2, col=1)
         fig.update_layout(height=680, hovermode="x unified")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         st.markdown("**Cl–Cd trade-off during the simulated run**")
         fig_trade = go.Figure()
@@ -1056,7 +900,7 @@ else:
             yaxis_title="Cl",
             hovermode="closest",
         )
-        st.plotly_chart(fig_trade, use_container_width=True)
+        st.plotly_chart(fig_trade, width="stretch")
 
     with tab3:
         error_fig = go.Figure()
@@ -1075,7 +919,7 @@ else:
             yaxis_title="ML − Reference speed (m/s)",
             hovermode="x unified",
         )
-        st.plotly_chart(error_fig, use_container_width=True)
+        st.plotly_chart(error_fig, width="stretch")
 
         error_table = pd.DataFrame(
             {
@@ -1091,36 +935,36 @@ else:
                     "Downforce",
                 ],
                 "RMSE": [
-                    trajectory_rmse(comparison["velocity_ms_reference"].to_numpy(), comparison["velocity_ms_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["distance_m_reference"].to_numpy(), comparison["distance_m_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["acceleration_m_s2_reference"].to_numpy(), comparison["acceleration_m_s2_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["cl_total_reference"].to_numpy(), comparison["cl_total_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["cd_total_reference"].to_numpy(), comparison["cd_total_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["cop_shift_reference"].to_numpy(), comparison["cop_shift_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["energy_drain_kw_reference"].to_numpy(), comparison["energy_drain_kw_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["drag_force_N_reference"].to_numpy(), comparison["drag_force_N_surrogate"].to_numpy()),
-                    trajectory_rmse(comparison["downforce_N_reference"].to_numpy(), comparison["downforce_N_surrogate"].to_numpy()),
+                    core.rmse(comparison["velocity_ms_reference"].to_numpy(), comparison["velocity_ms_surrogate"].to_numpy()),
+                    core.rmse(comparison["distance_m_reference"].to_numpy(), comparison["distance_m_surrogate"].to_numpy()),
+                    core.rmse(comparison["acceleration_m_s2_reference"].to_numpy(), comparison["acceleration_m_s2_surrogate"].to_numpy()),
+                    core.rmse(comparison["cl_total_reference"].to_numpy(), comparison["cl_total_surrogate"].to_numpy()),
+                    core.rmse(comparison["cd_total_reference"].to_numpy(), comparison["cd_total_surrogate"].to_numpy()),
+                    core.rmse(comparison["cop_shift_reference"].to_numpy(), comparison["cop_shift_surrogate"].to_numpy()),
+                    core.rmse(comparison["energy_drain_kw_reference"].to_numpy(), comparison["energy_drain_kw_surrogate"].to_numpy()),
+                    core.rmse(comparison["drag_force_N_reference"].to_numpy(), comparison["drag_force_N_surrogate"].to_numpy()),
+                    core.rmse(comparison["downforce_N_reference"].to_numpy(), comparison["downforce_N_surrogate"].to_numpy()),
                 ],
             }
         )
         st.dataframe(
             error_table.style.format({"RMSE": "{:.6f}"}),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
     with tab4:
         st.write("Reference trajectory")
-        st.dataframe(reference_trajectory, use_container_width=True, hide_index=True)
+        st.dataframe(reference_trajectory, width="stretch", hide_index=True)
         st.write("ML-surrogate trajectory")
-        st.dataframe(surrogate_trajectory, use_container_width=True, hide_index=True)
+        st.dataframe(surrogate_trajectory, width="stretch", hide_index=True)
 
         st.download_button(
             "Download comparison CSV",
             comparison.to_csv(index=False).encode("utf-8"),
             file_name="interactive_reference_vs_ml_comparison.csv",
             mime="text/csv",
-            use_container_width=False,
+            width="content",
         )
 
 

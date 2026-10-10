@@ -1,0 +1,944 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,1,105.222,1.0,MEDIUM,1.0,True,1,False,False,False,13.0,25.9,31.6,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,2,97.68,1.0,MEDIUM,2.0,True,1,True,False,False,13.0,26.0,31.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,3,96.526,1.0,MEDIUM,3.0,True,1,True,False,False,13.0,26.0,32.2,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,4,96.503,1.0,MEDIUM,4.0,True,1,True,False,False,12.0,26.0,31.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,5,95.359,1.0,MEDIUM,5.0,True,1,True,False,False,11.0,26.2,31.6,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,6,95.84,1.0,MEDIUM,6.0,True,1,True,False,False,11.0,26.3,31.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,7,95.687,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,26.4,31.6,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,8,95.129,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,26.4,31.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,9,95.561,1.0,MEDIUM,9.0,True,1,True,False,False,9.0,26.3,31.6,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,10,95.443,1.0,MEDIUM,10.0,True,1,True,False,False,9.0,26.4,31.4,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,11,95.306,1.0,MEDIUM,11.0,True,1,True,False,False,9.0,26.4,31.4,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,12,94.848,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,26.3,31.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,13,95.183,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,26.3,31.4,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,14,94.2,1.0,MEDIUM,14.0,True,1,True,False,False,6.0,26.3,31.4,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,15,94.499,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,26.3,31.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,16,94.443,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,26.2,31.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,17,93.79,1.0,MEDIUM,17.0,True,12,True,False,False,4.0,26.2,31.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,18,134.348,1.0,MEDIUM,18.0,True,24,False,True,False,4.0,26.2,31.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,19,,2.0,HARD,1.0,True,4,False,False,True,4.0,26.1,31.2,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,20,,2.0,HARD,2.0,True,41,False,False,False,4.0,26.0,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,21,96.946,2.0,HARD,3.0,True,1,True,False,False,4.0,26.0,31.1,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,22,94.973,2.0,HARD,4.0,True,1,True,False,False,4.0,26.0,30.9,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,23,94.115,2.0,HARD,5.0,True,1,True,False,False,3.0,26.0,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,24,94.146,2.0,HARD,6.0,True,1,True,False,False,3.0,26.1,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,25,92.933,2.0,HARD,7.0,True,1,True,False,False,2.0,26.1,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,26,92.94,2.0,HARD,8.0,True,1,True,False,False,2.0,26.1,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,27,92.838,2.0,HARD,9.0,True,1,True,False,False,2.0,26.2,30.9,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,28,92.869,2.0,HARD,10.0,True,1,True,False,False,2.0,26.2,31.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,29,92.67,2.0,HARD,11.0,True,1,True,False,False,2.0,26.3,31.1,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,30,92.877,2.0,HARD,12.0,True,1,True,False,False,2.0,26.3,31.1,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,31,92.382,2.0,HARD,13.0,True,1,True,False,False,2.0,26.3,30.6,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,32,92.4,2.0,HARD,14.0,True,1,True,False,False,2.0,26.3,30.9,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,33,92.387,2.0,HARD,15.0,True,1,True,False,False,2.0,26.3,30.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,34,92.341,2.0,HARD,16.0,True,1,True,False,False,2.0,26.3,30.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,35,92.249,2.0,HARD,17.0,True,1,True,False,False,2.0,26.2,30.8,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,36,92.384,2.0,HARD,18.0,True,1,True,False,False,2.0,26.3,30.4,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,37,92.496,2.0,HARD,19.0,True,1,True,False,False,2.0,26.2,30.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,38,93.123,2.0,HARD,20.0,True,1,True,False,False,2.0,26.1,30.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,39,92.432,2.0,HARD,21.0,True,1,True,False,False,2.0,26.0,30.7,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,40,92.606,2.0,HARD,22.0,True,1,True,False,False,2.0,26.0,30.2,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,41,92.638,2.0,HARD,23.0,True,1,True,False,False,2.0,26.0,30.2,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,42,92.274,2.0,HARD,24.0,True,1,True,False,False,2.0,26.0,30.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,43,92.343,2.0,HARD,25.0,True,1,True,False,False,2.0,26.0,30.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,44,92.848,2.0,HARD,26.0,True,1,True,False,False,2.0,25.9,30.5,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,45,92.968,2.0,HARD,27.0,True,1,True,False,False,2.0,26.0,30.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,46,93.148,2.0,HARD,28.0,True,1,True,False,False,2.0,26.0,30.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,47,93.238,2.0,HARD,29.0,True,1,True,False,False,2.0,26.0,30.3,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,48,93.607,2.0,HARD,30.0,True,1,True,False,False,2.0,26.0,30.2,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,49,93.835,2.0,HARD,31.0,True,1,True,False,False,2.0,26.0,30.1,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,VER,Red Bull Racing,50,91.906,2.0,HARD,32.0,True,1,True,False,False,2.0,26.0,30.0,False,15.0,2.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,1,102.172,1.0,MEDIUM,1.0,True,1,False,False,False,8.0,25.9,31.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,2,97.056,1.0,MEDIUM,2.0,True,1,True,False,False,8.0,26.0,31.7,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,3,96.044,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,26.0,32.2,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,4,96.291,1.0,MEDIUM,4.0,True,1,True,False,False,8.0,26.0,31.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,5,95.973,1.0,MEDIUM,5.0,True,1,True,False,False,8.0,26.2,31.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,6,95.837,1.0,MEDIUM,6.0,True,1,True,False,False,8.0,26.3,31.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,7,97.137,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,26.4,31.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,8,96.645,1.0,MEDIUM,8.0,True,1,True,False,False,9.0,26.4,31.7,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,9,96.549,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,26.3,31.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,10,96.262,1.0,MEDIUM,10.0,True,1,True,False,False,10.0,26.4,31.4,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,11,96.022,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,26.3,31.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,12,96.128,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,26.3,31.7,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,13,96.17,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,26.3,31.4,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,14,98.551,1.0,MEDIUM,14.0,True,1,False,True,False,9.0,26.3,31.4,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,15,113.128,2.0,HARD,1.0,True,1,False,False,True,14.0,26.3,31.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,16,95.536,2.0,HARD,2.0,True,1,True,False,False,14.0,26.2,31.4,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,17,107.735,2.0,HARD,3.0,True,124,False,False,False,13.0,26.2,31.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,18,135.212,2.0,HARD,4.0,True,4,False,False,False,11.0,26.2,31.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,19,132.712,2.0,HARD,5.0,True,4,False,False,False,10.0,26.1,31.2,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,20,,2.0,HARD,6.0,True,41,False,False,False,10.0,26.0,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,21,98.374,2.0,HARD,7.0,True,1,True,False,False,10.0,26.0,31.1,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,22,96.576,2.0,HARD,8.0,True,1,True,False,False,10.0,26.0,30.9,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,23,95.918,2.0,HARD,9.0,True,1,True,False,False,10.0,26.0,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,24,95.322,2.0,HARD,10.0,True,1,True,False,False,10.0,26.1,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,25,95.27,2.0,HARD,11.0,True,1,True,False,False,9.0,26.1,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,26,95.105,2.0,HARD,12.0,True,1,True,False,False,9.0,26.1,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,27,95.0,2.0,HARD,13.0,True,1,True,False,False,9.0,26.2,30.9,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,28,94.65,2.0,HARD,14.0,True,1,True,False,False,9.0,26.2,31.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,29,94.601,2.0,HARD,15.0,True,1,True,False,False,9.0,26.3,31.1,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,30,94.869,2.0,HARD,16.0,True,1,True,False,False,9.0,26.3,30.9,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,31,94.735,2.0,HARD,17.0,True,1,True,False,False,9.0,26.3,30.6,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,32,94.626,2.0,HARD,18.0,True,1,True,False,False,9.0,26.3,30.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,33,94.516,2.0,HARD,19.0,True,1,True,False,False,9.0,26.3,30.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,34,94.394,2.0,HARD,20.0,True,1,True,False,False,9.0,26.3,30.7,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,35,94.5,2.0,HARD,21.0,True,1,True,False,False,9.0,26.2,30.8,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,36,94.436,2.0,HARD,22.0,True,1,True,False,False,9.0,26.2,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,37,94.289,2.0,HARD,23.0,True,1,True,False,False,9.0,26.1,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,38,94.355,2.0,HARD,24.0,True,1,True,False,False,9.0,26.1,30.7,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,39,93.929,2.0,HARD,25.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,40,94.11,2.0,HARD,26.0,True,1,True,False,False,9.0,26.0,30.2,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,41,93.829,2.0,HARD,27.0,True,1,True,False,False,9.0,26.0,30.1,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,42,93.96,2.0,HARD,28.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,43,94.026,2.0,HARD,29.0,True,1,True,False,False,9.0,25.9,30.5,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,44,94.131,2.0,HARD,30.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,45,93.82,2.0,HARD,31.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,46,94.068,2.0,HARD,32.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,47,93.81,2.0,HARD,33.0,True,1,True,False,False,9.0,26.0,30.2,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,48,93.624,2.0,HARD,34.0,True,1,True,False,False,9.0,26.0,30.3,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,49,93.614,2.0,HARD,35.0,True,1,True,False,False,9.0,26.0,30.1,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,GAS,Alpine,50,93.392,2.0,HARD,36.0,True,1,True,False,False,9.0,25.9,30.0,False,9.0,9.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,1,97.257,1.0,MEDIUM,1.0,True,1,False,False,False,2.0,25.9,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,2,95.906,1.0,MEDIUM,2.0,True,1,True,False,False,2.0,26.0,31.7,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,3,94.829,1.0,MEDIUM,3.0,True,1,True,False,False,2.0,26.0,32.2,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,4,95.651,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,26.0,31.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,5,94.873,1.0,MEDIUM,5.0,True,1,True,False,False,1.0,26.2,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,6,94.621,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,26.3,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,7,94.277,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,26.4,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,8,94.477,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,26.4,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,9,94.255,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,26.3,31.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,10,94.106,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,26.4,31.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,11,94.075,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,26.4,31.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,12,94.16,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,26.3,31.7,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,13,94.263,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,26.3,31.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,14,94.409,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,26.3,31.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,15,94.392,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,26.3,31.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,16,94.19,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,26.2,31.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,17,93.961,1.0,MEDIUM,17.0,True,12,True,False,False,1.0,26.2,31.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,18,127.357,1.0,MEDIUM,18.0,True,24,False,True,False,1.0,26.3,31.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,19,,2.0,HARD,1.0,True,4,False,False,True,1.0,26.2,31.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,20,,2.0,HARD,2.0,True,41,False,False,False,1.0,26.1,31.1,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,21,94.557,2.0,HARD,3.0,True,1,True,False,False,1.0,26.0,31.1,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,22,93.895,2.0,HARD,4.0,True,1,True,False,False,1.0,26.0,30.9,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,23,93.464,2.0,HARD,5.0,True,1,True,False,False,1.0,26.0,31.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,24,93.44,2.0,HARD,6.0,True,1,True,False,False,1.0,26.1,31.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,25,93.426,2.0,HARD,7.0,True,1,True,False,False,1.0,26.1,31.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,26,93.072,2.0,HARD,8.0,True,1,True,False,False,1.0,26.1,31.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,27,92.891,2.0,HARD,9.0,True,1,True,False,False,1.0,26.2,30.9,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,28,93.025,2.0,HARD,10.0,True,1,True,False,False,1.0,26.2,31.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,29,92.726,2.0,HARD,11.0,True,1,True,False,False,1.0,26.3,31.1,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,30,92.726,2.0,HARD,12.0,True,1,True,False,False,1.0,26.3,31.1,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,31,92.554,2.0,HARD,13.0,True,1,True,False,False,1.0,26.3,30.6,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,32,92.498,2.0,HARD,14.0,True,1,True,False,False,1.0,26.3,30.9,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,33,92.55,2.0,HARD,15.0,True,1,True,False,False,1.0,26.3,30.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,34,92.294,2.0,HARD,16.0,True,1,True,False,False,1.0,26.3,30.7,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,35,92.68,2.0,HARD,17.0,True,1,True,False,False,1.0,26.2,30.8,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,36,92.292,2.0,HARD,18.0,True,1,True,False,False,1.0,26.3,30.4,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,37,92.638,2.0,HARD,19.0,True,1,True,False,False,1.0,26.2,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,38,92.188,2.0,HARD,20.0,True,1,True,False,False,1.0,26.1,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,39,93.19,2.0,HARD,21.0,True,1,True,False,False,1.0,26.0,30.7,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,40,92.83,2.0,HARD,22.0,True,1,True,False,False,1.0,26.0,30.2,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,41,92.637,2.0,HARD,23.0,True,1,True,False,False,1.0,26.0,30.2,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,42,92.235,2.0,HARD,24.0,True,1,True,False,False,1.0,26.0,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,43,92.308,2.0,HARD,25.0,True,1,True,False,False,1.0,26.0,30.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,44,92.267,2.0,HARD,26.0,True,1,True,False,False,1.0,25.9,30.5,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,45,92.419,2.0,HARD,27.0,True,1,True,False,False,1.0,26.0,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,46,92.933,2.0,HARD,28.0,True,1,True,False,False,1.0,26.0,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,47,92.895,2.0,HARD,29.0,True,1,True,False,False,1.0,26.0,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,48,93.075,2.0,HARD,30.0,True,1,True,False,False,1.0,26.0,30.2,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,49,93.306,2.0,HARD,31.0,True,1,True,False,False,1.0,26.0,30.3,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PER,Red Bull Racing,50,93.691,2.0,HARD,32.0,True,1,True,False,False,1.0,26.0,30.0,False,1.0,1.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,1,96.851,1.0,MEDIUM,1.0,True,1,False,False,False,1.0,25.9,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,2,95.567,1.0,MEDIUM,2.0,True,1,True,False,False,1.0,26.0,31.7,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,3,95.14,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,26.0,32.2,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,4,96.664,1.0,MEDIUM,4.0,True,1,True,False,False,2.0,26.0,31.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,5,94.92,1.0,MEDIUM,5.0,True,1,True,False,False,2.0,26.2,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,6,94.658,1.0,MEDIUM,6.0,True,1,True,False,False,2.0,26.3,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,7,94.422,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,26.4,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,8,94.398,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,26.4,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,9,94.4,1.0,MEDIUM,9.0,True,1,True,False,False,2.0,26.3,31.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,10,94.835,1.0,MEDIUM,10.0,True,1,True,False,False,2.0,26.4,31.4,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,11,94.982,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,26.4,31.4,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,12,94.927,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,26.3,31.7,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,13,94.918,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,26.3,31.4,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,14,94.837,1.0,MEDIUM,14.0,True,1,True,False,False,2.0,26.3,31.4,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,15,94.717,1.0,MEDIUM,15.0,True,1,True,False,False,2.0,26.3,31.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,16,94.842,1.0,MEDIUM,16.0,True,1,True,False,False,2.0,26.2,31.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,17,94.595,1.0,MEDIUM,17.0,True,12,True,False,False,2.0,26.2,31.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,18,129.623,1.0,MEDIUM,18.0,True,24,False,True,False,2.0,26.3,31.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,19,,2.0,HARD,2.0,False,4,False,False,True,2.0,26.2,31.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,20,,2.0,HARD,3.0,False,41,False,False,False,2.0,26.0,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,21,96.033,2.0,HARD,4.0,False,1,True,False,False,2.0,26.0,31.1,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,22,94.738,2.0,HARD,5.0,False,1,True,False,False,2.0,26.0,30.9,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,23,94.771,2.0,HARD,6.0,False,1,True,False,False,2.0,26.0,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,24,94.836,2.0,HARD,7.0,False,1,True,False,False,2.0,26.1,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,25,94.136,2.0,HARD,8.0,False,1,True,False,False,3.0,26.1,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,26,94.119,2.0,HARD,9.0,False,1,True,False,False,3.0,26.1,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,27,94.246,2.0,HARD,10.0,False,1,True,False,False,3.0,26.2,30.9,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,28,94.062,2.0,HARD,11.0,False,1,True,False,False,3.0,26.2,31.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,29,93.988,2.0,HARD,12.0,False,1,True,False,False,3.0,26.3,31.1,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,30,93.654,2.0,HARD,13.0,False,1,True,False,False,3.0,26.3,31.1,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,31,93.605,2.0,HARD,14.0,False,1,True,False,False,3.0,26.3,30.6,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,32,93.401,2.0,HARD,15.0,False,1,True,False,False,3.0,26.3,30.9,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,33,93.337,2.0,HARD,16.0,False,1,True,False,False,3.0,26.3,30.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,34,93.22,2.0,HARD,17.0,False,1,True,False,False,3.0,26.3,30.7,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,35,93.514,2.0,HARD,18.0,False,1,True,False,False,3.0,26.2,30.8,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,36,93.323,2.0,HARD,19.0,False,1,True,False,False,3.0,26.2,30.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,37,93.175,2.0,HARD,20.0,False,1,True,False,False,3.0,26.2,30.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,38,93.174,2.0,HARD,21.0,False,1,True,False,False,3.0,26.1,30.7,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,39,93.249,2.0,HARD,22.0,False,1,True,False,False,3.0,26.0,30.7,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,40,92.768,2.0,HARD,23.0,False,1,True,False,False,3.0,26.0,30.2,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,41,93.127,2.0,HARD,24.0,False,1,True,False,False,3.0,26.0,30.2,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,42,93.156,2.0,HARD,25.0,False,1,True,False,False,3.0,26.0,30.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,43,93.207,2.0,HARD,26.0,False,1,True,False,False,3.0,25.9,30.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,44,93.189,2.0,HARD,27.0,False,1,True,False,False,3.0,25.9,30.5,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,45,93.075,2.0,HARD,28.0,False,1,True,False,False,3.0,26.0,30.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,46,92.979,2.0,HARD,29.0,False,1,True,False,False,3.0,26.0,30.3,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,47,92.887,2.0,HARD,30.0,False,1,True,False,False,3.0,26.0,30.2,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,48,92.802,2.0,HARD,31.0,False,1,True,False,False,3.0,26.0,30.2,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,49,92.815,2.0,HARD,32.0,False,1,True,False,False,3.0,26.0,30.1,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALO,Aston Martin,50,92.24,2.0,HARD,33.0,False,1,True,False,False,3.0,26.0,30.0,False,2.0,3.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,1,103.306,1.0,SOFT,1.0,True,1,False,False,False,9.0,25.9,31.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,2,96.907,1.0,SOFT,2.0,True,1,True,False,False,9.0,26.0,31.7,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,3,95.825,1.0,SOFT,3.0,True,1,True,False,False,9.0,26.0,32.2,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,4,95.871,1.0,SOFT,4.0,True,1,True,False,False,9.0,26.0,31.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,5,96.275,1.0,SOFT,5.0,True,1,True,False,False,9.0,26.2,31.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,6,95.347,1.0,SOFT,6.0,True,1,True,False,False,9.0,26.3,31.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,7,96.117,1.0,SOFT,7.0,True,1,True,False,False,8.0,26.4,31.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,8,95.858,1.0,SOFT,8.0,True,1,True,False,False,8.0,26.4,31.7,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,9,95.364,1.0,SOFT,9.0,True,1,True,False,False,7.0,26.3,31.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,10,95.612,1.0,SOFT,10.0,True,1,True,False,False,7.0,26.4,31.4,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,11,95.125,1.0,SOFT,11.0,True,1,True,False,False,7.0,26.4,31.4,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,12,95.438,1.0,SOFT,12.0,True,1,True,False,False,7.0,26.3,31.7,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,13,95.226,1.0,SOFT,13.0,True,1,True,False,False,6.0,26.3,31.4,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,14,94.609,1.0,SOFT,14.0,True,1,True,False,False,5.0,26.3,31.4,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,15,95.071,1.0,SOFT,15.0,True,1,True,False,False,5.0,26.3,31.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,16,97.681,1.0,SOFT,16.0,True,1,False,True,False,5.0,26.2,31.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,17,119.434,2.0,HARD,1.0,True,124,False,False,True,8.0,26.2,31.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,18,134.267,2.0,HARD,2.0,True,4,False,False,False,7.0,26.2,31.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,19,143.866,2.0,HARD,3.0,True,4,False,False,False,7.0,26.1,31.2,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,20,,2.0,HARD,4.0,True,41,False,False,False,7.0,26.0,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,21,98.031,2.0,HARD,5.0,True,1,True,False,False,7.0,26.0,31.1,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,22,95.7,2.0,HARD,6.0,True,1,True,False,False,7.0,26.0,30.9,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,23,94.853,2.0,HARD,7.0,True,1,True,False,False,7.0,26.0,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,24,95.403,2.0,HARD,8.0,True,1,True,False,False,7.0,26.1,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,25,94.742,2.0,HARD,9.0,True,1,True,False,False,7.0,26.1,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,26,94.432,2.0,HARD,10.0,True,1,True,False,False,7.0,26.1,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,27,94.681,2.0,HARD,11.0,True,1,True,False,False,7.0,26.2,30.9,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,28,94.886,2.0,HARD,12.0,True,1,True,False,False,7.0,26.2,31.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,29,94.321,2.0,HARD,13.0,True,1,True,False,False,7.0,26.3,31.1,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,30,94.334,2.0,HARD,14.0,True,1,True,False,False,7.0,26.3,31.1,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,31,94.082,2.0,HARD,15.0,True,1,True,False,False,7.0,26.3,30.6,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,32,94.701,2.0,HARD,16.0,True,1,True,False,False,7.0,26.3,30.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,33,93.787,2.0,HARD,17.0,True,1,True,False,False,7.0,26.3,30.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,34,93.716,2.0,HARD,18.0,True,1,True,False,False,7.0,26.3,30.7,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,35,94.341,2.0,HARD,19.0,True,1,True,False,False,7.0,26.2,30.8,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,36,93.749,2.0,HARD,20.0,True,1,True,False,False,7.0,26.2,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,37,93.839,2.0,HARD,21.0,True,1,True,False,False,7.0,26.2,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,38,93.713,2.0,HARD,22.0,True,1,True,False,False,7.0,26.1,30.7,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,39,93.479,2.0,HARD,23.0,True,1,True,False,False,7.0,26.0,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,40,93.569,2.0,HARD,24.0,True,1,True,False,False,7.0,26.0,30.2,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,41,93.155,2.0,HARD,25.0,True,1,True,False,False,7.0,26.0,30.1,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,42,93.384,2.0,HARD,26.0,True,1,True,False,False,7.0,26.0,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,43,93.447,2.0,HARD,27.0,True,1,True,False,False,7.0,25.9,30.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,44,93.322,2.0,HARD,28.0,True,1,True,False,False,7.0,25.9,30.5,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,45,93.238,2.0,HARD,29.0,True,1,True,False,False,7.0,26.0,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,46,93.419,2.0,HARD,30.0,True,1,True,False,False,7.0,26.0,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,47,93.056,2.0,HARD,31.0,True,1,True,False,False,7.0,26.0,30.2,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,48,94.119,2.0,HARD,32.0,True,1,True,False,False,7.0,26.0,30.3,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,49,93.942,2.0,HARD,33.0,True,1,True,False,False,7.0,26.0,30.1,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,LEC,Ferrari,50,96.267,2.0,HARD,34.0,True,1,True,False,False,7.0,25.9,30.0,False,12.0,7.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,1,99.093,1.0,MEDIUM,1.0,True,1,False,False,False,4.0,25.9,31.6,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,2,96.324,1.0,MEDIUM,2.0,True,1,True,False,False,4.0,26.0,31.7,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,3,95.239,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,26.0,32.2,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,4,95.56,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,26.0,31.5,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,5,95.471,1.0,MEDIUM,5.0,True,1,True,False,False,4.0,26.2,31.6,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,6,95.551,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,26.3,31.6,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,7,95.14,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,26.4,31.6,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,8,95.616,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,26.4,31.7,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,9,96.118,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,26.3,31.6,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,10,95.443,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,26.4,31.4,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,11,95.512,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,26.4,31.4,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,12,96.522,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,26.3,31.7,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,13,98.543,1.0,MEDIUM,13.0,True,1,False,True,False,5.0,26.3,31.4,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,14,114.305,2.0,HARD,2.0,False,1,False,False,True,11.0,26.3,31.4,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,15,96.262,2.0,HARD,3.0,False,1,True,False,False,10.0,26.3,31.3,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,16,96.485,2.0,HARD,4.0,False,1,True,False,False,10.0,26.2,31.4,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,STR,Aston Martin,17,,2.0,HARD,5.0,False,124,False,False,False,,26.2,31.5,False,5.0,20.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,1,107.264,1.0,HARD,1.0,True,1,False,False,False,20.0,25.9,31.6,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,2,99.426,1.0,HARD,2.0,True,1,True,False,False,17.0,26.0,31.7,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,3,96.997,1.0,HARD,3.0,True,1,True,False,False,17.0,26.0,32.2,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,4,96.844,1.0,HARD,4.0,True,1,True,False,False,17.0,26.0,31.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,5,96.881,1.0,HARD,5.0,True,1,True,False,False,17.0,26.2,31.6,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,6,97.043,1.0,HARD,6.0,True,1,True,False,False,17.0,26.3,31.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,7,97.282,1.0,HARD,7.0,True,1,True,False,False,17.0,26.4,31.6,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,8,98.259,1.0,HARD,8.0,True,1,True,False,False,18.0,26.4,31.7,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,9,97.159,1.0,HARD,9.0,True,1,True,False,False,16.0,26.4,31.6,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,10,96.757,1.0,HARD,10.0,True,1,True,False,False,16.0,26.4,31.4,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,11,96.735,1.0,HARD,11.0,True,1,True,False,False,16.0,26.3,31.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,12,96.645,1.0,HARD,12.0,True,1,True,False,False,14.0,26.3,31.7,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,13,96.126,1.0,HARD,13.0,True,1,True,False,False,14.0,26.3,31.4,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,14,96.434,1.0,HARD,14.0,True,1,True,False,False,14.0,26.3,31.4,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,15,96.19,1.0,HARD,15.0,True,1,True,False,False,13.0,26.3,31.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,16,96.154,1.0,HARD,16.0,True,1,True,False,False,13.0,26.2,31.4,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,17,107.279,1.0,HARD,17.0,True,124,False,False,False,10.0,26.2,31.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,18,136.225,1.0,HARD,18.0,True,4,False,True,False,10.0,26.2,31.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,19,142.638,2.0,MEDIUM,1.0,True,4,False,False,True,15.0,26.1,31.2,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,20,144.92,2.0,MEDIUM,2.0,True,41,False,False,False,15.0,26.0,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,21,98.699,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,26.0,31.1,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,22,97.11,2.0,MEDIUM,4.0,True,1,True,False,False,14.0,26.0,30.9,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,23,95.822,2.0,MEDIUM,5.0,True,1,True,False,False,14.0,26.0,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,24,95.557,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,26.1,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,25,95.738,2.0,MEDIUM,7.0,True,1,True,False,False,14.0,26.1,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,26,96.912,2.0,MEDIUM,8.0,True,1,True,False,False,13.0,26.1,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,27,95.604,2.0,MEDIUM,9.0,True,1,True,False,False,13.0,26.2,30.9,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,28,95.208,2.0,MEDIUM,10.0,True,1,True,False,False,13.0,26.2,31.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,29,94.738,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,26.3,31.1,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,30,96.407,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,26.3,30.9,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,31,95.039,2.0,MEDIUM,13.0,True,1,True,False,False,13.0,26.3,30.6,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,32,95.314,2.0,MEDIUM,14.0,True,1,True,False,False,13.0,26.3,30.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,33,95.325,2.0,MEDIUM,15.0,True,1,True,False,False,13.0,26.3,30.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,34,95.069,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,26.3,30.7,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,35,95.523,2.0,MEDIUM,17.0,True,1,True,False,False,13.0,26.3,30.4,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,36,95.534,2.0,MEDIUM,18.0,True,1,True,False,False,13.0,26.2,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,37,95.437,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,26.1,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,38,96.144,2.0,MEDIUM,20.0,True,1,True,False,False,14.0,26.1,30.7,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,39,95.718,2.0,MEDIUM,21.0,True,1,True,False,False,14.0,26.0,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,40,95.18,2.0,MEDIUM,22.0,True,1,True,False,False,14.0,26.0,30.2,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,41,95.974,2.0,MEDIUM,23.0,True,1,True,False,False,16.0,26.0,30.1,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,42,95.92,2.0,MEDIUM,24.0,True,1,True,False,False,15.0,26.0,30.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,43,95.229,2.0,MEDIUM,25.0,True,1,True,False,False,15.0,25.9,30.5,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,44,94.905,2.0,MEDIUM,26.0,True,1,True,False,False,15.0,26.0,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,45,95.13,2.0,MEDIUM,27.0,True,1,True,False,False,15.0,26.0,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,46,94.569,2.0,MEDIUM,28.0,True,1,True,False,False,15.0,26.0,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,47,94.896,2.0,MEDIUM,29.0,True,1,True,False,False,15.0,26.0,30.2,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,48,94.584,2.0,MEDIUM,30.0,True,1,True,False,False,15.0,26.0,30.3,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,49,94.469,2.0,MEDIUM,31.0,True,1,True,False,False,15.0,26.0,30.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAR,Williams,50,96.175,2.0,MEDIUM,32.0,True,1,True,False,False,16.0,25.9,30.0,False,20.0,16.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,1,104.694,1.0,MEDIUM,1.0,True,1,False,False,False,11.0,25.9,31.6,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,2,97.219,1.0,MEDIUM,2.0,True,1,True,False,False,11.0,26.0,31.7,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,3,96.796,1.0,MEDIUM,3.0,True,1,True,False,False,11.0,26.0,32.2,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,4,97.098,1.0,MEDIUM,4.0,True,1,True,False,False,11.0,26.0,31.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,5,97.298,1.0,MEDIUM,5.0,True,1,True,False,False,12.0,26.2,31.6,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,6,97.01,1.0,MEDIUM,6.0,True,1,True,False,False,13.0,26.3,31.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,7,96.304,1.0,MEDIUM,7.0,True,1,True,False,False,13.0,26.4,31.6,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,8,99.187,1.0,MEDIUM,8.0,True,1,False,True,False,14.0,26.4,31.7,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,9,112.964,2.0,HARD,1.0,True,1,False,False,True,18.0,26.3,31.6,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,10,95.834,2.0,HARD,2.0,True,1,True,False,False,17.0,26.4,31.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,11,95.756,2.0,HARD,3.0,True,1,True,False,False,17.0,26.3,31.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,12,95.805,2.0,HARD,4.0,True,1,True,False,False,15.0,26.3,31.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,13,95.552,2.0,HARD,5.0,True,1,True,False,False,15.0,26.3,31.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,14,95.199,2.0,HARD,6.0,True,1,True,False,False,15.0,26.3,31.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,15,95.179,2.0,HARD,7.0,True,1,True,False,False,15.0,26.3,31.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,16,95.561,2.0,HARD,8.0,True,1,True,False,False,15.0,26.2,31.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,17,108.27,2.0,HARD,9.0,True,124,False,False,False,14.0,26.2,31.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,18,136.205,2.0,HARD,10.0,True,4,False,False,False,12.0,26.2,31.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,19,131.086,2.0,HARD,11.0,True,4,False,False,False,11.0,26.1,31.2,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,20,149.075,2.0,HARD,12.0,True,41,False,False,False,11.0,26.0,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,21,98.649,2.0,HARD,13.0,True,1,True,False,False,11.0,26.0,31.1,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,22,96.88,2.0,HARD,14.0,True,1,True,False,False,11.0,26.0,30.9,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,23,95.702,2.0,HARD,15.0,True,1,True,False,False,11.0,26.0,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,24,95.279,2.0,HARD,16.0,True,1,True,False,False,11.0,26.1,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,25,96.317,2.0,HARD,17.0,True,1,True,False,False,11.0,26.1,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,26,95.544,2.0,HARD,18.0,True,1,True,False,False,11.0,26.1,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,27,95.501,2.0,HARD,19.0,True,1,True,False,False,11.0,26.2,30.9,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,28,95.564,2.0,HARD,20.0,True,1,True,False,False,11.0,26.2,31.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,29,95.001,2.0,HARD,21.0,True,1,True,False,False,11.0,26.3,31.1,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,30,95.139,2.0,HARD,22.0,True,1,True,False,False,11.0,26.3,30.9,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,31,95.057,2.0,HARD,23.0,True,1,True,False,False,11.0,26.3,30.6,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,32,94.959,2.0,HARD,24.0,True,1,True,False,False,11.0,26.3,30.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,33,94.402,2.0,HARD,25.0,True,1,True,False,False,11.0,26.3,30.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,34,94.852,2.0,HARD,26.0,True,1,True,False,False,11.0,26.3,30.7,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,35,95.659,2.0,HARD,27.0,True,1,True,False,False,11.0,26.3,30.4,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,36,94.662,2.0,HARD,28.0,True,1,True,False,False,11.0,26.2,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,37,94.357,2.0,HARD,29.0,True,1,True,False,False,11.0,26.1,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,38,94.047,2.0,HARD,30.0,True,1,True,False,False,11.0,26.1,30.7,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,39,94.189,2.0,HARD,31.0,True,1,True,False,False,11.0,26.0,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,40,95.449,2.0,HARD,32.0,True,1,True,False,False,11.0,26.0,30.2,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,41,94.27,2.0,HARD,33.0,True,1,True,False,False,11.0,26.0,30.1,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,42,93.753,2.0,HARD,34.0,True,1,True,False,False,11.0,26.0,30.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,43,94.108,2.0,HARD,35.0,True,1,True,False,False,11.0,25.9,30.5,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,44,93.374,2.0,HARD,36.0,True,1,True,False,False,11.0,26.0,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,45,94.134,2.0,HARD,37.0,True,1,True,False,False,10.0,26.0,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,46,95.329,2.0,HARD,38.0,True,1,True,False,False,10.0,26.0,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,47,93.833,2.0,HARD,39.0,True,1,True,False,False,10.0,26.0,30.2,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,48,93.829,2.0,HARD,40.0,True,1,True,False,False,10.0,26.0,30.3,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,49,93.746,2.0,HARD,41.0,True,1,True,False,False,10.0,26.0,30.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,MAG,Haas F1 Team,50,94.043,2.0,HARD,42.0,True,1,True,False,False,10.0,25.9,30.0,False,13.0,10.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,1,106.74,1.0,MEDIUM,1.0,True,1,False,False,False,18.0,25.9,31.6,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,2,100.748,1.0,MEDIUM,2.0,True,1,True,False,False,18.0,26.0,31.7,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,3,96.945,1.0,MEDIUM,3.0,True,1,True,False,False,18.0,26.0,32.2,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,4,96.847,1.0,MEDIUM,4.0,True,1,True,False,False,18.0,26.0,31.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,5,96.992,1.0,MEDIUM,5.0,True,1,True,False,False,18.0,26.2,31.6,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,6,96.862,1.0,MEDIUM,6.0,True,1,True,False,False,18.0,26.3,31.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,7,97.087,1.0,MEDIUM,7.0,True,1,True,False,False,18.0,26.4,31.6,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,8,97.22,1.0,MEDIUM,8.0,True,1,True,False,False,17.0,26.4,31.7,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,9,97.249,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,26.4,31.6,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,10,96.592,1.0,MEDIUM,10.0,True,1,True,False,False,15.0,26.4,31.4,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,11,96.52,1.0,MEDIUM,11.0,True,1,True,False,False,15.0,26.3,31.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,12,96.282,1.0,MEDIUM,12.0,True,1,True,False,False,13.0,26.3,31.7,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,13,96.014,1.0,MEDIUM,13.0,True,1,True,False,False,13.0,26.3,31.4,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,14,96.449,1.0,MEDIUM,14.0,True,1,True,False,False,13.0,26.3,31.4,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,15,96.017,1.0,MEDIUM,15.0,True,1,True,False,False,12.0,26.3,31.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,16,96.126,1.0,MEDIUM,16.0,True,1,True,False,False,12.0,26.2,31.4,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,17,109.322,1.0,MEDIUM,17.0,True,124,False,True,False,11.0,26.2,31.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,18,149.507,2.0,HARD,1.0,True,4,False,False,True,16.0,26.2,31.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,19,127.643,2.0,HARD,2.0,True,4,False,False,False,14.0,26.1,31.2,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,20,146.031,2.0,HARD,3.0,True,41,False,False,False,14.0,26.0,31.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,21,99.388,2.0,HARD,4.0,True,1,True,False,False,15.0,26.0,31.1,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,22,97.424,2.0,HARD,5.0,True,1,True,False,False,15.0,26.0,30.9,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,23,97.103,2.0,HARD,6.0,True,1,True,False,False,16.0,26.0,31.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,24,95.386,2.0,HARD,7.0,True,1,True,False,False,16.0,26.1,31.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,25,95.686,2.0,HARD,8.0,True,1,True,False,False,16.0,26.1,31.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,26,96.074,2.0,HARD,9.0,True,1,True,False,False,16.0,26.1,31.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,27,95.766,2.0,HARD,10.0,True,1,True,False,False,15.0,26.2,30.9,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,28,95.508,2.0,HARD,11.0,True,1,True,False,False,15.0,26.2,30.8,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,29,95.759,2.0,HARD,12.0,True,1,True,False,False,15.0,26.3,31.1,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,30,95.778,2.0,HARD,13.0,True,1,True,False,False,15.0,26.3,30.9,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,31,95.64,2.0,HARD,14.0,True,1,True,False,False,15.0,26.3,30.6,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,32,95.141,2.0,HARD,15.0,True,1,True,False,False,15.0,26.3,30.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,33,95.188,2.0,HARD,16.0,True,1,True,False,False,15.0,26.3,30.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,34,95.25,2.0,HARD,17.0,True,1,True,False,False,15.0,26.3,30.7,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,35,95.027,2.0,HARD,18.0,True,1,True,False,False,15.0,26.3,30.4,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,36,94.763,2.0,HARD,19.0,True,1,True,False,False,15.0,26.2,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,37,95.127,2.0,HARD,20.0,True,1,True,False,False,15.0,26.1,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,38,95.591,2.0,HARD,21.0,True,1,True,False,False,15.0,26.1,30.7,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,39,95.769,2.0,HARD,22.0,True,1,True,False,False,15.0,26.0,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,40,95.091,2.0,HARD,23.0,True,1,True,False,False,15.0,26.0,30.2,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,41,95.319,2.0,HARD,24.0,True,1,True,False,False,14.0,26.0,30.1,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,42,94.968,2.0,HARD,25.0,True,1,True,False,False,14.0,26.0,30.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,43,94.22,2.0,HARD,26.0,True,1,True,False,False,14.0,25.9,30.5,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,44,94.036,2.0,HARD,27.0,True,1,True,False,False,14.0,26.0,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,45,94.126,2.0,HARD,28.0,True,1,True,False,False,14.0,26.0,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,46,94.135,2.0,HARD,29.0,True,1,True,False,False,14.0,26.0,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,47,94.183,2.0,HARD,30.0,True,1,True,False,False,14.0,26.0,30.2,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,48,94.199,2.0,HARD,31.0,True,1,True,False,False,14.0,26.0,30.3,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,49,93.609,2.0,HARD,32.0,True,1,True,False,False,14.0,26.0,30.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,DEV,AlphaTauri,50,93.925,2.0,HARD,33.0,True,1,True,False,False,14.0,25.9,30.0,False,18.0,14.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,1,105.589,1.0,MEDIUM,1.0,True,1,False,False,False,14.0,25.9,31.6,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,2,98.171,1.0,MEDIUM,2.0,True,1,True,False,False,14.0,26.0,31.7,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,3,97.15,1.0,MEDIUM,3.0,True,1,True,False,False,14.0,26.0,32.2,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,4,97.006,1.0,MEDIUM,4.0,True,1,True,False,False,14.0,26.0,31.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,5,96.705,1.0,MEDIUM,5.0,True,1,True,False,False,14.0,26.2,31.6,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,6,96.788,1.0,MEDIUM,6.0,True,1,True,False,False,14.0,26.3,31.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,7,96.655,1.0,MEDIUM,7.0,True,1,True,False,False,14.0,26.4,31.6,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,8,96.569,1.0,MEDIUM,8.0,True,1,True,False,False,13.0,26.4,31.7,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,9,96.285,1.0,MEDIUM,9.0,True,1,True,False,False,13.0,26.3,31.6,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,10,96.187,1.0,MEDIUM,10.0,True,1,True,False,False,13.0,26.4,31.4,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,11,96.2,1.0,MEDIUM,11.0,True,1,True,False,False,12.0,26.3,31.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,12,95.839,1.0,MEDIUM,12.0,True,1,True,False,False,11.0,26.3,31.7,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,13,96.087,1.0,MEDIUM,13.0,True,1,True,False,False,11.0,26.3,31.4,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,14,95.938,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,26.3,31.4,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,15,95.616,1.0,MEDIUM,15.0,True,1,True,False,False,9.0,26.3,31.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,16,95.638,1.0,MEDIUM,16.0,True,1,True,False,False,8.0,26.2,31.4,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,17,102.41,1.0,MEDIUM,17.0,True,124,False,True,False,6.0,26.2,31.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,18,149.289,2.0,HARD,1.0,True,4,False,False,True,8.0,26.2,31.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,19,134.657,2.0,HARD,2.0,True,4,False,False,False,8.0,26.1,31.2,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,20,,2.0,HARD,3.0,True,41,False,False,False,8.0,26.0,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,21,98.152,2.0,HARD,4.0,True,1,True,False,False,8.0,26.0,31.1,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,22,96.197,2.0,HARD,5.0,True,1,True,False,False,8.0,26.0,30.9,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,23,95.717,2.0,HARD,6.0,True,1,True,False,False,8.0,26.0,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,24,96.425,2.0,HARD,7.0,True,1,True,False,False,9.0,26.1,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,25,96.833,2.0,HARD,8.0,True,1,True,False,False,10.0,26.1,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,26,95.513,2.0,HARD,9.0,True,1,True,False,False,10.0,26.1,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,27,95.392,2.0,HARD,10.0,True,1,True,False,False,10.0,26.2,30.9,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,28,95.155,2.0,HARD,11.0,True,1,True,False,False,10.0,26.2,31.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,29,94.791,2.0,HARD,12.0,True,1,True,False,False,10.0,26.3,31.1,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,30,95.113,2.0,HARD,13.0,True,1,True,False,False,10.0,26.3,30.9,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,31,94.929,2.0,HARD,14.0,True,1,True,False,False,10.0,26.3,30.6,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,32,95.246,2.0,HARD,15.0,True,1,True,False,False,10.0,26.3,30.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,33,94.797,2.0,HARD,16.0,True,1,True,False,False,10.0,26.3,30.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,34,94.925,2.0,HARD,17.0,True,1,True,False,False,10.0,26.3,30.7,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,35,94.878,2.0,HARD,18.0,True,1,True,False,False,10.0,26.3,30.4,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,36,94.61,2.0,HARD,19.0,True,1,True,False,False,10.0,26.2,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,37,94.715,2.0,HARD,20.0,True,1,True,False,False,10.0,26.1,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,38,94.488,2.0,HARD,21.0,True,1,True,False,False,10.0,26.1,30.7,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,39,94.353,2.0,HARD,22.0,True,1,True,False,False,10.0,26.0,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,40,94.373,2.0,HARD,23.0,True,1,True,False,False,10.0,26.0,30.2,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,41,94.316,2.0,HARD,24.0,True,1,True,False,False,10.0,26.0,30.1,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,42,94.056,2.0,HARD,25.0,True,1,True,False,False,10.0,26.0,30.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,43,93.989,2.0,HARD,26.0,True,1,True,False,False,10.0,25.9,30.5,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,44,94.189,2.0,HARD,27.0,True,1,True,False,False,10.0,26.0,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,45,94.599,2.0,HARD,28.0,True,1,True,False,False,11.0,26.0,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,46,97.002,2.0,HARD,29.0,True,1,True,False,False,11.0,26.0,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,47,94.282,2.0,HARD,30.0,True,1,True,False,False,11.0,26.0,30.2,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,48,94.125,2.0,HARD,31.0,True,1,True,False,False,11.0,26.0,30.3,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,49,94.117,2.0,HARD,32.0,True,1,True,False,False,11.0,26.0,30.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,TSU,AlphaTauri,50,93.931,2.0,HARD,33.0,True,1,True,False,False,11.0,25.9,30.0,False,16.0,11.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,1,105.985,1.0,MEDIUM,1.0,True,1,False,False,False,16.0,25.9,31.6,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,2,98.916,1.0,MEDIUM,2.0,True,1,True,False,False,16.0,26.0,31.7,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,3,97.065,1.0,MEDIUM,3.0,True,1,True,False,False,16.0,26.0,32.2,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,4,96.913,1.0,MEDIUM,4.0,True,1,True,False,False,16.0,26.0,31.5,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,5,97.108,1.0,MEDIUM,5.0,True,1,True,False,False,16.0,26.2,31.6,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,6,97.004,1.0,MEDIUM,6.0,True,1,True,False,False,16.0,26.3,31.5,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,7,97.577,1.0,MEDIUM,7.0,True,1,True,False,False,16.0,26.4,31.6,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,8,97.053,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,26.4,31.7,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,9,96.126,1.0,MEDIUM,9.0,True,1,True,False,False,14.0,26.3,31.6,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,10,96.311,1.0,MEDIUM,10.0,True,1,True,False,False,14.0,26.4,31.4,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,11,95.911,1.0,MEDIUM,11.0,True,1,True,False,False,14.0,26.3,31.3,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,12,96.066,1.0,MEDIUM,12.0,True,1,True,False,False,12.0,26.3,31.7,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,13,96.026,1.0,MEDIUM,13.0,True,1,True,False,False,12.0,26.3,31.4,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,14,96.878,1.0,MEDIUM,14.0,True,1,True,False,False,12.0,26.3,31.4,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,15,96.622,1.0,MEDIUM,15.0,True,1,True,False,False,11.0,26.3,31.3,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,16,96.83,1.0,MEDIUM,16.0,True,1,True,False,False,11.0,26.2,31.4,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,17,104.635,1.0,MEDIUM,17.0,True,124,False,True,False,9.0,26.2,31.5,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,18,,2.0,HARD,1.0,True,4,False,False,True,13.0,26.2,31.5,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,19,130.688,2.0,HARD,2.0,True,4,False,False,False,12.0,26.1,31.2,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,20,148.46,2.0,HARD,3.0,True,41,False,False,False,12.0,26.0,31.0,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,21,99.011,2.0,HARD,4.0,True,1,True,False,False,13.0,26.0,31.1,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,22,96.964,2.0,HARD,5.0,True,1,True,False,False,13.0,26.0,30.9,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,23,95.656,2.0,HARD,6.0,True,1,True,False,False,13.0,26.0,31.0,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,24,95.567,2.0,HARD,7.0,True,1,True,False,False,13.0,26.1,31.0,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,25,96.007,2.0,HARD,8.0,True,1,True,False,False,13.0,26.1,31.0,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,26,98.229,2.0,HARD,9.0,True,1,True,False,False,15.0,26.1,31.0,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ALB,Williams,27,,2.0,HARD,10.0,True,1,False,True,False,19.0,26.2,30.9,False,17.0,19.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,1,104.564,1.0,MEDIUM,1.0,True,1,False,False,False,10.0,25.9,31.6,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,2,96.615,1.0,MEDIUM,2.0,True,1,True,False,False,10.0,26.0,31.7,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,3,96.26,1.0,MEDIUM,3.0,True,1,True,False,False,10.0,26.0,32.2,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,4,96.359,1.0,MEDIUM,4.0,True,1,True,False,False,10.0,26.0,31.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,5,96.314,1.0,MEDIUM,5.0,True,1,True,False,False,10.0,26.2,31.6,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,6,95.928,1.0,MEDIUM,6.0,True,1,True,False,False,10.0,26.3,31.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,7,96.506,1.0,MEDIUM,7.0,True,1,True,False,False,10.0,26.4,31.6,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,8,97.134,1.0,MEDIUM,8.0,True,1,True,False,False,11.0,26.4,31.7,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,9,96.451,1.0,MEDIUM,9.0,True,1,True,False,False,11.0,26.3,31.6,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,10,96.253,1.0,MEDIUM,10.0,True,1,True,False,False,11.0,26.4,31.4,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,11,99.247,1.0,MEDIUM,11.0,True,1,False,True,False,11.0,26.3,31.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,12,115.874,2.0,HARD,1.0,True,1,False,False,True,17.0,26.3,31.7,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,13,95.263,2.0,HARD,2.0,True,1,True,False,False,16.0,26.3,31.4,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,14,95.547,2.0,HARD,3.0,True,1,True,False,False,16.0,26.3,31.4,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,15,95.618,2.0,HARD,4.0,True,1,True,False,False,16.0,26.3,31.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,16,95.98,2.0,HARD,5.0,True,1,True,False,False,16.0,26.2,31.4,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,17,109.326,2.0,HARD,6.0,True,124,False,False,False,15.0,26.3,31.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,18,137.713,2.0,HARD,7.0,True,4,False,True,False,14.0,26.2,31.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,19,135.298,3.0,MEDIUM,1.0,True,4,False,False,True,17.0,26.1,31.2,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,20,141.617,3.0,MEDIUM,2.0,True,41,False,False,False,17.0,26.0,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,21,98.769,3.0,MEDIUM,3.0,True,1,True,False,False,16.0,26.0,31.1,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,22,97.391,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,26.0,30.9,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,23,96.346,3.0,MEDIUM,5.0,True,1,True,False,False,15.0,26.0,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,24,95.452,3.0,MEDIUM,6.0,True,1,True,False,False,15.0,26.1,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,25,95.56,3.0,MEDIUM,7.0,True,1,True,False,False,15.0,26.1,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,26,96.338,3.0,MEDIUM,8.0,True,1,True,False,False,14.0,26.1,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,27,95.629,3.0,MEDIUM,9.0,True,1,True,False,False,14.0,26.2,30.9,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,28,95.4,3.0,MEDIUM,10.0,True,1,True,False,False,14.0,26.2,31.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,29,94.811,3.0,MEDIUM,11.0,True,1,True,False,False,14.0,26.3,31.1,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,30,96.153,3.0,MEDIUM,12.0,True,1,True,False,False,14.0,26.3,30.9,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,31,95.268,3.0,MEDIUM,13.0,True,1,True,False,False,14.0,26.3,30.6,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,32,95.136,3.0,MEDIUM,14.0,True,1,True,False,False,14.0,26.3,30.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,33,95.397,3.0,MEDIUM,15.0,True,1,True,False,False,14.0,26.3,30.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,34,95.361,3.0,MEDIUM,16.0,True,1,True,False,False,14.0,26.3,30.7,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,35,95.164,3.0,MEDIUM,17.0,True,1,True,False,False,14.0,26.3,30.4,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,36,95.233,3.0,MEDIUM,18.0,True,1,True,False,False,14.0,26.2,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,37,95.391,3.0,MEDIUM,19.0,True,1,True,False,False,14.0,26.1,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,38,95.158,3.0,MEDIUM,20.0,True,1,True,False,False,13.0,26.1,30.7,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,39,94.646,3.0,MEDIUM,21.0,True,1,True,False,False,13.0,26.0,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,40,94.764,3.0,MEDIUM,22.0,True,1,True,False,False,13.0,26.0,30.2,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,41,94.363,3.0,MEDIUM,23.0,True,1,True,False,False,13.0,26.0,30.1,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,42,94.825,3.0,MEDIUM,24.0,True,1,True,False,False,13.0,26.0,30.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,43,94.514,3.0,MEDIUM,25.0,True,1,True,False,False,13.0,25.9,30.5,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,44,94.622,3.0,MEDIUM,26.0,True,1,True,False,False,13.0,26.0,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,45,94.541,3.0,MEDIUM,27.0,True,1,True,False,False,13.0,26.0,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,46,94.538,3.0,MEDIUM,28.0,True,1,True,False,False,13.0,26.0,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,47,94.18,3.0,MEDIUM,29.0,True,1,True,False,False,13.0,26.0,30.2,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,48,94.138,3.0,MEDIUM,30.0,True,1,True,False,False,13.0,26.0,30.3,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,49,93.894,3.0,MEDIUM,31.0,True,1,True,False,False,13.0,26.0,30.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,ZHO,Alfa Romeo,50,94.105,3.0,MEDIUM,32.0,True,1,True,False,False,13.0,25.9,30.0,False,11.0,13.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,1,104.753,1.0,MEDIUM,1.0,True,1,False,False,False,12.0,25.9,31.6,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,2,97.67,1.0,MEDIUM,2.0,True,1,True,False,False,12.0,26.0,31.7,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,3,96.538,1.0,MEDIUM,3.0,True,1,True,False,False,12.0,26.0,32.2,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,4,97.593,1.0,MEDIUM,4.0,True,1,True,False,False,13.0,26.0,31.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,5,96.753,1.0,MEDIUM,5.0,True,1,True,False,False,13.0,26.2,31.6,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,6,96.095,1.0,MEDIUM,6.0,True,1,True,False,False,12.0,26.3,31.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,7,96.398,1.0,MEDIUM,7.0,True,1,True,False,False,12.0,26.4,31.6,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,8,96.282,1.0,MEDIUM,8.0,True,1,True,False,False,12.0,26.4,31.7,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,9,96.613,1.0,MEDIUM,9.0,True,1,True,False,False,12.0,26.3,31.6,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,10,96.166,1.0,MEDIUM,10.0,True,1,True,False,False,12.0,26.4,31.4,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,11,99.066,1.0,MEDIUM,11.0,True,1,False,True,False,13.0,26.3,31.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,12,113.453,2.0,HARD,1.0,True,1,False,False,True,16.0,26.3,31.7,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,13,95.892,2.0,HARD,2.0,True,1,True,False,False,17.0,26.3,31.4,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,14,96.821,2.0,HARD,3.0,True,1,True,False,False,17.0,26.3,31.4,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,15,96.004,2.0,HARD,4.0,True,1,True,False,False,17.0,26.3,31.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,16,95.932,2.0,HARD,5.0,True,1,True,False,False,17.0,26.2,31.4,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,17,109.761,2.0,HARD,6.0,True,124,False,False,False,16.0,26.3,31.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,18,136.855,2.0,HARD,7.0,True,4,False,False,False,15.0,26.2,31.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,19,127.15,2.0,HARD,8.0,True,4,False,False,False,13.0,26.1,31.2,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,20,146.826,2.0,HARD,9.0,True,41,False,False,False,13.0,26.0,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,21,98.42,2.0,HARD,10.0,True,1,True,False,False,12.0,26.0,31.1,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,22,96.951,2.0,HARD,11.0,True,1,True,False,False,12.0,26.0,30.9,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,23,95.533,2.0,HARD,12.0,True,1,True,False,False,12.0,26.0,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,24,95.782,2.0,HARD,13.0,True,1,True,False,False,12.0,26.1,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,25,95.891,2.0,HARD,14.0,True,1,True,False,False,12.0,26.1,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,26,96.043,2.0,HARD,15.0,True,1,True,False,False,12.0,26.1,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,27,96.238,2.0,HARD,16.0,True,1,True,False,False,12.0,26.2,30.9,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,28,95.62,2.0,HARD,17.0,True,1,True,False,False,12.0,26.2,31.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,29,95.176,2.0,HARD,18.0,True,1,True,False,False,12.0,26.3,31.1,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,30,96.263,2.0,HARD,19.0,True,1,True,False,False,12.0,26.3,30.9,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,31,95.038,2.0,HARD,20.0,True,1,True,False,False,12.0,26.3,30.6,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,32,95.368,2.0,HARD,21.0,True,1,True,False,False,12.0,26.3,30.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,33,95.028,2.0,HARD,22.0,True,1,True,False,False,12.0,26.3,30.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,34,95.478,2.0,HARD,23.0,True,1,True,False,False,12.0,26.3,30.7,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,35,95.013,2.0,HARD,24.0,True,1,True,False,False,12.0,26.3,30.4,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,36,94.957,2.0,HARD,25.0,True,1,True,False,False,12.0,26.2,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,37,94.809,2.0,HARD,26.0,True,1,True,False,False,12.0,26.1,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,38,94.03,2.0,HARD,27.0,True,1,True,False,False,12.0,26.1,30.7,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,39,94.263,2.0,HARD,28.0,True,1,True,False,False,12.0,26.0,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,40,94.365,2.0,HARD,29.0,True,1,True,False,False,12.0,26.0,30.2,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,41,94.047,2.0,HARD,30.0,True,1,True,False,False,12.0,26.0,30.1,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,42,94.351,2.0,HARD,31.0,True,1,True,False,False,12.0,26.0,30.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,43,94.388,2.0,HARD,32.0,True,1,True,False,False,12.0,25.9,30.5,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,44,94.168,2.0,HARD,33.0,True,1,True,False,False,12.0,26.0,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,45,94.822,2.0,HARD,34.0,True,1,True,False,False,12.0,26.0,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,46,94.481,2.0,HARD,35.0,True,1,True,False,False,12.0,26.0,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,47,94.426,2.0,HARD,36.0,True,1,True,False,False,12.0,26.0,30.2,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,48,94.026,2.0,HARD,37.0,True,1,True,False,False,12.0,26.0,30.3,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,49,94.106,2.0,HARD,38.0,True,1,True,False,False,12.0,26.0,30.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HUL,Haas F1 Team,50,93.78,2.0,HARD,39.0,True,1,True,False,False,12.0,25.9,30.0,False,10.0,12.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,1,100.245,1.0,MEDIUM,1.0,True,1,False,False,False,6.0,25.9,31.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,2,97.006,1.0,MEDIUM,2.0,True,1,True,False,False,6.0,26.0,31.7,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,3,96.066,1.0,MEDIUM,3.0,True,1,True,False,False,6.0,26.0,32.2,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,4,95.729,1.0,MEDIUM,4.0,True,1,True,False,False,6.0,26.0,31.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,5,95.849,1.0,MEDIUM,5.0,True,1,True,False,False,6.0,26.2,31.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,6,95.794,1.0,MEDIUM,6.0,True,1,True,False,False,6.0,26.3,31.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,7,95.847,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,26.4,31.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,8,96.212,1.0,MEDIUM,8.0,True,1,True,False,False,6.0,26.4,31.7,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,9,95.924,1.0,MEDIUM,9.0,True,1,True,False,False,6.0,26.3,31.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,10,95.955,1.0,MEDIUM,10.0,True,1,True,False,False,6.0,26.4,31.4,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,11,95.901,1.0,MEDIUM,11.0,True,1,True,False,False,6.0,26.4,31.4,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,12,96.266,1.0,MEDIUM,12.0,True,1,True,False,False,6.0,26.3,31.7,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,13,97.156,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,26.3,31.4,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,14,96.579,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,26.3,31.4,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,15,96.209,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,26.3,31.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,16,98.567,1.0,MEDIUM,16.0,True,1,False,True,False,7.0,26.2,31.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,17,125.968,2.0,HARD,1.0,True,124,False,False,True,12.0,26.2,31.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,18,134.175,2.0,HARD,2.0,True,4,False,False,False,9.0,26.2,31.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,19,134.215,2.0,HARD,3.0,True,4,False,False,False,9.0,26.1,31.2,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,20,,2.0,HARD,4.0,True,41,False,False,False,9.0,26.0,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,21,98.033,2.0,HARD,5.0,True,1,True,False,False,9.0,26.0,31.1,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,22,96.558,2.0,HARD,6.0,True,1,True,False,False,9.0,26.0,30.9,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,23,95.212,2.0,HARD,7.0,True,1,True,False,False,9.0,26.0,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,24,94.882,2.0,HARD,8.0,True,1,True,False,False,8.0,26.1,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,25,95.131,2.0,HARD,9.0,True,1,True,False,False,8.0,26.1,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,26,94.609,2.0,HARD,10.0,True,1,True,False,False,8.0,26.1,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,27,94.903,2.0,HARD,11.0,True,1,True,False,False,8.0,26.2,30.9,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,28,94.918,2.0,HARD,12.0,True,1,True,False,False,8.0,26.2,31.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,29,94.582,2.0,HARD,13.0,True,1,True,False,False,8.0,26.3,31.1,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,30,94.978,2.0,HARD,14.0,True,1,True,False,False,8.0,26.3,30.9,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,31,94.79,2.0,HARD,15.0,True,1,True,False,False,8.0,26.3,30.6,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,32,94.641,2.0,HARD,16.0,True,1,True,False,False,8.0,26.3,30.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,33,94.394,2.0,HARD,17.0,True,1,True,False,False,8.0,26.3,30.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,34,94.698,2.0,HARD,18.0,True,1,True,False,False,8.0,26.3,30.7,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,35,94.644,2.0,HARD,19.0,True,1,True,False,False,8.0,26.2,30.8,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,36,94.286,2.0,HARD,20.0,True,1,True,False,False,8.0,26.2,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,37,94.136,2.0,HARD,21.0,True,1,True,False,False,8.0,26.1,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,38,94.216,2.0,HARD,22.0,True,1,True,False,False,8.0,26.1,30.7,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,39,94.039,2.0,HARD,23.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,40,93.826,2.0,HARD,24.0,True,1,True,False,False,8.0,26.0,30.2,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,41,93.915,2.0,HARD,25.0,True,1,True,False,False,8.0,26.0,30.1,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,42,93.964,2.0,HARD,26.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,43,93.897,2.0,HARD,27.0,True,1,True,False,False,8.0,25.9,30.5,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,44,93.841,2.0,HARD,28.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,45,93.815,2.0,HARD,29.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,46,93.976,2.0,HARD,30.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,47,93.998,2.0,HARD,31.0,True,1,True,False,False,8.0,26.0,30.2,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,48,93.723,2.0,HARD,32.0,True,1,True,False,False,8.0,26.0,30.3,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,49,93.222,2.0,HARD,33.0,True,1,True,False,False,8.0,26.0,30.1,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,OCO,Alpine,50,94.312,2.0,HARD,34.0,True,1,True,False,False,8.0,25.9,30.0,False,6.0,8.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,1,106.323,1.0,SOFT,1.0,True,1,False,False,False,17.0,25.9,31.6,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,2,103.07,1.0,SOFT,2.0,True,1,False,True,False,19.0,26.0,31.7,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,3,123.534,2.0,HARD,1.0,True,1,False,False,True,20.0,26.0,32.2,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,4,96.627,2.0,HARD,2.0,True,1,True,False,False,20.0,26.1,31.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,5,95.929,2.0,HARD,3.0,True,1,True,False,False,20.0,26.3,31.6,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,6,95.963,2.0,HARD,4.0,True,1,True,False,False,20.0,26.3,31.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,7,95.771,2.0,HARD,5.0,True,1,True,False,False,20.0,26.4,31.6,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,8,95.523,2.0,HARD,6.0,True,1,True,False,False,20.0,26.4,31.7,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,9,95.721,2.0,HARD,7.0,True,1,True,False,False,20.0,26.4,31.6,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,10,96.141,2.0,HARD,8.0,True,1,True,False,False,20.0,26.4,31.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,11,96.1,2.0,HARD,9.0,True,1,True,False,False,20.0,26.3,31.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,12,96.285,2.0,HARD,10.0,True,1,True,False,False,20.0,26.3,31.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,13,96.269,2.0,HARD,11.0,True,1,True,False,False,20.0,26.3,31.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,14,96.289,2.0,HARD,12.0,True,1,True,False,False,20.0,26.3,31.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,15,96.228,2.0,HARD,13.0,True,1,True,False,False,20.0,26.2,31.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,16,96.446,2.0,HARD,14.0,True,1,True,False,False,20.0,26.2,31.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,17,116.008,2.0,HARD,15.0,True,124,False,False,False,18.0,26.3,31.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,18,137.711,2.0,HARD,16.0,True,4,False,False,False,18.0,26.2,31.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,19,120.488,2.0,HARD,17.0,True,4,False,True,False,18.0,26.1,31.2,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,20,138.348,3.0,MEDIUM,1.0,True,41,False,False,True,19.0,26.0,31.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,21,99.3,3.0,MEDIUM,2.0,True,1,True,False,False,19.0,26.0,31.1,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,22,97.7,3.0,MEDIUM,3.0,True,1,True,False,False,18.0,26.0,30.9,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,23,96.253,3.0,MEDIUM,4.0,True,1,True,False,False,18.0,26.0,31.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,24,96.251,3.0,MEDIUM,5.0,True,1,True,False,False,18.0,26.1,31.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,25,95.515,3.0,MEDIUM,6.0,True,1,True,False,False,17.0,26.1,31.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,26,95.315,3.0,MEDIUM,7.0,True,1,True,False,False,17.0,26.1,31.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,27,95.574,3.0,MEDIUM,8.0,True,1,True,False,False,16.0,26.2,30.9,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,28,95.724,3.0,MEDIUM,9.0,True,1,True,False,False,16.0,26.2,30.8,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,29,95.729,3.0,MEDIUM,10.0,True,1,True,False,False,16.0,26.3,31.1,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,30,95.446,3.0,MEDIUM,11.0,True,1,True,False,False,16.0,26.3,30.9,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,31,95.694,3.0,MEDIUM,12.0,True,1,True,False,False,16.0,26.3,30.6,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,32,95.478,3.0,MEDIUM,13.0,True,1,True,False,False,16.0,26.3,30.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,33,95.49,3.0,MEDIUM,14.0,True,1,True,False,False,16.0,26.3,30.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,34,95.481,3.0,MEDIUM,15.0,True,1,True,False,False,16.0,26.3,30.7,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,35,95.261,3.0,MEDIUM,16.0,True,1,True,False,False,16.0,26.3,30.4,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,36,95.158,3.0,MEDIUM,17.0,True,1,True,False,False,16.0,26.2,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,37,95.005,3.0,MEDIUM,18.0,True,1,True,False,False,16.0,26.1,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,38,94.658,3.0,MEDIUM,19.0,True,1,True,False,False,16.0,26.1,30.7,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,39,95.057,3.0,MEDIUM,20.0,True,1,True,False,False,16.0,26.0,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,40,95.549,3.0,MEDIUM,21.0,True,1,True,False,False,16.0,26.0,30.2,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,41,94.969,3.0,MEDIUM,22.0,True,1,True,False,False,15.0,26.0,30.1,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,42,96.183,3.0,MEDIUM,23.0,True,1,True,False,False,16.0,26.0,30.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,43,95.228,3.0,MEDIUM,24.0,True,1,True,False,False,16.0,25.9,30.5,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,44,95.519,3.0,MEDIUM,25.0,True,1,True,False,False,17.0,26.0,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,45,94.871,3.0,MEDIUM,26.0,True,1,True,False,False,16.0,26.0,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,46,94.532,3.0,MEDIUM,27.0,True,1,True,False,False,16.0,26.0,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,47,94.818,3.0,MEDIUM,28.0,True,1,True,False,False,16.0,26.0,30.2,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,48,95.378,3.0,MEDIUM,29.0,True,1,True,False,False,17.0,26.0,30.3,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,49,94.122,3.0,MEDIUM,30.0,True,1,True,False,False,17.0,26.0,30.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,NOR,McLaren,50,95.307,3.0,MEDIUM,31.0,True,1,True,False,False,17.0,25.9,30.0,False,19.0,17.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,1,101.038,1.0,HARD,1.0,True,1,False,False,False,7.0,25.9,31.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,2,97.188,1.0,HARD,2.0,True,1,True,False,False,7.0,26.0,31.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,3,96.628,1.0,HARD,3.0,True,1,True,False,False,7.0,26.0,32.2,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,4,96.263,1.0,HARD,4.0,True,1,True,False,False,7.0,26.0,31.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,5,95.867,1.0,HARD,5.0,True,1,True,False,False,7.0,26.2,31.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,6,95.973,1.0,HARD,6.0,True,1,True,False,False,7.0,26.3,31.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,7,96.093,1.0,HARD,7.0,True,1,True,False,False,7.0,26.4,31.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,8,96.122,1.0,HARD,8.0,True,1,True,False,False,7.0,26.4,31.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,9,96.978,1.0,HARD,9.0,True,1,True,False,False,8.0,26.3,31.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,10,95.976,1.0,HARD,10.0,True,1,True,False,False,8.0,26.4,31.4,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,11,95.909,1.0,HARD,11.0,True,1,True,False,False,8.0,26.4,31.4,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,12,96.568,1.0,HARD,12.0,True,1,True,False,False,9.0,26.3,31.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,13,95.822,1.0,HARD,13.0,True,1,True,False,False,9.0,26.3,31.4,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,14,95.708,1.0,HARD,14.0,True,1,True,False,False,8.0,26.3,31.4,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,15,95.693,1.0,HARD,15.0,True,1,True,False,False,8.0,26.3,31.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,16,95.228,1.0,HARD,16.0,True,1,True,False,False,6.0,26.2,31.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,17,95.047,1.0,HARD,17.0,True,12,True,False,False,5.0,26.2,31.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,18,136.76,1.0,HARD,18.0,True,24,False,True,False,5.0,26.2,31.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,19,,2.0,MEDIUM,1.0,True,4,False,False,True,6.0,26.1,31.2,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,20,,2.0,MEDIUM,2.0,True,41,False,False,False,6.0,26.0,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,21,97.234,2.0,MEDIUM,3.0,True,1,True,False,False,6.0,26.0,31.1,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,22,95.182,2.0,MEDIUM,4.0,True,1,True,False,False,5.0,26.0,30.9,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,23,94.715,2.0,MEDIUM,5.0,True,1,True,False,False,5.0,26.0,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,24,94.335,2.0,MEDIUM,6.0,True,1,True,False,False,5.0,26.1,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,25,94.734,2.0,MEDIUM,7.0,True,1,True,False,False,5.0,26.1,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,26,93.998,2.0,MEDIUM,8.0,True,1,True,False,False,5.0,26.1,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,27,93.985,2.0,MEDIUM,9.0,True,1,True,False,False,5.0,26.2,30.9,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,28,94.234,2.0,MEDIUM,10.0,True,1,True,False,False,5.0,26.2,31.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,29,94.186,2.0,MEDIUM,11.0,True,1,True,False,False,5.0,26.3,31.1,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,30,94.447,2.0,MEDIUM,12.0,True,1,True,False,False,5.0,26.3,31.1,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,31,93.846,2.0,MEDIUM,13.0,True,1,True,False,False,5.0,26.3,30.6,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,32,94.071,2.0,MEDIUM,14.0,True,1,True,False,False,5.0,26.3,30.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,33,93.874,2.0,MEDIUM,15.0,True,1,True,False,False,5.0,26.3,30.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,34,93.864,2.0,MEDIUM,16.0,True,1,True,False,False,5.0,26.3,30.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,35,93.887,2.0,MEDIUM,17.0,True,1,True,False,False,5.0,26.2,30.8,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,36,93.39,2.0,MEDIUM,18.0,True,1,True,False,False,5.0,26.2,30.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,37,93.625,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,26.2,30.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,38,93.653,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,26.1,30.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,39,93.383,2.0,MEDIUM,21.0,True,1,True,False,False,5.0,26.0,30.7,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,40,93.507,2.0,MEDIUM,22.0,True,1,True,False,False,5.0,26.0,30.2,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,41,93.22,2.0,MEDIUM,23.0,True,1,True,False,False,5.0,26.0,30.1,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,42,93.314,2.0,MEDIUM,24.0,True,1,True,False,False,5.0,26.0,30.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,43,93.011,2.0,MEDIUM,25.0,True,1,True,False,False,5.0,25.9,30.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,44,93.099,2.0,MEDIUM,26.0,True,1,True,False,False,5.0,25.9,30.5,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,45,93.054,2.0,MEDIUM,27.0,True,1,True,False,False,5.0,26.0,30.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,46,93.316,2.0,MEDIUM,28.0,True,1,True,False,False,5.0,26.0,30.3,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,47,92.941,2.0,MEDIUM,29.0,True,1,True,False,False,5.0,26.0,30.2,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,48,93.367,2.0,MEDIUM,30.0,True,1,True,False,False,5.0,26.0,30.2,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,49,93.537,2.0,MEDIUM,31.0,True,1,True,False,False,5.0,26.0,30.1,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,HAM,Mercedes,50,93.024,2.0,MEDIUM,32.0,True,1,True,False,False,5.0,25.9,30.0,False,7.0,5.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,1,99.413,1.0,MEDIUM,1.0,True,1,False,False,False,5.0,25.9,31.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,2,96.583,1.0,MEDIUM,2.0,True,1,True,False,False,5.0,26.0,31.7,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,3,95.354,1.0,MEDIUM,3.0,True,1,True,False,False,5.0,26.0,32.2,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,4,95.428,1.0,MEDIUM,4.0,True,1,True,False,False,5.0,26.0,31.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,5,95.433,1.0,MEDIUM,5.0,True,1,True,False,False,5.0,26.2,31.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,6,95.667,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,26.3,31.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,7,95.216,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,26.4,31.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,8,95.321,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,26.4,31.7,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,9,96.378,1.0,MEDIUM,9.0,True,1,True,False,False,5.0,26.3,31.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,10,96.056,1.0,MEDIUM,10.0,True,1,True,False,False,5.0,26.4,31.4,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,11,95.842,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,26.4,31.4,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,12,95.944,1.0,MEDIUM,12.0,True,1,True,False,False,5.0,26.3,31.7,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,13,95.256,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,26.3,31.4,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,14,95.001,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,26.3,31.4,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,15,97.523,1.0,MEDIUM,15.0,True,1,False,True,False,4.0,26.3,31.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,16,113.399,2.0,HARD,1.0,True,1,False,False,True,9.0,26.2,31.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,17,102.111,2.0,HARD,2.0,True,124,False,False,False,7.0,26.2,31.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,18,132.896,2.0,HARD,3.0,True,4,False,False,False,6.0,26.2,31.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,19,145.323,2.0,HARD,4.0,True,4,False,False,False,5.0,26.1,31.2,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,20,,2.0,HARD,5.0,True,41,False,False,False,5.0,26.0,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,21,97.37,2.0,HARD,6.0,True,1,True,False,False,5.0,26.0,31.1,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,22,96.313,2.0,HARD,7.0,True,1,True,False,False,6.0,26.0,30.9,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,23,95.041,2.0,HARD,8.0,True,1,True,False,False,6.0,26.0,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,24,94.656,2.0,HARD,9.0,True,1,True,False,False,6.0,26.1,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,25,94.814,2.0,HARD,10.0,True,1,True,False,False,6.0,26.1,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,26,94.415,2.0,HARD,11.0,True,1,True,False,False,6.0,26.1,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,27,94.539,2.0,HARD,12.0,True,1,True,False,False,6.0,26.2,30.9,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,28,94.762,2.0,HARD,13.0,True,1,True,False,False,6.0,26.2,31.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,29,94.331,2.0,HARD,14.0,True,1,True,False,False,6.0,26.3,31.1,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,30,94.498,2.0,HARD,15.0,True,1,True,False,False,6.0,26.3,31.1,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,31,94.104,2.0,HARD,16.0,True,1,True,False,False,6.0,26.3,30.6,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,32,93.867,2.0,HARD,17.0,True,1,True,False,False,6.0,26.3,30.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,33,93.989,2.0,HARD,18.0,True,1,True,False,False,6.0,26.3,30.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,34,93.861,2.0,HARD,19.0,True,1,True,False,False,6.0,26.3,30.7,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,35,93.862,2.0,HARD,20.0,True,1,True,False,False,6.0,26.2,30.8,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,36,93.539,2.0,HARD,21.0,True,1,True,False,False,6.0,26.2,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,37,93.803,2.0,HARD,22.0,True,1,True,False,False,6.0,26.2,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,38,93.913,2.0,HARD,23.0,True,1,True,False,False,6.0,26.1,30.7,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,39,93.465,2.0,HARD,24.0,True,1,True,False,False,6.0,26.0,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,40,93.403,2.0,HARD,25.0,True,1,True,False,False,6.0,26.0,30.2,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,41,93.411,2.0,HARD,26.0,True,1,True,False,False,6.0,26.0,30.1,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,42,93.432,2.0,HARD,27.0,True,1,True,False,False,6.0,26.0,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,43,93.288,2.0,HARD,28.0,True,1,True,False,False,6.0,25.9,30.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,44,93.358,2.0,HARD,29.0,True,1,True,False,False,6.0,25.9,30.5,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,45,93.512,2.0,HARD,30.0,True,1,True,False,False,6.0,26.0,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,46,93.149,2.0,HARD,31.0,True,1,True,False,False,6.0,26.0,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,47,93.128,2.0,HARD,32.0,True,1,True,False,False,6.0,26.0,30.2,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,48,92.92,2.0,HARD,33.0,True,1,True,False,False,6.0,26.0,30.3,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,49,93.564,2.0,HARD,34.0,True,1,True,False,False,6.0,26.0,30.1,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,SAI,Ferrari,50,92.822,2.0,HARD,35.0,True,1,True,False,False,6.0,25.9,30.0,False,4.0,6.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,1,98.652,1.0,MEDIUM,1.0,True,1,False,False,False,3.0,25.9,31.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,2,96.114,1.0,MEDIUM,2.0,True,1,True,False,False,3.0,26.0,31.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,3,95.3,1.0,MEDIUM,3.0,True,1,True,False,False,3.0,26.0,32.2,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,4,95.596,1.0,MEDIUM,4.0,True,1,True,False,False,3.0,26.0,31.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,5,95.423,1.0,MEDIUM,5.0,True,1,True,False,False,3.0,26.2,31.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,6,95.477,1.0,MEDIUM,6.0,True,1,True,False,False,3.0,26.3,31.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,7,95.256,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,26.4,31.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,8,95.157,1.0,MEDIUM,8.0,True,1,True,False,False,3.0,26.4,31.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,9,95.89,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,26.3,31.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,10,95.265,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,26.4,31.4,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,11,95.4,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,26.4,31.4,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,12,95.283,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,26.3,31.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,13,95.043,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,26.3,31.4,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,14,94.94,1.0,MEDIUM,14.0,True,1,True,False,False,3.0,26.3,31.4,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,15,94.946,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,26.3,31.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,16,95.12,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,26.2,31.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,17,94.892,1.0,MEDIUM,17.0,True,12,True,False,False,3.0,26.2,31.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,18,132.217,1.0,MEDIUM,18.0,True,24,False,True,False,3.0,26.3,31.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,19,,2.0,HARD,1.0,True,4,False,False,True,3.0,26.1,31.2,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,20,,2.0,HARD,2.0,True,41,False,False,False,3.0,26.0,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,21,96.802,2.0,HARD,3.0,True,1,True,False,False,3.0,26.0,31.1,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,22,95.07,2.0,HARD,4.0,True,1,True,False,False,3.0,26.0,30.9,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,23,94.958,2.0,HARD,5.0,True,1,True,False,False,4.0,26.0,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,24,95.063,2.0,HARD,6.0,True,1,True,False,False,4.0,26.1,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,25,94.106,2.0,HARD,7.0,True,1,True,False,False,4.0,26.1,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,26,94.493,2.0,HARD,8.0,True,1,True,False,False,4.0,26.1,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,27,94.118,2.0,HARD,9.0,True,1,True,False,False,4.0,26.2,30.9,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,28,94.091,2.0,HARD,10.0,True,1,True,False,False,4.0,26.2,31.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,29,93.688,2.0,HARD,11.0,True,1,True,False,False,4.0,26.3,31.1,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,30,94.165,2.0,HARD,12.0,True,1,True,False,False,4.0,26.3,31.1,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,31,93.433,2.0,HARD,13.0,True,1,True,False,False,4.0,26.3,30.6,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,32,93.633,2.0,HARD,14.0,True,1,True,False,False,4.0,26.3,30.9,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,33,93.52,2.0,HARD,15.0,True,1,True,False,False,4.0,26.3,30.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,34,93.758,2.0,HARD,16.0,True,1,True,False,False,4.0,26.3,30.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,35,93.756,2.0,HARD,17.0,True,1,True,False,False,4.0,26.2,30.8,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,36,93.625,2.0,HARD,18.0,True,1,True,False,False,4.0,26.2,30.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,37,93.524,2.0,HARD,19.0,True,1,True,False,False,4.0,26.2,30.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,38,93.42,2.0,HARD,20.0,True,1,True,False,False,4.0,26.1,30.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,39,93.555,2.0,HARD,21.0,True,1,True,False,False,4.0,26.0,30.7,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,40,93.459,2.0,HARD,22.0,True,1,True,False,False,4.0,26.0,30.2,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,41,92.998,2.0,HARD,23.0,True,1,True,False,False,4.0,26.0,30.1,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,42,93.041,2.0,HARD,24.0,True,1,True,False,False,4.0,26.0,30.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,43,93.083,2.0,HARD,25.0,True,1,True,False,False,4.0,25.9,30.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,44,93.243,2.0,HARD,26.0,True,1,True,False,False,4.0,25.9,30.5,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,45,92.917,2.0,HARD,27.0,True,1,True,False,False,4.0,26.0,30.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,46,92.982,2.0,HARD,28.0,True,1,True,False,False,4.0,26.0,30.3,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,47,92.901,2.0,HARD,29.0,True,1,True,False,False,4.0,26.0,30.2,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,48,92.756,2.0,HARD,30.0,True,1,True,False,False,4.0,26.0,30.2,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,49,93.135,2.0,HARD,31.0,True,1,True,False,False,4.0,26.0,30.1,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,RUS,Mercedes,50,92.433,2.0,HARD,32.0,True,1,True,False,False,4.0,26.0,30.0,False,3.0,4.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,1,105.612,1.0,MEDIUM,1.0,True,1,False,False,False,15.0,25.9,31.6,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,2,98.763,1.0,MEDIUM,2.0,True,1,True,False,False,15.0,26.0,31.7,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,3,96.956,1.0,MEDIUM,3.0,True,1,True,False,False,15.0,26.0,32.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,4,97.211,1.0,MEDIUM,4.0,True,1,True,False,False,15.0,26.0,31.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,5,96.597,1.0,MEDIUM,5.0,True,1,True,False,False,15.0,26.2,31.6,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,6,97.418,1.0,MEDIUM,6.0,True,1,True,False,False,15.0,26.3,31.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,7,97.674,1.0,MEDIUM,7.0,True,1,True,False,False,15.0,26.4,31.6,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,8,98.831,1.0,MEDIUM,8.0,True,1,True,False,False,16.0,26.4,31.7,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,9,99.617,1.0,MEDIUM,9.0,True,1,False,True,False,17.0,26.3,31.6,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,10,114.489,2.0,HARD,1.0,True,1,False,False,True,19.0,26.4,31.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,11,96.218,2.0,HARD,2.0,True,1,True,False,False,19.0,26.3,31.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,12,95.927,2.0,HARD,3.0,True,1,True,False,False,19.0,26.3,31.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,13,96.495,2.0,HARD,4.0,True,1,True,False,False,19.0,26.3,31.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,14,96.207,2.0,HARD,5.0,True,1,True,False,False,19.0,26.3,31.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,15,96.259,2.0,HARD,6.0,True,1,True,False,False,19.0,26.3,31.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,16,96.153,2.0,HARD,7.0,True,1,True,False,False,19.0,26.2,31.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,17,118.961,2.0,HARD,8.0,True,124,False,True,False,19.0,26.3,31.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,18,,3.0,MEDIUM,1.0,True,4,False,False,True,19.0,26.2,31.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,19,115.77,3.0,MEDIUM,2.0,True,4,False,False,False,19.0,26.1,31.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,20,128.105,3.0,MEDIUM,3.0,True,41,False,False,False,18.0,26.0,31.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,21,99.065,3.0,MEDIUM,4.0,True,1,True,False,False,18.0,26.0,31.1,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,22,98.366,3.0,MEDIUM,5.0,True,1,True,False,False,19.0,26.0,30.9,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,23,98.218,3.0,MEDIUM,6.0,True,1,True,False,False,19.0,26.0,31.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,24,96.239,3.0,MEDIUM,7.0,True,1,True,False,False,19.0,26.1,31.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,25,96.412,3.0,MEDIUM,8.0,True,1,True,False,False,19.0,26.1,31.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,26,96.343,3.0,MEDIUM,9.0,True,1,True,False,False,19.0,26.1,31.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,27,96.993,3.0,MEDIUM,10.0,True,1,True,False,False,18.0,26.2,30.9,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,28,96.128,3.0,MEDIUM,11.0,True,1,True,False,False,18.0,26.2,30.8,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,29,96.166,3.0,MEDIUM,12.0,True,1,True,False,False,18.0,26.3,31.1,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,30,95.846,3.0,MEDIUM,13.0,True,1,True,False,False,18.0,26.3,30.9,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,31,96.248,3.0,MEDIUM,14.0,True,1,True,False,False,18.0,26.3,30.6,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,32,96.142,3.0,MEDIUM,15.0,True,1,True,False,False,18.0,26.3,30.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,33,95.997,3.0,MEDIUM,16.0,True,1,True,False,False,18.0,26.3,30.7,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,34,96.148,3.0,MEDIUM,17.0,True,1,True,False,False,18.0,26.3,30.7,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,35,98.834,3.0,MEDIUM,18.0,True,1,False,True,False,18.0,26.3,30.4,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,36,114.109,4.0,SOFT,1.0,True,1,False,False,True,18.0,26.2,30.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,37,94.384,4.0,SOFT,2.0,True,1,True,False,False,18.0,26.1,30.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,38,94.976,4.0,SOFT,3.0,True,1,True,False,False,18.0,26.0,30.7,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,39,95.348,4.0,SOFT,4.0,True,1,True,False,False,18.0,26.0,30.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,40,96.474,4.0,SOFT,5.0,True,1,True,False,False,18.0,26.0,30.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,41,96.7,4.0,SOFT,6.0,True,1,True,False,False,18.0,26.0,30.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,42,95.325,4.0,SOFT,7.0,True,1,True,False,False,18.0,26.0,30.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,43,95.288,4.0,SOFT,8.0,True,1,True,False,False,18.0,25.9,30.5,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,44,95.004,4.0,SOFT,9.0,True,1,True,False,False,18.0,26.0,30.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,45,95.227,4.0,SOFT,10.0,True,1,True,False,False,18.0,26.0,30.3,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,46,95.283,4.0,SOFT,11.0,True,1,True,False,False,18.0,26.0,30.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,47,96.694,4.0,SOFT,12.0,True,1,True,False,False,18.0,26.0,30.2,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,48,96.607,4.0,SOFT,13.0,True,1,True,False,False,18.0,26.0,30.1,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,BOT,Alfa Romeo,49,95.501,4.0,SOFT,14.0,True,1,True,False,False,18.0,26.0,30.0,False,14.0,18.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,1,107.254,1.0,MEDIUM,1.0,True,1,False,True,False,19.0,25.9,31.6,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,2,124.805,2.0,HARD,1.0,True,1,False,False,True,20.0,26.0,31.7,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,3,95.634,2.0,HARD,2.0,True,1,True,False,False,19.0,26.0,32.2,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,4,95.512,2.0,HARD,3.0,True,1,True,False,False,19.0,26.1,31.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,5,95.662,2.0,HARD,4.0,True,1,True,False,False,19.0,26.2,31.6,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,6,95.359,2.0,HARD,5.0,True,1,True,False,False,19.0,26.3,31.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,7,95.636,2.0,HARD,6.0,True,1,True,False,False,19.0,26.4,31.6,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,8,95.626,2.0,HARD,7.0,True,1,True,False,False,19.0,26.4,31.7,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,9,95.9,2.0,HARD,8.0,True,1,True,False,False,19.0,26.4,31.6,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,10,95.782,2.0,HARD,9.0,True,1,True,False,False,18.0,26.4,31.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,11,95.899,2.0,HARD,10.0,True,1,True,False,False,18.0,26.3,31.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,12,96.364,2.0,HARD,11.0,True,1,True,False,False,18.0,26.3,31.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,13,96.654,2.0,HARD,12.0,True,1,True,False,False,18.0,26.3,31.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,14,96.275,2.0,HARD,13.0,True,1,True,False,False,18.0,26.3,31.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,15,96.082,2.0,HARD,14.0,True,1,True,False,False,18.0,26.3,31.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,16,96.304,2.0,HARD,15.0,True,1,True,False,False,18.0,26.2,31.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,17,111.27,2.0,HARD,16.0,True,124,False,False,False,17.0,26.3,31.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,18,136.427,2.0,HARD,17.0,True,4,False,False,False,17.0,26.2,31.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,19,127.588,2.0,HARD,18.0,True,4,False,False,False,16.0,26.1,31.2,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,20,143.704,2.0,HARD,19.0,True,41,False,False,False,16.0,26.0,31.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,21,99.663,2.0,HARD,20.0,True,1,True,False,False,17.0,26.0,31.1,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,22,97.626,2.0,HARD,21.0,True,1,True,False,False,17.0,26.0,30.9,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,23,96.562,2.0,HARD,22.0,True,1,True,False,False,17.0,26.0,31.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,24,96.405,2.0,HARD,23.0,True,1,True,False,False,17.0,26.1,31.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,25,96.735,2.0,HARD,24.0,True,1,True,False,False,18.0,26.1,31.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,26,95.752,2.0,HARD,25.0,True,1,True,False,False,18.0,26.1,31.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,27,95.973,2.0,HARD,26.0,True,1,True,False,False,17.0,26.2,30.9,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,28,95.543,2.0,HARD,27.0,True,1,True,False,False,17.0,26.2,30.8,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,29,95.949,2.0,HARD,28.0,True,1,True,False,False,17.0,26.3,31.1,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,30,95.673,2.0,HARD,29.0,True,1,True,False,False,17.0,26.3,30.9,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,31,95.446,2.0,HARD,30.0,True,1,True,False,False,17.0,26.3,30.6,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,32,95.224,2.0,HARD,31.0,True,1,True,False,False,17.0,26.3,30.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,33,95.644,2.0,HARD,32.0,True,1,True,False,False,17.0,26.3,30.7,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,34,95.47,2.0,HARD,33.0,True,1,True,False,False,17.0,26.3,30.7,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,35,95.277,2.0,HARD,34.0,True,1,True,False,False,17.0,26.3,30.4,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,36,95.005,2.0,HARD,35.0,True,1,True,False,False,17.0,26.2,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,37,94.859,2.0,HARD,36.0,True,1,True,False,False,17.0,26.1,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,38,94.827,2.0,HARD,37.0,True,1,True,False,False,17.0,26.1,30.7,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,39,94.949,2.0,HARD,38.0,True,1,True,False,False,17.0,26.0,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,40,94.429,2.0,HARD,39.0,True,1,True,False,False,17.0,26.0,30.2,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,41,95.301,2.0,HARD,40.0,True,1,True,False,False,17.0,26.0,30.1,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,42,95.951,2.0,HARD,41.0,True,1,True,False,False,17.0,26.0,30.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,43,95.257,2.0,HARD,42.0,True,1,True,False,False,17.0,25.9,30.5,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,44,94.861,2.0,HARD,43.0,True,1,True,False,False,16.0,26.0,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,45,95.625,2.0,HARD,44.0,True,1,True,False,False,17.0,26.0,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,46,94.467,2.0,HARD,45.0,True,1,True,False,False,17.0,26.0,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,47,94.509,2.0,HARD,46.0,True,1,True,False,False,17.0,26.0,30.2,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,48,94.287,2.0,HARD,47.0,True,1,True,False,False,16.0,26.0,30.3,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,49,94.291,2.0,HARD,48.0,True,1,True,False,False,16.0,26.0,30.0,False,8.0,15.0
+2023,2,Saudi Arabian Grand Prix,Jeddah,50,PIA,McLaren,50,94.618,2.0,HARD,49.0,True,1,True,False,False,15.0,25.9,30.0,False,8.0,15.0

@@ -76,7 +76,11 @@ For the default coast-down experiment there is no propulsion or braking:
 
     a = -(F_D + F_RR) / m
 
-The state is then integrated with a semi-implicit Euler step.
+Velocity is advanced with an explicit (forward) Euler step and distance
+with the trapezoidal rule over the same step.
+
+If the vehicle slows below the lowest velocity in the dataset, the run stops
+cleanly at that point instead of extrapolating outside the observed envelope.
 
 Active-aero scenario
 --------------------
@@ -124,6 +128,7 @@ reports/08_vehicle_longitudinal_simulator/
         surrogate_trajectory.csv
         trajectory_comparison.csv
         simulation_summary.csv
+        model_difference_vs_reference_uncertainty.csv
         control_schedule.csv
     vehicle_simulator_summary.md
 
@@ -148,8 +153,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-from sklearn.neighbors import NearestNeighbors
-from sklearn.preprocessing import StandardScaler
+from reference_model import BOUNDARY_TOLERANCE, ReferenceAerodynamicModel
 
 
 # =====================================================================
@@ -230,9 +234,18 @@ INITIAL_BATTERY_SOC = 50.0
 
 # Small numerical/termination settings.
 MIN_VELOCITY_MS = 0.10
-BOUNDARY_EPSILON = 1e-9
 
 RANDOM_STATE = 42
+
+# Phase-7 leave-one-out table. It gives the reference model's own
+# interpolation error, which bounds how finely the two paths can be compared.
+REFERENCE_UNCERTAINTY_PATH = (
+    PROJECT_ROOT
+    / "reports"
+    / "07_reference_model"
+    / "tables"
+    / "reference_leave_one_out_metrics.csv"
+)
 
 
 # =====================================================================
@@ -333,197 +346,6 @@ def dataframe_to_markdown_table(
 
 
 # =====================================================================
-# Reference model compatibility class
-# =====================================================================
-
-class ReferenceAerodynamicModel:
-    """
-    Compatible class definition for loading the Phase-7 pickle.
-
-    Phase 7 was executed as a script, so the saved class may be recorded as
-    __main__.ReferenceAerodynamicModel by Python pickle. Defining the same
-    class name in this script makes loading robust while preserving the exact
-    Phase-7 model object and parameters.
-    """
-
-    def __init__(
-        self,
-        X: np.ndarray,
-        y: np.ndarray,
-        input_columns: list[str],
-        target_columns: list[str],
-        k_neighbors: int = 12,
-        distance_power: float = 2.0,
-    ) -> None:
-        X = np.asarray(X, dtype=float)
-        y = np.asarray(y, dtype=float)
-
-        self.X_raw = X
-        self.y = y
-        self.input_columns = list(input_columns)
-        self.target_columns = list(target_columns)
-        self.k_neighbors = int(k_neighbors)
-        self.distance_power = float(distance_power)
-
-        self.scaler = StandardScaler()
-        self.X_scaled = self.scaler.fit_transform(self.X_raw)
-
-        self.neighbor_search = NearestNeighbors(
-            n_neighbors=self.k_neighbors,
-            algorithm="auto",
-            metric="euclidean",
-            n_jobs=1,
-        )
-        self.neighbor_search.fit(self.X_scaled)
-
-        self.feature_min = self.X_raw.min(axis=0)
-        self.feature_max = self.X_raw.max(axis=0)
-
-    def _prepare_query(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-    ) -> np.ndarray:
-        """Prepare a numerical query in the stored feature order."""
-        if isinstance(X_query, pd.DataFrame):
-            missing = [
-                col
-                for col in self.input_columns
-                if col not in X_query.columns
-            ]
-            if missing:
-                raise ValueError(
-                    "Reference query is missing columns: "
-                    + ", ".join(missing)
-                )
-
-            query = X_query[self.input_columns].to_numpy(dtype=float)
-        else:
-            query = np.asarray(X_query, dtype=float)
-
-        if query.ndim == 1:
-            query = query.reshape(1, -1)
-
-        if query.ndim != 2:
-            raise ValueError("Reference query must be a 1D or 2D array.")
-
-        if query.shape[1] != len(self.input_columns):
-            raise ValueError(
-                "Reference query has the wrong number of features. "
-                f"Expected {len(self.input_columns)}."
-            )
-
-        if not np.isfinite(query).all():
-            raise ValueError("Reference query contains non-finite values.")
-
-        return query
-
-    def check_bounds(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-    ) -> pd.DataFrame:
-        """Return row-level information about the observed input envelope."""
-        query = self._prepare_query(X_query)
-        rows = []
-
-        for index, row in enumerate(query):
-            below = row < (self.feature_min - BOUNDARY_EPSILON)
-            above = row > (self.feature_max + BOUNDARY_EPSILON)
-
-            outside_columns = [
-                self.input_columns[i]
-                for i in range(len(self.input_columns))
-                if below[i] or above[i]
-            ]
-
-            rows.append(
-                {
-                    "query_index": index,
-                    "inside_observed_envelope": len(outside_columns) == 0,
-                    "outside_columns": ", ".join(outside_columns),
-                }
-            )
-
-        return pd.DataFrame(rows)
-
-    def predict(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-        reject_outside: bool = True,
-        return_distance: bool = False,
-    ) -> np.ndarray | tuple[np.ndarray, np.ndarray]:
-        """Predict reference outputs using inverse-distance weighting."""
-        query = self._prepare_query(X_query)
-
-        bounds = self.check_bounds(query)
-
-        if reject_outside:
-            invalid = ~bounds["inside_observed_envelope"].to_numpy()
-            if invalid.any():
-                bad_indices = np.where(invalid)[0]
-                raise ValueError(
-                    "Reference-model query contains points outside the "
-                    "observed operating envelope. "
-                    f"Indices: {bad_indices.tolist()}"
-                )
-
-        query_scaled = self.scaler.transform(query)
-
-        distances, indices = self.neighbor_search.kneighbors(
-            query_scaled,
-            n_neighbors=self.k_neighbors,
-            return_distance=True,
-        )
-
-        neighbor_values = self.y[indices]
-
-        predictions = np.empty(
-            (len(query), self.y.shape[1]),
-            dtype=float,
-        )
-
-        for i in range(len(query)):
-            d = distances[i]
-
-            exact = d <= 1e-12
-            if exact.any():
-                first_exact = int(np.where(exact)[0][0])
-                predictions[i] = neighbor_values[i, first_exact]
-                continue
-
-            weights = 1.0 / np.power(d, self.distance_power)
-            weights /= weights.sum()
-
-            predictions[i] = np.sum(
-                neighbor_values[i] * weights[:, None],
-                axis=0,
-            )
-
-        nearest_distance = distances[:, 0]
-
-        if return_distance:
-            return predictions, nearest_distance
-
-        return predictions
-
-    def predict_dataframe(
-        self,
-        X_query: pd.DataFrame,
-        reject_outside: bool = True,
-    ) -> pd.DataFrame:
-        """Predict named targets as a DataFrame."""
-        predictions = self.predict(
-            X_query,
-            reject_outside=reject_outside,
-        )
-
-        return pd.DataFrame(
-            predictions,
-            columns=self.target_columns,
-            index=X_query.index,
-        )
-
-
-# =====================================================================
 # Model loading
 # =====================================================================
 
@@ -604,7 +426,15 @@ def load_surrogate_models() -> dict[str, object]:
                 f"Input-feature mismatch in {filename}."
             )
 
-        models[target] = bundle["model"]
+        model = bundle["model"]
+
+        # The simulator predicts one state per time step. A parallel
+        # forest pays thread-pool overhead on every single-row call, so
+        # run the saved models serially here.
+        if hasattr(model, "n_jobs"):
+            model.n_jobs = 1
+
+        models[target] = model
 
     return models
 
@@ -646,7 +476,7 @@ def longitudinal_step(
     acceleration_m_s2:
         Instantaneous longitudinal acceleration (negative during coast-down).
     new_velocity_ms:
-        Semi-implicit Euler updated velocity.
+        Explicit (forward) Euler updated velocity.
     rolling_resistance_n:
         Longitudinal rolling-resistance force.
     """
@@ -801,17 +631,28 @@ def simulate_path(
     surrogate_models: dict[str, object],
     use_reference: bool,
     control_schedule: pd.DataFrame,
+    initial_velocity_ms: float = INITIAL_VELOCITY_MS,
 ) -> pd.DataFrame:
     """
     Run one simulator path using the supplied aerodynamic response source.
 
     Both paths are fed the same control schedule and use identical vehicle
     equations. Only the Cd/Cl/CoP/Energy response source changes.
+
+    If the run ends before the schedule does, the reason is stored in
+    ``result.attrs["stop_reason"]`` (an empty string otherwise).
     """
     rows: list[dict[str, float | str]] = []
+    stop_reason = ""
 
     distance_m = 0.0
-    velocity_ms = INITIAL_VELOCITY_MS
+    velocity_ms = float(initial_velocity_ms)
+
+    observed_min_velocity = float(
+        reference_model.feature_min[
+            INPUT_COLUMNS.index("velocity_ms")
+        ]
+    )
 
     for step_index, control in control_schedule.iterrows():
         time_s = float(control["time_s"])
@@ -853,15 +694,6 @@ def simulate_path(
             downforce_n=downforce_n,
         )
 
-        if step_index == 0:
-            distance_increment = 0.0
-        else:
-            distance_increment = 0.5 * (
-                velocity_ms + new_velocity
-            ) * TIME_STEP_S
-
-        distance_m += distance_increment
-
         rows.append(
             {
                 "path": path_name,
@@ -885,21 +717,66 @@ def simulate_path(
             }
         )
 
+        # The row above holds the state AT time_s. Distance covered during
+        # this step therefore belongs to the next recorded time.
+        distance_m += 0.5 * (
+            velocity_ms + new_velocity
+        ) * TIME_STEP_S
+
         velocity_ms = new_velocity
 
         if velocity_ms < MIN_VELOCITY_MS:
-            print(
-                f"{path_name}: vehicle reached near-zero speed at "
-                f"t={time_s:.2f} s. Ending simulation early."
+            stop_reason = (
+                f"vehicle reached near-zero speed after t={time_s:.2f} s"
             )
             break
+
+        # Both aerodynamic sources are only valid inside the observed
+        # envelope. Stop before the next query would leave it.
+        if velocity_ms < observed_min_velocity - BOUNDARY_TOLERANCE:
+            stop_reason = (
+                f"speed fell below the lowest velocity in the dataset "
+                f"({observed_min_velocity:.2f} m/s) after t={time_s:.2f} s"
+            )
+            break
+
+    if stop_reason:
+        print(f"{path_name}: {stop_reason}. Ending simulation early.")
 
     result = pd.DataFrame(rows)
 
     if result.empty:
         raise RuntimeError(f"Simulation path '{path_name}' produced no rows.")
 
+    result.attrs["stop_reason"] = stop_reason
+
     return result
+
+
+def open_loop_surrogate_response(
+    surrogate_models: dict[str, object],
+    reference: pd.DataFrame,
+) -> pd.DataFrame:
+    """
+    Evaluate the ML surrogate on the reference path's own states.
+
+    In the closed-loop runs the two paths drift to different speeds, so
+    their coefficient differences mix model error with state divergence.
+    Feeding the surrogate exactly the states the reference visited isolates
+    the pure model-versus-model difference.
+    """
+    states = reference[INPUT_COLUMNS]
+
+    return pd.DataFrame(
+        {
+            target: np.asarray(
+                surrogate_models[target].predict(states),
+                dtype=float,
+            )
+            for target in TARGET_COLUMNS
+        },
+        index=reference.index,
+    )
 
 
 # =====================================================================
@@ -949,10 +826,11 @@ def compare_trajectories(
         suffixes=("_reference", "_surrogate"),
     )
 
-    if len(common) != len(reference) or len(common) != len(surrogate):
+    # One path may stop a step earlier than the other at the edge of the
+    # observed envelope; the comparison then covers their common times.
+    if common.empty:
         raise ValueError(
-            "Reference and surrogate trajectories do not share the same "
-            "time grid."
+            "Reference and surrogate trajectories have no common times."
         )
 
     error_columns = [
@@ -1012,6 +890,52 @@ def build_summary_metrics(
         )
 
     return pd.DataFrame(metric_rows)
+
+
+def build_model_difference_table(
+    reference: pd.DataFrame,
+    open_loop: pd.DataFrame,
+    comparison: pd.DataFrame,
+) -> pd.DataFrame:
+    """
+    Put the surrogate-reference differences next to the reference's own error.
+
+    closed_loop_rmse
+        Difference along the two separately simulated trajectories.
+    open_loop_rmse
+        Difference when the surrogate is evaluated on the reference states.
+    reference_loo_rmse
+        Phase-7 leave-one-out interpolation error of the reference itself.
+        Differences at or below this level cannot be attributed to the
+        surrogate.
+    """
+    reference_loo: dict[str, float] = {}
+
+    if REFERENCE_UNCERTAINTY_PATH.exists():
+        loo_table = pd.read_csv(REFERENCE_UNCERTAINTY_PATH)
+        reference_loo = dict(
+            zip(loo_table["target"], loo_table["rmse"])
+        )
+
+    rows = []
+
+    for target in TARGET_COLUMNS:
+        rows.append(
+            {
+                "target": target,
+                "closed_loop_rmse": rmse(
+                    comparison[f"{target}_reference"].to_numpy(dtype=float),
+                    comparison[f"{target}_surrogate"].to_numpy(dtype=float),
+                ),
+                "open_loop_rmse": rmse(
+                    reference[target].to_numpy(dtype=float),
+                    open_loop[target].to_numpy(dtype=float),
+                ),
+                "reference_loo_rmse": reference_loo.get(target, np.nan),
+            }
+        )
+
+    return pd.DataFrame(rows)
 
 
 # =====================================================================
@@ -1142,6 +1066,7 @@ def write_summary_report(
     surrogate: pd.DataFrame,
     comparison: pd.DataFrame,
     summary_metrics: pd.DataFrame,
+    model_difference: pd.DataFrame,
     build_elapsed_s: float,
     reference_load_s: float,
     surrogate_load_s: float,
@@ -1252,7 +1177,8 @@ Coast-down acceleration:
 
 `a = -(F_D + F_RR) / m`
 
-The state is integrated using a semi-implicit Euler step.
+Velocity is integrated with an explicit Euler step and distance with the
+trapezoidal rule.
 
 ## Simulation result
 
@@ -1275,6 +1201,19 @@ The state is integrated using a semi-implicit Euler step.
 The speed error is the most important end-to-end quantity in this phase:
 it measures how much the learned aerodynamic surrogate changes the simulated
 vehicle trajectory relative to the data-grounded reference path.
+
+## How much of the difference is the reference's own error?
+
+{dataframe_to_markdown_table(model_difference.round(8), float_digits=8)}
+
+- `closed_loop_rmse`: difference along the two separately simulated paths.
+- `open_loop_rmse`: difference when the surrogate is evaluated on exactly the
+  states the reference path visited, which removes state divergence.
+- `reference_loo_rmse`: the reference interpolator's own leave-one-out error
+  from Phase 7.
+
+A surrogate-reference difference at or below `reference_loo_rmse` is within
+the reference's own uncertainty and should not be read as surrogate error.
 
 ## Computational timing
 
@@ -1478,6 +1417,15 @@ def main() -> int:
         summary_metrics = build_summary_metrics(
             comparison
         )
+
+        model_difference = build_model_difference_table(
+            reference,
+            open_loop_surrogate_response(
+                surrogate_models,
+                reference,
+            ),
+            comparison,
+        )
     except Exception as exc:
         print(f"ERROR while comparing trajectories: {exc}")
         return 1
@@ -1502,8 +1450,16 @@ def main() -> int:
         "simulation_summary.csv",
     )
 
+    save_table(
+        model_difference.round(10),
+        "model_difference_vs_reference_uncertainty.csv",
+    )
+
     print("\nTrajectory error summary:\n")
     print(summary_metrics.round(8).to_string(index=False))
+
+    print("\nSurrogate-reference difference vs reference uncertainty:\n")
+    print(model_difference.round(8).to_string(index=False))
 
     # -----------------------------------------------------------------
     # Figures.
@@ -1561,6 +1517,7 @@ def main() -> int:
         surrogate=surrogate,
         comparison=comparison,
         summary_metrics=summary_metrics,
+        model_difference=model_difference,
         build_elapsed_s=simulation_elapsed_s,
         reference_load_s=reference_load_s,
         surrogate_load_s=surrogate_load_s,

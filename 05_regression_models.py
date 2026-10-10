@@ -173,7 +173,11 @@ VALIDATION_FRACTION = 0.15
 TEST_FRACTION = 0.15
 
 # Nonlinear model settings.
-EXTRA_TREES_ESTIMATORS = 250
+# Each fully grown tree is about 12 MB, so 250 trees is about 3 GB per
+# model and 9 GB for the three Extra Trees targets, which does not fit in
+# 16 GB of RAM alongside the simulator. 60 trees is about 0.7 GB per model
+# and costs roughly 5% in Cl validation RMSE (0.0138 vs 0.0131).
+EXTRA_TREES_ESTIMATORS = 60
 
 HGB_MAX_ITER = 300
 HGB_LEARNING_RATE = 0.05
@@ -450,7 +454,7 @@ def evaluate_candidate_models(
     results
         One row per target/model.
     fitted_models
-        Fitted models keyed by (target, model name).
+        Kept for interface compatibility; always empty (see below).
     """
     print_section("1. VALIDATION-SET MODEL COMPARISON")
 
@@ -492,7 +496,10 @@ def evaluate_candidate_models(
                 }
             )
 
-            fitted_models[(target, model_name)] = model
+            # The validation-fit models are not kept: the selected models
+            # are refitted from scratch on train + validation data, and each
+            # fully grown Extra Trees forest occupies gigabytes of memory.
+            del model
 
             print(
                 f"  R²   = {metrics['r2']:.8f}\n"

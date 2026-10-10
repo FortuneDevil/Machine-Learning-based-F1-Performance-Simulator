@@ -1,0 +1,947 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,1,105.67,1.0,MEDIUM,1.0,True,126,False,False,False,1.0,17.9,18.5,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,2,133.011,1.0,MEDIUM,2.0,True,671,False,False,False,1.0,18.0,18.3,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,3,109.988,1.0,MEDIUM,3.0,True,124,False,False,False,1.0,18.0,18.3,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,4,,1.0,MEDIUM,4.0,True,4,False,False,False,1.0,18.1,18.3,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,5,,1.0,MEDIUM,5.0,True,4,False,False,False,1.0,18.1,18.2,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,6,,1.0,MEDIUM,6.0,True,41,False,False,False,1.0,18.0,18.2,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,7,100.785,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,18.0,18.2,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,8,100.142,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,18.1,18.1,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,9,99.669,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,18.1,18.1,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,10,99.484,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,18.1,18.0,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,11,98.763,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,18.1,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,12,98.773,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,13,98.759,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,14,98.942,1.0,MEDIUM,14.0,True,12,True,False,False,1.0,18.2,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,15,99.477,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,18.2,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,16,104.727,1.0,MEDIUM,16.0,True,1,False,True,False,2.0,18.2,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,17,122.018,2.0,HARD,1.0,True,1,False,False,True,10.0,18.1,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,18,98.348,2.0,HARD,2.0,True,1,True,False,False,9.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,19,98.335,2.0,HARD,3.0,True,1,True,False,False,9.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,20,99.611,2.0,HARD,4.0,True,12,True,False,False,8.0,18.0,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,21,97.88,2.0,HARD,5.0,True,1,True,False,False,7.0,18.0,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,22,98.605,2.0,HARD,6.0,True,1,True,False,False,7.0,18.0,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,23,97.988,2.0,HARD,7.0,True,1,True,False,False,6.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,24,98.482,2.0,HARD,8.0,True,1,True,False,False,5.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,25,98.943,2.0,HARD,9.0,True,1,True,False,False,4.0,18.0,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,26,113.326,2.0,HARD,10.0,True,14,False,True,False,4.0,18.1,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,27,,3.0,HARD,1.0,True,4,False,False,True,5.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,28,,3.0,HARD,2.0,True,41,False,False,False,5.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,29,100.938,3.0,HARD,3.0,True,1,True,False,False,5.0,17.9,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,30,98.469,3.0,HARD,4.0,True,1,True,False,False,5.0,17.9,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,31,97.748,3.0,HARD,5.0,True,1,True,False,False,4.0,18.0,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,32,96.603,3.0,HARD,6.0,True,1,True,False,False,4.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,33,96.596,3.0,HARD,7.0,True,1,True,False,False,3.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,34,96.359,3.0,HARD,8.0,True,1,True,False,False,3.0,18.1,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,35,96.239,3.0,HARD,9.0,True,1,True,False,False,3.0,18.2,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,36,96.276,3.0,HARD,10.0,True,1,True,False,False,2.0,18.2,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,37,96.66,3.0,HARD,11.0,True,1,True,False,False,1.0,18.1,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,38,96.1,3.0,HARD,12.0,True,1,True,False,False,1.0,18.1,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,39,95.938,3.0,HARD,13.0,True,1,True,False,False,1.0,18.1,17.9,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,40,95.997,3.0,HARD,14.0,True,12,True,False,False,1.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,41,95.92,3.0,HARD,15.0,True,1,True,False,False,1.0,18.2,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,42,96.212,3.0,HARD,16.0,True,1,True,False,False,1.0,18.1,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,43,95.983,3.0,HARD,17.0,True,1,True,False,False,1.0,18.1,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,44,95.614,3.0,HARD,18.0,True,1,True,False,False,1.0,18.1,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,45,95.867,3.0,HARD,19.0,True,1,True,False,False,1.0,18.0,17.6,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,46,95.896,3.0,HARD,20.0,True,1,True,False,False,1.0,18.0,17.7,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,47,95.879,3.0,HARD,21.0,True,12,True,False,False,1.0,18.0,17.8,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,48,96.497,3.0,HARD,22.0,True,12,True,False,False,1.0,18.0,17.5,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,49,96.95,3.0,HARD,23.0,True,1,True,False,False,1.0,18.0,17.6,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,VER,Red Bull Racing,50,97.637,3.0,HARD,24.0,True,1,True,False,False,1.0,18.0,17.6,False,2.0,1.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,1,110.543,1.0,MEDIUM,1.0,True,126,False,False,False,4.0,17.9,18.5,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,2,131.689,1.0,MEDIUM,2.0,True,671,False,False,False,4.0,18.0,18.3,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,3,110.381,1.0,MEDIUM,3.0,True,124,False,False,False,4.0,18.0,18.3,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,4,,1.0,MEDIUM,4.0,True,4,False,False,False,4.0,18.1,18.3,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,5,,1.0,MEDIUM,5.0,True,4,False,False,False,4.0,18.1,18.2,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,6,,1.0,MEDIUM,6.0,True,41,False,False,False,4.0,18.0,18.2,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,7,102.346,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,18.0,18.2,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,8,100.56,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,18.1,18.1,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,9,99.677,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,18.1,18.1,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,10,99.005,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,18.1,18.0,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,11,99.446,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,12,99.088,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,13,99.41,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,14,99.776,1.0,MEDIUM,14.0,True,12,True,False,False,4.0,18.2,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,15,100.333,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,18.2,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,16,100.814,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,18.2,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,17,105.772,1.0,MEDIUM,17.0,True,1,False,True,False,4.0,18.2,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,18,117.332,2.0,HARD,1.0,True,1,False,False,True,10.0,18.1,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,19,99.315,2.0,HARD,2.0,True,1,True,False,False,10.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,20,99.218,2.0,HARD,3.0,True,12,True,False,False,10.0,18.0,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,21,98.774,2.0,HARD,4.0,True,1,True,False,False,9.0,18.0,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,22,98.683,2.0,HARD,5.0,True,1,True,False,False,9.0,18.0,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,23,98.585,2.0,HARD,6.0,True,1,True,False,False,9.0,18.0,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,24,99.209,2.0,HARD,7.0,True,1,True,False,False,8.0,18.0,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,25,98.494,2.0,HARD,8.0,True,1,True,False,False,8.0,18.0,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,26,114.475,2.0,HARD,9.0,True,14,False,False,False,8.0,18.1,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,27,,2.0,HARD,10.0,True,4,False,False,False,3.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,28,,2.0,HARD,11.0,True,41,False,False,False,3.0,18.0,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,29,101.251,2.0,HARD,12.0,True,1,True,False,False,4.0,17.9,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,30,98.72,2.0,HARD,13.0,True,1,True,False,False,4.0,17.9,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,31,98.772,2.0,HARD,14.0,True,1,True,False,False,5.0,18.0,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,32,97.736,2.0,HARD,15.0,True,1,True,False,False,5.0,18.0,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,33,97.805,2.0,HARD,16.0,True,1,True,False,False,5.0,18.0,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,34,98.586,2.0,HARD,17.0,True,1,True,False,False,6.0,18.1,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,35,97.528,2.0,HARD,18.0,True,1,True,False,False,6.0,18.2,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,36,97.126,2.0,HARD,19.0,True,1,True,False,False,6.0,18.2,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,37,96.913,2.0,HARD,20.0,True,1,True,False,False,6.0,18.1,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,38,97.004,2.0,HARD,21.0,True,1,True,False,False,6.0,18.1,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,39,97.603,2.0,HARD,22.0,True,1,True,False,False,6.0,18.1,17.9,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,40,97.789,2.0,HARD,23.0,True,12,True,False,False,6.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,41,98.76,2.0,HARD,24.0,True,1,True,False,False,7.0,18.2,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,42,98.094,2.0,HARD,25.0,True,1,True,False,False,7.0,18.1,17.8,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,43,98.666,2.0,HARD,26.0,True,1,True,False,False,8.0,18.1,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,44,99.943,2.0,HARD,27.0,True,1,True,False,False,10.0,18.1,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,45,98.829,2.0,HARD,28.0,True,1,True,False,False,10.0,18.0,17.6,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,46,98.079,2.0,HARD,29.0,True,12,True,False,False,10.0,18.0,17.7,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,47,97.907,2.0,HARD,30.0,True,21,True,False,False,10.0,18.0,17.6,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,48,98.217,2.0,HARD,31.0,True,12,True,False,False,11.0,18.0,17.5,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,49,97.952,2.0,HARD,32.0,True,1,True,False,False,11.0,18.0,17.6,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,GAS,Alpine,50,98.316,2.0,HARD,33.0,True,1,True,False,False,11.0,18.0,17.5,False,4.0,11.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,1,124.7,1.0,MEDIUM,1.0,True,126,False,True,False,11.0,17.9,18.5,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,2,145.089,2.0,HARD,1.0,True,671,False,False,True,18.0,18.0,18.3,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,3,119.273,2.0,HARD,2.0,True,124,False,False,False,17.0,18.0,18.3,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,4,,2.0,HARD,3.0,True,4,False,False,False,16.0,18.1,18.2,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,5,,2.0,HARD,4.0,True,4,False,False,False,16.0,18.1,18.2,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,6,147.131,2.0,HARD,5.0,True,41,False,False,False,16.0,18.0,18.1,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,7,104.233,2.0,HARD,6.0,True,1,True,False,False,16.0,18.0,18.2,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,8,101.395,2.0,HARD,7.0,True,1,True,False,False,16.0,18.1,18.1,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,9,100.012,2.0,HARD,8.0,True,1,True,False,False,16.0,18.1,18.1,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,10,101.988,2.0,HARD,9.0,True,1,True,False,False,14.0,18.1,18.0,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,11,99.311,2.0,HARD,10.0,True,1,True,False,False,13.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,12,99.174,2.0,HARD,11.0,True,1,True,False,False,12.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,13,98.319,2.0,HARD,12.0,True,1,True,False,False,12.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,14,99.335,2.0,HARD,13.0,True,12,True,False,False,10.0,18.2,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,15,98.223,2.0,HARD,14.0,True,1,True,False,False,9.0,18.2,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,16,98.123,2.0,HARD,15.0,True,1,True,False,False,6.0,18.2,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,17,98.568,2.0,HARD,16.0,True,1,True,False,False,3.0,18.2,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,18,98.766,2.0,HARD,17.0,True,1,True,False,False,2.0,18.1,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,19,98.398,2.0,HARD,18.0,True,1,True,False,False,2.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,20,98.413,2.0,HARD,19.0,True,12,True,False,False,2.0,18.0,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,21,98.347,2.0,HARD,20.0,True,1,True,False,False,2.0,18.0,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,22,98.191,2.0,HARD,21.0,True,1,True,False,False,1.0,18.0,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,23,98.317,2.0,HARD,22.0,True,1,True,False,False,1.0,18.0,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,24,97.969,2.0,HARD,23.0,True,1,True,False,False,1.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,25,98.359,2.0,HARD,24.0,True,1,True,False,False,1.0,18.0,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,26,112.819,2.0,HARD,25.0,True,14,False,True,False,1.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,27,,3.0,HARD,1.0,True,4,False,False,True,2.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,28,,3.0,HARD,2.0,True,41,False,False,False,2.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,29,99.457,3.0,HARD,3.0,True,1,True,False,False,2.0,17.9,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,30,98.041,3.0,HARD,4.0,True,1,True,False,False,2.0,17.9,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,31,97.314,3.0,HARD,5.0,True,1,True,False,False,2.0,18.0,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,32,97.176,3.0,HARD,6.0,True,1,True,False,False,1.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,33,97.012,3.0,HARD,7.0,True,1,True,False,False,1.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,34,96.826,3.0,HARD,8.0,True,1,True,False,False,1.0,18.1,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,35,97.706,3.0,HARD,9.0,True,1,True,False,False,2.0,18.2,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,36,97.57,3.0,HARD,10.0,True,1,True,False,False,3.0,18.2,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,37,97.055,3.0,HARD,11.0,True,1,True,False,False,3.0,18.1,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,38,96.51,3.0,HARD,12.0,True,1,True,False,False,3.0,18.1,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,39,96.119,3.0,HARD,13.0,True,1,True,False,False,3.0,18.1,17.9,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,40,95.939,3.0,HARD,14.0,True,12,True,False,False,3.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,41,96.288,3.0,HARD,15.0,True,1,True,False,False,3.0,18.2,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,42,96.637,3.0,HARD,16.0,True,1,True,False,False,3.0,18.1,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,43,96.414,3.0,HARD,17.0,True,1,True,False,False,2.0,18.1,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,44,96.586,3.0,HARD,18.0,True,1,True,False,False,2.0,18.1,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,45,96.11,3.0,HARD,19.0,True,1,True,False,False,2.0,18.0,17.6,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,46,96.164,3.0,HARD,20.0,True,1,True,False,False,2.0,18.0,17.7,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,47,96.016,3.0,HARD,21.0,True,12,True,False,False,2.0,18.0,17.8,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,48,96.287,3.0,HARD,22.0,True,12,True,False,False,2.0,18.0,17.5,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,49,96.125,3.0,HARD,23.0,True,1,True,False,False,2.0,18.0,17.6,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PER,Red Bull Racing,50,96.394,3.0,HARD,24.0,True,1,True,False,False,3.0,18.0,17.6,False,11.0,3.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,1,144.948,1.0,MEDIUM,1.0,True,126,False,True,False,19.0,17.9,18.5,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,2,136.058,2.0,HARD,2.0,False,671,False,False,True,19.0,18.0,18.3,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,3,120.953,2.0,HARD,3.0,False,124,False,False,False,18.0,18.0,18.3,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,4,,2.0,HARD,4.0,False,4,False,False,False,18.0,18.1,18.2,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,5,,2.0,HARD,5.0,False,4,False,False,False,18.0,18.1,18.2,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,6,144.971,2.0,HARD,6.0,False,41,False,False,False,18.0,18.0,18.1,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,7,104.117,2.0,HARD,7.0,False,1,True,False,False,17.0,18.0,18.2,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,8,101.247,2.0,HARD,8.0,False,1,True,False,False,17.0,18.1,18.1,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,9,100.477,2.0,HARD,9.0,False,1,True,False,False,17.0,18.1,18.1,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,10,101.68,2.0,HARD,10.0,False,1,True,False,False,16.0,18.1,18.0,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,11,100.779,2.0,HARD,11.0,False,1,True,False,False,17.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,12,100.034,2.0,HARD,12.0,False,1,True,False,False,16.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,13,100.409,2.0,HARD,13.0,False,1,True,False,False,15.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,14,97.964,2.0,HARD,14.0,False,12,True,False,False,14.0,18.2,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,15,98.547,2.0,HARD,15.0,False,1,True,False,False,13.0,18.2,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,16,101.693,2.0,HARD,16.0,False,1,True,False,False,12.0,18.2,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,17,100.083,2.0,HARD,17.0,False,1,True,False,False,8.0,18.2,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,18,99.603,2.0,HARD,18.0,False,1,True,False,False,6.0,18.1,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,19,99.256,2.0,HARD,19.0,False,1,True,False,False,6.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,20,99.185,2.0,HARD,20.0,False,12,True,False,False,6.0,18.0,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,21,99.602,2.0,HARD,21.0,False,1,True,False,False,5.0,18.0,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,22,100.032,2.0,HARD,22.0,False,1,True,False,False,6.0,18.0,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,23,100.929,2.0,HARD,23.0,False,1,True,False,False,7.0,18.0,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,24,99.827,2.0,HARD,24.0,False,1,True,False,False,7.0,18.0,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,25,99.777,2.0,HARD,25.0,False,1,True,False,False,7.0,18.0,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,26,117.613,2.0,HARD,26.0,False,14,False,True,False,7.0,18.1,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,27,,3.0,HARD,1.0,False,4,False,False,True,12.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,28,,3.0,HARD,2.0,False,41,False,False,False,12.0,18.0,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,29,101.213,3.0,HARD,3.0,False,1,True,False,False,11.0,17.9,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,30,99.645,3.0,HARD,4.0,False,1,True,False,False,11.0,17.9,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,31,98.211,3.0,HARD,5.0,False,1,True,False,False,11.0,18.0,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,32,97.769,3.0,HARD,6.0,False,1,True,False,False,11.0,18.0,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,33,98.291,3.0,HARD,7.0,False,1,True,False,False,11.0,18.0,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,34,97.757,3.0,HARD,8.0,False,1,True,False,False,11.0,18.1,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,35,97.614,3.0,HARD,9.0,False,1,True,False,False,11.0,18.2,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,36,97.797,3.0,HARD,10.0,False,1,True,False,False,11.0,18.2,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,37,97.879,3.0,HARD,11.0,False,1,True,False,False,11.0,18.1,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,38,97.759,3.0,HARD,12.0,False,1,True,False,False,11.0,18.1,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,39,98.048,3.0,HARD,13.0,False,1,True,False,False,11.0,18.1,17.9,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,40,97.628,3.0,HARD,14.0,False,12,True,False,False,10.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,41,96.704,3.0,HARD,15.0,False,1,True,False,False,10.0,18.2,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,42,96.559,3.0,HARD,16.0,False,1,True,False,False,10.0,18.1,17.8,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,43,96.801,3.0,HARD,17.0,False,1,True,False,False,10.0,18.1,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,44,97.992,3.0,HARD,18.0,False,1,True,False,False,8.0,18.1,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,45,96.68,3.0,HARD,19.0,False,1,True,False,False,8.0,18.0,17.6,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,46,97.178,3.0,HARD,20.0,False,1,True,False,False,9.0,18.0,17.7,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,47,96.718,3.0,HARD,21.0,False,12,True,False,False,9.0,18.0,17.6,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,48,97.288,3.0,HARD,22.0,False,12,True,False,False,9.0,18.0,17.5,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,49,96.703,3.0,HARD,23.0,False,1,True,False,False,9.0,18.0,17.6,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALO,Aston Martin,50,96.966,3.0,HARD,24.0,False,1,True,False,False,9.0,18.0,17.6,False,9.0,9.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,1,107.347,1.0,MEDIUM,1.0,True,126,False,False,False,2.0,17.9,18.5,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,2,132.973,1.0,MEDIUM,2.0,True,671,False,False,False,2.0,18.0,18.3,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,3,109.263,1.0,MEDIUM,3.0,True,124,False,False,False,2.0,18.0,18.3,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,4,,1.0,MEDIUM,4.0,True,4,False,False,False,2.0,18.1,18.3,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,5,,1.0,MEDIUM,5.0,True,4,False,False,False,2.0,18.1,18.2,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,6,,1.0,MEDIUM,6.0,True,41,False,False,False,2.0,18.0,18.2,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,7,101.488,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,18.0,18.2,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,8,100.393,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,18.1,18.1,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,9,99.755,1.0,MEDIUM,9.0,True,1,True,False,False,2.0,18.1,18.1,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,10,99.107,1.0,MEDIUM,10.0,True,1,True,False,False,2.0,18.1,18.0,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,11,98.843,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,12,98.955,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,13,98.604,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,14,98.489,1.0,MEDIUM,14.0,True,12,True,False,False,2.0,18.2,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,15,98.587,1.0,MEDIUM,15.0,True,1,True,False,False,2.0,18.2,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,16,99.488,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,18.2,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,17,98.107,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,18.1,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,18,98.994,1.0,MEDIUM,18.0,True,1,True,False,False,1.0,18.1,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,19,98.518,1.0,MEDIUM,19.0,True,1,True,False,False,1.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,20,99.056,1.0,MEDIUM,20.0,True,12,True,False,False,1.0,18.1,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,21,103.38,1.0,MEDIUM,21.0,True,1,False,True,False,1.0,18.0,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,22,117.531,2.0,HARD,1.0,True,1,False,False,True,3.0,18.0,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,23,99.233,2.0,HARD,2.0,True,1,True,False,False,3.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,24,98.033,2.0,HARD,3.0,True,1,True,False,False,3.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,25,98.118,2.0,HARD,4.0,True,1,True,False,False,2.0,18.0,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,26,109.485,2.0,HARD,5.0,True,14,False,False,False,2.0,18.1,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,27,,2.0,HARD,6.0,True,4,False,False,False,1.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,28,,2.0,HARD,7.0,True,41,False,False,False,1.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,29,99.672,2.0,HARD,8.0,True,1,True,False,False,1.0,17.9,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,30,98.228,2.0,HARD,9.0,True,1,True,False,False,1.0,17.9,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,31,97.227,2.0,HARD,10.0,True,1,True,False,False,1.0,18.0,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,32,98.135,2.0,HARD,11.0,True,1,True,False,False,2.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,33,97.337,2.0,HARD,12.0,True,1,True,False,False,2.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,34,96.687,2.0,HARD,13.0,True,1,True,False,False,2.0,18.1,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,35,96.647,2.0,HARD,14.0,True,1,True,False,False,1.0,18.2,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,36,96.562,2.0,HARD,15.0,True,1,True,False,False,1.0,18.2,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,37,97.929,2.0,HARD,16.0,True,1,True,False,False,2.0,18.1,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,38,96.256,2.0,HARD,17.0,True,1,True,False,False,2.0,18.1,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,39,96.141,2.0,HARD,18.0,True,1,True,False,False,2.0,18.1,17.9,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,40,96.121,2.0,HARD,19.0,True,12,True,False,False,2.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,41,96.457,2.0,HARD,20.0,True,1,True,False,False,2.0,18.2,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,42,96.527,2.0,HARD,21.0,True,1,True,False,False,2.0,18.1,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,43,98.449,2.0,HARD,22.0,True,1,True,False,False,3.0,18.1,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,44,96.126,2.0,HARD,23.0,True,1,True,False,False,3.0,18.1,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,45,95.713,2.0,HARD,24.0,True,1,True,False,False,3.0,18.0,17.6,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,46,96.091,2.0,HARD,25.0,True,1,True,False,False,3.0,18.0,17.7,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,47,95.995,2.0,HARD,26.0,True,12,True,False,False,3.0,18.0,17.8,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,48,96.552,2.0,HARD,27.0,True,12,True,False,False,3.0,18.0,17.5,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,49,95.868,2.0,HARD,28.0,True,1,True,False,False,3.0,18.0,17.6,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,LEC,Ferrari,50,95.669,2.0,HARD,29.0,True,1,True,False,False,2.0,18.0,17.6,False,1.0,2.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,1,119.754,1.0,SOFT,5.0,False,126,False,False,False,9.0,17.9,18.5,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,2,127.021,1.0,SOFT,6.0,False,671,False,False,False,9.0,18.0,18.3,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,3,117.862,1.0,SOFT,7.0,False,124,False,True,False,10.0,18.0,18.3,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,4,,2.0,HARD,2.0,False,4,False,False,True,15.0,18.1,18.2,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,5,,2.0,HARD,3.0,False,4,False,False,False,15.0,18.1,18.2,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,6,149.373,2.0,HARD,4.0,False,41,False,False,False,15.0,18.0,18.2,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,7,103.79,2.0,HARD,5.0,False,1,True,False,False,15.0,18.0,18.2,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,8,101.768,2.0,HARD,6.0,False,1,True,False,False,15.0,18.1,18.1,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,9,100.346,2.0,HARD,7.0,False,1,True,False,False,15.0,18.1,18.1,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,10,102.36,2.0,HARD,8.0,False,1,True,False,False,15.0,18.1,18.0,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,11,100.009,2.0,HARD,9.0,False,1,True,False,False,15.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,12,99.732,2.0,HARD,10.0,False,1,True,False,False,13.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,13,99.056,2.0,HARD,11.0,False,1,True,False,False,13.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,14,98.799,2.0,HARD,12.0,False,12,True,False,False,12.0,18.2,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,15,99.566,2.0,HARD,13.0,False,1,True,False,False,10.0,18.2,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,16,98.701,2.0,HARD,14.0,False,1,True,False,False,8.0,18.2,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,17,99.372,2.0,HARD,15.0,False,1,True,False,False,5.0,18.2,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,18,98.919,2.0,HARD,16.0,False,1,True,False,False,4.0,18.1,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,19,98.833,2.0,HARD,17.0,False,1,True,False,False,4.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,20,99.953,2.0,HARD,18.0,False,12,True,False,False,3.0,18.0,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,21,99.502,2.0,HARD,19.0,False,1,True,False,False,3.0,18.0,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,22,99.235,2.0,HARD,20.0,False,1,True,False,False,2.0,18.0,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,23,99.025,2.0,HARD,21.0,False,1,True,False,False,2.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,24,99.149,2.0,HARD,22.0,False,1,True,False,False,2.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,25,99.779,2.0,HARD,23.0,False,1,True,False,False,3.0,18.0,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,26,115.916,2.0,HARD,24.0,False,14,False,True,False,3.0,18.1,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,27,,3.0,HARD,1.0,False,4,False,False,True,7.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,28,,3.0,HARD,2.0,False,41,False,False,False,7.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,29,101.723,3.0,HARD,3.0,False,1,True,False,False,8.0,17.9,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,30,98.802,3.0,HARD,4.0,False,1,True,False,False,8.0,17.9,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,31,98.084,3.0,HARD,5.0,False,1,True,False,False,8.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,32,97.883,3.0,HARD,6.0,False,1,True,False,False,8.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,33,97.622,3.0,HARD,7.0,False,1,True,False,False,8.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,34,97.783,3.0,HARD,8.0,False,1,True,False,False,8.0,18.1,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,35,97.887,3.0,HARD,9.0,False,1,True,False,False,7.0,18.2,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,36,97.358,3.0,HARD,10.0,False,1,True,False,False,7.0,18.2,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,37,97.234,3.0,HARD,11.0,False,1,True,False,False,7.0,18.1,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,38,96.853,3.0,HARD,12.0,False,1,True,False,False,7.0,18.1,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,39,96.816,3.0,HARD,13.0,False,1,True,False,False,7.0,18.1,17.9,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,40,96.932,3.0,HARD,14.0,False,12,True,False,False,7.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,41,97.741,3.0,HARD,15.0,False,1,True,False,False,6.0,18.2,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,42,97.078,3.0,HARD,16.0,False,1,True,False,False,6.0,18.1,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,43,96.941,3.0,HARD,17.0,False,1,True,False,False,6.0,18.1,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,44,96.763,3.0,HARD,18.0,False,1,True,False,False,5.0,18.1,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,45,96.584,3.0,HARD,19.0,False,1,True,False,False,5.0,18.0,17.6,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,46,96.868,3.0,HARD,20.0,False,1,True,False,False,5.0,18.0,17.7,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,47,96.791,3.0,HARD,21.0,False,12,True,False,False,5.0,18.0,17.8,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,48,97.692,3.0,HARD,22.0,False,12,True,False,False,6.0,18.0,17.5,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,49,96.99,3.0,HARD,23.0,False,1,True,False,False,6.0,18.0,17.6,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,STR,Aston Martin,50,96.642,3.0,HARD,24.0,False,1,True,False,False,6.0,18.0,17.6,False,19.0,5.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,1,115.541,1.0,MEDIUM,1.0,True,126,False,False,False,6.0,17.9,18.5,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,2,128.217,1.0,MEDIUM,2.0,True,671,False,False,False,6.0,18.0,18.3,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,3,112.771,1.0,MEDIUM,3.0,True,124,False,False,False,6.0,18.0,18.3,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,4,,1.0,MEDIUM,4.0,True,4,False,False,False,6.0,18.1,18.3,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,5,,1.0,MEDIUM,5.0,True,4,False,False,False,6.0,18.1,18.2,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,6,,1.0,MEDIUM,6.0,True,41,False,False,False,6.0,18.0,18.2,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,7,102.737,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,18.0,18.2,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,8,100.817,1.0,MEDIUM,8.0,True,1,True,False,False,6.0,18.1,18.1,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,9,100.229,1.0,MEDIUM,9.0,True,1,True,False,False,6.0,18.1,18.1,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,10,100.171,1.0,MEDIUM,10.0,True,1,True,False,False,6.0,18.1,18.0,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,11,99.887,1.0,MEDIUM,11.0,True,1,True,False,False,6.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,12,99.357,1.0,MEDIUM,12.0,True,1,True,False,False,6.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,13,99.693,1.0,MEDIUM,13.0,True,1,True,False,False,6.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,14,102.164,1.0,MEDIUM,14.0,True,12,True,False,False,9.0,18.2,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,15,106.786,1.0,MEDIUM,15.0,True,1,False,True,False,14.0,18.2,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,16,116.51,2.0,HARD,1.0,True,1,False,False,True,16.0,18.2,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,17,99.945,2.0,HARD,2.0,True,1,True,False,False,15.0,18.2,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,18,100.132,2.0,HARD,3.0,True,1,True,False,False,14.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,19,100.113,2.0,HARD,4.0,True,1,True,False,False,14.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,20,99.454,2.0,HARD,5.0,True,12,True,False,False,13.0,18.0,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,21,99.362,2.0,HARD,6.0,True,1,True,False,False,13.0,18.0,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,22,98.51,2.0,HARD,7.0,True,1,True,False,False,13.0,18.0,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,23,98.671,2.0,HARD,8.0,True,1,True,False,False,13.0,18.0,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,24,98.448,2.0,HARD,9.0,True,1,True,False,False,13.0,18.0,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,25,99.336,2.0,HARD,10.0,True,1,True,False,False,13.0,18.0,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,26,117.91,2.0,HARD,11.0,True,14,False,False,False,13.0,18.1,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,27,,2.0,HARD,12.0,True,4,False,False,False,11.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,28,,2.0,HARD,13.0,True,41,False,False,False,11.0,18.0,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,29,102.631,2.0,HARD,14.0,True,1,True,False,False,13.0,17.9,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,30,99.447,2.0,HARD,15.0,True,1,True,False,False,13.0,17.9,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,31,98.757,2.0,HARD,16.0,True,1,True,False,False,13.0,18.0,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,32,97.74,2.0,HARD,17.0,True,1,True,False,False,13.0,18.0,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,33,98.253,2.0,HARD,18.0,True,1,True,False,False,13.0,18.0,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,34,98.803,2.0,HARD,19.0,True,1,True,False,False,14.0,18.1,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,35,97.915,2.0,HARD,20.0,True,1,True,False,False,14.0,18.2,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,36,98.198,2.0,HARD,21.0,True,1,True,False,False,14.0,18.2,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,37,98.694,2.0,HARD,22.0,True,1,True,False,False,14.0,18.1,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,38,98.611,2.0,HARD,23.0,True,1,True,False,False,14.0,18.1,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,39,98.304,2.0,HARD,24.0,True,1,True,False,False,14.0,18.1,17.9,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,40,99.781,2.0,HARD,25.0,True,12,True,False,False,15.0,18.1,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,41,98.695,2.0,HARD,26.0,True,1,True,False,False,15.0,18.2,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,42,100.057,2.0,HARD,27.0,True,1,True,False,False,16.0,18.2,17.8,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,43,98.65,2.0,HARD,28.0,True,1,True,False,False,16.0,18.1,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,44,98.942,2.0,HARD,29.0,True,1,True,False,False,16.0,18.1,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,45,98.569,2.0,HARD,30.0,True,1,True,False,False,17.0,18.0,17.6,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,46,98.814,2.0,HARD,31.0,True,12,True,False,False,16.0,18.0,17.7,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,47,98.397,2.0,HARD,32.0,True,1,True,False,False,16.0,18.0,17.6,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,48,98.288,2.0,HARD,33.0,True,12,True,False,False,16.0,18.0,17.6,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,49,98.631,2.0,HARD,34.0,True,1,True,False,False,16.0,18.0,17.6,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAR,Williams,50,98.086,2.0,HARD,35.0,True,1,True,False,False,16.0,18.0,17.5,False,6.0,16.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,1,116.721,1.0,MEDIUM,1.0,True,126,False,False,False,7.0,17.9,18.5,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,2,128.237,1.0,MEDIUM,2.0,True,671,False,False,False,7.0,18.0,18.3,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,3,115.236,1.0,MEDIUM,3.0,True,124,False,False,False,8.0,18.0,18.3,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,4,,1.0,MEDIUM,4.0,True,4,False,False,False,8.0,18.1,18.3,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,5,,1.0,MEDIUM,5.0,True,4,False,False,False,8.0,18.1,18.2,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,6,,1.0,MEDIUM,6.0,True,41,False,False,False,7.0,18.0,18.2,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,7,103.315,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,18.0,18.2,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,8,101.379,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,18.1,18.1,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,9,101.079,1.0,MEDIUM,9.0,True,1,True,False,False,8.0,18.1,18.1,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,10,101.089,1.0,MEDIUM,10.0,True,1,True,False,False,9.0,18.1,18.0,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,11,100.803,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,12,99.917,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,13,99.792,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,14,105.961,1.0,MEDIUM,14.0,True,12,False,True,False,15.0,18.2,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,15,116.111,2.0,HARD,1.0,True,1,False,False,True,17.0,18.2,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,16,99.935,2.0,HARD,2.0,True,1,True,False,False,17.0,18.2,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,17,99.801,2.0,HARD,3.0,True,1,True,False,False,17.0,18.2,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,18,99.935,2.0,HARD,4.0,True,1,True,False,False,15.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,19,99.88,2.0,HARD,5.0,True,1,True,False,False,15.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,20,99.806,2.0,HARD,6.0,True,12,True,False,False,15.0,18.0,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,21,99.878,2.0,HARD,7.0,True,1,True,False,False,14.0,18.0,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,22,99.209,2.0,HARD,8.0,True,1,True,False,False,14.0,18.0,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,23,99.577,2.0,HARD,9.0,True,1,True,False,False,14.0,18.0,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,24,99.453,2.0,HARD,10.0,True,1,True,False,False,14.0,18.0,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,25,99.867,2.0,HARD,11.0,True,1,True,False,False,14.0,18.0,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,26,122.844,2.0,HARD,12.0,True,14,False,True,False,14.0,18.1,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,27,,3.0,HARD,1.0,True,4,False,False,True,14.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,28,,3.0,HARD,2.0,True,41,False,False,False,14.0,18.0,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,29,101.697,3.0,HARD,3.0,True,1,True,False,False,14.0,17.9,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,30,99.701,3.0,HARD,4.0,True,1,True,False,False,14.0,17.9,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,31,98.757,3.0,HARD,5.0,True,1,True,False,False,14.0,18.0,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,32,98.174,3.0,HARD,6.0,True,1,True,False,False,14.0,18.0,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,33,98.032,3.0,HARD,7.0,True,1,True,False,False,15.0,18.0,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,34,98.734,3.0,HARD,8.0,True,1,True,False,False,15.0,18.1,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,35,98.158,3.0,HARD,9.0,True,1,True,False,False,15.0,18.2,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,36,97.721,3.0,HARD,10.0,True,1,True,False,False,15.0,18.2,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,37,98.615,3.0,HARD,11.0,True,1,True,False,False,15.0,18.1,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,38,98.684,3.0,HARD,12.0,True,1,True,False,False,15.0,18.1,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,39,98.163,3.0,HARD,13.0,True,1,True,False,False,15.0,18.1,17.9,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,40,98.687,3.0,HARD,14.0,True,12,True,False,False,14.0,18.1,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,41,98.455,3.0,HARD,15.0,True,1,True,False,False,14.0,18.2,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,42,98.134,3.0,HARD,16.0,True,1,True,False,False,14.0,18.2,17.8,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,43,97.915,3.0,HARD,17.0,True,1,True,False,False,14.0,18.1,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,44,98.693,3.0,HARD,18.0,True,1,True,False,False,14.0,18.1,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,45,98.597,3.0,HARD,19.0,True,1,True,False,False,14.0,18.0,17.6,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,46,98.918,3.0,HARD,20.0,True,12,True,False,False,13.0,18.0,17.7,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,47,98.215,3.0,HARD,21.0,True,1,True,False,False,13.0,18.0,17.6,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,48,97.774,3.0,HARD,22.0,True,12,True,False,False,13.0,18.0,17.5,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,49,97.476,3.0,HARD,23.0,True,1,True,False,False,13.0,18.0,17.6,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,MAG,Haas F1 Team,50,97.455,3.0,HARD,24.0,True,1,True,False,False,13.0,18.0,17.5,False,8.0,13.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,1,125.227,1.0,SOFT,1.0,True,126,False,False,False,12.0,17.9,18.5,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,2,122.828,1.0,SOFT,2.0,True,671,False,False,False,11.0,18.0,18.3,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,3,118.278,1.0,SOFT,3.0,True,124,False,False,False,11.0,18.0,18.3,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,4,,1.0,SOFT,4.0,True,4,False,False,False,10.0,18.1,18.2,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,5,,1.0,SOFT,5.0,True,4,False,False,False,10.0,18.1,18.2,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,6,,1.0,SOFT,6.0,True,41,False,False,False,10.0,18.0,18.2,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,7,103.863,1.0,SOFT,7.0,True,1,True,False,False,11.0,18.0,18.2,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,8,102.303,1.0,SOFT,8.0,True,1,True,False,False,12.0,18.1,18.1,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,9,101.561,1.0,SOFT,9.0,True,1,True,False,False,12.0,18.1,18.1,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,10,108.267,1.0,SOFT,10.0,True,1,False,True,False,19.0,18.1,18.0,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,11,119.18,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,18.1,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,12,100.181,2.0,MEDIUM,2.0,True,1,True,False,False,19.0,18.1,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,13,99.928,2.0,MEDIUM,3.0,True,1,True,False,False,19.0,18.2,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,14,100.334,2.0,MEDIUM,4.0,True,12,True,False,False,19.0,18.2,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,15,99.865,2.0,MEDIUM,5.0,True,1,True,False,False,19.0,18.2,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,16,99.895,2.0,MEDIUM,6.0,True,1,True,False,False,19.0,18.1,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,17,100.142,2.0,MEDIUM,7.0,True,1,True,False,False,19.0,18.2,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,18,100.171,2.0,MEDIUM,8.0,True,1,True,False,False,17.0,18.1,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,19,100.825,2.0,MEDIUM,9.0,True,1,True,False,False,17.0,18.1,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,20,101.259,2.0,MEDIUM,10.0,True,12,True,False,False,17.0,18.0,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,21,108.249,2.0,MEDIUM,11.0,True,1,False,True,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,22,120.216,3.0,HARD,1.0,True,1,False,False,True,19.0,18.0,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,23,100.978,3.0,HARD,2.0,True,1,True,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,24,100.432,3.0,HARD,3.0,True,1,True,False,False,19.0,18.0,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,25,100.094,3.0,HARD,4.0,True,1,True,False,False,19.0,18.1,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,26,133.792,3.0,HARD,5.0,True,14,False,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,27,132.926,3.0,HARD,6.0,True,4,False,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,28,126.114,3.0,HARD,7.0,True,41,False,False,False,19.0,18.0,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,29,103.333,3.0,HARD,8.0,True,1,True,False,False,19.0,17.9,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,30,101.279,3.0,HARD,9.0,True,1,True,False,False,19.0,17.9,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,31,100.687,3.0,HARD,10.0,True,1,True,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,32,100.396,3.0,HARD,11.0,True,1,True,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,33,100.29,3.0,HARD,12.0,True,1,True,False,False,19.0,18.0,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,34,100.334,3.0,HARD,13.0,True,1,True,False,False,19.0,18.1,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,35,100.567,3.0,HARD,14.0,True,1,True,False,False,19.0,18.2,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,36,100.209,3.0,HARD,15.0,True,1,True,False,False,18.0,18.2,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,37,98.836,3.0,HARD,16.0,True,1,True,False,False,18.0,18.2,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,38,98.957,3.0,HARD,17.0,True,1,True,False,False,18.0,18.1,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,39,98.689,3.0,HARD,18.0,True,1,True,False,False,18.0,18.1,17.9,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,40,98.391,3.0,HARD,19.0,True,12,True,False,False,18.0,18.2,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,41,98.004,3.0,HARD,20.0,True,1,True,False,False,18.0,18.2,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,42,98.155,3.0,HARD,21.0,True,1,True,False,False,18.0,18.2,17.8,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,43,97.945,3.0,HARD,22.0,True,1,True,False,False,18.0,18.1,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,44,97.73,3.0,HARD,23.0,True,1,True,False,False,18.0,18.1,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,45,97.587,3.0,HARD,24.0,True,1,True,False,False,18.0,18.0,17.6,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,46,97.906,3.0,HARD,25.0,True,12,True,False,False,17.0,18.0,17.7,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,TSU,AlphaTauri,47,,3.0,HARD,26.0,True,12,False,False,False,,18.0,17.6,False,20.0,18.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,1,112.364,1.0,MEDIUM,1.0,True,126,False,False,False,5.0,17.9,18.5,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,2,130.827,1.0,MEDIUM,2.0,True,671,False,False,False,5.0,18.0,18.3,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,3,110.764,1.0,MEDIUM,3.0,True,124,False,False,False,5.0,18.0,18.3,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,4,,1.0,MEDIUM,4.0,True,4,False,False,False,5.0,18.1,18.3,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,5,,1.0,MEDIUM,5.0,True,4,False,False,False,5.0,18.1,18.2,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,6,,1.0,MEDIUM,6.0,True,41,False,False,False,5.0,18.0,18.2,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,7,102.484,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,18.0,18.2,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,8,100.682,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,18.1,18.1,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,9,100.37,1.0,MEDIUM,9.0,True,1,True,False,False,5.0,18.1,18.1,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,10,100.097,1.0,MEDIUM,10.0,True,1,True,False,False,5.0,18.1,18.0,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,11,99.964,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,12,99.283,1.0,MEDIUM,12.0,True,1,True,False,False,5.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,13,99.733,1.0,MEDIUM,13.0,True,1,True,False,False,5.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,14,100.042,1.0,MEDIUM,14.0,True,12,True,False,False,5.0,18.2,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,15,100.515,1.0,MEDIUM,15.0,True,1,True,False,False,5.0,18.2,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,16,105.842,1.0,MEDIUM,16.0,True,1,False,True,False,7.0,18.2,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,17,117.184,2.0,HARD,1.0,True,1,False,False,True,13.0,18.2,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,18,99.548,2.0,HARD,2.0,True,1,True,False,False,11.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,19,99.834,2.0,HARD,3.0,True,1,True,False,False,11.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,20,99.309,2.0,HARD,4.0,True,12,True,False,False,11.0,18.0,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,21,98.688,2.0,HARD,5.0,True,1,True,False,False,10.0,18.0,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,22,99.061,2.0,HARD,6.0,True,1,True,False,False,11.0,18.0,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,23,98.609,2.0,HARD,7.0,True,1,True,False,False,11.0,18.0,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,24,99.166,2.0,HARD,8.0,True,1,True,False,False,12.0,18.0,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,25,99.279,2.0,HARD,9.0,True,1,True,False,False,12.0,18.0,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,26,115.77,2.0,HARD,10.0,True,14,False,False,False,11.0,18.1,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,27,,2.0,HARD,11.0,True,4,False,False,False,8.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,28,,2.0,HARD,12.0,True,41,False,False,False,8.0,18.0,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,29,100.665,2.0,HARD,13.0,True,1,True,False,False,7.0,17.9,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,30,98.865,2.0,HARD,14.0,True,1,True,False,False,7.0,17.9,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,31,97.996,2.0,HARD,15.0,True,1,True,False,False,7.0,18.0,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,32,98.07,2.0,HARD,16.0,True,1,True,False,False,7.0,18.0,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,33,97.789,2.0,HARD,17.0,True,1,True,False,False,7.0,18.0,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,34,97.96,2.0,HARD,18.0,True,1,True,False,False,7.0,18.1,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,35,98.394,2.0,HARD,19.0,True,1,True,False,False,8.0,18.2,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,36,98.491,2.0,HARD,20.0,True,1,True,False,False,8.0,18.2,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,37,98.099,2.0,HARD,21.0,True,1,True,False,False,8.0,18.1,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,38,97.788,2.0,HARD,22.0,True,1,True,False,False,8.0,18.1,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,39,98.652,2.0,HARD,23.0,True,1,True,False,False,9.0,18.1,17.9,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,40,101.17,2.0,HARD,24.0,True,12,True,False,False,12.0,18.1,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,41,99.349,2.0,HARD,25.0,True,1,True,False,False,12.0,18.2,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,42,98.718,2.0,HARD,26.0,True,1,True,False,False,12.0,18.2,17.8,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,43,98.565,2.0,HARD,27.0,True,1,True,False,False,12.0,18.1,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,44,99.131,2.0,HARD,28.0,True,1,True,False,False,12.0,18.1,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,45,98.508,2.0,HARD,29.0,True,1,True,False,False,12.0,18.0,17.6,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,46,98.284,2.0,HARD,30.0,True,12,True,False,False,12.0,18.0,17.7,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,47,98.398,2.0,HARD,31.0,True,1,True,False,False,12.0,18.0,17.6,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,48,98.096,2.0,HARD,32.0,True,12,True,False,False,12.0,18.0,17.5,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,49,97.875,2.0,HARD,33.0,True,1,True,False,False,12.0,18.0,17.6,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ALB,Williams,50,97.357,2.0,HARD,34.0,True,1,True,False,False,12.0,18.0,17.5,False,5.0,12.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,1,138.054,1.0,HARD,1.0,True,126,False,False,False,17.0,17.9,18.5,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,2,116.106,1.0,HARD,2.0,True,671,False,False,False,16.0,18.0,18.3,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,3,119.075,1.0,HARD,3.0,True,124,False,False,False,15.0,18.0,18.3,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,4,,1.0,HARD,4.0,True,4,False,False,False,14.0,18.1,18.2,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,5,,1.0,HARD,5.0,True,4,False,False,False,14.0,18.1,18.2,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,6,,1.0,HARD,6.0,True,41,False,False,False,14.0,18.0,18.2,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,7,103.063,1.0,HARD,7.0,True,1,True,False,False,13.0,18.0,18.2,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,8,101.996,1.0,HARD,8.0,True,1,True,False,False,13.0,18.1,18.1,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,9,100.813,1.0,HARD,9.0,True,1,True,False,False,13.0,18.1,18.1,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,10,99.733,1.0,HARD,10.0,True,1,True,False,False,12.0,18.1,18.0,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,11,100.064,1.0,HARD,11.0,True,1,True,False,False,11.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,12,99.655,1.0,HARD,12.0,True,1,True,False,False,11.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,13,99.466,1.0,HARD,13.0,True,1,True,False,False,11.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,14,100.693,1.0,HARD,14.0,True,12,True,False,False,11.0,18.2,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,15,101.206,1.0,HARD,15.0,True,1,True,False,False,11.0,18.2,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,16,101.027,1.0,HARD,16.0,True,1,True,False,False,11.0,18.2,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,17,100.336,1.0,HARD,17.0,True,1,True,False,False,7.0,18.2,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,18,100.913,1.0,HARD,18.0,True,1,True,False,False,7.0,18.1,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,19,101.164,1.0,HARD,19.0,True,1,True,False,False,8.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,20,101.346,1.0,HARD,20.0,True,12,True,False,False,9.0,18.0,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,21,100.203,1.0,HARD,21.0,True,1,True,False,False,8.0,18.0,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,22,100.246,1.0,HARD,22.0,True,1,True,False,False,8.0,18.0,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,23,100.314,1.0,HARD,23.0,True,1,True,False,False,8.0,18.0,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,24,100.381,1.0,HARD,24.0,True,1,True,False,False,9.0,18.0,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,25,101.491,1.0,HARD,25.0,True,1,True,False,False,11.0,18.0,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,26,119.78,1.0,HARD,26.0,True,14,False,True,False,12.0,18.1,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,27,,2.0,MEDIUM,1.0,True,4,False,False,True,13.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,28,,2.0,MEDIUM,2.0,True,41,False,False,False,13.0,18.0,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,29,101.179,2.0,MEDIUM,3.0,True,1,True,False,False,12.0,17.9,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,30,99.59,2.0,MEDIUM,4.0,True,1,True,False,False,12.0,17.9,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,31,98.864,2.0,MEDIUM,5.0,True,1,True,False,False,12.0,18.0,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,32,97.375,2.0,MEDIUM,6.0,True,1,True,False,False,12.0,18.0,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,33,98.043,2.0,MEDIUM,7.0,True,1,True,False,False,12.0,18.0,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,34,97.847,2.0,MEDIUM,8.0,True,1,True,False,False,12.0,18.1,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,35,97.582,2.0,MEDIUM,9.0,True,1,True,False,False,12.0,18.2,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,36,97.897,2.0,MEDIUM,10.0,True,1,True,False,False,12.0,18.2,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,37,98.42,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,18.1,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,38,98.384,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,18.1,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,39,98.89,2.0,MEDIUM,13.0,True,1,True,False,False,13.0,18.1,17.9,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,40,98.751,2.0,MEDIUM,14.0,True,12,True,False,False,13.0,18.1,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,41,98.618,2.0,MEDIUM,15.0,True,1,True,False,False,13.0,18.2,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,42,99.026,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,18.2,17.8,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,43,98.321,2.0,MEDIUM,17.0,True,1,True,False,False,13.0,18.1,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,44,99.741,2.0,MEDIUM,18.0,True,1,True,False,False,13.0,18.1,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,45,98.534,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,18.0,17.6,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,46,99.897,2.0,MEDIUM,20.0,True,12,True,False,False,14.0,18.0,17.7,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,47,98.719,2.0,MEDIUM,21.0,True,1,True,False,False,14.0,18.0,17.6,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,48,99.303,2.0,MEDIUM,22.0,True,12,True,False,False,14.0,18.0,17.5,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,49,99.425,2.0,MEDIUM,23.0,True,1,True,False,False,15.0,18.0,17.6,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,ZHO,Alfa Romeo,50,98.315,2.0,MEDIUM,24.0,True,1,True,False,False,15.0,18.0,17.5,False,17.0,15.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,1,122.459,1.0,MEDIUM,1.0,True,126,False,False,False,10.0,17.9,18.5,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,2,124.852,1.0,MEDIUM,2.0,True,671,False,False,False,10.0,18.0,18.3,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,3,115.664,1.0,MEDIUM,3.0,True,124,False,False,False,9.0,18.0,18.3,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,4,,1.0,MEDIUM,4.0,True,4,False,False,False,9.0,18.1,18.3,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,5,,1.0,MEDIUM,5.0,True,4,False,False,False,9.0,18.1,18.2,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,6,,1.0,MEDIUM,6.0,True,41,False,False,False,9.0,18.0,18.2,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,7,103.232,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,18.0,18.2,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,8,102.01,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,18.1,18.1,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,9,100.422,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,18.1,18.1,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,10,101.668,1.0,MEDIUM,10.0,True,1,True,False,False,11.0,18.1,18.0,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,11,101.921,1.0,MEDIUM,11.0,True,1,True,False,False,12.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,12,105.802,1.0,MEDIUM,12.0,True,1,False,True,False,17.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,13,117.413,2.0,HARD,1.0,True,1,False,False,True,18.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,14,99.472,2.0,HARD,2.0,True,12,True,False,False,18.0,18.2,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,15,98.701,2.0,HARD,3.0,True,1,True,False,False,18.0,18.2,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,16,98.635,2.0,HARD,4.0,True,1,True,False,False,18.0,18.2,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,17,99.844,2.0,HARD,5.0,True,1,True,False,False,18.0,18.2,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,18,101.015,2.0,HARD,6.0,True,1,True,False,False,16.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,19,100.471,2.0,HARD,7.0,True,1,True,False,False,16.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,20,99.805,2.0,HARD,8.0,True,12,True,False,False,16.0,18.0,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,21,99.869,2.0,HARD,9.0,True,1,True,False,False,16.0,18.0,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,22,100.506,2.0,HARD,10.0,True,1,True,False,False,15.0,18.0,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,23,99.27,2.0,HARD,11.0,True,1,True,False,False,15.0,18.0,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,24,98.834,2.0,HARD,12.0,True,1,True,False,False,15.0,18.0,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,25,99.64,2.0,HARD,13.0,True,1,True,False,False,15.0,18.0,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,26,123.608,2.0,HARD,14.0,True,14,False,True,False,15.0,18.1,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,27,148.855,3.0,HARD,1.0,True,4,False,False,True,16.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,28,,3.0,HARD,2.0,True,41,False,False,False,16.0,18.0,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,29,101.51,3.0,HARD,3.0,True,1,True,False,False,15.0,17.9,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,30,99.59,3.0,HARD,4.0,True,1,True,False,False,15.0,17.9,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,31,99.902,3.0,HARD,5.0,True,1,True,False,False,16.0,18.0,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,32,98.683,3.0,HARD,6.0,True,1,True,False,False,16.0,18.0,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,33,98.129,3.0,HARD,7.0,True,1,True,False,False,16.0,18.0,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,34,98.034,3.0,HARD,8.0,True,1,True,False,False,16.0,18.1,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,35,97.897,3.0,HARD,9.0,True,1,True,False,False,16.0,18.2,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,36,97.756,3.0,HARD,10.0,True,1,True,False,False,16.0,18.2,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,37,97.877,3.0,HARD,11.0,True,1,True,False,False,16.0,18.1,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,38,98.542,3.0,HARD,12.0,True,1,True,False,False,16.0,18.1,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,39,98.222,3.0,HARD,13.0,True,1,True,False,False,16.0,18.1,17.9,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,40,99.174,3.0,HARD,14.0,True,12,True,False,False,16.0,18.1,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,41,98.762,3.0,HARD,15.0,True,1,True,False,False,16.0,18.2,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,42,98.486,3.0,HARD,16.0,True,1,True,False,False,15.0,18.2,17.8,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,43,97.565,3.0,HARD,17.0,True,1,True,False,False,15.0,18.1,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,44,97.977,3.0,HARD,18.0,True,1,True,False,False,15.0,18.1,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,45,98.535,3.0,HARD,19.0,True,1,True,False,False,15.0,18.0,17.6,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HUL,Haas F1 Team,46,,3.0,HARD,20.0,True,12,False,False,False,,18.0,17.7,False,13.0,19.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,1,136.633,1.0,MEDIUM,1.0,True,126,False,False,False,16.0,17.9,18.5,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,2,116.345,1.0,MEDIUM,2.0,True,671,False,False,False,15.0,18.0,18.3,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,3,118.551,1.0,MEDIUM,3.0,True,124,False,False,False,14.0,18.0,18.3,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,4,,1.0,MEDIUM,4.0,True,4,False,False,False,13.0,18.1,18.2,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,5,,1.0,MEDIUM,5.0,True,4,False,False,False,13.0,18.1,18.2,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,6,,1.0,MEDIUM,6.0,True,41,False,False,False,13.0,18.0,18.2,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,7,104.744,1.0,MEDIUM,7.0,True,1,True,False,False,14.0,18.0,18.2,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,8,101.633,1.0,MEDIUM,8.0,True,1,True,False,False,14.0,18.1,18.1,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,9,100.435,1.0,MEDIUM,9.0,True,1,True,False,False,14.0,18.1,18.1,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,10,101.588,1.0,MEDIUM,10.0,True,1,True,False,False,13.0,18.1,18.0,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,11,100.862,1.0,MEDIUM,11.0,True,1,True,False,False,14.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,12,100.804,1.0,MEDIUM,12.0,True,1,True,False,False,14.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,13,101.959,1.0,MEDIUM,13.0,True,1,True,False,False,16.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,14,100.871,1.0,MEDIUM,14.0,True,12,True,False,False,16.0,18.2,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,15,100.286,1.0,MEDIUM,15.0,True,1,True,False,False,15.0,18.2,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,16,101.222,1.0,MEDIUM,16.0,True,1,True,False,False,14.0,18.2,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,17,106.533,1.0,MEDIUM,17.0,True,1,False,True,False,12.0,18.2,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,18,118.992,2.0,HARD,1.0,False,1,False,False,True,19.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,19,100.392,2.0,HARD,2.0,False,12,True,False,False,19.0,18.1,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,20,99.73,2.0,HARD,3.0,False,21,True,False,False,19.0,18.0,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,21,99.708,2.0,HARD,4.0,False,1,True,False,False,18.0,18.0,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,22,99.872,2.0,HARD,5.0,False,1,True,False,False,18.0,18.0,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,23,99.525,2.0,HARD,6.0,False,1,True,False,False,18.0,18.0,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,24,99.363,2.0,HARD,7.0,False,1,True,False,False,18.0,18.0,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,25,99.656,2.0,HARD,8.0,False,1,True,False,False,17.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,26,123.488,2.0,HARD,9.0,False,14,False,False,False,17.0,18.1,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,27,136.378,2.0,HARD,10.0,False,4,False,False,False,15.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,28,,2.0,HARD,11.0,False,41,False,False,False,15.0,18.0,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,29,102.319,2.0,HARD,12.0,False,1,True,False,False,16.0,17.9,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,30,100.798,2.0,HARD,13.0,False,1,True,False,False,17.0,17.9,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,31,99.382,2.0,HARD,14.0,False,1,True,False,False,17.0,18.0,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,32,98.997,2.0,HARD,15.0,False,1,True,False,False,17.0,18.0,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,33,98.53,2.0,HARD,16.0,False,1,True,False,False,17.0,18.0,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,34,98.127,2.0,HARD,17.0,False,1,True,False,False,17.0,18.1,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,35,97.893,2.0,HARD,18.0,False,1,True,False,False,17.0,18.2,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,36,97.761,2.0,HARD,19.0,False,1,True,False,False,17.0,18.2,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,37,97.4,2.0,HARD,20.0,False,1,True,False,False,17.0,18.1,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,38,98.133,2.0,HARD,21.0,False,1,True,False,False,17.0,18.1,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,39,98.088,2.0,HARD,22.0,False,1,True,False,False,17.0,18.1,17.9,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,40,98.686,2.0,HARD,23.0,False,12,True,False,False,17.0,18.1,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,41,98.96,2.0,HARD,24.0,False,1,True,False,False,17.0,18.2,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,42,99.455,2.0,HARD,25.0,False,1,True,False,False,17.0,18.2,17.8,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,43,98.589,2.0,HARD,26.0,False,1,True,False,False,17.0,18.1,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,44,98.834,2.0,HARD,27.0,False,1,True,False,False,17.0,18.1,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,45,97.51,2.0,HARD,28.0,False,1,True,False,False,16.0,18.0,17.6,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,46,97.347,2.0,HARD,29.0,False,12,True,False,False,15.0,18.0,17.7,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,47,98.136,2.0,HARD,30.0,False,1,True,False,False,15.0,18.0,17.6,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,48,99.503,2.0,HARD,31.0,False,12,True,False,False,15.0,18.0,17.5,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,49,98.389,2.0,HARD,32.0,False,1,True,False,False,14.0,18.0,17.6,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RIC,AlphaTauri,50,97.108,2.0,HARD,33.0,False,1,True,False,False,14.0,18.0,17.5,False,14.0,14.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,1,118.932,1.0,MEDIUM,1.0,True,126,False,False,False,8.0,17.9,18.5,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,2,126.961,1.0,MEDIUM,2.0,True,671,False,False,False,8.0,18.0,18.3,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,3,112.693,1.0,MEDIUM,3.0,True,124,False,False,False,7.0,18.0,18.3,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,4,,1.0,MEDIUM,4.0,True,4,False,False,False,7.0,18.1,18.3,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,5,,1.0,MEDIUM,5.0,True,4,False,False,False,7.0,18.1,18.2,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,6,,1.0,MEDIUM,6.0,True,41,False,False,False,8.0,18.0,18.2,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,7,103.395,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,18.0,18.2,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,8,101.013,1.0,MEDIUM,8.0,True,1,True,False,False,8.0,18.1,18.1,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,9,100.316,1.0,MEDIUM,9.0,True,1,True,False,False,7.0,18.1,18.1,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,10,99.728,1.0,MEDIUM,10.0,True,1,True,False,False,7.0,18.1,18.0,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,11,99.513,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,12,99.349,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,13,99.263,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,14,99.513,1.0,MEDIUM,14.0,True,12,True,False,False,6.0,18.2,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,15,99.685,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,18.2,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,16,100.191,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,18.2,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,17,100.08,1.0,MEDIUM,17.0,True,1,True,False,False,2.0,18.2,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,18,100.701,1.0,MEDIUM,18.0,True,1,True,False,False,3.0,18.1,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,19,100.279,1.0,MEDIUM,19.0,True,1,True,False,False,3.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,20,105.341,1.0,MEDIUM,20.0,True,12,False,True,False,5.0,18.0,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,21,116.373,2.0,HARD,1.0,True,1,False,False,True,12.0,18.0,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,22,98.063,2.0,HARD,2.0,True,1,True,False,False,12.0,18.0,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,23,97.787,2.0,HARD,3.0,True,1,True,False,False,12.0,18.0,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,24,97.677,2.0,HARD,4.0,True,1,True,False,False,11.0,18.0,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,25,98.428,2.0,HARD,5.0,True,1,True,False,False,10.0,18.0,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,26,114.399,2.0,HARD,6.0,True,14,False,False,False,10.0,18.1,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,27,,2.0,HARD,7.0,True,4,False,False,False,6.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,28,,2.0,HARD,8.0,True,41,False,False,False,6.0,18.0,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,29,101.144,2.0,HARD,9.0,True,1,True,False,False,6.0,17.9,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,30,98.514,2.0,HARD,10.0,True,1,True,False,False,6.0,17.9,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,31,98.174,2.0,HARD,11.0,True,1,True,False,False,6.0,18.0,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,32,97.629,2.0,HARD,12.0,True,1,True,False,False,6.0,18.0,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,33,97.458,2.0,HARD,13.0,True,1,True,False,False,6.0,18.0,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,34,97.81,2.0,HARD,14.0,True,1,True,False,False,5.0,18.1,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,35,97.449,2.0,HARD,15.0,True,1,True,False,False,5.0,18.2,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,36,97.062,2.0,HARD,16.0,True,1,True,False,False,5.0,18.2,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,37,97.044,2.0,HARD,17.0,True,1,True,False,False,5.0,18.1,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,38,96.964,2.0,HARD,18.0,True,1,True,False,False,5.0,18.1,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,39,96.905,2.0,HARD,19.0,True,1,True,False,False,5.0,18.1,17.9,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,40,97.19,2.0,HARD,20.0,True,12,True,False,False,5.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,41,97.607,2.0,HARD,21.0,True,1,True,False,False,5.0,18.2,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,42,97.253,2.0,HARD,22.0,True,1,True,False,False,5.0,18.1,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,43,97.292,2.0,HARD,23.0,True,1,True,False,False,4.0,18.1,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,44,97.191,2.0,HARD,24.0,True,1,True,False,False,4.0,18.1,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,45,96.929,2.0,HARD,25.0,True,1,True,False,False,4.0,18.0,17.6,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,46,96.917,2.0,HARD,26.0,True,1,True,False,False,4.0,18.0,17.7,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,47,96.637,2.0,HARD,27.0,True,12,True,False,False,4.0,18.0,17.8,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,48,96.845,2.0,HARD,28.0,True,12,True,False,False,4.0,18.0,17.5,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,49,96.936,2.0,HARD,29.0,True,1,True,False,False,4.0,18.0,17.6,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,OCO,Alpine,50,97.567,2.0,HARD,30.0,True,1,True,False,False,5.0,18.0,17.6,False,16.0,4.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,NOR,McLaren,1,130.362,1.0,MEDIUM,2.0,False,126,False,False,False,14.0,17.9,18.5,False,15.0,20.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,NOR,McLaren,2,119.327,1.0,MEDIUM,3.0,False,671,False,False,False,13.0,18.0,18.3,False,15.0,20.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,NOR,McLaren,3,,1.0,MEDIUM,4.0,False,124,False,False,False,,18.0,18.3,False,15.0,20.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,1,134.661,1.0,HARD,1.0,False,126,False,False,False,15.0,17.9,18.5,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,2,116.372,1.0,HARD,2.0,False,671,False,False,False,14.0,18.0,18.3,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,3,117.474,1.0,HARD,3.0,False,124,False,False,False,13.0,18.0,18.3,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,4,,1.0,HARD,4.0,False,4,False,False,False,12.0,18.1,18.2,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,5,,1.0,HARD,5.0,False,4,False,False,False,12.0,18.1,18.2,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,6,,1.0,HARD,6.0,False,41,False,False,False,12.0,18.0,18.2,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,7,103.391,1.0,HARD,7.0,False,1,True,False,False,12.0,18.0,18.2,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,8,101.204,1.0,HARD,8.0,False,1,True,False,False,11.0,18.1,18.1,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,9,100.116,1.0,HARD,9.0,False,1,True,False,False,11.0,18.1,18.1,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,10,100.11,1.0,HARD,10.0,False,1,True,False,False,10.0,18.1,18.0,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,11,100.111,1.0,HARD,11.0,False,1,True,False,False,9.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,12,98.9,1.0,HARD,12.0,False,1,True,False,False,9.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,13,98.495,1.0,HARD,13.0,False,1,True,False,False,9.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,14,99.632,1.0,HARD,14.0,False,12,True,False,False,8.0,18.2,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,15,99.032,1.0,HARD,15.0,False,1,True,False,False,8.0,18.2,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,16,101.242,1.0,HARD,16.0,False,1,True,False,False,5.0,18.2,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,17,118.137,1.0,HARD,17.0,False,1,False,True,False,11.0,18.2,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,18,119.931,2.0,MEDIUM,1.0,False,1,False,False,True,18.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,19,99.124,2.0,MEDIUM,2.0,False,1,True,False,False,18.0,18.1,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,20,99.124,2.0,MEDIUM,3.0,False,12,True,False,False,18.0,18.0,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,21,100.414,2.0,MEDIUM,4.0,False,1,True,False,False,17.0,18.0,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,22,98.783,2.0,MEDIUM,5.0,False,1,True,False,False,17.0,18.0,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,23,98.451,2.0,MEDIUM,6.0,False,1,True,False,False,17.0,18.0,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,24,98.382,2.0,MEDIUM,7.0,False,1,True,False,False,16.0,18.0,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,25,98.234,2.0,MEDIUM,8.0,False,1,True,False,False,16.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,26,125.187,2.0,MEDIUM,9.0,False,14,False,True,False,16.0,18.1,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,27,147.579,3.0,HARD,1.0,True,4,False,False,True,17.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,28,,3.0,HARD,2.0,True,41,False,False,False,17.0,18.0,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,29,101.96,3.0,HARD,3.0,True,1,True,False,False,17.0,17.9,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,30,99.165,3.0,HARD,4.0,True,1,True,False,False,16.0,17.9,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,31,98.117,3.0,HARD,5.0,True,1,True,False,False,15.0,18.0,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,32,98.279,3.0,HARD,6.0,True,1,True,False,False,15.0,18.0,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,33,97.437,3.0,HARD,7.0,True,1,True,False,False,14.0,18.0,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,34,97.14,3.0,HARD,8.0,True,1,True,False,False,13.0,18.1,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,35,96.875,3.0,HARD,9.0,True,1,True,False,False,13.0,18.2,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,36,97.966,3.0,HARD,10.0,True,1,True,False,False,13.0,18.2,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,37,97.389,3.0,HARD,11.0,True,1,True,False,False,12.0,18.1,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,38,97.827,3.0,HARD,12.0,True,1,True,False,False,12.0,18.1,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,39,97.747,3.0,HARD,13.0,True,1,True,False,False,12.0,18.1,17.9,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,40,98.524,3.0,HARD,14.0,True,12,True,False,False,11.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,41,96.549,3.0,HARD,15.0,True,1,True,False,False,11.0,18.2,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,42,96.037,3.0,HARD,16.0,True,1,True,False,False,11.0,18.1,17.8,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,43,97.417,3.0,HARD,17.0,True,1,True,False,False,11.0,18.1,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,44,97.316,3.0,HARD,18.0,True,1,True,False,False,9.0,18.1,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,45,96.471,3.0,HARD,19.0,True,1,True,False,False,9.0,18.0,17.6,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,46,96.217,3.0,HARD,20.0,True,1,True,False,False,8.0,18.0,17.7,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,47,96.425,3.0,HARD,21.0,True,12,True,False,False,8.0,18.0,17.6,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,48,95.716,3.0,HARD,22.0,True,12,True,False,False,8.0,18.0,17.5,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,49,96.126,3.0,HARD,23.0,True,1,True,False,False,8.0,18.0,17.6,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,HAM,Mercedes,50,95.933,3.0,HARD,24.0,True,1,True,False,False,8.0,18.0,17.6,False,10.0,7.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,1,140.523,1.0,MEDIUM,1.0,True,126,False,False,False,18.0,17.9,18.5,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,2,113.95,1.0,MEDIUM,2.0,True,671,False,False,False,17.0,18.0,18.3,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,3,123.387,1.0,MEDIUM,3.0,True,124,False,True,False,16.0,18.0,18.3,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,4,,2.0,HARD,1.0,True,4,False,False,True,17.0,18.1,18.2,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,5,,2.0,HARD,2.0,True,4,False,False,False,17.0,18.1,18.2,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,6,146.652,2.0,HARD,3.0,True,41,False,False,False,17.0,18.0,18.1,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,7,104.55,2.0,HARD,4.0,True,1,True,False,False,18.0,18.0,18.2,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,8,101.704,2.0,HARD,5.0,True,1,True,False,False,18.0,18.1,18.1,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,9,100.334,2.0,HARD,6.0,True,1,True,False,False,18.0,18.1,18.1,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,10,101.345,2.0,HARD,7.0,True,1,True,False,False,17.0,18.1,18.0,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,11,99.953,2.0,HARD,8.0,True,1,True,False,False,16.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,12,100.232,2.0,HARD,9.0,True,1,True,False,False,15.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,13,99.737,2.0,HARD,10.0,True,1,True,False,False,14.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,14,98.19,2.0,HARD,11.0,True,12,True,False,False,13.0,18.2,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,15,99.005,2.0,HARD,12.0,True,1,True,False,False,12.0,18.2,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,16,100.182,2.0,HARD,13.0,True,1,True,False,False,10.0,18.2,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,17,100.347,2.0,HARD,14.0,True,1,True,False,False,6.0,18.2,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,18,99.125,2.0,HARD,15.0,True,1,True,False,False,5.0,18.1,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,19,99.027,2.0,HARD,16.0,True,1,True,False,False,5.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,20,99.482,2.0,HARD,17.0,True,12,True,False,False,4.0,18.0,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,21,99.339,2.0,HARD,18.0,True,1,True,False,False,4.0,18.0,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,22,99.594,2.0,HARD,19.0,True,1,True,False,False,4.0,18.0,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,23,99.486,2.0,HARD,20.0,True,1,True,False,False,4.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,24,100.516,2.0,HARD,21.0,True,1,True,False,False,6.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,25,100.22,2.0,HARD,22.0,True,1,True,False,False,6.0,18.0,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,26,116.574,2.0,HARD,23.0,True,14,False,True,False,6.0,18.1,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,27,,3.0,HARD,1.0,True,4,False,False,True,10.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,28,,3.0,HARD,2.0,True,41,False,False,False,10.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,29,101.531,3.0,HARD,3.0,True,1,True,False,False,10.0,17.9,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,30,99.146,3.0,HARD,4.0,True,1,True,False,False,10.0,17.9,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,31,98.398,3.0,HARD,5.0,True,1,True,False,False,10.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,32,98.0,3.0,HARD,6.0,True,1,True,False,False,10.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,33,98.049,3.0,HARD,7.0,True,1,True,False,False,10.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,34,97.489,3.0,HARD,8.0,True,1,True,False,False,10.0,18.1,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,35,97.615,3.0,HARD,9.0,True,1,True,False,False,10.0,18.2,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,36,97.894,3.0,HARD,10.0,True,1,True,False,False,10.0,18.2,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,37,97.858,3.0,HARD,11.0,True,1,True,False,False,10.0,18.1,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,38,98.298,3.0,HARD,12.0,True,1,True,False,False,10.0,18.1,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,39,98.142,3.0,HARD,13.0,True,1,True,False,False,10.0,18.1,17.9,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,40,97.241,3.0,HARD,14.0,True,12,True,False,False,9.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,41,96.804,3.0,HARD,15.0,True,1,True,False,False,9.0,18.2,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,42,96.474,3.0,HARD,16.0,True,1,True,False,False,9.0,18.1,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,43,96.516,3.0,HARD,17.0,True,1,True,False,False,9.0,18.1,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,44,97.502,3.0,HARD,18.0,True,1,True,False,False,7.0,18.1,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,45,96.064,3.0,HARD,19.0,True,1,True,False,False,7.0,18.0,17.6,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,46,96.186,3.0,HARD,20.0,True,1,True,False,False,7.0,18.0,17.7,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,47,95.984,3.0,HARD,21.0,True,12,True,False,False,7.0,18.0,17.8,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,48,96.482,3.0,HARD,22.0,True,12,True,False,False,7.0,18.0,17.5,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,49,96.546,3.0,HARD,23.0,True,1,True,False,False,7.0,18.0,17.6,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,SAI,Ferrari,50,96.507,3.0,HARD,24.0,True,1,True,False,False,7.0,18.0,17.6,False,12.0,6.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,1,108.99,1.0,MEDIUM,1.0,True,126,False,False,False,3.0,17.9,18.5,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,2,132.282,1.0,MEDIUM,2.0,True,671,False,False,False,3.0,18.0,18.3,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,3,109.742,1.0,MEDIUM,3.0,True,124,False,False,False,3.0,18.0,18.3,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,4,,1.0,MEDIUM,4.0,True,4,False,False,False,3.0,18.1,18.3,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,5,,1.0,MEDIUM,5.0,True,4,False,False,False,3.0,18.1,18.2,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,6,,1.0,MEDIUM,6.0,True,41,False,False,False,3.0,18.0,18.2,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,7,102.057,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,18.0,18.2,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,8,100.687,1.0,MEDIUM,8.0,True,1,True,False,False,3.0,18.1,18.1,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,9,99.561,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,18.1,18.1,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,10,99.516,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,18.1,18.0,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,11,99.11,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,12,98.779,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,13,99.004,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,14,99.134,1.0,MEDIUM,14.0,True,12,True,False,False,3.0,18.2,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,15,104.106,1.0,MEDIUM,15.0,True,1,False,True,False,4.0,18.2,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,16,115.47,2.0,HARD,1.0,True,1,False,False,True,13.0,18.2,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,17,98.779,2.0,HARD,2.0,True,1,True,False,False,9.0,18.2,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,18,99.001,2.0,HARD,3.0,True,1,True,False,False,8.0,18.1,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,19,100.094,2.0,HARD,4.0,True,1,True,False,False,7.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,20,98.679,2.0,HARD,5.0,True,12,True,False,False,7.0,18.0,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,21,98.737,2.0,HARD,6.0,True,1,True,False,False,6.0,18.0,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,22,99.504,2.0,HARD,7.0,True,1,True,False,False,5.0,18.0,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,23,97.93,2.0,HARD,8.0,True,1,True,False,False,5.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,24,98.383,2.0,HARD,9.0,True,1,True,False,False,4.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,25,100.605,2.0,HARD,10.0,True,1,True,False,False,5.0,18.0,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,26,115.234,2.0,HARD,11.0,True,14,False,True,False,5.0,18.1,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,27,,3.0,HARD,1.0,True,4,False,False,True,9.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,28,,3.0,HARD,2.0,True,41,False,False,False,9.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,29,101.409,3.0,HARD,3.0,True,1,True,False,False,9.0,17.9,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,30,99.159,3.0,HARD,4.0,True,1,True,False,False,9.0,17.9,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,31,98.255,3.0,HARD,5.0,True,1,True,False,False,9.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,32,97.834,3.0,HARD,6.0,True,1,True,False,False,9.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,33,98.033,3.0,HARD,7.0,True,1,True,False,False,9.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,34,97.577,3.0,HARD,8.0,True,1,True,False,False,9.0,18.1,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,35,97.854,3.0,HARD,9.0,True,1,True,False,False,9.0,18.2,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,36,98.114,3.0,HARD,10.0,True,1,True,False,False,9.0,18.2,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,37,98.01,3.0,HARD,11.0,True,1,True,False,False,9.0,18.1,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,38,97.946,3.0,HARD,12.0,True,1,True,False,False,9.0,18.1,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,39,97.409,3.0,HARD,13.0,True,1,True,False,False,8.0,18.1,17.9,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,40,96.654,3.0,HARD,14.0,True,12,True,False,False,8.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,41,96.692,3.0,HARD,15.0,True,1,True,False,False,8.0,18.2,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,42,97.111,3.0,HARD,16.0,True,1,True,False,False,8.0,18.1,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,43,96.581,3.0,HARD,17.0,True,1,True,False,False,7.0,18.1,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,44,96.071,3.0,HARD,18.0,True,1,True,False,False,6.0,18.1,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,45,96.291,3.0,HARD,19.0,True,1,True,False,False,6.0,18.0,17.6,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,46,96.325,3.0,HARD,20.0,True,1,True,False,False,6.0,18.0,17.7,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,47,96.351,3.0,HARD,21.0,True,12,True,False,False,6.0,18.0,17.8,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,48,96.443,3.0,HARD,22.0,True,12,True,False,False,5.0,18.0,17.5,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,49,96.161,3.0,HARD,23.0,True,1,True,False,False,5.0,18.0,17.6,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,RUS,Mercedes,50,96.178,3.0,HARD,24.0,True,1,True,False,False,4.0,18.0,17.6,False,3.0,8.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,1,148.494,1.0,MEDIUM,1.0,True,126,False,True,False,20.0,17.9,18.5,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,2,147.981,2.0,HARD,1.0,True,671,False,False,True,20.0,18.0,18.3,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,3,128.339,2.0,HARD,2.0,True,124,False,False,False,19.0,18.0,18.3,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,4,137.003,2.0,HARD,3.0,True,4,False,False,False,19.0,18.1,18.3,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,5,,2.0,HARD,4.0,True,4,False,False,False,19.0,18.1,18.2,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,6,143.855,2.0,HARD,5.0,True,41,False,False,False,19.0,18.0,18.1,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,7,104.451,2.0,HARD,6.0,True,1,True,False,False,19.0,18.0,18.2,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,8,102.159,2.0,HARD,7.0,True,1,True,False,False,19.0,18.1,18.1,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,9,101.377,2.0,HARD,8.0,True,1,True,False,False,19.0,18.1,18.1,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,10,101.854,2.0,HARD,9.0,True,1,True,False,False,18.0,18.1,18.0,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,11,100.763,2.0,HARD,10.0,True,1,True,False,False,18.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,12,100.51,2.0,HARD,11.0,True,1,True,False,False,18.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,13,100.263,2.0,HARD,12.0,True,1,True,False,False,17.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,14,103.971,2.0,HARD,13.0,True,12,True,False,False,17.0,18.2,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,15,100.728,2.0,HARD,14.0,True,1,True,False,False,16.0,18.2,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,16,100.774,2.0,HARD,15.0,True,1,True,False,False,15.0,18.2,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,17,101.697,2.0,HARD,16.0,True,1,True,False,False,14.0,18.2,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,18,100.86,2.0,HARD,17.0,True,1,True,False,False,12.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,19,101.27,2.0,HARD,18.0,True,1,True,False,False,13.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,20,100.753,2.0,HARD,19.0,True,12,True,False,False,14.0,18.0,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,21,102.145,2.0,HARD,20.0,True,1,True,False,False,15.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,22,102.542,2.0,HARD,21.0,True,1,True,False,False,16.0,18.0,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,23,101.224,2.0,HARD,22.0,True,1,True,False,False,16.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,24,106.578,2.0,HARD,23.0,True,1,False,True,False,17.0,18.0,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,25,118.901,3.0,MEDIUM,1.0,True,1,False,False,True,18.0,18.1,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,26,130.905,3.0,MEDIUM,2.0,True,14,False,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,27,132.819,3.0,MEDIUM,3.0,True,4,False,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,28,137.195,3.0,MEDIUM,4.0,True,41,False,False,False,18.0,18.0,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,29,102.484,3.0,MEDIUM,5.0,True,1,True,False,False,18.0,17.9,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,30,100.952,3.0,MEDIUM,6.0,True,1,True,False,False,18.0,17.9,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,31,100.816,3.0,MEDIUM,7.0,True,1,True,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,32,100.257,3.0,MEDIUM,8.0,True,1,True,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,33,101.292,3.0,MEDIUM,9.0,True,1,True,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,34,101.214,3.0,MEDIUM,10.0,True,1,True,False,False,18.0,18.1,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,35,101.02,3.0,MEDIUM,11.0,True,1,True,False,False,18.0,18.2,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,36,101.741,3.0,MEDIUM,12.0,True,1,True,False,False,19.0,18.2,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,37,101.632,3.0,MEDIUM,13.0,True,1,True,False,False,19.0,18.2,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,38,100.499,3.0,MEDIUM,14.0,True,1,True,False,False,19.0,18.1,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,39,100.969,3.0,MEDIUM,15.0,True,1,True,False,False,19.0,18.1,17.9,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,40,100.347,3.0,MEDIUM,16.0,True,12,True,False,False,19.0,18.2,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,41,100.593,3.0,MEDIUM,17.0,True,1,True,False,False,19.0,18.2,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,42,100.002,3.0,MEDIUM,18.0,True,1,True,False,False,19.0,18.2,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,43,99.831,3.0,MEDIUM,19.0,True,1,True,False,False,19.0,18.1,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,44,99.304,3.0,MEDIUM,20.0,True,1,True,False,False,19.0,18.1,17.7,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,45,99.075,3.0,MEDIUM,21.0,True,1,True,False,False,19.0,18.0,17.6,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,46,98.672,3.0,MEDIUM,22.0,True,12,True,False,False,18.0,18.0,17.8,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,47,99.237,3.0,MEDIUM,23.0,True,12,True,False,False,17.0,18.0,17.6,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,48,98.926,3.0,MEDIUM,24.0,True,21,True,False,False,17.0,18.0,17.6,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,49,97.562,3.0,MEDIUM,25.0,True,1,True,False,False,17.0,18.0,17.6,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,BOT,Alfa Romeo,50,99.068,3.0,MEDIUM,26.0,True,1,True,False,False,17.0,18.0,17.5,False,7.0,17.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,1,126.811,1.0,HARD,2.0,False,126,False,False,False,13.0,17.9,18.5,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,2,121.844,1.0,HARD,3.0,False,671,False,False,False,12.0,18.0,18.3,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,3,118.487,1.0,HARD,4.0,False,124,False,False,False,12.0,18.0,18.3,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,4,,1.0,HARD,5.0,False,4,False,False,False,11.0,18.1,18.2,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,5,,1.0,HARD,6.0,False,4,False,False,False,11.0,18.1,18.2,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,6,,1.0,HARD,7.0,False,41,False,False,False,11.0,18.0,18.2,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,7,102.831,1.0,HARD,8.0,False,1,True,False,False,10.0,18.0,18.2,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,8,100.924,1.0,HARD,9.0,False,1,True,False,False,9.0,18.1,18.1,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,9,100.339,1.0,HARD,10.0,False,1,True,False,False,9.0,18.1,18.1,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,10,100.348,1.0,HARD,11.0,False,1,True,False,False,8.0,18.1,18.0,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,11,100.003,1.0,HARD,12.0,False,1,True,False,False,8.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,12,99.03,1.0,HARD,13.0,False,1,True,False,False,8.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,13,98.635,1.0,HARD,14.0,False,1,True,False,False,8.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,14,99.735,1.0,HARD,15.0,False,12,True,False,False,7.0,18.2,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,15,99.352,1.0,HARD,16.0,False,1,True,False,False,7.0,18.2,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,16,107.333,1.0,HARD,17.0,False,1,False,True,False,9.0,18.2,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,17,118.267,2.0,HARD,2.0,False,1,False,False,True,16.0,18.2,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,18,98.612,2.0,HARD,3.0,False,1,True,False,False,13.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,19,99.483,2.0,HARD,4.0,False,1,True,False,False,12.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,20,98.066,2.0,HARD,5.0,False,12,True,False,False,12.0,18.0,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,21,98.041,2.0,HARD,6.0,False,1,True,False,False,11.0,18.0,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,22,97.763,2.0,HARD,7.0,False,1,True,False,False,10.0,18.0,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,23,98.238,2.0,HARD,8.0,False,1,True,False,False,10.0,18.0,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,24,97.912,2.0,HARD,9.0,False,1,True,False,False,10.0,18.0,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,25,98.973,2.0,HARD,10.0,False,1,True,False,False,9.0,18.0,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,26,114.056,2.0,HARD,11.0,False,14,False,False,False,9.0,18.1,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,27,,2.0,HARD,12.0,False,4,False,False,False,4.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,28,,2.0,HARD,13.0,False,41,False,False,False,4.0,18.0,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,29,100.139,2.0,HARD,14.0,False,1,True,False,False,3.0,17.9,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,30,97.92,2.0,HARD,15.0,False,1,True,False,False,3.0,17.9,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,31,97.128,2.0,HARD,16.0,False,1,True,False,False,3.0,18.0,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,32,97.446,2.0,HARD,17.0,False,1,True,False,False,3.0,18.0,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,33,98.889,2.0,HARD,18.0,False,1,True,False,False,4.0,18.0,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,34,97.332,2.0,HARD,19.0,False,1,True,False,False,4.0,18.1,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,35,97.0,2.0,HARD,20.0,False,1,True,False,False,4.0,18.2,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,36,96.849,2.0,HARD,21.0,False,1,True,False,False,4.0,18.2,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,37,97.484,2.0,HARD,22.0,False,1,True,False,False,4.0,18.1,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,38,97.202,2.0,HARD,23.0,False,1,True,False,False,4.0,18.1,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,39,97.151,2.0,HARD,24.0,False,1,True,False,False,4.0,18.1,17.9,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,40,97.223,2.0,HARD,25.0,False,12,True,False,False,4.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,41,97.408,2.0,HARD,26.0,False,1,True,False,False,4.0,18.2,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,42,97.435,2.0,HARD,27.0,False,1,True,False,False,4.0,18.1,17.8,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,43,101.648,2.0,HARD,28.0,False,1,False,True,False,5.0,18.1,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,44,112.939,3.0,MEDIUM,2.0,False,1,False,False,True,11.0,18.1,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,45,96.255,3.0,MEDIUM,3.0,False,1,True,False,False,11.0,18.0,17.6,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,46,95.585,3.0,MEDIUM,4.0,False,12,True,False,False,11.0,18.0,17.7,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,47,95.49,3.0,MEDIUM,5.0,False,21,True,False,False,11.0,18.0,17.6,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,48,95.595,3.0,MEDIUM,6.0,False,12,True,False,False,10.0,18.0,17.5,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,49,96.014,3.0,MEDIUM,7.0,False,1,True,False,False,10.0,18.0,17.6,False,18.0,10.0
+2023,21,Las Vegas Grand Prix,Las Vegas,50,PIA,McLaren,50,96.128,3.0,MEDIUM,8.0,False,1,True,False,False,10.0,18.0,17.6,False,18.0,10.0

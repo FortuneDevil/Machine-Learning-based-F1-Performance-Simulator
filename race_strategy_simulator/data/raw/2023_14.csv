@@ -1,0 +1,958 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,1,87.905,1.0,MEDIUM,1.0,True,1,False,False,False,2.0,29.2,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,2,86.163,1.0,MEDIUM,2.0,True,1,True,False,False,2.0,29.2,43.1,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,3,85.702,1.0,MEDIUM,3.0,True,1,True,False,False,2.0,29.3,43.2,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,4,86.05,1.0,MEDIUM,4.0,True,1,True,False,False,2.0,29.5,43.1,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,5,86.176,1.0,MEDIUM,5.0,True,1,True,False,False,2.0,29.5,43.1,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,6,86.837,1.0,MEDIUM,6.0,True,1,True,False,False,2.0,29.5,43.3,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,7,86.368,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,29.6,43.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,8,85.99,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,29.7,43.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,9,86.605,1.0,MEDIUM,9.0,True,1,True,False,False,2.0,29.8,44.1,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,10,86.603,1.0,MEDIUM,10.0,True,1,True,False,False,2.0,29.8,43.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,11,86.643,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,29.9,43.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,12,86.442,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,29.9,43.3,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,13,86.666,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,29.9,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,14,87.028,1.0,MEDIUM,14.0,True,1,True,False,False,2.0,30.1,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,15,86.782,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,30.0,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,16,86.718,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,30.0,43.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,17,86.733,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,29.9,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,18,86.273,1.0,MEDIUM,18.0,True,1,True,False,False,1.0,29.7,43.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,19,86.438,1.0,MEDIUM,19.0,True,1,True,False,False,1.0,29.8,43.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,20,90.849,1.0,MEDIUM,20.0,True,1,False,True,False,1.0,30.0,44.4,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,21,105.66,2.0,HARD,1.0,True,1,False,False,True,5.0,30.0,44.3,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,22,85.885,2.0,HARD,2.0,True,1,True,False,False,3.0,30.0,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,23,86.159,2.0,HARD,3.0,True,1,True,False,False,2.0,29.9,43.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,24,86.327,2.0,HARD,4.0,True,1,True,False,False,2.0,29.9,43.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,25,85.914,2.0,HARD,5.0,True,1,True,False,False,1.0,29.9,43.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,26,85.786,2.0,HARD,6.0,True,1,True,False,False,1.0,29.9,43.4,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,27,85.501,2.0,HARD,7.0,True,1,True,False,False,1.0,29.9,43.4,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,28,85.434,2.0,HARD,8.0,True,1,True,False,False,1.0,29.9,43.3,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,29,85.471,2.0,HARD,9.0,True,1,True,False,False,1.0,29.9,42.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,30,85.398,2.0,HARD,10.0,True,1,True,False,False,1.0,29.7,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,31,85.502,2.0,HARD,11.0,True,1,True,False,False,1.0,29.8,42.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,32,85.41,2.0,HARD,12.0,True,1,True,False,False,1.0,29.8,42.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,33,85.24,2.0,HARD,13.0,True,1,True,False,False,1.0,29.8,42.4,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,34,85.683,2.0,HARD,14.0,True,1,True,False,False,1.0,29.8,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,35,85.815,2.0,HARD,15.0,True,1,True,False,False,1.0,29.8,42.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,36,85.598,2.0,HARD,16.0,True,1,True,False,False,1.0,29.9,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,37,85.683,2.0,HARD,17.0,True,1,True,False,False,1.0,30.0,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,38,85.585,2.0,HARD,18.0,True,1,True,False,False,1.0,30.0,42.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,39,85.486,2.0,HARD,19.0,True,1,True,False,False,1.0,30.0,42.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,40,85.901,2.0,HARD,20.0,True,1,True,False,False,1.0,30.0,42.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,41,85.779,2.0,HARD,21.0,True,1,True,False,False,1.0,30.1,42.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,42,85.912,2.0,HARD,22.0,True,1,True,False,False,1.0,30.2,42.9,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,43,85.994,2.0,HARD,23.0,True,1,True,False,False,1.0,30.2,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,44,85.751,2.0,HARD,24.0,True,1,True,False,False,1.0,30.1,42.5,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,45,85.916,2.0,HARD,25.0,True,1,True,False,False,1.0,30.0,41.7,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,46,86.185,2.0,HARD,26.0,True,1,True,False,False,1.0,30.0,41.6,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,47,86.137,2.0,HARD,27.0,True,1,True,False,False,1.0,30.0,41.2,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,48,87.235,2.0,HARD,28.0,True,1,True,False,False,1.0,30.1,41.2,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,49,87.907,2.0,HARD,29.0,True,1,True,False,False,1.0,30.0,41.0,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,50,88.393,2.0,HARD,30.0,True,1,True,False,False,1.0,30.0,40.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,VER,Red Bull Racing,51,87.525,2.0,HARD,31.0,True,1,True,False,False,1.0,30.0,40.8,False,2.0,1.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,1,95.974,1.0,MEDIUM,1.0,True,1,False,False,False,17.0,29.2,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,2,88.696,1.0,MEDIUM,2.0,True,1,True,False,False,17.0,29.2,43.1,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,3,87.916,1.0,MEDIUM,3.0,True,1,True,False,False,17.0,29.3,43.2,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,4,87.472,1.0,MEDIUM,4.0,True,1,True,False,False,17.0,29.5,43.1,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,5,87.694,1.0,MEDIUM,5.0,True,1,True,False,False,17.0,29.5,43.1,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,6,87.324,1.0,MEDIUM,6.0,True,1,True,False,False,17.0,29.7,43.4,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,7,87.21,1.0,MEDIUM,7.0,True,1,True,False,False,17.0,29.6,43.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,8,87.24,1.0,MEDIUM,8.0,True,1,True,False,False,17.0,29.7,43.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,9,87.366,1.0,MEDIUM,9.0,True,1,True,False,False,17.0,29.8,44.1,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,10,92.034,1.0,MEDIUM,10.0,True,1,False,True,False,18.0,29.9,43.9,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,11,110.17,2.0,HARD,4.0,False,1,False,False,True,19.0,29.9,43.9,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,12,87.431,2.0,HARD,5.0,False,1,True,False,False,19.0,29.8,43.1,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,13,87.368,2.0,HARD,6.0,False,1,True,False,False,18.0,29.9,43.7,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,14,87.348,2.0,HARD,7.0,False,1,True,False,False,18.0,30.0,43.7,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,15,87.363,2.0,HARD,8.0,False,1,True,False,False,18.0,30.0,43.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,16,87.088,2.0,HARD,9.0,False,1,True,False,False,18.0,29.9,43.7,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,17,87.076,2.0,HARD,10.0,False,1,True,False,False,18.0,29.8,43.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,18,87.053,2.0,HARD,11.0,False,1,True,False,False,18.0,29.8,43.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,19,87.136,2.0,HARD,12.0,False,1,True,False,False,18.0,29.9,44.3,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,20,87.035,2.0,HARD,13.0,False,1,True,False,False,18.0,30.0,44.3,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,21,87.706,2.0,HARD,14.0,False,1,True,False,False,17.0,30.0,44.0,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,22,87.219,2.0,HARD,15.0,False,1,True,False,False,17.0,30.0,43.7,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,23,87.454,2.0,HARD,16.0,False,1,True,False,False,17.0,29.9,43.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,24,87.06,2.0,HARD,17.0,False,1,True,False,False,17.0,29.9,43.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,25,87.223,2.0,HARD,18.0,False,1,True,False,False,16.0,29.8,43.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,26,87.59,2.0,HARD,19.0,False,1,True,False,False,15.0,29.9,43.4,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,27,87.189,2.0,HARD,20.0,False,1,True,False,False,15.0,29.9,43.0,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,28,87.521,2.0,HARD,21.0,False,1,True,False,False,15.0,29.9,43.3,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,29,87.383,2.0,HARD,22.0,False,1,True,False,False,15.0,29.7,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,30,87.658,2.0,HARD,23.0,False,1,True,False,False,15.0,29.7,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,31,92.204,2.0,HARD,24.0,False,1,False,True,False,17.0,29.8,42.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,32,106.72,3.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.9,42.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,33,86.439,3.0,MEDIUM,2.0,True,1,True,False,False,19.0,29.8,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,34,86.877,3.0,MEDIUM,3.0,True,1,True,False,False,18.0,29.8,42.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,35,86.903,3.0,MEDIUM,4.0,True,1,True,False,False,18.0,29.9,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,36,86.797,3.0,MEDIUM,5.0,True,1,True,False,False,18.0,30.0,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,37,86.499,3.0,MEDIUM,6.0,True,1,True,False,False,18.0,30.0,42.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,38,86.357,3.0,MEDIUM,7.0,True,1,True,False,False,18.0,30.0,42.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,39,86.736,3.0,MEDIUM,8.0,True,1,True,False,False,17.0,30.0,42.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,40,86.548,3.0,MEDIUM,9.0,True,1,True,False,False,16.0,30.1,42.9,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,41,86.346,3.0,MEDIUM,10.0,True,1,True,False,False,16.0,30.2,42.9,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,42,86.425,3.0,MEDIUM,11.0,True,1,True,False,False,16.0,30.2,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,43,85.921,3.0,MEDIUM,12.0,True,1,True,False,False,16.0,30.1,42.5,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,44,85.758,3.0,MEDIUM,13.0,True,1,True,False,False,16.0,30.0,41.7,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,45,86.297,3.0,MEDIUM,14.0,True,1,True,False,False,16.0,30.0,41.6,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,46,86.292,3.0,MEDIUM,15.0,True,1,True,False,False,16.0,30.0,41.2,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,47,86.144,3.0,MEDIUM,16.0,True,1,True,False,False,16.0,30.1,41.2,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,48,86.288,3.0,MEDIUM,17.0,True,1,True,False,False,16.0,30.0,41.2,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,49,87.913,3.0,MEDIUM,18.0,True,1,True,False,False,16.0,30.0,40.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,50,87.375,3.0,MEDIUM,19.0,True,1,True,False,False,15.0,30.0,40.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,GAS,Alpine,51,,3.0,MEDIUM,20.0,True,1,False,False,False,,30.0,40.8,False,17.0,15.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,1,89.806,1.0,MEDIUM,1.0,True,1,False,False,False,5.0,29.2,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,2,86.881,1.0,MEDIUM,2.0,True,1,True,False,False,5.0,29.2,43.1,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,3,86.143,1.0,MEDIUM,3.0,True,1,True,False,False,5.0,29.3,43.2,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,4,86.019,1.0,MEDIUM,4.0,True,1,True,False,False,5.0,29.5,43.1,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,5,86.354,1.0,MEDIUM,5.0,True,1,True,False,False,5.0,29.5,43.1,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,6,86.465,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,29.7,43.4,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,7,86.333,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,29.6,43.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,8,86.887,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,29.7,43.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,9,86.564,1.0,MEDIUM,9.0,True,1,True,False,False,5.0,29.8,44.1,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,10,86.454,1.0,MEDIUM,10.0,True,1,True,False,False,5.0,29.8,43.9,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,11,87.245,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,29.9,43.9,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,12,86.968,1.0,MEDIUM,12.0,True,1,True,False,False,5.0,29.9,43.3,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,13,87.014,1.0,MEDIUM,13.0,True,1,True,False,False,5.0,29.9,43.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,14,87.451,1.0,MEDIUM,14.0,True,1,True,False,False,5.0,30.1,43.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,15,86.779,1.0,MEDIUM,15.0,True,1,True,False,False,5.0,30.0,43.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,16,86.823,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,30.0,43.9,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,17,87.011,1.0,MEDIUM,17.0,True,1,True,False,False,4.0,29.9,43.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,18,86.765,1.0,MEDIUM,18.0,True,1,True,False,False,4.0,29.7,43.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,19,86.669,1.0,MEDIUM,19.0,True,1,True,False,False,3.0,29.8,43.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,20,86.509,1.0,MEDIUM,20.0,True,1,True,False,False,2.0,30.0,44.4,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,21,90.934,1.0,MEDIUM,21.0,True,1,False,True,False,1.0,30.0,44.3,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,22,105.228,2.0,HARD,1.0,True,1,False,False,True,7.0,30.0,43.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,23,85.564,2.0,HARD,2.0,True,1,True,False,False,6.0,29.9,43.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,24,85.759,2.0,HARD,3.0,True,1,True,False,False,5.0,29.9,43.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,25,86.005,2.0,HARD,4.0,True,1,True,False,False,5.0,29.9,43.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,26,85.884,2.0,HARD,5.0,True,1,True,False,False,5.0,29.9,43.4,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,27,86.456,2.0,HARD,6.0,True,1,True,False,False,4.0,29.9,43.4,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,28,85.584,2.0,HARD,7.0,True,1,True,False,False,4.0,29.9,43.3,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,29,85.606,2.0,HARD,8.0,True,1,True,False,False,4.0,29.9,42.9,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,30,85.757,2.0,HARD,9.0,True,1,True,False,False,4.0,29.7,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,31,86.415,2.0,HARD,10.0,True,1,True,False,False,4.0,29.8,42.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,32,85.88,2.0,HARD,11.0,True,1,True,False,False,3.0,29.8,42.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,33,86.02,2.0,HARD,12.0,True,1,True,False,False,3.0,29.8,42.4,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,34,85.948,2.0,HARD,13.0,True,1,True,False,False,3.0,29.8,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,35,85.651,2.0,HARD,14.0,True,1,True,False,False,3.0,29.8,42.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,36,85.627,2.0,HARD,15.0,True,1,True,False,False,3.0,29.9,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,37,85.757,2.0,HARD,16.0,True,1,True,False,False,3.0,30.1,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,38,85.584,2.0,HARD,17.0,True,1,True,False,False,3.0,30.0,42.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,39,85.522,2.0,HARD,18.0,True,1,True,False,False,3.0,30.0,42.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,40,85.626,2.0,HARD,19.0,True,1,True,False,False,3.0,30.0,42.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,41,86.719,2.0,HARD,20.0,True,1,True,False,False,3.0,30.1,42.9,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,42,86.539,2.0,HARD,21.0,True,1,True,False,False,3.0,30.3,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,43,86.624,2.0,HARD,22.0,True,1,True,False,False,3.0,30.2,42.5,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,44,86.329,2.0,HARD,23.0,True,1,True,False,False,3.0,30.0,41.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,45,86.573,2.0,HARD,24.0,True,1,True,False,False,3.0,30.0,41.7,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,46,85.598,2.0,HARD,25.0,True,1,True,False,False,2.0,30.0,41.6,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,47,86.476,2.0,HARD,26.0,True,1,True,False,False,2.0,30.0,41.2,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,48,86.108,2.0,HARD,27.0,True,1,True,False,False,2.0,30.1,41.2,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,49,86.006,2.0,HARD,28.0,True,1,True,False,False,2.0,30.0,41.0,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,50,86.385,2.0,HARD,29.0,True,1,True,False,False,2.0,30.0,40.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,PER,Red Bull Racing,51,85.903,2.0,HARD,30.0,True,1,True,False,False,2.0,30.0,40.8,False,5.0,2.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,1,93.34,1.0,MEDIUM,1.0,True,1,False,False,False,11.0,29.2,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,2,88.012,1.0,MEDIUM,2.0,True,1,True,False,False,11.0,29.2,43.1,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,3,87.546,1.0,MEDIUM,3.0,True,1,True,False,False,11.0,29.3,43.2,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,4,87.221,1.0,MEDIUM,4.0,True,1,True,False,False,11.0,29.5,43.1,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,5,87.033,1.0,MEDIUM,5.0,True,1,True,False,False,11.0,29.5,43.1,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,6,87.175,1.0,MEDIUM,6.0,True,1,True,False,False,11.0,29.7,43.4,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,7,86.929,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,29.6,43.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,8,86.943,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,29.7,43.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,9,87.383,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,29.8,44.1,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,10,87.368,1.0,MEDIUM,10.0,True,1,True,False,False,10.0,29.8,43.9,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,11,87.343,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,29.9,43.9,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,12,87.339,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,29.9,43.3,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,13,87.158,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,29.9,43.7,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,14,87.607,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,30.1,43.7,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,15,86.929,1.0,MEDIUM,15.0,True,1,True,False,False,10.0,30.0,43.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,16,87.164,1.0,MEDIUM,16.0,True,1,True,False,False,9.0,30.0,43.9,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,17,87.156,1.0,MEDIUM,17.0,True,1,True,False,False,9.0,29.8,43.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,18,87.275,1.0,MEDIUM,18.0,True,1,True,False,False,9.0,29.7,43.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,19,87.318,1.0,MEDIUM,19.0,True,1,True,False,False,9.0,29.9,44.3,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,20,88.284,1.0,MEDIUM,20.0,True,1,True,False,False,7.0,30.0,44.4,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,21,92.377,1.0,MEDIUM,21.0,True,1,False,True,False,6.0,30.0,44.3,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,22,107.272,2.0,HARD,4.0,False,1,False,False,True,12.0,30.0,43.7,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,23,86.849,2.0,HARD,5.0,False,1,True,False,False,12.0,29.9,43.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,24,86.949,2.0,HARD,6.0,False,1,True,False,False,11.0,29.9,43.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,25,86.899,2.0,HARD,7.0,False,1,True,False,False,11.0,29.8,43.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,26,86.792,2.0,HARD,8.0,False,1,True,False,False,10.0,29.9,43.4,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,27,86.666,2.0,HARD,9.0,False,1,True,False,False,10.0,29.9,43.0,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,28,86.723,2.0,HARD,10.0,False,1,True,False,False,9.0,29.9,43.3,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,29,86.997,2.0,HARD,11.0,False,1,True,False,False,10.0,29.9,42.9,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,30,86.915,2.0,HARD,12.0,False,1,True,False,False,10.0,29.7,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,31,86.848,2.0,HARD,13.0,False,1,True,False,False,10.0,29.8,42.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,32,86.747,2.0,HARD,14.0,False,1,True,False,False,10.0,29.9,42.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,33,86.769,2.0,HARD,15.0,False,1,True,False,False,10.0,29.8,42.4,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,34,86.563,2.0,HARD,16.0,False,1,True,False,False,10.0,29.8,42.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,35,86.517,2.0,HARD,17.0,False,1,True,False,False,10.0,29.8,42.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,36,86.457,2.0,HARD,18.0,False,1,True,False,False,10.0,30.0,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,37,86.38,2.0,HARD,19.0,False,1,True,False,False,10.0,30.1,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,38,86.574,2.0,HARD,20.0,False,1,True,False,False,10.0,30.0,42.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,39,86.707,2.0,HARD,21.0,False,1,True,False,False,10.0,30.0,42.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,40,86.61,2.0,HARD,22.0,False,1,True,False,False,10.0,30.0,42.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,41,86.815,2.0,HARD,23.0,False,1,True,False,False,9.0,30.2,42.9,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,42,86.403,2.0,HARD,24.0,False,1,True,False,False,9.0,30.3,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,43,86.105,2.0,HARD,25.0,False,1,True,False,False,9.0,30.1,42.5,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,44,86.155,2.0,HARD,26.0,False,1,True,False,False,9.0,30.0,41.7,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,45,86.277,2.0,HARD,27.0,False,1,True,False,False,9.0,30.0,41.6,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,46,86.453,2.0,HARD,28.0,False,1,True,False,False,9.0,30.0,41.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,47,86.912,2.0,HARD,29.0,False,1,True,False,False,9.0,30.0,41.2,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,48,87.183,2.0,HARD,30.0,False,1,True,False,False,9.0,30.0,41.2,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,49,87.245,2.0,HARD,31.0,False,1,True,False,False,9.0,30.0,41.0,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,50,87.36,2.0,HARD,32.0,False,1,True,False,False,9.0,30.0,40.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,ALO,Aston Martin,51,87.395,2.0,HARD,33.0,False,1,True,False,False,9.0,30.0,40.8,False,10.0,9.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,1,88.755,1.0,MEDIUM,1.0,True,1,False,False,False,3.0,29.2,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,2,86.312,1.0,MEDIUM,2.0,True,1,True,False,False,3.0,29.2,43.1,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,3,85.719,1.0,MEDIUM,3.0,True,1,True,False,False,3.0,29.3,43.2,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,4,86.025,1.0,MEDIUM,4.0,True,1,True,False,False,3.0,29.5,43.1,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,5,86.266,1.0,MEDIUM,5.0,True,1,True,False,False,3.0,29.5,43.1,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,6,86.483,1.0,MEDIUM,6.0,True,1,True,False,False,3.0,29.5,43.3,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,7,86.473,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,29.6,43.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,8,85.972,1.0,MEDIUM,8.0,True,1,True,False,False,3.0,29.7,43.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,9,86.678,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,29.8,44.1,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,10,86.787,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,29.8,43.9,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,11,86.838,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,29.9,43.9,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,12,86.694,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,29.9,43.3,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,13,86.557,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,29.9,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,14,86.94,1.0,MEDIUM,14.0,True,1,True,False,False,3.0,30.1,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,15,87.314,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,30.0,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,16,87.155,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,30.0,43.9,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,17,87.67,1.0,MEDIUM,17.0,True,1,True,False,False,3.0,29.9,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,18,87.498,1.0,MEDIUM,18.0,True,1,True,False,False,3.0,29.7,43.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,19,87.702,1.0,MEDIUM,19.0,True,1,True,False,False,2.0,29.8,43.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,20,91.155,1.0,MEDIUM,20.0,True,1,False,True,False,3.0,30.0,44.4,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,21,105.842,2.0,HARD,1.0,True,1,False,False,True,8.0,30.0,44.3,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,22,85.742,2.0,HARD,2.0,True,1,True,False,False,6.0,30.0,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,23,85.807,2.0,HARD,3.0,True,1,True,False,False,5.0,29.9,43.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,24,85.933,2.0,HARD,4.0,True,1,True,False,False,4.0,29.9,43.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,25,86.061,2.0,HARD,5.0,True,1,True,False,False,4.0,29.9,43.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,26,85.763,2.0,HARD,6.0,True,1,True,False,False,4.0,29.9,43.4,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,27,86.234,2.0,HARD,7.0,True,1,True,False,False,3.0,29.9,43.4,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,28,85.663,2.0,HARD,8.0,True,1,True,False,False,3.0,29.9,43.3,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,29,85.814,2.0,HARD,9.0,True,1,True,False,False,3.0,29.9,42.9,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,30,85.782,2.0,HARD,10.0,True,1,True,False,False,3.0,29.7,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,31,86.496,2.0,HARD,11.0,True,1,True,False,False,3.0,29.8,42.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,32,86.869,2.0,HARD,12.0,True,1,True,False,False,4.0,29.8,42.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,33,85.962,2.0,HARD,13.0,True,1,True,False,False,4.0,29.8,42.4,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,34,85.851,2.0,HARD,14.0,True,1,True,False,False,4.0,29.8,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,35,85.85,2.0,HARD,15.0,True,1,True,False,False,4.0,29.8,42.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,36,85.631,2.0,HARD,16.0,True,1,True,False,False,4.0,29.9,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,37,85.671,2.0,HARD,17.0,True,1,True,False,False,4.0,30.1,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,38,85.58,2.0,HARD,18.0,True,1,True,False,False,4.0,30.0,42.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,39,85.629,2.0,HARD,19.0,True,1,True,False,False,4.0,30.0,42.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,40,85.728,2.0,HARD,20.0,True,1,True,False,False,4.0,30.0,42.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,41,86.511,2.0,HARD,21.0,True,1,True,False,False,4.0,30.1,42.9,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,42,86.448,2.0,HARD,22.0,True,1,True,False,False,4.0,30.3,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,43,86.597,2.0,HARD,23.0,True,1,True,False,False,4.0,30.2,42.5,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,44,86.586,2.0,HARD,24.0,True,1,True,False,False,4.0,30.0,41.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,45,86.321,2.0,HARD,25.0,True,1,True,False,False,4.0,30.0,41.7,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,46,86.58,2.0,HARD,26.0,True,1,True,False,False,4.0,30.0,41.6,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,47,87.371,2.0,HARD,27.0,True,1,True,False,False,4.0,30.0,41.2,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,48,86.828,2.0,HARD,28.0,True,1,True,False,False,4.0,30.1,41.2,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,49,86.633,2.0,HARD,29.0,True,1,True,False,False,4.0,30.0,41.0,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,50,86.961,2.0,HARD,30.0,True,1,True,False,False,4.0,30.0,40.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,LEC,Ferrari,51,86.783,2.0,HARD,31.0,True,1,True,False,False,4.0,30.0,40.8,False,3.0,4.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,1,96.787,1.0,MEDIUM,1.0,True,1,False,False,False,19.0,29.2,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,2,88.953,1.0,MEDIUM,2.0,True,1,True,False,False,19.0,29.2,43.1,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,3,88.614,1.0,MEDIUM,3.0,True,1,True,False,False,19.0,29.3,43.2,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,4,87.725,1.0,MEDIUM,4.0,True,1,True,False,False,18.0,29.5,43.1,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,5,87.574,1.0,MEDIUM,5.0,True,1,True,False,False,18.0,29.5,43.1,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,6,87.656,1.0,MEDIUM,6.0,True,1,True,False,False,18.0,29.7,43.4,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,7,87.1,1.0,MEDIUM,7.0,True,1,True,False,False,18.0,29.6,43.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,8,87.362,1.0,MEDIUM,8.0,True,1,True,False,False,18.0,29.7,43.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,9,87.312,1.0,MEDIUM,9.0,True,1,True,False,False,18.0,29.8,44.1,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,10,87.539,1.0,MEDIUM,10.0,True,1,True,False,False,17.0,29.9,43.9,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,11,87.369,1.0,MEDIUM,11.0,True,1,True,False,False,16.0,29.9,43.9,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,12,87.81,1.0,MEDIUM,12.0,True,1,True,False,False,16.0,29.9,43.3,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,13,88.222,1.0,MEDIUM,13.0,True,1,True,False,False,16.0,29.9,43.7,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,14,88.057,1.0,MEDIUM,14.0,True,1,True,False,False,14.0,30.1,43.7,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,15,88.179,1.0,MEDIUM,15.0,True,1,True,False,False,13.0,30.0,43.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,16,88.08,1.0,MEDIUM,16.0,True,1,True,False,False,12.0,30.0,43.9,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,17,87.909,1.0,MEDIUM,17.0,True,1,True,False,False,12.0,29.8,43.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,18,88.401,1.0,MEDIUM,18.0,True,1,True,False,False,12.0,29.7,43.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,19,88.05,1.0,MEDIUM,19.0,True,1,True,False,False,12.0,29.9,44.3,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,20,93.026,1.0,MEDIUM,20.0,True,1,False,True,False,13.0,30.0,44.4,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,21,108.851,2.0,HARD,5.0,False,1,False,False,True,18.0,30.0,44.0,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,22,86.742,2.0,HARD,6.0,False,1,True,False,False,18.0,29.9,43.7,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,23,86.968,2.0,HARD,7.0,False,1,True,False,False,18.0,29.9,43.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,24,87.34,2.0,HARD,8.0,False,1,True,False,False,18.0,29.9,43.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,25,87.176,2.0,HARD,9.0,False,1,True,False,False,17.0,29.8,43.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,26,87.259,2.0,HARD,10.0,False,1,True,False,False,17.0,29.9,43.4,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,27,86.675,2.0,HARD,11.0,False,1,True,False,False,17.0,29.9,43.0,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,28,87.085,2.0,HARD,12.0,False,1,True,False,False,17.0,29.9,43.3,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,29,86.809,2.0,HARD,13.0,False,1,True,False,False,17.0,29.7,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,30,86.924,2.0,HARD,14.0,False,1,True,False,False,17.0,29.7,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,31,86.617,2.0,HARD,15.0,False,1,True,False,False,16.0,29.8,42.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,32,86.832,2.0,HARD,16.0,False,1,True,False,False,16.0,29.9,42.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,33,87.121,2.0,HARD,17.0,False,1,True,False,False,16.0,29.8,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,34,87.298,2.0,HARD,18.0,False,1,True,False,False,14.0,29.8,42.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,35,86.97,2.0,HARD,19.0,False,1,True,False,False,14.0,29.8,42.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,36,87.096,2.0,HARD,20.0,False,1,True,False,False,14.0,30.0,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,37,87.373,2.0,HARD,21.0,False,1,True,False,False,14.0,30.1,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,38,86.902,2.0,HARD,22.0,False,1,True,False,False,13.0,30.0,42.8,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,39,86.904,2.0,HARD,23.0,False,1,True,False,False,13.0,30.0,42.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,40,87.072,2.0,HARD,24.0,False,1,True,False,False,13.0,30.1,42.9,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,41,86.916,2.0,HARD,25.0,False,1,True,False,False,13.0,30.2,42.9,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,42,87.067,2.0,HARD,26.0,False,1,True,False,False,12.0,30.2,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,43,91.134,2.0,HARD,27.0,False,1,True,False,False,12.0,30.1,42.5,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,44,88.214,2.0,HARD,28.0,False,1,True,False,False,13.0,30.0,41.7,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,45,88.336,2.0,HARD,29.0,False,1,True,False,False,14.0,30.0,41.6,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,46,87.153,2.0,HARD,30.0,False,1,True,False,False,14.0,30.0,41.2,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,47,87.267,2.0,HARD,31.0,False,1,True,False,False,14.0,30.1,41.2,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,48,87.59,2.0,HARD,32.0,False,1,True,False,False,14.0,30.0,41.2,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,49,89.467,2.0,HARD,33.0,False,1,True,False,False,14.0,30.0,40.8,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,50,90.865,2.0,HARD,34.0,False,1,True,False,False,16.0,30.0,40.8,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,STR,Aston Martin,51,,2.0,HARD,35.0,False,1,False,False,False,,30.0,40.8,False,20.0,16.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,1,94.407,1.0,MEDIUM,4.0,False,1,False,False,False,13.0,29.2,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,2,88.08,1.0,MEDIUM,5.0,False,1,True,False,False,13.0,29.2,43.1,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,3,87.647,1.0,MEDIUM,6.0,False,1,True,False,False,13.0,29.3,43.2,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,4,87.389,1.0,MEDIUM,7.0,False,1,True,False,False,13.0,29.5,43.1,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,5,87.17,1.0,MEDIUM,8.0,False,1,True,False,False,13.0,29.5,43.1,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,6,87.135,1.0,MEDIUM,9.0,False,1,True,False,False,13.0,29.7,43.4,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,7,87.251,1.0,MEDIUM,10.0,False,1,True,False,False,13.0,29.6,43.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,8,87.233,1.0,MEDIUM,11.0,False,1,True,False,False,13.0,29.7,43.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,9,87.459,1.0,MEDIUM,12.0,False,1,True,False,False,13.0,29.8,44.1,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,10,87.685,1.0,MEDIUM,13.0,False,1,True,False,False,13.0,29.8,43.9,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,11,87.804,1.0,MEDIUM,14.0,False,1,True,False,False,13.0,29.9,43.9,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,12,88.694,1.0,MEDIUM,15.0,False,1,True,False,False,13.0,29.9,43.3,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,13,87.799,1.0,MEDIUM,16.0,False,1,True,False,False,12.0,29.9,43.7,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,14,93.074,1.0,MEDIUM,17.0,False,1,False,True,False,15.0,30.1,43.7,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,15,107.389,2.0,HARD,4.0,False,1,False,False,True,16.0,30.0,43.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,16,86.84,2.0,HARD,5.0,False,1,True,False,False,16.0,29.9,43.7,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,17,87.0,2.0,HARD,6.0,False,1,True,False,False,16.0,29.8,43.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,18,86.906,2.0,HARD,7.0,False,1,True,False,False,16.0,29.8,43.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,19,87.165,2.0,HARD,8.0,False,1,True,False,False,16.0,29.9,44.3,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,20,87.28,2.0,HARD,9.0,False,1,True,False,False,16.0,30.0,44.4,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,21,87.363,2.0,HARD,10.0,False,1,True,False,False,15.0,30.0,44.0,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,22,87.465,2.0,HARD,11.0,False,1,True,False,False,15.0,30.0,43.7,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,23,87.149,2.0,HARD,12.0,False,1,True,False,False,15.0,29.9,43.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,24,87.104,2.0,HARD,13.0,False,1,True,False,False,15.0,29.9,43.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,25,87.165,2.0,HARD,14.0,False,1,True,False,False,14.0,29.8,43.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,26,87.021,2.0,HARD,15.0,False,1,True,False,False,13.0,29.9,43.4,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,27,87.253,2.0,HARD,16.0,False,1,True,False,False,13.0,29.9,43.0,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,28,87.546,2.0,HARD,17.0,False,1,True,False,False,13.0,29.9,43.3,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,29,87.545,2.0,HARD,18.0,False,1,True,False,False,13.0,29.7,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,30,87.121,2.0,HARD,19.0,False,1,True,False,False,13.0,29.7,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,31,87.461,2.0,HARD,20.0,False,1,True,False,False,13.0,29.8,42.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,32,87.522,2.0,HARD,21.0,False,1,True,False,False,13.0,29.9,42.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,33,87.293,2.0,HARD,22.0,False,1,True,False,False,11.0,29.8,42.4,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,34,87.219,2.0,HARD,23.0,False,1,True,False,False,11.0,29.8,42.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,35,87.233,2.0,HARD,24.0,False,1,True,False,False,11.0,29.8,42.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,36,87.142,2.0,HARD,25.0,False,1,True,False,False,11.0,30.0,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,37,87.292,2.0,HARD,26.0,False,1,True,False,False,11.0,30.1,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,38,87.103,2.0,HARD,27.0,False,1,True,False,False,11.0,30.0,42.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,39,87.137,2.0,HARD,28.0,False,1,True,False,False,11.0,30.0,42.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,40,87.64,2.0,HARD,29.0,False,1,True,False,False,11.0,30.1,42.9,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,41,87.18,2.0,HARD,30.0,False,1,True,False,False,11.0,30.2,42.9,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,42,87.176,2.0,HARD,31.0,False,1,True,False,False,10.0,30.3,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,43,89.385,2.0,HARD,32.0,False,1,True,False,False,11.0,30.1,42.5,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,44,87.686,2.0,HARD,33.0,False,1,True,False,False,11.0,30.0,41.7,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,45,87.502,2.0,HARD,34.0,False,1,True,False,False,11.0,30.0,41.6,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,46,87.709,2.0,HARD,35.0,False,1,True,False,False,11.0,30.0,41.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,47,87.622,2.0,HARD,36.0,False,1,True,False,False,11.0,30.1,41.2,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,48,87.44,2.0,HARD,37.0,False,1,True,False,False,11.0,30.0,41.2,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,49,87.742,2.0,HARD,38.0,False,1,True,False,False,11.0,30.0,40.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,50,89.626,2.0,HARD,39.0,False,1,True,False,False,13.0,30.0,40.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,SAR,Williams,51,,2.0,HARD,40.0,False,1,False,False,False,,30.0,40.8,False,15.0,13.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,1,96.466,1.0,HARD,5.0,False,1,False,False,False,18.0,29.2,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,2,88.923,1.0,HARD,6.0,False,1,True,False,False,18.0,29.2,43.1,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,3,88.538,1.0,HARD,7.0,False,1,True,False,False,18.0,29.3,43.2,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,4,89.252,1.0,HARD,8.0,False,1,True,False,False,19.0,29.5,43.1,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,5,88.276,1.0,HARD,9.0,False,1,True,False,False,19.0,29.5,43.1,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,6,87.949,1.0,HARD,10.0,False,1,True,False,False,19.0,29.7,43.4,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,7,87.691,1.0,HARD,11.0,False,1,True,False,False,19.0,29.6,43.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,8,87.935,1.0,HARD,12.0,False,1,True,False,False,19.0,29.7,43.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,9,88.218,1.0,HARD,13.0,False,1,True,False,False,19.0,29.8,44.1,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,10,88.511,1.0,HARD,14.0,False,1,True,False,False,19.0,29.9,43.9,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,11,88.792,1.0,HARD,15.0,False,1,True,False,False,18.0,29.9,43.9,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,12,93.273,1.0,HARD,16.0,False,1,False,True,False,17.0,29.8,43.1,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,13,108.424,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.9,43.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,14,88.08,2.0,MEDIUM,2.0,True,1,True,False,False,19.0,30.0,43.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,15,87.848,2.0,MEDIUM,3.0,True,1,True,False,False,19.0,30.0,43.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,16,87.649,2.0,MEDIUM,4.0,True,1,True,False,False,19.0,29.9,43.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,17,87.589,2.0,MEDIUM,5.0,True,1,True,False,False,19.0,29.8,43.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,18,87.898,2.0,MEDIUM,6.0,True,1,True,False,False,19.0,29.8,43.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,19,87.159,2.0,MEDIUM,7.0,True,1,True,False,False,19.0,29.9,44.3,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,20,87.011,2.0,MEDIUM,8.0,True,1,True,False,False,19.0,30.0,44.3,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,21,87.128,2.0,MEDIUM,9.0,True,1,True,False,False,19.0,30.0,44.0,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,22,87.244,2.0,MEDIUM,10.0,True,1,True,False,False,19.0,29.9,43.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,23,87.492,2.0,MEDIUM,11.0,True,1,True,False,False,19.0,29.9,43.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,24,87.536,2.0,MEDIUM,12.0,True,1,True,False,False,19.0,29.9,43.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,25,87.502,2.0,MEDIUM,13.0,True,1,True,False,False,18.0,29.8,43.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,26,87.418,2.0,MEDIUM,14.0,True,1,True,False,False,18.0,29.9,43.4,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,27,87.22,2.0,MEDIUM,15.0,True,1,True,False,False,18.0,29.9,43.0,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,28,87.154,2.0,MEDIUM,16.0,True,1,True,False,False,18.0,29.9,43.3,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,29,87.344,2.0,MEDIUM,17.0,True,1,True,False,False,18.0,29.7,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,30,87.384,2.0,MEDIUM,18.0,True,1,True,False,False,18.0,29.7,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,31,87.486,2.0,MEDIUM,19.0,True,1,True,False,False,18.0,29.8,42.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,32,87.556,2.0,MEDIUM,20.0,True,1,True,False,False,17.0,29.9,42.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,33,93.158,2.0,MEDIUM,21.0,True,1,False,True,False,18.0,29.8,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,34,107.333,3.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.8,42.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,35,86.3,3.0,MEDIUM,2.0,True,1,True,False,False,19.0,29.9,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,36,86.385,3.0,MEDIUM,3.0,True,1,True,False,False,19.0,30.0,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,37,86.454,3.0,MEDIUM,4.0,True,1,True,False,False,19.0,30.0,42.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,38,86.394,3.0,MEDIUM,5.0,True,1,True,False,False,19.0,30.0,42.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,39,90.343,3.0,MEDIUM,6.0,True,1,True,False,False,19.0,30.0,42.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,40,86.696,3.0,MEDIUM,7.0,True,1,True,False,False,18.0,30.1,42.9,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,41,86.328,3.0,MEDIUM,8.0,True,1,True,False,False,18.0,30.3,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,42,86.278,3.0,MEDIUM,9.0,True,1,True,False,False,18.0,30.2,42.5,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,43,86.511,3.0,MEDIUM,10.0,True,1,True,False,False,18.0,30.0,41.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,44,86.514,3.0,MEDIUM,11.0,True,1,True,False,False,18.0,30.0,41.7,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,45,86.787,3.0,MEDIUM,12.0,True,1,True,False,False,18.0,30.0,41.6,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,46,86.983,3.0,MEDIUM,13.0,True,1,True,False,False,18.0,30.0,41.2,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,47,86.66,3.0,MEDIUM,14.0,True,1,True,False,False,18.0,30.1,41.2,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,48,86.739,3.0,MEDIUM,15.0,True,1,True,False,False,18.0,30.0,41.0,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,49,87.054,3.0,MEDIUM,16.0,True,1,True,False,False,18.0,30.0,40.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,50,86.904,3.0,MEDIUM,17.0,True,1,True,False,False,18.0,30.0,40.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,MAG,Haas F1 Team,51,,3.0,MEDIUM,18.0,True,1,False,False,False,,30.0,40.8,False,19.0,18.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,1,90.785,1.0,MEDIUM,4.0,False,1,False,False,False,7.0,29.2,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,2,87.067,1.0,MEDIUM,5.0,False,1,True,False,False,6.0,29.2,43.1,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,3,86.578,1.0,MEDIUM,6.0,False,1,True,False,False,6.0,29.3,43.2,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,4,86.684,1.0,MEDIUM,7.0,False,1,True,False,False,6.0,29.5,43.1,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,5,86.868,1.0,MEDIUM,8.0,False,1,True,False,False,6.0,29.5,43.1,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,6,86.661,1.0,MEDIUM,9.0,False,1,True,False,False,6.0,29.7,43.4,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,7,86.773,1.0,MEDIUM,10.0,False,1,True,False,False,6.0,29.6,43.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,8,86.676,1.0,MEDIUM,11.0,False,1,True,False,False,6.0,29.7,43.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,9,86.838,1.0,MEDIUM,12.0,False,1,True,False,False,6.0,29.8,44.1,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,10,87.305,1.0,MEDIUM,13.0,False,1,True,False,False,6.0,29.8,43.9,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,11,87.389,1.0,MEDIUM,14.0,False,1,True,False,False,6.0,29.9,43.9,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,12,87.533,1.0,MEDIUM,15.0,False,1,True,False,False,6.0,29.9,43.3,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,13,87.676,1.0,MEDIUM,16.0,False,1,True,False,False,6.0,29.9,43.7,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,14,87.723,1.0,MEDIUM,17.0,False,1,True,False,False,6.0,30.1,43.7,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,15,92.301,1.0,MEDIUM,18.0,False,1,False,True,False,9.0,30.0,43.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,16,107.605,2.0,HARD,4.0,False,1,False,False,True,13.0,30.0,43.9,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,17,87.087,2.0,HARD,5.0,False,1,True,False,False,13.0,29.8,43.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,18,86.893,2.0,HARD,6.0,False,1,True,False,False,13.0,29.7,43.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,19,87.308,2.0,HARD,7.0,False,1,True,False,False,13.0,29.9,44.3,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,20,86.853,2.0,HARD,8.0,False,1,True,False,False,12.0,30.0,44.4,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,21,86.601,2.0,HARD,9.0,False,1,True,False,False,12.0,30.0,44.0,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,22,86.833,2.0,HARD,10.0,False,1,True,False,False,11.0,30.0,43.7,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,23,86.913,2.0,HARD,11.0,False,1,True,False,False,9.0,29.9,43.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,24,86.748,2.0,HARD,12.0,False,1,True,False,False,8.0,29.9,43.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,25,86.898,2.0,HARD,13.0,False,1,True,False,False,7.0,29.8,43.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,26,87.049,2.0,HARD,14.0,False,1,True,False,False,7.0,29.9,43.4,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,27,86.735,2.0,HARD,15.0,False,1,True,False,False,7.0,29.9,43.4,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,28,87.024,2.0,HARD,16.0,False,1,True,False,False,6.0,29.9,43.3,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,29,86.977,2.0,HARD,17.0,False,1,True,False,False,6.0,29.9,42.9,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,30,86.94,2.0,HARD,18.0,False,1,True,False,False,6.0,29.7,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,31,86.735,2.0,HARD,19.0,False,1,True,False,False,6.0,29.8,42.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,32,86.432,2.0,HARD,20.0,False,1,True,False,False,6.0,29.9,42.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,33,86.389,2.0,HARD,21.0,False,1,True,False,False,6.0,29.8,42.4,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,34,86.579,2.0,HARD,22.0,False,1,True,False,False,6.0,29.8,42.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,35,86.545,2.0,HARD,23.0,False,1,True,False,False,6.0,29.8,42.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,36,86.981,2.0,HARD,24.0,False,1,True,False,False,6.0,29.9,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,37,86.831,2.0,HARD,25.0,False,1,True,False,False,6.0,30.1,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,38,87.37,2.0,HARD,26.0,False,1,True,False,False,6.0,30.0,42.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,39,86.802,2.0,HARD,27.0,False,1,True,False,False,6.0,30.0,42.6,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,40,86.572,2.0,HARD,28.0,False,1,True,False,False,6.0,30.0,42.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,41,86.675,2.0,HARD,29.0,False,1,True,False,False,6.0,30.2,42.9,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,42,86.708,2.0,HARD,30.0,False,1,True,False,False,6.0,30.3,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,43,86.913,2.0,HARD,31.0,False,1,True,False,False,6.0,30.1,42.5,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,44,87.725,2.0,HARD,32.0,False,1,True,False,False,6.0,30.0,41.7,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,45,86.907,2.0,HARD,33.0,False,1,True,False,False,6.0,30.0,41.7,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,46,87.252,2.0,HARD,34.0,False,1,True,False,False,6.0,30.0,41.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,47,88.491,2.0,HARD,35.0,False,1,True,False,False,7.0,30.0,41.2,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,48,86.822,2.0,HARD,36.0,False,1,True,False,False,7.0,30.0,41.2,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,49,87.569,2.0,HARD,37.0,False,1,True,False,False,7.0,30.0,41.0,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,50,87.197,2.0,HARD,38.0,False,1,True,False,False,7.0,30.0,40.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ALB,Williams,51,87.433,2.0,HARD,39.0,False,1,True,False,False,7.0,30.0,40.8,False,6.0,7.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,1,95.194,1.0,MEDIUM,1.0,True,1,False,False,False,15.0,29.2,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,2,88.167,1.0,MEDIUM,2.0,True,1,True,False,False,15.0,29.2,43.1,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,3,87.871,1.0,MEDIUM,3.0,True,1,True,False,False,15.0,29.3,43.2,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,4,87.615,1.0,MEDIUM,4.0,True,1,True,False,False,15.0,29.5,43.1,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,5,87.535,1.0,MEDIUM,5.0,True,1,True,False,False,15.0,29.5,43.1,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,6,87.066,1.0,MEDIUM,6.0,True,1,True,False,False,15.0,29.7,43.4,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,7,87.185,1.0,MEDIUM,7.0,True,1,True,False,False,15.0,29.6,43.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,8,87.253,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,29.7,43.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,9,87.416,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,29.8,44.1,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,10,87.544,1.0,MEDIUM,10.0,True,1,True,False,False,15.0,29.9,43.9,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,11,92.187,1.0,MEDIUM,11.0,True,1,False,True,False,17.0,29.9,43.9,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,12,107.237,2.0,HARD,4.0,False,1,False,False,True,18.0,29.8,43.1,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,13,86.253,2.0,HARD,5.0,False,1,True,False,False,17.0,29.9,43.7,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,14,87.775,2.0,HARD,6.0,False,1,True,False,False,17.0,30.0,43.7,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,15,87.645,2.0,HARD,7.0,False,1,True,False,False,15.0,30.0,43.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,16,87.153,2.0,HARD,8.0,False,1,True,False,False,15.0,29.9,43.7,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,17,86.866,2.0,HARD,9.0,False,1,True,False,False,15.0,29.8,43.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,18,87.055,2.0,HARD,10.0,False,1,True,False,False,15.0,29.8,43.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,19,87.347,2.0,HARD,11.0,False,1,True,False,False,15.0,29.9,44.3,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,20,87.075,2.0,HARD,12.0,False,1,True,False,False,15.0,30.0,44.4,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,21,87.17,2.0,HARD,13.0,False,1,True,False,False,14.0,30.0,44.0,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,22,87.333,2.0,HARD,14.0,False,1,True,False,False,14.0,30.0,43.7,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,23,87.285,2.0,HARD,15.0,False,1,True,False,False,14.0,29.9,43.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,24,87.153,2.0,HARD,16.0,False,1,True,False,False,14.0,29.9,43.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,25,87.028,2.0,HARD,17.0,False,1,True,False,False,13.0,29.8,43.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,26,87.164,2.0,HARD,18.0,False,1,True,False,False,12.0,29.9,43.4,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,27,87.348,2.0,HARD,19.0,False,1,True,False,False,12.0,29.9,43.0,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,28,87.858,2.0,HARD,20.0,False,1,True,False,False,12.0,29.9,43.3,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,29,87.356,2.0,HARD,21.0,False,1,True,False,False,12.0,29.7,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,30,87.442,2.0,HARD,22.0,False,1,True,False,False,12.0,29.7,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,31,87.683,2.0,HARD,23.0,False,1,True,False,False,12.0,29.8,42.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,32,87.82,2.0,HARD,24.0,False,1,True,False,False,12.0,29.9,42.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,33,92.052,2.0,HARD,25.0,False,1,False,True,False,14.0,29.8,42.4,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,34,107.962,3.0,MEDIUM,1.0,True,1,False,False,True,17.0,29.8,42.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,35,85.983,3.0,MEDIUM,2.0,True,1,True,False,False,17.0,29.9,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,36,86.935,3.0,MEDIUM,3.0,True,1,True,False,False,17.0,30.0,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,37,86.7,3.0,MEDIUM,4.0,True,1,True,False,False,17.0,30.0,42.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,38,86.503,3.0,MEDIUM,5.0,True,1,True,False,False,17.0,30.0,42.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,39,86.473,3.0,MEDIUM,6.0,True,1,True,False,False,16.0,30.0,42.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,40,86.406,3.0,MEDIUM,7.0,True,1,True,False,False,15.0,30.1,42.9,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,41,86.6,3.0,MEDIUM,8.0,True,1,True,False,False,15.0,30.2,42.9,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,42,86.671,3.0,MEDIUM,9.0,True,1,True,False,False,15.0,30.2,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,43,86.288,3.0,MEDIUM,10.0,True,1,True,False,False,15.0,30.1,42.5,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,44,86.313,3.0,MEDIUM,11.0,True,1,True,False,False,15.0,30.0,41.7,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,45,86.461,3.0,MEDIUM,12.0,True,1,True,False,False,15.0,30.0,41.6,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,46,86.134,3.0,MEDIUM,13.0,True,1,True,False,False,15.0,30.0,41.2,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,47,86.305,3.0,MEDIUM,14.0,True,1,True,False,False,15.0,30.1,41.2,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,48,86.448,3.0,MEDIUM,15.0,True,1,True,False,False,15.0,30.0,41.2,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,49,88.825,3.0,MEDIUM,16.0,True,1,True,False,False,15.0,30.0,40.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,50,86.768,3.0,MEDIUM,17.0,True,1,True,False,False,14.0,30.0,40.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,ZHO,Alfa Romeo,51,,3.0,MEDIUM,18.0,True,1,False,False,False,,30.0,40.8,False,16.0,14.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,1,92.72,1.0,MEDIUM,4.0,False,1,False,False,False,10.0,29.2,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,2,87.92,1.0,MEDIUM,5.0,False,1,True,False,False,10.0,29.2,43.1,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,3,87.36,1.0,MEDIUM,6.0,False,1,True,False,False,10.0,29.3,43.2,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,4,87.2,1.0,MEDIUM,7.0,False,1,True,False,False,10.0,29.5,43.1,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,5,87.035,1.0,MEDIUM,8.0,False,1,True,False,False,10.0,29.5,43.1,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,6,87.169,1.0,MEDIUM,9.0,False,1,True,False,False,10.0,29.7,43.4,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,7,87.465,1.0,MEDIUM,10.0,False,1,True,False,False,10.0,29.6,43.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,8,88.059,1.0,MEDIUM,11.0,False,1,True,False,False,11.0,29.7,43.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,9,87.481,1.0,MEDIUM,12.0,False,1,True,False,False,11.0,29.8,44.1,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,10,87.563,1.0,MEDIUM,13.0,False,1,True,False,False,11.0,29.8,43.9,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,11,88.055,1.0,MEDIUM,14.0,False,1,True,False,False,11.0,29.9,43.9,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,12,89.091,1.0,MEDIUM,15.0,False,1,True,False,False,12.0,29.9,43.3,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,13,88.009,1.0,MEDIUM,16.0,False,1,True,False,False,11.0,29.9,43.7,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,14,92.658,1.0,MEDIUM,17.0,False,1,False,True,False,13.0,30.1,43.7,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,15,109.615,2.0,HARD,6.0,False,1,False,False,True,17.0,30.0,43.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,16,86.99,2.0,HARD,7.0,False,1,True,False,False,17.0,29.9,43.7,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,17,86.988,2.0,HARD,8.0,False,1,True,False,False,17.0,29.8,43.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,18,87.294,2.0,HARD,9.0,False,1,True,False,False,17.0,29.8,43.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,19,87.312,2.0,HARD,10.0,False,1,True,False,False,17.0,29.9,44.3,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,20,87.078,2.0,HARD,11.0,False,1,True,False,False,17.0,30.0,44.3,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,21,87.161,2.0,HARD,12.0,False,1,True,False,False,16.0,30.0,44.0,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,22,87.074,2.0,HARD,13.0,False,1,True,False,False,16.0,30.0,43.7,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,23,87.29,2.0,HARD,14.0,False,1,True,False,False,16.0,29.9,43.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,24,87.143,2.0,HARD,15.0,False,1,True,False,False,16.0,29.9,43.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,25,87.229,2.0,HARD,16.0,False,1,True,False,False,15.0,29.8,43.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,26,87.344,2.0,HARD,17.0,False,1,True,False,False,14.0,29.9,43.4,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,27,87.08,2.0,HARD,18.0,False,1,True,False,False,14.0,29.9,43.0,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,28,87.6,2.0,HARD,19.0,False,1,True,False,False,14.0,29.9,43.3,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,29,87.466,2.0,HARD,20.0,False,1,True,False,False,14.0,29.7,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,30,87.775,2.0,HARD,21.0,False,1,True,False,False,14.0,29.7,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,31,87.547,2.0,HARD,22.0,False,1,True,False,False,14.0,29.8,42.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,32,87.976,2.0,HARD,23.0,False,1,True,False,False,14.0,29.9,42.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,33,88.575,2.0,HARD,24.0,False,1,True,False,False,15.0,29.8,42.4,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,34,87.991,2.0,HARD,25.0,False,1,True,False,False,13.0,29.8,42.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,35,87.945,2.0,HARD,26.0,False,1,True,False,False,13.0,29.8,42.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,36,88.084,2.0,HARD,27.0,False,1,True,False,False,13.0,30.0,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,37,88.006,2.0,HARD,28.0,False,1,True,False,False,13.0,30.1,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,38,88.969,2.0,HARD,29.0,False,1,True,False,False,14.0,30.0,42.8,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,39,92.506,2.0,HARD,30.0,False,1,False,True,False,14.0,30.0,42.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,40,106.37,3.0,MEDIUM,4.0,False,1,False,False,True,17.0,30.1,42.9,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,41,86.395,3.0,MEDIUM,5.0,False,1,True,False,False,17.0,30.3,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,42,86.102,3.0,MEDIUM,6.0,False,1,True,False,False,17.0,30.2,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,43,86.234,3.0,MEDIUM,7.0,False,1,True,False,False,17.0,30.1,42.5,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,44,86.459,3.0,MEDIUM,8.0,False,1,True,False,False,17.0,30.0,41.7,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,45,86.723,3.0,MEDIUM,9.0,False,1,True,False,False,17.0,30.0,41.6,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,46,86.645,3.0,MEDIUM,10.0,False,1,True,False,False,17.0,30.0,41.2,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,47,86.251,3.0,MEDIUM,11.0,False,1,True,False,False,17.0,30.1,41.2,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,48,86.359,3.0,MEDIUM,12.0,False,1,True,False,False,17.0,30.0,41.0,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,49,85.981,3.0,MEDIUM,13.0,False,1,True,False,False,17.0,30.0,40.8,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,50,85.894,3.0,MEDIUM,14.0,False,1,True,False,False,17.0,30.0,40.8,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,HUL,Haas F1 Team,51,,3.0,MEDIUM,15.0,False,1,False,False,False,,30.0,40.8,False,13.0,17.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,1,95.655,1.0,MEDIUM,1.0,True,1,False,False,False,16.0,29.2,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,2,88.667,1.0,MEDIUM,2.0,True,1,True,False,False,16.0,29.2,43.1,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,3,87.822,1.0,MEDIUM,3.0,True,1,True,False,False,16.0,29.3,43.2,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,4,87.582,1.0,MEDIUM,4.0,True,1,True,False,False,16.0,29.5,43.1,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,5,87.385,1.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.5,43.1,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,6,87.306,1.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.7,43.4,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,7,87.117,1.0,MEDIUM,7.0,True,1,True,False,False,16.0,29.6,43.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,8,87.309,1.0,MEDIUM,8.0,True,1,True,False,False,16.0,29.7,43.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,9,87.396,1.0,MEDIUM,9.0,True,1,True,False,False,16.0,29.8,44.1,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,10,87.607,1.0,MEDIUM,10.0,True,1,True,False,False,16.0,29.9,43.9,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,11,87.738,1.0,MEDIUM,11.0,True,1,True,False,False,15.0,29.9,43.9,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,12,88.232,1.0,MEDIUM,12.0,True,1,True,False,False,15.0,29.9,43.3,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,13,87.855,1.0,MEDIUM,13.0,True,1,True,False,False,14.0,29.9,43.7,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,14,88.091,1.0,MEDIUM,14.0,True,1,True,False,False,12.0,30.1,43.7,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,15,88.197,1.0,MEDIUM,15.0,True,1,True,False,False,12.0,30.0,43.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,16,88.249,1.0,MEDIUM,16.0,True,1,True,False,False,11.0,30.0,43.9,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,17,88.111,1.0,MEDIUM,17.0,True,1,True,False,False,11.0,29.8,43.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,18,88.261,1.0,MEDIUM,18.0,True,1,True,False,False,11.0,29.7,43.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,19,88.216,1.0,MEDIUM,19.0,True,1,True,False,False,11.0,29.9,44.3,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,20,89.387,1.0,MEDIUM,20.0,True,1,True,False,False,11.0,30.0,44.4,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,21,88.489,1.0,MEDIUM,21.0,True,1,True,False,False,11.0,30.0,44.0,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,22,88.884,1.0,MEDIUM,22.0,True,1,True,False,False,10.0,30.0,43.7,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,23,89.474,1.0,MEDIUM,23.0,True,1,True,False,False,10.0,29.9,43.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,24,93.499,1.0,MEDIUM,24.0,True,1,False,True,False,12.0,29.9,43.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,25,107.378,2.0,HARD,4.0,False,1,False,False,True,19.0,29.8,43.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,26,87.158,2.0,HARD,5.0,False,1,True,False,False,19.0,29.9,43.4,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,27,87.119,2.0,HARD,6.0,False,1,True,False,False,19.0,29.9,43.0,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,28,87.19,2.0,HARD,7.0,False,1,True,False,False,19.0,29.9,43.3,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,29,87.35,2.0,HARD,8.0,False,1,True,False,False,19.0,29.7,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,30,87.308,2.0,HARD,9.0,False,1,True,False,False,19.0,29.7,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,31,87.208,2.0,HARD,10.0,False,1,True,False,False,19.0,29.8,42.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,32,87.119,2.0,HARD,11.0,False,1,True,False,False,18.0,29.9,42.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,33,86.963,2.0,HARD,12.0,False,1,True,False,False,17.0,29.8,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,34,87.626,2.0,HARD,13.0,False,1,True,False,False,15.0,29.8,42.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,35,87.441,2.0,HARD,14.0,False,1,True,False,False,15.0,29.9,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,36,87.476,2.0,HARD,15.0,False,1,True,False,False,15.0,30.0,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,37,87.429,2.0,HARD,16.0,False,1,True,False,False,15.0,30.1,42.5,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,38,87.079,2.0,HARD,17.0,False,1,True,False,False,15.0,30.0,42.8,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,OCO,Alpine,39,106.604,2.0,HARD,18.0,False,1,False,True,False,18.0,30.0,42.6,False,18.0,19.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,1,91.513,1.0,MEDIUM,1.0,True,1,False,False,False,8.0,29.2,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,2,87.575,1.0,MEDIUM,2.0,True,1,True,False,False,8.0,29.2,43.1,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,3,87.105,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,29.3,43.2,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,4,87.069,1.0,MEDIUM,4.0,True,1,True,False,False,8.0,29.5,43.1,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,5,87.142,1.0,MEDIUM,5.0,True,1,True,False,False,8.0,29.5,43.1,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,6,86.796,1.0,MEDIUM,6.0,True,1,True,False,False,8.0,29.7,43.4,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,7,86.864,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,29.6,43.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,8,86.628,1.0,MEDIUM,8.0,True,1,True,False,False,8.0,29.7,43.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,9,86.893,1.0,MEDIUM,9.0,True,1,True,False,False,8.0,29.8,44.1,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,10,86.965,1.0,MEDIUM,10.0,True,1,True,False,False,8.0,29.8,43.9,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,11,87.066,1.0,MEDIUM,11.0,True,1,True,False,False,8.0,29.9,43.9,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,12,87.438,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,29.9,43.3,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,13,87.359,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,29.9,43.7,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,14,87.478,1.0,MEDIUM,14.0,True,1,True,False,False,8.0,30.1,43.7,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,15,87.796,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,30.0,43.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,16,87.199,1.0,MEDIUM,16.0,True,1,True,False,False,7.0,30.0,43.9,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,17,87.597,1.0,MEDIUM,17.0,True,1,True,False,False,7.0,29.8,43.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,18,87.272,1.0,MEDIUM,18.0,True,1,True,False,False,7.0,29.7,43.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,19,87.28,1.0,MEDIUM,19.0,True,1,True,False,False,7.0,29.8,43.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,20,87.716,1.0,MEDIUM,20.0,True,1,True,False,False,5.0,30.0,44.4,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,21,87.718,1.0,MEDIUM,21.0,True,1,True,False,False,3.0,30.0,44.3,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,22,91.647,1.0,MEDIUM,22.0,True,1,False,True,False,4.0,30.0,43.7,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,23,106.282,2.0,HARD,5.0,False,1,False,False,True,11.0,29.9,43.7,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,24,86.144,2.0,HARD,6.0,False,1,True,False,False,9.0,29.9,43.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,25,86.424,2.0,HARD,7.0,False,1,True,False,False,8.0,29.8,43.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,26,86.402,2.0,HARD,8.0,False,1,True,False,False,8.0,29.9,43.4,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,27,86.485,2.0,HARD,9.0,False,1,True,False,False,8.0,29.9,43.4,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,28,86.396,2.0,HARD,10.0,False,1,True,False,False,7.0,29.9,43.3,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,29,86.472,2.0,HARD,11.0,False,1,True,False,False,7.0,29.9,42.9,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,30,86.968,2.0,HARD,12.0,False,1,True,False,False,7.0,29.7,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,31,86.909,2.0,HARD,13.0,False,1,True,False,False,7.0,29.8,42.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,32,86.586,2.0,HARD,14.0,False,1,True,False,False,7.0,29.9,42.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,33,86.455,2.0,HARD,15.0,False,1,True,False,False,7.0,29.8,42.4,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,34,86.366,2.0,HARD,16.0,False,1,True,False,False,7.0,29.8,42.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,35,86.464,2.0,HARD,17.0,False,1,True,False,False,7.0,29.8,42.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,36,87.06,2.0,HARD,18.0,False,1,True,False,False,7.0,29.9,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,37,86.595,2.0,HARD,19.0,False,1,True,False,False,7.0,30.1,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,38,87.567,2.0,HARD,20.0,False,1,True,False,False,7.0,30.0,42.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,39,86.792,2.0,HARD,21.0,False,1,True,False,False,7.0,30.0,42.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,40,86.761,2.0,HARD,22.0,False,1,True,False,False,7.0,30.0,42.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,41,86.562,2.0,HARD,23.0,False,1,True,False,False,7.0,30.2,42.9,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,42,86.623,2.0,HARD,24.0,False,1,True,False,False,7.0,30.3,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,43,86.81,2.0,HARD,25.0,False,1,True,False,False,7.0,30.1,42.5,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,44,87.991,2.0,HARD,26.0,False,1,True,False,False,7.0,30.0,41.7,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,45,87.466,2.0,HARD,27.0,False,1,True,False,False,8.0,30.0,41.6,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,46,87.017,2.0,HARD,28.0,False,1,True,False,False,8.0,30.0,41.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,47,87.886,2.0,HARD,29.0,False,1,True,False,False,8.0,30.0,41.2,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,48,86.733,2.0,HARD,30.0,False,1,True,False,False,8.0,30.0,41.2,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,49,87.661,2.0,HARD,31.0,False,1,True,False,False,8.0,30.0,41.0,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,50,87.174,2.0,HARD,32.0,False,1,True,False,False,8.0,30.0,40.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,NOR,McLaren,51,87.425,2.0,HARD,33.0,False,1,True,False,False,8.0,30.0,40.8,False,9.0,8.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,1,93.893,1.0,MEDIUM,4.0,False,1,False,False,False,12.0,29.2,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,2,88.018,1.0,MEDIUM,5.0,False,1,True,False,False,12.0,29.2,43.1,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,3,87.657,1.0,MEDIUM,6.0,False,1,True,False,False,12.0,29.3,43.2,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,4,87.13,1.0,MEDIUM,7.0,False,1,True,False,False,12.0,29.5,43.1,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,5,87.205,1.0,MEDIUM,8.0,False,1,True,False,False,12.0,29.5,43.1,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,6,87.263,1.0,MEDIUM,9.0,False,1,True,False,False,12.0,29.7,43.4,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,7,87.154,1.0,MEDIUM,10.0,False,1,True,False,False,12.0,29.6,43.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,8,87.331,1.0,MEDIUM,11.0,False,1,True,False,False,12.0,29.7,43.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,9,87.506,1.0,MEDIUM,12.0,False,1,True,False,False,12.0,29.8,44.1,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,10,87.648,1.0,MEDIUM,13.0,False,1,True,False,False,12.0,29.8,43.9,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,11,87.892,1.0,MEDIUM,14.0,False,1,True,False,False,12.0,29.9,43.9,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,12,87.631,1.0,MEDIUM,15.0,False,1,True,False,False,11.0,29.9,43.3,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,13,92.053,1.0,MEDIUM,16.0,False,1,False,True,False,15.0,29.9,43.7,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,14,107.344,2.0,HARD,4.0,False,1,False,False,True,16.0,30.1,43.7,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,15,87.03,2.0,HARD,5.0,False,1,True,False,False,14.0,30.0,43.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,16,87.412,2.0,HARD,6.0,False,1,True,False,False,14.0,29.9,43.7,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,17,87.045,2.0,HARD,7.0,False,1,True,False,False,14.0,29.8,43.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,18,86.815,2.0,HARD,8.0,False,1,True,False,False,14.0,29.8,43.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,19,87.047,2.0,HARD,9.0,False,1,True,False,False,14.0,29.9,44.3,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,20,86.89,2.0,HARD,10.0,False,1,True,False,False,14.0,30.0,44.4,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,21,87.171,2.0,HARD,11.0,False,1,True,False,False,13.0,30.0,44.0,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,22,88.059,2.0,HARD,12.0,False,1,True,False,False,13.0,30.0,43.7,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,23,87.215,2.0,HARD,13.0,False,1,True,False,False,13.0,29.9,43.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,24,87.049,2.0,HARD,14.0,False,1,True,False,False,13.0,29.9,43.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,25,87.204,2.0,HARD,15.0,False,1,True,False,False,12.0,29.8,43.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,26,87.089,2.0,HARD,16.0,False,1,True,False,False,11.0,29.9,43.4,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,27,87.025,2.0,HARD,17.0,False,1,True,False,False,11.0,29.9,43.0,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,28,87.376,2.0,HARD,18.0,False,1,True,False,False,11.0,29.9,43.3,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,29,87.108,2.0,HARD,19.0,False,1,True,False,False,11.0,29.7,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,30,87.487,2.0,HARD,20.0,False,1,True,False,False,11.0,29.7,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,31,87.515,2.0,HARD,21.0,False,1,True,False,False,11.0,29.8,42.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,32,87.496,2.0,HARD,22.0,False,1,True,False,False,11.0,29.9,42.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,33,91.843,2.0,HARD,23.0,False,1,False,True,False,12.0,29.8,42.4,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,34,106.71,3.0,MEDIUM,4.0,False,1,False,False,True,16.0,29.8,42.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,35,86.26,3.0,MEDIUM,5.0,False,1,True,False,False,16.0,29.9,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,36,86.384,3.0,MEDIUM,6.0,False,1,True,False,False,16.0,30.0,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,37,86.253,3.0,MEDIUM,7.0,False,1,True,False,False,16.0,30.0,42.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,38,86.103,3.0,MEDIUM,8.0,False,1,True,False,False,16.0,30.0,42.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,39,86.245,3.0,MEDIUM,9.0,False,1,True,False,False,15.0,30.0,42.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,40,86.273,3.0,MEDIUM,10.0,False,1,True,False,False,14.0,30.1,42.9,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,41,86.417,3.0,MEDIUM,11.0,False,1,True,False,False,14.0,30.2,42.9,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,42,86.121,3.0,MEDIUM,12.0,False,1,True,False,False,13.0,30.2,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,43,86.143,3.0,MEDIUM,13.0,False,1,True,False,False,13.0,30.1,42.5,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,44,85.842,3.0,MEDIUM,14.0,False,1,True,False,False,12.0,30.0,41.7,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,45,86.134,3.0,MEDIUM,15.0,False,1,True,False,False,12.0,30.0,41.6,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,46,86.018,3.0,MEDIUM,16.0,False,1,True,False,False,12.0,30.0,41.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,47,86.656,3.0,MEDIUM,17.0,False,1,True,False,False,12.0,30.1,41.2,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,48,86.098,3.0,MEDIUM,18.0,False,1,True,False,False,12.0,30.0,41.2,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,49,87.235,3.0,MEDIUM,19.0,False,1,True,False,False,13.0,30.0,40.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,50,86.436,3.0,MEDIUM,20.0,False,1,True,False,False,12.0,30.0,40.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,LAW,AlphaTauri,51,,3.0,MEDIUM,21.0,False,1,False,False,False,,30.0,40.8,False,12.0,11.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,1,92.011,1.0,HARD,4.0,False,1,False,False,False,9.0,29.2,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,2,87.837,1.0,HARD,5.0,False,1,True,False,False,9.0,29.2,43.1,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,3,87.289,1.0,HARD,6.0,False,1,True,False,False,9.0,29.3,43.2,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,4,87.233,1.0,HARD,7.0,False,1,True,False,False,9.0,29.5,43.1,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,5,87.015,1.0,HARD,8.0,False,1,True,False,False,9.0,29.5,43.1,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,6,86.711,1.0,HARD,9.0,False,1,True,False,False,9.0,29.7,43.4,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,7,86.7,1.0,HARD,10.0,False,1,True,False,False,9.0,29.6,43.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,8,86.643,1.0,HARD,11.0,False,1,True,False,False,9.0,29.7,43.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,9,86.756,1.0,HARD,12.0,False,1,True,False,False,9.0,29.8,44.1,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,10,86.995,1.0,HARD,13.0,False,1,True,False,False,9.0,29.8,43.9,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,11,87.119,1.0,HARD,14.0,False,1,True,False,False,9.0,29.9,43.9,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,12,87.194,1.0,HARD,15.0,False,1,True,False,False,9.0,29.9,43.3,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,13,87.292,1.0,HARD,16.0,False,1,True,False,False,9.0,29.9,43.7,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,14,87.526,1.0,HARD,17.0,False,1,True,False,False,9.0,30.1,43.7,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,15,88.085,1.0,HARD,18.0,False,1,True,False,False,8.0,30.0,43.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,16,87.24,1.0,HARD,19.0,False,1,True,False,False,8.0,30.0,43.9,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,17,87.585,1.0,HARD,20.0,False,1,True,False,False,8.0,29.8,43.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,18,87.279,1.0,HARD,21.0,False,1,True,False,False,8.0,29.7,43.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,19,87.449,1.0,HARD,22.0,False,1,True,False,False,8.0,29.9,44.3,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,20,87.83,1.0,HARD,23.0,False,1,True,False,False,6.0,30.0,44.4,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,21,87.399,1.0,HARD,24.0,False,1,True,False,False,4.0,30.0,44.3,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,22,87.154,1.0,HARD,25.0,False,1,True,False,False,2.0,30.0,43.7,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,23,87.267,1.0,HARD,26.0,False,1,True,False,False,1.0,29.9,43.7,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,24,87.311,1.0,HARD,27.0,False,1,True,False,False,1.0,29.9,43.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,25,87.791,1.0,HARD,28.0,False,1,True,False,False,2.0,29.9,43.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,26,87.407,1.0,HARD,29.0,False,1,True,False,False,2.0,29.9,43.4,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,27,93.228,1.0,HARD,30.0,False,1,False,True,False,5.0,29.9,43.4,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,28,105.978,2.0,MEDIUM,1.0,True,1,False,False,True,10.0,29.9,43.3,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,29,85.582,2.0,MEDIUM,2.0,True,1,True,False,False,9.0,29.9,42.9,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,30,86.34,2.0,MEDIUM,3.0,True,1,True,False,False,9.0,29.7,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,31,86.404,2.0,MEDIUM,4.0,True,1,True,False,False,9.0,29.8,42.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,32,86.62,2.0,MEDIUM,5.0,True,1,True,False,False,9.0,29.9,42.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,33,86.584,2.0,MEDIUM,6.0,True,1,True,False,False,9.0,29.8,42.4,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,34,86.236,2.0,MEDIUM,7.0,True,1,True,False,False,9.0,29.8,42.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,35,86.016,2.0,MEDIUM,8.0,True,1,True,False,False,9.0,29.8,42.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,36,86.205,2.0,MEDIUM,9.0,True,1,True,False,False,9.0,30.0,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,37,85.999,2.0,MEDIUM,10.0,True,1,True,False,False,9.0,30.1,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,38,86.274,2.0,MEDIUM,11.0,True,1,True,False,False,9.0,30.0,42.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,39,86.249,2.0,MEDIUM,12.0,True,1,True,False,False,9.0,30.0,42.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,40,86.658,2.0,MEDIUM,13.0,True,1,True,False,False,9.0,30.0,42.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,41,87.501,2.0,MEDIUM,14.0,True,1,True,False,False,8.0,30.2,42.9,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,42,86.216,2.0,MEDIUM,15.0,True,1,True,False,False,8.0,30.3,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,43,86.093,2.0,MEDIUM,16.0,True,1,True,False,False,8.0,30.1,42.5,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,44,87.152,2.0,MEDIUM,17.0,True,1,True,False,False,8.0,30.0,41.7,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,45,86.333,2.0,MEDIUM,18.0,True,1,True,False,False,7.0,30.0,41.6,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,46,87.193,2.0,MEDIUM,19.0,True,1,True,False,False,7.0,30.0,41.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,47,86.12,2.0,MEDIUM,20.0,True,1,True,False,False,6.0,30.0,41.2,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,48,85.815,2.0,MEDIUM,21.0,True,1,True,False,False,6.0,30.0,41.2,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,49,85.888,2.0,MEDIUM,22.0,True,1,True,False,False,6.0,30.0,41.0,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,50,85.927,2.0,MEDIUM,23.0,True,1,True,False,False,6.0,30.0,40.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,HAM,Mercedes,51,86.093,2.0,MEDIUM,24.0,True,1,True,False,False,6.0,30.0,40.8,False,8.0,6.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,1,87.117,1.0,MEDIUM,1.0,True,1,False,False,False,1.0,29.2,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,2,86.006,1.0,MEDIUM,2.0,True,1,True,False,False,1.0,29.2,43.1,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,3,85.976,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,29.3,43.2,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,4,86.067,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,29.5,43.1,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,5,86.423,1.0,MEDIUM,5.0,True,1,True,False,False,1.0,29.5,43.1,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,6,86.615,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,29.5,43.3,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,7,86.358,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,29.6,43.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,8,86.224,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,29.7,43.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,9,86.476,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,29.8,44.1,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,10,86.511,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,29.8,43.9,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,11,86.691,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,29.9,43.9,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,12,86.408,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,29.9,43.3,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,13,86.887,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,29.9,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,14,86.972,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,30.1,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,15,88.219,1.0,MEDIUM,15.0,True,1,True,False,False,2.0,30.0,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,16,87.323,1.0,MEDIUM,16.0,True,1,True,False,False,2.0,30.0,43.9,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,17,87.721,1.0,MEDIUM,17.0,True,1,True,False,False,2.0,29.9,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,18,87.512,1.0,MEDIUM,18.0,True,1,True,False,False,2.0,29.7,43.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,19,91.912,1.0,MEDIUM,19.0,True,1,False,True,False,4.0,29.8,43.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,20,106.762,2.0,HARD,1.0,True,1,False,False,True,8.0,30.0,44.4,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,21,86.146,2.0,HARD,2.0,True,1,True,False,False,7.0,30.0,44.0,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,22,85.558,2.0,HARD,3.0,True,1,True,False,False,5.0,30.0,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,23,85.793,2.0,HARD,4.0,True,1,True,False,False,4.0,29.9,43.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,24,85.902,2.0,HARD,5.0,True,1,True,False,False,3.0,29.9,43.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,25,86.005,2.0,HARD,6.0,True,1,True,False,False,3.0,29.9,43.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,26,85.836,2.0,HARD,7.0,True,1,True,False,False,3.0,29.9,43.4,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,27,86.165,2.0,HARD,8.0,True,1,True,False,False,2.0,29.9,43.4,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,28,85.77,2.0,HARD,9.0,True,1,True,False,False,2.0,29.9,43.3,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,29,85.72,2.0,HARD,10.0,True,1,True,False,False,2.0,29.9,42.9,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,30,85.501,2.0,HARD,11.0,True,1,True,False,False,2.0,29.7,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,31,85.718,2.0,HARD,12.0,True,1,True,False,False,2.0,29.8,42.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,32,85.896,2.0,HARD,13.0,True,1,True,False,False,2.0,29.8,42.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,33,85.926,2.0,HARD,14.0,True,1,True,False,False,2.0,29.8,42.4,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,34,86.126,2.0,HARD,15.0,True,1,True,False,False,2.0,29.8,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,35,85.789,2.0,HARD,16.0,True,1,True,False,False,2.0,29.8,42.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,36,86.011,2.0,HARD,17.0,True,1,True,False,False,2.0,29.9,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,37,85.886,2.0,HARD,18.0,True,1,True,False,False,2.0,30.0,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,38,85.705,2.0,HARD,19.0,True,1,True,False,False,2.0,30.0,42.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,39,85.924,2.0,HARD,20.0,True,1,True,False,False,2.0,30.0,42.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,40,86.122,2.0,HARD,21.0,True,1,True,False,False,2.0,30.0,42.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,41,86.738,2.0,HARD,22.0,True,1,True,False,False,2.0,30.1,42.9,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,42,86.479,2.0,HARD,23.0,True,1,True,False,False,2.0,30.3,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,43,86.589,2.0,HARD,24.0,True,1,True,False,False,2.0,30.2,42.5,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,44,86.43,2.0,HARD,25.0,True,1,True,False,False,2.0,30.0,41.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,45,86.632,2.0,HARD,26.0,True,1,True,False,False,2.0,30.0,41.7,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,46,87.303,2.0,HARD,27.0,True,1,True,False,False,3.0,30.0,41.6,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,47,87.096,2.0,HARD,28.0,True,1,True,False,False,3.0,30.0,41.2,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,48,86.8,2.0,HARD,29.0,True,1,True,False,False,3.0,30.1,41.2,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,49,86.77,2.0,HARD,30.0,True,1,True,False,False,3.0,30.0,41.0,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,50,86.776,2.0,HARD,31.0,True,1,True,False,False,3.0,30.0,40.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,SAI,Ferrari,51,87.044,2.0,HARD,32.0,True,1,True,False,False,3.0,30.0,40.8,False,1.0,3.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,1,89.339,1.0,MEDIUM,1.0,True,1,False,False,False,4.0,29.2,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,2,86.686,1.0,MEDIUM,2.0,True,1,True,False,False,4.0,29.2,43.1,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,3,86.176,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,29.3,43.2,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,4,86.178,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,29.5,43.1,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,5,86.249,1.0,MEDIUM,5.0,True,1,True,False,False,4.0,29.5,43.1,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,6,86.515,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,29.7,43.4,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,7,86.515,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,29.6,43.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,8,86.594,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,29.7,43.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,9,86.71,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,29.8,44.1,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,10,86.655,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,29.8,43.9,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,11,87.186,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,29.9,43.9,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,12,87.044,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,29.9,43.3,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,13,86.962,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,29.9,43.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,14,87.285,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,30.1,43.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,15,87.005,1.0,MEDIUM,15.0,True,1,True,False,False,4.0,30.0,43.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,16,87.976,1.0,MEDIUM,16.0,True,1,True,False,False,5.0,30.0,43.9,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,17,87.055,1.0,MEDIUM,17.0,True,1,True,False,False,5.0,29.9,43.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,18,87.383,1.0,MEDIUM,18.0,True,1,True,False,False,5.0,29.7,43.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,19,91.885,1.0,MEDIUM,19.0,True,1,False,True,False,5.0,29.8,43.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,20,105.31,2.0,HARD,4.0,False,1,False,False,True,10.0,30.0,44.4,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,21,86.456,2.0,HARD,5.0,False,1,True,False,False,9.0,30.0,44.0,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,22,86.715,2.0,HARD,6.0,False,1,True,False,False,8.0,30.0,43.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,23,86.605,2.0,HARD,7.0,False,1,True,False,False,7.0,29.9,43.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,24,86.671,2.0,HARD,8.0,False,1,True,False,False,6.0,29.9,43.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,25,86.32,2.0,HARD,9.0,False,1,True,False,False,6.0,29.9,43.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,26,86.41,2.0,HARD,10.0,False,1,True,False,False,6.0,29.9,43.4,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,27,86.184,2.0,HARD,11.0,False,1,True,False,False,6.0,29.9,43.4,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,28,86.284,2.0,HARD,12.0,False,1,True,False,False,5.0,29.9,43.3,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,29,86.14,2.0,HARD,13.0,False,1,True,False,False,5.0,29.9,42.9,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,30,85.966,2.0,HARD,14.0,False,1,True,False,False,5.0,29.7,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,31,86.148,2.0,HARD,15.0,False,1,True,False,False,5.0,29.8,42.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,32,86.059,2.0,HARD,16.0,False,1,True,False,False,5.0,29.8,42.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,33,86.161,2.0,HARD,17.0,False,1,True,False,False,5.0,29.8,42.4,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,34,86.119,2.0,HARD,18.0,False,1,True,False,False,5.0,29.8,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,35,86.189,2.0,HARD,19.0,False,1,True,False,False,5.0,29.8,42.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,36,86.371,2.0,HARD,20.0,False,1,True,False,False,5.0,29.9,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,37,85.997,2.0,HARD,21.0,False,1,True,False,False,5.0,30.1,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,38,85.847,2.0,HARD,22.0,False,1,True,False,False,5.0,30.0,42.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,39,86.21,2.0,HARD,23.0,False,1,True,False,False,5.0,30.0,42.6,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,40,86.244,2.0,HARD,24.0,False,1,True,False,False,5.0,30.0,42.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,41,86.614,2.0,HARD,25.0,False,1,True,False,False,5.0,30.1,42.9,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,42,86.335,2.0,HARD,26.0,False,1,True,False,False,5.0,30.3,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,43,86.426,2.0,HARD,27.0,False,1,True,False,False,5.0,30.2,42.5,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,44,86.336,2.0,HARD,28.0,False,1,True,False,False,5.0,30.0,41.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,45,86.394,2.0,HARD,29.0,False,1,True,False,False,5.0,30.0,41.7,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,46,86.458,2.0,HARD,30.0,False,1,True,False,False,5.0,30.0,41.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,47,86.64,2.0,HARD,31.0,False,1,True,False,False,5.0,30.0,41.2,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,48,86.287,2.0,HARD,32.0,False,1,True,False,False,5.0,30.1,41.2,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,49,86.375,2.0,HARD,33.0,False,1,True,False,False,5.0,30.0,41.0,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,50,86.874,2.0,HARD,34.0,False,1,True,False,False,5.0,30.0,40.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,RUS,Mercedes,51,86.628,2.0,HARD,35.0,False,1,True,False,False,5.0,30.0,40.8,False,4.0,5.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,1,94.811,1.0,HARD,4.0,False,1,False,False,False,14.0,29.2,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,2,88.032,1.0,HARD,5.0,False,1,True,False,False,14.0,29.2,43.1,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,3,87.95,1.0,HARD,6.0,False,1,True,False,False,14.0,29.3,43.2,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,4,87.119,1.0,HARD,7.0,False,1,True,False,False,14.0,29.5,43.1,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,5,87.575,1.0,HARD,8.0,False,1,True,False,False,14.0,29.5,43.1,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,6,87.15,1.0,HARD,9.0,False,1,True,False,False,14.0,29.7,43.4,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,7,87.36,1.0,HARD,10.0,False,1,True,False,False,14.0,29.6,43.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,8,87.227,1.0,HARD,11.0,False,1,True,False,False,14.0,29.7,43.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,9,87.265,1.0,HARD,12.0,False,1,True,False,False,14.0,29.8,44.1,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,10,87.863,1.0,HARD,13.0,False,1,True,False,False,14.0,29.9,43.9,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,11,87.693,1.0,HARD,14.0,False,1,True,False,False,14.0,29.9,43.9,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,12,88.716,1.0,HARD,15.0,False,1,True,False,False,14.0,29.9,43.3,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,13,88.007,1.0,HARD,16.0,False,1,True,False,False,13.0,29.9,43.7,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,14,87.991,1.0,HARD,17.0,False,1,True,False,False,11.0,30.1,43.7,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,15,87.427,1.0,HARD,18.0,False,1,True,False,False,11.0,30.0,43.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,16,87.824,1.0,HARD,19.0,False,1,True,False,False,10.0,30.0,43.9,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,17,87.47,1.0,HARD,20.0,False,1,True,False,False,10.0,29.8,43.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,18,87.634,1.0,HARD,21.0,False,1,True,False,False,10.0,29.7,43.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,19,87.725,1.0,HARD,22.0,False,1,True,False,False,10.0,29.9,44.3,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,20,88.438,1.0,HARD,23.0,False,1,True,False,False,9.0,30.0,44.4,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,21,89.044,1.0,HARD,24.0,False,1,True,False,False,10.0,30.0,44.0,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,22,88.116,1.0,HARD,25.0,False,1,True,False,False,9.0,30.0,43.7,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,23,88.123,1.0,HARD,26.0,False,1,True,False,False,8.0,29.9,43.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,24,88.022,1.0,HARD,27.0,False,1,True,False,False,7.0,29.9,43.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,25,92.814,1.0,HARD,28.0,False,1,False,True,False,9.0,29.8,43.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,26,106.575,2.0,MEDIUM,4.0,False,1,False,False,True,16.0,29.9,43.4,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,27,85.988,2.0,MEDIUM,5.0,False,1,True,False,False,16.0,29.9,43.0,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,28,86.486,2.0,MEDIUM,6.0,False,1,True,False,False,16.0,29.9,43.3,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,29,86.201,2.0,MEDIUM,7.0,False,1,True,False,False,16.0,29.7,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,30,86.643,2.0,MEDIUM,8.0,False,1,True,False,False,16.0,29.7,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,31,86.648,2.0,MEDIUM,9.0,False,1,True,False,False,15.0,29.8,42.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,32,86.606,2.0,MEDIUM,10.0,False,1,True,False,False,15.0,29.9,42.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,33,86.873,2.0,MEDIUM,11.0,False,1,True,False,False,13.0,29.8,42.4,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,34,86.621,2.0,MEDIUM,12.0,False,1,True,False,False,12.0,29.8,42.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,35,86.523,2.0,MEDIUM,13.0,False,1,True,False,False,12.0,29.8,42.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,36,86.782,2.0,MEDIUM,14.0,False,1,True,False,False,12.0,30.0,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,37,86.545,2.0,MEDIUM,15.0,False,1,True,False,False,12.0,30.1,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,38,87.093,2.0,MEDIUM,16.0,False,1,True,False,False,12.0,30.0,42.8,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,39,86.981,2.0,MEDIUM,17.0,False,1,True,False,False,12.0,30.0,42.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,40,87.862,2.0,MEDIUM,18.0,False,1,True,False,False,12.0,30.1,42.9,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,41,87.203,2.0,MEDIUM,19.0,False,1,True,False,False,12.0,30.2,42.9,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,42,86.864,2.0,MEDIUM,20.0,False,1,True,False,False,11.0,30.2,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,43,87.753,2.0,MEDIUM,21.0,False,1,True,False,False,10.0,30.1,42.5,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,44,86.962,2.0,MEDIUM,22.0,False,1,True,False,False,10.0,30.0,41.7,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,45,86.889,2.0,MEDIUM,23.0,False,1,True,False,False,10.0,30.0,41.6,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,46,86.806,2.0,MEDIUM,24.0,False,1,True,False,False,10.0,30.0,41.8,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,47,86.736,2.0,MEDIUM,25.0,False,1,True,False,False,10.0,30.1,41.2,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,48,87.005,2.0,MEDIUM,26.0,False,1,True,False,False,10.0,30.0,41.2,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,49,87.134,2.0,MEDIUM,27.0,False,1,True,False,False,10.0,30.0,40.8,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,50,86.95,2.0,MEDIUM,28.0,False,1,True,False,False,10.0,30.0,40.8,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,BOT,Alfa Romeo,51,,2.0,MEDIUM,29.0,False,1,False,False,False,,30.0,40.8,False,14.0,10.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,1,90.315,1.0,MEDIUM,1.0,True,1,False,False,False,6.0,29.2,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,2,88.053,1.0,MEDIUM,2.0,True,1,True,False,False,7.0,29.2,43.1,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,3,86.982,1.0,MEDIUM,3.0,True,1,True,False,False,7.0,29.3,43.2,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,4,87.004,1.0,MEDIUM,4.0,True,1,True,False,False,7.0,29.5,43.1,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,5,86.909,1.0,MEDIUM,5.0,True,1,True,False,False,7.0,29.5,43.1,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,6,86.878,1.0,MEDIUM,6.0,True,1,True,False,False,7.0,29.7,43.4,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,7,86.94,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,29.6,43.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,8,86.85,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,29.7,43.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,9,86.864,1.0,MEDIUM,9.0,True,1,True,False,False,7.0,29.8,44.1,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,10,86.823,1.0,MEDIUM,10.0,True,1,True,False,False,7.0,29.8,43.9,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,11,87.217,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,29.9,43.9,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,12,87.454,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,29.9,43.3,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,13,87.518,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,29.9,43.7,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,14,87.371,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,30.1,43.7,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,15,87.738,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,30.0,43.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,16,87.201,1.0,MEDIUM,16.0,True,1,True,False,False,6.0,30.0,43.9,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,17,87.44,1.0,MEDIUM,17.0,True,1,True,False,False,6.0,29.8,43.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,18,87.398,1.0,MEDIUM,18.0,True,1,True,False,False,6.0,29.7,43.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,19,87.352,1.0,MEDIUM,19.0,True,1,True,False,False,6.0,29.8,43.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,20,87.746,1.0,MEDIUM,20.0,True,1,True,False,False,4.0,30.0,44.4,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,21,87.587,1.0,MEDIUM,21.0,True,1,True,False,False,2.0,30.0,44.3,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,22,87.419,1.0,MEDIUM,22.0,True,1,True,False,False,1.0,30.0,43.7,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,23,91.866,1.0,MEDIUM,23.0,True,1,False,True,False,3.0,29.9,43.7,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,24,106.854,2.0,HARD,6.0,False,1,False,False,True,10.0,29.9,43.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,25,86.411,2.0,HARD,7.0,False,1,True,False,False,10.0,29.8,43.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,26,86.287,2.0,HARD,8.0,False,1,True,False,False,9.0,29.9,43.4,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,27,86.248,2.0,HARD,9.0,False,1,True,False,False,9.0,29.9,43.0,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,28,86.611,2.0,HARD,10.0,False,1,True,False,False,8.0,29.9,43.3,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,29,86.132,2.0,HARD,11.0,False,1,True,False,False,8.0,29.9,42.9,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,30,87.074,2.0,HARD,12.0,False,1,True,False,False,8.0,29.7,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,31,86.86,2.0,HARD,13.0,False,1,True,False,False,8.0,29.8,42.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,32,86.746,2.0,HARD,14.0,False,1,True,False,False,8.0,29.9,42.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,33,86.445,2.0,HARD,15.0,False,1,True,False,False,8.0,29.8,42.4,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,34,86.717,2.0,HARD,16.0,False,1,True,False,False,8.0,29.8,42.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,35,86.277,2.0,HARD,17.0,False,1,True,False,False,8.0,29.8,42.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,36,86.639,2.0,HARD,18.0,False,1,True,False,False,8.0,29.9,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,37,86.806,2.0,HARD,19.0,False,1,True,False,False,8.0,30.1,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,38,87.146,2.0,HARD,20.0,False,1,True,False,False,8.0,30.0,42.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,39,87.166,2.0,HARD,21.0,False,1,True,False,False,8.0,30.0,42.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,40,86.853,2.0,HARD,22.0,False,1,True,False,False,8.0,30.0,42.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,41,94.52,2.0,HARD,23.0,False,1,False,True,False,10.0,30.2,42.9,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,42,113.593,3.0,MEDIUM,4.0,False,1,False,False,True,14.0,30.3,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,43,85.072,3.0,MEDIUM,5.0,False,1,True,False,False,14.0,30.1,42.5,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,44,85.69,3.0,MEDIUM,6.0,False,1,True,False,False,14.0,30.0,41.7,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,45,86.139,3.0,MEDIUM,7.0,False,1,True,False,False,13.0,30.0,41.6,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,46,85.732,3.0,MEDIUM,8.0,False,1,True,False,False,13.0,30.0,41.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,47,86.614,3.0,MEDIUM,9.0,False,1,True,False,False,13.0,30.1,41.2,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,48,86.067,3.0,MEDIUM,10.0,False,1,True,False,False,13.0,30.0,41.2,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,49,85.841,3.0,MEDIUM,11.0,False,1,True,False,False,12.0,30.0,40.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,50,85.593,3.0,MEDIUM,12.0,False,1,True,False,False,11.0,30.0,40.8,False,7.0,12.0
+2023,14,Italian Grand Prix,Monza,51,PIA,McLaren,51,,3.0,MEDIUM,13.0,False,1,False,False,False,,30.0,40.8,False,7.0,12.0

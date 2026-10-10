@@ -314,12 +314,14 @@ The validation set is used for model selection. The final test set remains untou
 
 | Target | R² | RMSE | MAE |
 |---|---:|---:|---:|
-| `cl_total` | 0.999570 | 0.013105 | 0.010030 |
+| `cl_total` | 0.999527 | 0.013744 | 0.010609 |
 | `cd_total` | 1.000000 | 0.000000 | 0.000000 |
-| `cop_shift` | 0.999996 | 0.000425 | 0.000261 |
-| `energy_drain_kw` | 0.999891 | 1.565720 | 0.830225 |
+| `cop_shift` | 0.999994 | 0.000538 | 0.000342 |
+| `energy_drain_kw` | 0.999873 | 1.693197 | 0.938197 |
 
 These are test-set results on observations not used for final model fitting.
+
+The Extra Trees models use 60 trees. Each fully grown tree is about 12 MB, so the earlier 250-tree setting produced about 3 GB per model (9 GB for three targets), which does not fit in 16 GB of RAM alongside the simulator. 60 trees gives 0.7 GB per model at a cost of roughly 5% in `cl_total` RMSE.
 
 ---
 
@@ -379,10 +381,12 @@ The reference model uses:
 
 ```text
 StandardScaler
-12 nearest neighbours
+130 nearest neighbours
 Euclidean distance in standardised input space
-Inverse-distance-squared weighting
+Tricube-weighted local quadratic fit, centred on the query
 ```
+
+The model class lives in `reference_model.py` and is imported by Phases 7, 8 and 9.
 
 Exact dataset points return their stored response, while queries outside the observed input envelope are rejected.
 
@@ -390,10 +394,12 @@ The resulting leave-one-out local reconstruction diagnostics are:
 
 | Target | R² | RMSE | MAE |
 |---|---:|---:|---:|
-| `cl_total` | 0.992011 | 0.056349 | 0.041908 |
-| `cd_total` | 0.993065 | 0.008994 | 0.006712 |
-| `cop_shift` | 0.987716 | 0.024475 | 0.016265 |
-| `energy_drain_kw` | 0.989408 | 15.024156 | 9.019031 |
+| `cl_total` | 0.999670 | 0.011448 | 0.009123 |
+| `cd_total` | 1.000000 | 0.000000 | 0.000000 |
+| `cop_shift` | 0.999959 | 0.001406 | 0.000471 |
+| `energy_drain_kw` | 0.999983 | 0.606466 | 0.474851 |
+
+An earlier version used an inverse-distance-squared average of 12 neighbours. That average is biased wherever the response has a slope, and its leave-one-out RMSE (`cl_total` 0.056, `cd_total` 0.0090) was several times worse than the ML surrogate's test RMSE. The simulator comparison was then dominated by the reference's own error. The local quadratic fit reproduces the linear `cd_total` response exactly and is as accurate as the surrogate for `cl_total`.
 
 Saved model:
 
@@ -482,7 +488,7 @@ $$
 a=-\frac{F_D+F_{RR}}{m}
 $$
 
-The state is integrated using a semi-implicit Euler step.
+Velocity is integrated with an explicit Euler step and distance with the trapezoidal rule. If the speed falls below the lowest velocity in the dataset (27.7 m/s), the run stops cleanly instead of leaving the observed envelope.
 
 A coast-down formulation is used because the dataset does not contain throttle, engine torque, tyre, steering, or track-geometry trajectories.
 
@@ -492,22 +498,35 @@ For the current 15-second demonstration:
 
 | Quantity | Reference | ML surrogate | Difference |
 |---|---:|---:|---:|
-| Final speed | 41.2665 m/s | 41.1298 m/s | -0.1367 m/s |
-| Final distance | 853.0064 m | 851.3426 m | -1.6638 m |
+| Final speed | 41.1229 m/s | 41.1307 m/s | +0.0079 m/s |
+| Final distance | 853.1946 m | 853.2905 m | +0.0959 m |
 
 Trajectory-level errors:
 
 | Quantity | RMSE | MAE |
 |---|---:|---:|
-| Speed | 0.1164 m/s | 0.1103 m/s |
-| Distance | 0.9395 m | 0.8043 m |
-| Acceleration | 0.0340 m/s² | 0.0253 m/s² |
-| `cl_total` | 0.03627 | 0.02751 |
-| `cd_total` | 0.00796 | 0.00670 |
-| Drag force | 25.78 N | 19.20 N |
-| Downforce | 130.87 N | 91.21 N |
+| Speed | 0.0068 m/s | 0.0064 m/s |
+| Distance | 0.0502 m | 0.0399 m |
+| Acceleration | 0.0008 m/s² | 0.0006 m/s² |
+| `cl_total` | 0.01761 | 0.01706 |
+| `cd_total` | 0.00000 | 0.00000 |
+| Drag force | 0.43 N | 0.39 N |
+| Downforce | 61.22 N | 53.83 N |
 
 This is the main end-to-end result of the project.
+
+## Surrogate difference versus reference uncertainty
+
+The simulator also reports how the surrogate-reference difference compares with the reference's own leave-one-out error:
+
+| Target | Closed-loop RMSE | Open-loop RMSE | Reference leave-one-out RMSE |
+|---|---:|---:|---:|
+| `cl_total` | 0.017614 | 0.017607 | 0.011448 |
+| `cd_total` | 0.000000 | 0.000000 | 0.000000 |
+| `cop_shift` | 0.000369 | 0.000369 | 0.001406 |
+| `energy_drain_kw` | 1.164587 | 1.154836 | 0.606466 |
+
+Open-loop means the surrogate is evaluated on exactly the states the reference path visited, which removes state divergence between the two runs. A difference at or below the reference's own error cannot be attributed to the surrogate.
 
 ---
 
@@ -526,6 +545,10 @@ Run it with:
 ```bash
 streamlit run 09_interactive_simulator.py
 ```
+
+On Windows, `run_simulator.bat` starts the app with the project environment at `%USERPROFILE%\.venvs\f1sim`.
+
+The app does not carry its own copy of the physics. It imports the vehicle parameters, force equations, model loading and simulation loop from `08_vehicle_longitudinal_simulator.py`, so the interactive runs and the scripted Phase-8 run always use the same engine.
 
 The interface provides continuous controls for:
 
@@ -550,6 +573,8 @@ The interface includes:
 - What-if active-control scenarios
 - Downloadable simulation results
 
+If a run slows below the lowest velocity in the dataset (27.7 m/s) before the requested duration, it stops there and the app shows a warning saying why.
+
 The F1-style visual in the interface is generated directly in the app; no external image assets are required.
 
 ---
@@ -561,10 +586,10 @@ The F1-style visual in the interface is generated directly in the app; no extern
 The final regression models achieve extremely high test-set accuracy:
 
 ```text
-Cl       R² = 0.999570
+Cl       R² = 0.999527
 Cd       R² = 1.000000
-CoP      R² = 0.999996
-Energy   R² = 0.999891
+CoP      R² = 0.999994
+Energy   R² = 0.999873
 ```
 
 ### Reference reconstruction
@@ -572,10 +597,10 @@ Energy   R² = 0.999891
 The local data-grounded interpolation can reconstruct nearby responses with:
 
 ```text
-Cl       R² = 0.992011
-Cd       R² = 0.993065
-CoP      R² = 0.987716
-Energy   R² = 0.989408
+Cl       R² = 0.999670
+Cd       R² = 1.000000
+CoP      R² = 0.999959
+Energy   R² = 0.999983
 ```
 
 ### System-level simulation
@@ -583,8 +608,8 @@ Energy   R² = 0.989408
 The ML surrogate produces a very similar vehicle trajectory to the reference simulation:
 
 ```text
-Speed RMSE     = 0.1164 m/s
-Distance RMSE  = 0.9395 m
+Speed RMSE     = 0.0068 m/s
+Distance RMSE  = 0.0502 m
 ```
 
 The key scientific question is therefore evaluated at **two levels**:
@@ -771,6 +796,7 @@ PM_prj/
 ├── 07_reference_model.py
 ├── 08_vehicle_longitudinal_simulator.py
 ├── 09_interactive_simulator.py
+├── reference_model.py
 └── README.md
 ```
 
@@ -790,9 +816,18 @@ Install the main dependencies:
 pip install numpy pandas scipy scikit-learn matplotlib seaborn plotly joblib streamlit
 ```
 
-Run the analysis scripts in order when reproducing the project from scratch.
+On Windows, create the virtual environment in a short path (for example `%USERPROFILE%\.venvs\f1sim`). Streamlit ships files with long names, and a virtual environment inside a deeply nested project folder can exceed the 260-character path limit and leave Streamlit half-installed.
 
-For normal use of the final simulator, the previously generated model files can be loaded directly; retraining is not required.
+Run the analysis scripts in order when reproducing the project from scratch. The simulator itself needs only:
+
+```bash
+python 05_regression_models.py
+python 07_reference_model.py
+python 08_vehicle_longitudinal_simulator.py
+streamlit run 09_interactive_simulator.py
+```
+
+The model files are not shipped with the repository; Phases 5 and 7 generate them (about 2.1 GB in total).
 
 ---
 

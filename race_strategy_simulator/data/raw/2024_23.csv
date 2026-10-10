@@ -1,0 +1,944 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,1,111.344,1.0,MEDIUM,1.0,True,124,False,False,False,1.0,19.1,23.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,2,141.257,1.0,MEDIUM,2.0,True,4,False,False,False,1.0,19.1,23.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,3,137.39,1.0,MEDIUM,3.0,True,4,False,False,False,1.0,19.1,23.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,4,,1.0,MEDIUM,4.0,True,41,False,False,False,1.0,19.0,23.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,5,86.724,1.0,MEDIUM,5.0,True,12,True,False,False,1.0,19.0,23.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,6,86.502,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,19.0,22.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,7,86.376,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,19.0,22.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,8,86.28,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,19.0,22.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,9,86.2,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,19.0,22.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,10,85.973,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,19.0,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,11,85.808,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,19.0,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,12,85.903,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,19.0,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,13,85.843,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,19.0,22.6,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,14,85.812,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,19.0,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,15,85.698,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,19.0,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,16,85.605,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,18.9,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,17,85.46,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,18.9,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,18,85.079,1.0,MEDIUM,18.0,True,1,True,False,False,1.0,18.9,22.6,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,19,85.309,1.0,MEDIUM,19.0,True,1,True,False,False,1.0,18.9,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,20,84.896,1.0,MEDIUM,20.0,True,1,True,False,False,1.0,18.9,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,21,84.97,1.0,MEDIUM,21.0,True,1,True,False,False,1.0,18.9,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,22,84.908,1.0,MEDIUM,22.0,True,1,True,False,False,1.0,18.8,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,23,84.856,1.0,MEDIUM,23.0,True,1,True,False,False,1.0,18.8,22.7,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,24,84.825,1.0,MEDIUM,24.0,True,1,True,False,False,1.0,18.8,22.6,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,25,84.702,1.0,MEDIUM,25.0,True,1,True,False,False,1.0,18.8,22.6,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,26,84.775,1.0,MEDIUM,26.0,True,1,True,False,False,1.0,18.8,22.6,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,27,84.72,1.0,MEDIUM,27.0,True,1,True,False,False,1.0,18.7,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,28,84.719,1.0,MEDIUM,28.0,True,1,True,False,False,1.0,18.7,22.4,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,29,84.861,1.0,MEDIUM,29.0,True,1,True,False,False,1.0,18.7,22.2,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,30,85.127,1.0,MEDIUM,30.0,True,12,True,False,False,1.0,18.6,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,31,84.413,1.0,MEDIUM,31.0,True,1,True,False,False,1.0,18.6,22.5,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,32,84.427,1.0,MEDIUM,32.0,True,1,True,False,False,1.0,18.6,22.3,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,33,84.35,1.0,MEDIUM,33.0,True,1,True,False,False,1.0,18.6,22.3,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,34,84.468,1.0,MEDIUM,34.0,True,1,True,False,False,1.0,18.5,22.1,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,35,92.307,1.0,MEDIUM,35.0,True,14,False,True,False,1.0,18.5,22.1,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,36,,2.0,HARD,1.0,True,4,False,True,True,1.0,18.5,22.1,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,37,,3.0,HARD,2.0,False,4,False,True,True,1.0,18.5,22.2,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,38,,4.0,HARD,3.0,False,4,False,False,True,1.0,18.4,22.3,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,39,146.153,4.0,HARD,4.0,False,41,False,False,False,1.0,18.5,22.2,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,40,99.436,4.0,HARD,5.0,False,1264,False,False,False,1.0,18.4,22.3,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,41,136.076,4.0,HARD,6.0,False,4,False,False,False,1.0,18.4,22.1,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,42,149.083,4.0,HARD,7.0,False,41,False,False,False,1.0,18.4,22.1,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,43,84.509,4.0,HARD,8.0,False,1,True,False,False,1.0,18.4,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,44,83.533,4.0,HARD,9.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,45,83.393,4.0,HARD,10.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,46,83.37,4.0,HARD,11.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,47,83.303,4.0,HARD,12.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,48,83.423,4.0,HARD,13.0,False,1,True,False,False,1.0,18.3,21.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,49,83.468,4.0,HARD,14.0,False,1,True,False,False,1.0,18.3,21.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,50,83.321,4.0,HARD,15.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,51,83.043,4.0,HARD,16.0,False,1,True,False,False,1.0,18.3,21.9,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,52,83.162,4.0,HARD,17.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,53,83.132,4.0,HARD,18.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,54,83.006,4.0,HARD,19.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,55,82.905,4.0,HARD,20.0,False,1,True,False,False,1.0,18.2,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,56,83.369,4.0,HARD,21.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,VER,Red Bull Racing,57,83.776,4.0,HARD,22.0,False,1,True,False,False,1.0,18.3,22.0,False,2.0,1.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,1,130.912,1.0,MEDIUM,1.0,True,124,False,False,False,12.0,19.1,23.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,2,143.807,1.0,MEDIUM,2.0,True,4,False,False,False,12.0,19.1,23.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,3,139.509,1.0,MEDIUM,3.0,True,4,False,False,False,12.0,19.1,23.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,4,133.088,1.0,MEDIUM,4.0,True,41,False,False,False,12.0,19.0,23.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,5,91.425,1.0,MEDIUM,5.0,True,12,True,False,False,12.0,19.0,22.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,6,88.418,1.0,MEDIUM,6.0,True,1,True,False,False,11.0,19.0,22.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,7,87.738,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,19.0,22.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,8,87.881,1.0,MEDIUM,8.0,True,1,True,False,False,11.0,19.0,22.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,9,87.58,1.0,MEDIUM,9.0,True,1,True,False,False,11.0,19.0,22.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,10,88.272,1.0,MEDIUM,10.0,True,1,True,False,False,11.0,19.0,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,11,88.181,1.0,MEDIUM,11.0,True,1,True,False,False,11.0,19.0,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,12,87.827,1.0,MEDIUM,12.0,True,1,True,False,False,11.0,19.0,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,13,86.986,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,19.0,22.6,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,14,87.011,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,18.9,22.8,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,15,86.737,1.0,MEDIUM,15.0,True,1,True,False,False,10.0,19.0,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,16,86.7,1.0,MEDIUM,16.0,True,1,True,False,False,10.0,18.9,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,17,86.514,1.0,MEDIUM,17.0,True,1,True,False,False,10.0,18.9,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,18,86.694,1.0,MEDIUM,18.0,True,1,True,False,False,10.0,18.9,22.6,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,19,86.696,1.0,MEDIUM,19.0,True,1,True,False,False,10.0,18.9,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,20,86.369,1.0,MEDIUM,20.0,True,1,True,False,False,10.0,18.9,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,21,86.946,1.0,MEDIUM,21.0,True,1,True,False,False,10.0,18.8,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,22,86.453,1.0,MEDIUM,22.0,True,1,True,False,False,10.0,18.8,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,23,86.298,1.0,MEDIUM,23.0,True,1,True,False,False,10.0,18.8,22.7,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,24,86.235,1.0,MEDIUM,24.0,True,1,True,False,False,9.0,18.8,22.6,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,25,86.174,1.0,MEDIUM,25.0,True,1,True,False,False,9.0,18.8,22.6,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,26,86.12,1.0,MEDIUM,26.0,True,1,True,False,False,9.0,18.8,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,27,85.969,1.0,MEDIUM,27.0,True,1,True,False,False,8.0,18.7,22.4,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,28,85.533,1.0,MEDIUM,28.0,True,1,True,False,False,8.0,18.7,22.3,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,29,85.588,1.0,MEDIUM,29.0,True,12,True,False,False,8.0,18.7,22.2,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,30,85.344,1.0,MEDIUM,30.0,True,1,True,False,False,8.0,18.6,22.5,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,31,85.335,1.0,MEDIUM,31.0,True,1,True,False,False,8.0,18.6,22.4,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,32,85.331,1.0,MEDIUM,32.0,True,1,True,False,False,8.0,18.6,22.3,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,33,85.122,1.0,MEDIUM,33.0,True,1,True,False,False,8.0,18.5,22.3,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,34,85.622,1.0,MEDIUM,34.0,True,1,True,False,False,7.0,18.5,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,35,111.497,1.0,MEDIUM,35.0,True,14,False,True,False,6.0,18.5,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,36,142.16,2.0,HARD,1.0,True,4,False,True,True,6.0,18.5,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,37,141.304,3.0,HARD,2.0,False,4,False,True,True,6.0,18.4,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,38,146.588,4.0,HARD,3.0,False,4,False,False,True,6.0,18.4,22.3,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,39,139.279,4.0,HARD,4.0,False,41,False,False,False,5.0,18.5,22.2,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,40,108.476,4.0,HARD,5.0,False,1264,False,False,False,6.0,18.4,22.3,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,41,133.101,4.0,HARD,6.0,False,4,False,False,False,6.0,18.4,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,42,143.945,4.0,HARD,7.0,False,41,False,False,False,6.0,18.4,22.1,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,43,87.285,4.0,HARD,8.0,False,1,True,False,False,6.0,18.4,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,44,85.421,4.0,HARD,9.0,False,1,True,False,False,6.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,45,84.508,4.0,HARD,10.0,False,1,True,False,False,6.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,46,84.238,4.0,HARD,11.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,47,84.097,4.0,HARD,12.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,48,84.156,4.0,HARD,13.0,False,1,True,False,False,5.0,18.3,21.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,49,83.942,4.0,HARD,14.0,False,1,True,False,False,5.0,18.3,21.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,50,83.866,4.0,HARD,15.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,51,83.904,4.0,HARD,16.0,False,1,True,False,False,5.0,18.3,21.9,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,52,84.057,4.0,HARD,17.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,53,83.984,4.0,HARD,18.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,54,84.082,4.0,HARD,19.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,55,84.158,4.0,HARD,20.0,False,1,True,False,False,5.0,18.2,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,56,83.705,4.0,HARD,21.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,GAS,Alpine,57,83.937,4.0,HARD,22.0,False,1,True,False,False,5.0,18.3,22.0,False,11.0,5.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,1,120.204,1.0,MEDIUM,1.0,True,124,False,False,False,7.0,19.1,23.0,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,2,143.708,1.0,MEDIUM,2.0,True,4,False,False,False,7.0,19.1,23.0,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,3,138.267,1.0,MEDIUM,3.0,True,4,False,False,False,7.0,19.1,23.0,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,4,143.573,1.0,MEDIUM,4.0,True,41,False,False,False,7.0,19.0,23.0,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,5,89.55,1.0,MEDIUM,5.0,True,12,True,False,False,7.0,19.0,23.0,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,6,87.827,1.0,MEDIUM,6.0,True,1,True,False,False,7.0,19.0,22.9,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,7,87.28,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,19.0,22.9,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,8,87.403,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,19.0,22.9,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,9,87.124,1.0,MEDIUM,9.0,True,1,True,False,False,7.0,19.0,22.9,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,10,86.884,1.0,MEDIUM,10.0,True,1,True,False,False,7.0,19.0,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,11,86.788,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,19.0,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,12,86.729,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,19.0,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,13,86.631,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,19.0,22.6,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,14,86.483,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,18.9,22.8,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,15,86.409,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,19.0,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,16,86.359,1.0,MEDIUM,16.0,True,1,True,False,False,7.0,18.9,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,17,85.929,1.0,MEDIUM,17.0,True,1,True,False,False,7.0,18.9,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,18,86.455,1.0,MEDIUM,18.0,True,1,True,False,False,7.0,18.9,22.6,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,19,86.152,1.0,MEDIUM,19.0,True,1,True,False,False,7.0,18.9,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,20,86.049,1.0,MEDIUM,20.0,True,1,True,False,False,7.0,18.9,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,21,85.714,1.0,MEDIUM,21.0,True,1,True,False,False,7.0,18.8,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,22,85.973,1.0,MEDIUM,22.0,True,1,True,False,False,7.0,18.8,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,23,85.85,1.0,MEDIUM,23.0,True,1,True,False,False,7.0,18.8,22.7,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,24,85.642,1.0,MEDIUM,24.0,True,1,True,False,False,6.0,18.8,22.6,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,25,85.498,1.0,MEDIUM,25.0,True,1,True,False,False,6.0,18.8,22.6,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,26,85.458,1.0,MEDIUM,26.0,True,1,True,False,False,6.0,18.8,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,27,85.576,1.0,MEDIUM,27.0,True,1,True,False,False,6.0,18.7,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,28,85.555,1.0,MEDIUM,28.0,True,1,True,False,False,6.0,18.7,22.3,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,29,85.507,1.0,MEDIUM,29.0,True,12,True,False,False,6.0,18.7,22.2,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,30,85.409,1.0,MEDIUM,30.0,True,1,True,False,False,6.0,18.6,22.5,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,31,85.288,1.0,MEDIUM,31.0,True,1,True,False,False,6.0,18.6,22.4,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,32,85.39,1.0,MEDIUM,32.0,True,1,True,False,False,6.0,18.6,22.3,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,33,85.382,1.0,MEDIUM,33.0,True,1,True,False,False,6.0,18.5,22.3,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,34,86.5,1.0,MEDIUM,34.0,True,1,True,False,False,5.0,18.5,22.1,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,35,106.636,1.0,MEDIUM,35.0,True,14,False,True,False,4.0,18.5,22.1,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,36,143.642,2.0,HARD,1.0,True,4,False,True,True,5.0,18.5,22.1,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,37,,3.0,HARD,2.0,False,4,False,True,True,5.0,18.4,22.1,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,38,147.063,4.0,HARD,3.0,False,4,False,False,True,5.0,18.4,22.3,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,PER,Red Bull Racing,39,,4.0,HARD,4.0,False,41,False,False,False,,18.5,22.2,False,9.0,17.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,1,123.172,1.0,MEDIUM,1.0,False,124,False,False,False,8.0,19.1,23.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,2,142.483,1.0,MEDIUM,2.0,False,4,False,False,False,8.0,19.1,23.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,3,138.215,1.0,MEDIUM,3.0,False,4,False,False,False,8.0,19.1,23.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,4,142.341,1.0,MEDIUM,4.0,False,41,False,False,False,8.0,19.0,23.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,5,92.386,1.0,MEDIUM,5.0,False,12,True,False,False,11.0,19.0,22.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,6,89.044,1.0,MEDIUM,6.0,False,1,True,False,False,12.0,19.0,22.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,7,88.057,1.0,MEDIUM,7.0,False,1,True,False,False,12.0,19.0,22.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,8,88.028,1.0,MEDIUM,8.0,False,1,True,False,False,12.0,19.0,22.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,9,87.644,1.0,MEDIUM,9.0,False,1,True,False,False,12.0,19.0,22.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,10,88.156,1.0,MEDIUM,10.0,False,1,True,False,False,12.0,19.0,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,11,88.253,1.0,MEDIUM,11.0,False,1,True,False,False,12.0,19.0,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,12,87.906,1.0,MEDIUM,12.0,False,1,True,False,False,12.0,19.0,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,13,87.721,1.0,MEDIUM,13.0,False,1,True,False,False,12.0,19.0,22.6,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,14,86.802,1.0,MEDIUM,14.0,False,1,True,False,False,11.0,18.9,22.8,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,15,86.7,1.0,MEDIUM,15.0,False,1,True,False,False,11.0,19.0,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,16,86.867,1.0,MEDIUM,16.0,False,1,True,False,False,11.0,18.9,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,17,86.687,1.0,MEDIUM,17.0,False,1,True,False,False,11.0,18.9,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,18,86.744,1.0,MEDIUM,18.0,False,1,True,False,False,11.0,18.9,22.6,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,19,86.629,1.0,MEDIUM,19.0,False,1,True,False,False,11.0,18.9,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,20,86.855,1.0,MEDIUM,20.0,False,1,True,False,False,11.0,18.9,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,21,86.37,1.0,MEDIUM,21.0,False,1,True,False,False,11.0,18.8,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,22,86.481,1.0,MEDIUM,22.0,False,1,True,False,False,11.0,18.8,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,23,86.268,1.0,MEDIUM,23.0,False,1,True,False,False,11.0,18.8,22.7,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,24,86.377,1.0,MEDIUM,24.0,False,1,True,False,False,10.0,18.8,22.6,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,25,86.245,1.0,MEDIUM,25.0,False,1,True,False,False,10.0,18.8,22.6,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,26,86.3,1.0,MEDIUM,26.0,False,1,True,False,False,10.0,18.8,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,27,86.085,1.0,MEDIUM,27.0,False,1,True,False,False,9.0,18.7,22.4,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,28,85.941,1.0,MEDIUM,28.0,False,1,True,False,False,9.0,18.7,22.3,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,29,85.957,1.0,MEDIUM,29.0,False,12,True,False,False,9.0,18.7,22.2,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,30,85.893,1.0,MEDIUM,30.0,False,1,True,False,False,9.0,18.6,22.5,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,31,85.724,1.0,MEDIUM,31.0,False,1,True,False,False,9.0,18.6,22.4,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,32,85.649,1.0,MEDIUM,32.0,False,1,True,False,False,9.0,18.6,22.3,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,33,85.797,1.0,MEDIUM,33.0,False,1,True,False,False,9.0,18.5,22.3,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,34,87.518,1.0,MEDIUM,34.0,False,1,True,False,False,9.0,18.5,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,35,115.097,1.0,MEDIUM,35.0,False,14,False,True,False,8.0,18.5,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,36,146.362,2.0,HARD,1.0,False,4,False,True,True,9.0,18.5,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,37,135.542,3.0,MEDIUM,7.0,False,4,False,True,True,10.0,18.4,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,38,144.47,4.0,MEDIUM,8.0,False,4,False,False,True,10.0,18.5,22.2,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,39,134.005,4.0,MEDIUM,9.0,False,41,False,False,False,9.0,18.5,22.2,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,40,111.269,4.0,MEDIUM,10.0,False,1264,False,False,False,8.0,18.4,22.3,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,41,132.579,4.0,MEDIUM,11.0,False,4,False,False,False,8.0,18.4,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,42,140.832,4.0,MEDIUM,12.0,False,41,False,False,False,8.0,18.4,22.1,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,43,87.771,4.0,MEDIUM,13.0,False,1,True,False,False,8.0,18.4,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,44,85.477,4.0,MEDIUM,14.0,False,1,True,False,False,8.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,45,85.0,4.0,MEDIUM,15.0,False,1,True,False,False,8.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,46,84.44,4.0,MEDIUM,16.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,47,84.383,4.0,MEDIUM,17.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,48,84.472,4.0,MEDIUM,18.0,False,1,True,False,False,7.0,18.3,21.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,49,84.395,4.0,MEDIUM,19.0,False,1,True,False,False,7.0,18.3,21.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,50,84.057,4.0,MEDIUM,20.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,51,84.054,4.0,MEDIUM,21.0,False,1,True,False,False,7.0,18.3,21.9,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,52,84.196,4.0,MEDIUM,22.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,53,83.993,4.0,MEDIUM,23.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,54,83.871,4.0,MEDIUM,24.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,55,84.078,4.0,MEDIUM,25.0,False,1,True,False,False,7.0,18.2,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,56,83.885,4.0,MEDIUM,26.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,ALO,Aston Martin,57,83.667,4.0,MEDIUM,27.0,False,1,True,False,False,7.0,18.3,22.0,False,8.0,7.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,1,117.439,1.0,MEDIUM,2.0,False,124,False,False,False,4.0,19.1,23.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,2,142.075,1.0,MEDIUM,3.0,False,4,False,False,False,4.0,19.1,23.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,3,137.488,1.0,MEDIUM,4.0,False,4,False,False,False,4.0,19.1,23.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,4,147.558,1.0,MEDIUM,5.0,False,41,False,False,False,4.0,19.0,23.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,5,89.202,1.0,MEDIUM,6.0,False,12,True,False,False,5.0,19.0,23.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,6,87.556,1.0,MEDIUM,7.0,False,1,True,False,False,5.0,19.0,22.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,7,86.887,1.0,MEDIUM,8.0,False,1,True,False,False,5.0,19.0,22.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,8,87.19,1.0,MEDIUM,9.0,False,1,True,False,False,5.0,19.0,22.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,9,86.914,1.0,MEDIUM,10.0,False,1,True,False,False,5.0,19.0,22.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,10,86.435,1.0,MEDIUM,11.0,False,1,True,False,False,5.0,19.0,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,11,86.381,1.0,MEDIUM,12.0,False,1,True,False,False,5.0,19.0,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,12,86.027,1.0,MEDIUM,13.0,False,1,True,False,False,5.0,19.0,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,13,86.272,1.0,MEDIUM,14.0,False,1,True,False,False,5.0,19.0,22.6,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,14,85.66,1.0,MEDIUM,15.0,False,1,True,False,False,5.0,18.9,22.8,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,15,85.805,1.0,MEDIUM,16.0,False,1,True,False,False,5.0,19.0,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,16,85.93,1.0,MEDIUM,17.0,False,1,True,False,False,5.0,18.9,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,17,85.835,1.0,MEDIUM,18.0,False,1,True,False,False,5.0,18.9,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,18,85.496,1.0,MEDIUM,19.0,False,1,True,False,False,5.0,18.9,22.6,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,19,85.647,1.0,MEDIUM,20.0,False,1,True,False,False,5.0,18.9,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,20,85.467,1.0,MEDIUM,21.0,False,1,True,False,False,5.0,18.9,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,21,85.323,1.0,MEDIUM,22.0,False,1,True,False,False,5.0,18.8,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,22,85.036,1.0,MEDIUM,23.0,False,1,True,False,False,5.0,18.8,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,23,85.189,1.0,MEDIUM,24.0,False,1,True,False,False,4.0,18.8,22.7,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,24,85.133,1.0,MEDIUM,25.0,False,1,True,False,False,4.0,18.8,22.6,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,25,84.801,1.0,MEDIUM,26.0,False,1,True,False,False,4.0,18.8,22.6,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,26,85.099,1.0,MEDIUM,27.0,False,1,True,False,False,4.0,18.8,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,27,84.749,1.0,MEDIUM,28.0,False,1,True,False,False,4.0,18.7,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,28,84.909,1.0,MEDIUM,29.0,False,1,True,False,False,4.0,18.7,22.4,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,29,84.653,1.0,MEDIUM,30.0,False,12,True,False,False,4.0,18.7,22.2,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,30,85.168,1.0,MEDIUM,31.0,False,12,True,False,False,4.0,18.6,22.5,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,31,84.71,1.0,MEDIUM,32.0,False,1,True,False,False,4.0,18.6,22.4,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,32,84.679,1.0,MEDIUM,33.0,False,1,True,False,False,4.0,18.6,22.3,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,33,84.9,1.0,MEDIUM,34.0,False,1,True,False,False,4.0,18.5,22.3,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,34,84.754,1.0,MEDIUM,35.0,False,1,True,False,False,3.0,18.5,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,35,98.515,1.0,MEDIUM,36.0,False,14,False,True,False,3.0,18.5,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,36,,2.0,HARD,1.0,True,4,False,True,True,3.0,18.5,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,37,,3.0,HARD,2.0,False,4,False,True,True,3.0,18.4,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,38,148.35,4.0,HARD,3.0,False,4,False,False,True,3.0,18.4,22.3,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,39,142.818,4.0,HARD,4.0,False,41,False,False,False,3.0,18.5,22.2,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,40,101.971,4.0,HARD,5.0,False,1264,False,False,False,3.0,18.4,22.3,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,41,135.614,4.0,HARD,6.0,False,4,False,False,False,3.0,18.4,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,42,147.125,4.0,HARD,7.0,False,41,False,False,False,3.0,18.4,22.1,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,43,85.854,4.0,HARD,8.0,False,1,True,False,False,3.0,18.4,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,44,84.012,4.0,HARD,9.0,False,1,True,False,False,3.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,45,83.937,4.0,HARD,10.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,46,83.665,4.0,HARD,11.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,47,83.722,4.0,HARD,12.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,48,83.68,4.0,HARD,13.0,False,1,True,False,False,2.0,18.3,21.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,49,83.47,4.0,HARD,14.0,False,1,True,False,False,2.0,18.3,21.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,50,83.405,4.0,HARD,15.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,51,83.332,4.0,HARD,16.0,False,1,True,False,False,2.0,18.3,21.9,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,52,83.72,4.0,HARD,17.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,53,83.242,4.0,HARD,18.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,54,83.454,4.0,HARD,19.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,55,83.498,4.0,HARD,20.0,False,1,True,False,False,2.0,18.2,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,56,83.356,4.0,HARD,21.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,LEC,Ferrari,57,83.559,4.0,HARD,22.0,False,1,True,False,False,2.0,18.3,22.0,False,5.0,2.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,1,136.793,1.0,MEDIUM,1.0,False,124,False,True,False,17.0,19.1,23.0,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,2,147.099,2.0,HARD,1.0,False,4,False,False,True,17.0,19.1,23.1,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,3,136.92,2.0,HARD,2.0,False,4,False,False,False,17.0,19.1,23.0,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,4,129.1,2.0,HARD,3.0,False,41,False,False,False,17.0,19.0,23.0,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,5,93.523,2.0,HARD,4.0,False,12,True,False,False,17.0,19.0,22.9,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,6,90.935,2.0,HARD,5.0,False,1,True,False,False,17.0,19.0,22.9,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,7,96.33,2.0,HARD,6.0,False,1,False,True,False,18.0,19.0,22.9,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,STR,Aston Martin,8,140.862,3.0,HARD,1.0,True,1,False,True,True,18.0,19.0,22.9,False,15.0,18.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,1,129.92,1.0,MEDIUM,1.0,True,124,False,False,False,11.0,19.1,23.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,2,143.343,1.0,MEDIUM,2.0,True,4,False,False,False,11.0,19.1,23.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,3,138.697,1.0,MEDIUM,3.0,True,4,False,False,False,11.0,19.1,23.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,4,134.923,1.0,MEDIUM,4.0,True,41,False,False,False,11.0,19.0,23.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,5,90.89,1.0,MEDIUM,5.0,True,12,True,False,False,10.0,19.0,22.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,6,88.533,1.0,MEDIUM,6.0,True,1,True,False,False,10.0,19.0,22.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,7,88.075,1.0,MEDIUM,7.0,True,1,True,False,False,10.0,19.0,22.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,8,87.707,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,19.0,22.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,9,87.395,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,19.0,22.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,10,87.601,1.0,MEDIUM,10.0,True,1,True,False,False,9.0,19.0,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,11,88.499,1.0,MEDIUM,11.0,True,1,True,False,False,9.0,19.0,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,12,87.513,1.0,MEDIUM,12.0,True,1,True,False,False,9.0,19.0,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,13,87.321,1.0,MEDIUM,13.0,True,1,True,False,False,9.0,19.0,22.6,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,14,86.989,1.0,MEDIUM,14.0,True,1,True,False,False,9.0,18.9,22.8,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,15,86.911,1.0,MEDIUM,15.0,True,1,True,False,False,9.0,19.0,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,16,86.797,1.0,MEDIUM,16.0,True,1,True,False,False,9.0,18.9,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,17,86.65,1.0,MEDIUM,17.0,True,1,True,False,False,9.0,18.9,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,18,86.763,1.0,MEDIUM,18.0,True,1,True,False,False,9.0,18.9,22.6,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,19,86.607,1.0,MEDIUM,19.0,True,1,True,False,False,9.0,18.9,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,20,86.58,1.0,MEDIUM,20.0,True,1,True,False,False,9.0,18.9,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,21,86.46,1.0,MEDIUM,21.0,True,1,True,False,False,9.0,18.8,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,22,86.377,1.0,MEDIUM,22.0,True,1,True,False,False,9.0,18.8,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,23,86.237,1.0,MEDIUM,23.0,True,1,True,False,False,9.0,18.8,22.7,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,24,86.304,1.0,MEDIUM,24.0,True,1,True,False,False,8.0,18.8,22.6,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,25,86.106,1.0,MEDIUM,25.0,True,1,True,False,False,8.0,18.8,22.6,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,26,86.148,1.0,MEDIUM,26.0,True,1,True,False,False,8.0,18.8,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,27,90.05,1.0,MEDIUM,27.0,True,1,False,True,False,10.0,18.7,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,28,108.853,2.0,HARD,1.0,True,1,False,False,True,16.0,18.7,22.3,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,29,85.682,2.0,HARD,2.0,True,12,True,False,False,16.0,18.6,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,30,85.602,2.0,HARD,3.0,True,1,True,False,False,16.0,18.6,22.5,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,31,85.307,2.0,HARD,4.0,True,1,True,False,False,16.0,18.6,22.3,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,32,85.877,2.0,HARD,5.0,True,1,True,False,False,15.0,18.6,22.3,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,33,85.58,2.0,HARD,6.0,True,1,True,False,False,15.0,18.5,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,34,86.137,2.0,HARD,7.0,True,1,True,False,False,14.0,18.5,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,35,120.651,2.0,HARD,8.0,True,14,False,False,False,13.0,18.5,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,36,125.526,2.0,HARD,9.0,True,4,False,True,False,11.0,18.5,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,37,130.074,3.0,HARD,10.0,False,4,False,True,True,11.0,18.4,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,38,146.776,4.0,HARD,11.0,False,4,False,False,True,11.0,18.5,22.2,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,39,132.021,4.0,HARD,12.0,False,41,False,False,False,10.0,18.5,22.2,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,40,113.041,4.0,HARD,13.0,False,1264,False,False,False,10.0,18.4,22.3,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,41,133.54,4.0,HARD,14.0,False,4,False,False,False,10.0,18.4,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,42,138.376,4.0,HARD,15.0,False,41,False,False,False,10.0,18.4,22.1,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,43,89.014,4.0,HARD,16.0,False,1,True,False,False,11.0,18.4,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,44,86.26,4.0,HARD,17.0,False,1,True,False,False,11.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,45,85.784,4.0,HARD,18.0,False,1,True,False,False,11.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,46,85.823,4.0,HARD,19.0,False,1,True,False,False,10.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,47,85.542,4.0,HARD,20.0,False,1,True,False,False,10.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,48,85.56,4.0,HARD,21.0,False,1,True,False,False,10.0,18.3,21.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,49,84.603,4.0,HARD,22.0,False,1,True,False,False,9.0,18.3,21.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,50,84.584,4.0,HARD,23.0,False,1,True,False,False,9.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,51,84.558,4.0,HARD,24.0,False,1,True,False,False,9.0,18.3,21.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,52,84.593,4.0,HARD,25.0,False,1,True,False,False,9.0,18.3,21.9,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,53,84.482,4.0,HARD,26.0,False,1,True,False,False,9.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,54,84.431,4.0,HARD,27.0,False,1,True,False,False,9.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,55,84.259,4.0,HARD,28.0,False,1,True,False,False,9.0,18.2,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,56,84.741,4.0,HARD,29.0,False,1,True,False,False,9.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,MAG,Haas F1 Team,57,84.827,4.0,HARD,30.0,False,1,True,False,False,9.0,18.3,22.0,False,10.0,9.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,1,127.75,1.0,MEDIUM,1.0,True,124,False,False,False,10.0,19.1,23.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,2,143.351,1.0,MEDIUM,2.0,True,4,False,False,False,10.0,19.1,23.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,3,138.497,1.0,MEDIUM,3.0,True,4,False,False,False,10.0,19.1,23.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,4,136.969,1.0,MEDIUM,4.0,True,41,False,False,False,10.0,19.0,23.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,5,90.04,1.0,MEDIUM,5.0,True,12,True,False,False,9.0,19.0,22.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,6,88.679,1.0,MEDIUM,6.0,True,1,True,False,False,9.0,19.0,22.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,7,88.217,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,19.0,22.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,8,87.737,1.0,MEDIUM,8.0,True,1,True,False,False,9.0,19.0,22.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,9,87.661,1.0,MEDIUM,9.0,True,1,True,False,False,9.0,19.0,22.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,10,89.206,1.0,MEDIUM,10.0,True,1,True,False,False,10.0,19.0,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,11,88.174,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,19.0,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,12,87.91,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,19.0,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,13,88.7,1.0,MEDIUM,13.0,True,1,True,False,False,11.0,19.0,22.6,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,14,88.832,1.0,MEDIUM,14.0,True,1,True,False,False,12.0,18.9,22.8,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,15,88.648,1.0,MEDIUM,15.0,True,1,True,False,False,13.0,19.0,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,16,87.635,1.0,MEDIUM,16.0,True,1,True,False,False,13.0,18.9,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,17,87.433,1.0,MEDIUM,17.0,True,1,True,False,False,13.0,18.9,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,18,87.574,1.0,MEDIUM,18.0,True,1,True,False,False,13.0,18.9,22.6,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,19,87.537,1.0,MEDIUM,19.0,True,1,True,False,False,13.0,18.9,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,20,88.247,1.0,MEDIUM,20.0,True,1,True,False,False,14.0,18.9,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,21,87.301,1.0,MEDIUM,21.0,True,1,True,False,False,14.0,18.8,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,22,87.162,1.0,MEDIUM,22.0,True,1,True,False,False,14.0,18.8,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,23,87.139,1.0,MEDIUM,23.0,True,1,True,False,False,14.0,18.8,22.7,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,24,87.036,1.0,MEDIUM,24.0,True,1,True,False,False,13.0,18.8,22.6,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,25,86.975,1.0,MEDIUM,25.0,True,1,True,False,False,13.0,18.8,22.6,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,26,86.725,1.0,MEDIUM,26.0,True,1,True,False,False,13.0,18.8,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,27,86.505,1.0,MEDIUM,27.0,True,1,True,False,False,13.0,18.7,22.4,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,28,86.46,1.0,MEDIUM,28.0,True,1,True,False,False,12.0,18.7,22.3,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,29,86.505,1.0,MEDIUM,29.0,True,12,True,False,False,12.0,18.6,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,30,86.912,1.0,MEDIUM,30.0,True,1,True,False,False,12.0,18.6,22.5,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,31,86.369,1.0,MEDIUM,31.0,True,1,True,False,False,12.0,18.6,22.3,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,32,86.456,1.0,MEDIUM,32.0,True,1,True,False,False,12.0,18.6,22.3,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,33,86.519,1.0,MEDIUM,33.0,True,1,True,False,False,12.0,18.5,22.3,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,34,86.33,1.0,MEDIUM,34.0,True,1,True,False,False,11.0,18.5,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,35,121.862,1.0,MEDIUM,35.0,True,14,False,True,False,11.0,18.5,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,36,143.242,2.0,HARD,1.0,True,4,False,True,True,12.0,18.5,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,37,118.996,3.0,HARD,2.0,False,4,False,True,True,12.0,18.4,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,38,146.782,4.0,HARD,3.0,False,4,False,False,True,12.0,18.5,22.2,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,39,129.747,4.0,HARD,4.0,False,41,False,False,False,11.0,18.5,22.2,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,40,119.241,4.0,HARD,5.0,False,1264,False,True,False,13.0,18.4,22.3,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,41,134.978,5.0,SOFT,1.0,True,4,False,False,True,14.0,18.4,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,42,131.701,5.0,SOFT,2.0,True,41,False,False,False,14.0,18.4,22.1,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,43,88.689,5.0,SOFT,3.0,True,1,True,False,False,13.0,18.4,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,44,87.188,5.0,SOFT,4.0,True,1,True,False,False,13.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,45,86.798,5.0,SOFT,5.0,True,1,True,False,False,14.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,46,86.367,5.0,SOFT,6.0,True,1,True,False,False,13.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,47,86.144,5.0,SOFT,7.0,True,1,True,False,False,12.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,48,86.154,5.0,SOFT,8.0,True,1,True,False,False,12.0,18.3,21.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,49,86.28,5.0,SOFT,9.0,True,1,True,False,False,12.0,18.3,21.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,50,87.03,5.0,SOFT,10.0,True,1,True,False,False,12.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,51,87.301,5.0,SOFT,11.0,True,1,True,False,False,12.0,18.3,21.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,52,87.78,5.0,SOFT,12.0,True,1,True,False,False,13.0,18.3,21.9,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,53,87.383,5.0,SOFT,13.0,True,1,True,False,False,13.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,54,87.337,5.0,SOFT,14.0,True,1,True,False,False,13.0,18.2,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,55,87.433,5.0,SOFT,15.0,True,1,True,False,False,12.0,18.2,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,56,87.674,5.0,SOFT,16.0,True,1,True,False,False,13.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,TSU,RB,57,87.125,5.0,SOFT,17.0,True,1,True,False,False,13.0,18.3,22.0,False,14.0,13.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,1,135.384,1.0,MEDIUM,1.0,True,124,False,False,False,16.0,19.1,23.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,2,146.296,1.0,MEDIUM,2.0,True,4,False,False,False,16.0,19.1,23.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,3,137.47,1.0,MEDIUM,3.0,True,4,False,False,False,16.0,19.1,23.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,4,129.827,1.0,MEDIUM,4.0,True,41,False,False,False,16.0,19.0,23.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,5,91.146,1.0,MEDIUM,5.0,True,12,True,False,False,15.0,19.0,22.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,6,89.921,1.0,MEDIUM,6.0,True,1,True,False,False,15.0,19.0,22.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,7,88.528,1.0,MEDIUM,7.0,True,1,True,False,False,15.0,19.0,22.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,8,88.499,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,19.0,22.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,9,88.038,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,19.0,22.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,10,87.781,1.0,MEDIUM,10.0,True,1,True,False,False,15.0,19.0,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,11,89.252,1.0,MEDIUM,11.0,True,1,True,False,False,15.0,19.0,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,12,87.299,1.0,MEDIUM,12.0,True,1,True,False,False,15.0,19.0,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,13,87.771,1.0,MEDIUM,13.0,True,1,True,False,False,15.0,19.0,22.6,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,14,87.525,1.0,MEDIUM,14.0,True,1,True,False,False,15.0,18.9,22.8,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,15,87.793,1.0,MEDIUM,15.0,True,1,True,False,False,15.0,19.0,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,16,87.6,1.0,MEDIUM,16.0,True,1,True,False,False,15.0,18.9,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,17,87.556,1.0,MEDIUM,17.0,True,1,True,False,False,15.0,18.9,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,18,87.321,1.0,MEDIUM,18.0,True,1,True,False,False,15.0,18.9,22.6,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,19,87.428,1.0,MEDIUM,19.0,True,1,True,False,False,15.0,18.9,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,20,87.347,1.0,MEDIUM,20.0,True,1,True,False,False,15.0,18.9,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,21,87.42,1.0,MEDIUM,21.0,True,1,True,False,False,15.0,18.8,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,22,87.133,1.0,MEDIUM,22.0,True,1,True,False,False,15.0,18.8,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,23,86.951,1.0,MEDIUM,23.0,True,1,True,False,False,15.0,18.8,22.7,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,24,86.968,1.0,MEDIUM,24.0,True,1,True,False,False,15.0,18.8,22.6,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,25,86.998,1.0,MEDIUM,25.0,True,1,True,False,False,14.0,18.8,22.6,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,26,86.774,1.0,MEDIUM,26.0,True,1,True,False,False,14.0,18.8,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,27,86.663,1.0,MEDIUM,27.0,True,1,True,False,False,14.0,18.7,22.4,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,28,86.553,1.0,MEDIUM,28.0,True,1,True,False,False,13.0,18.7,22.3,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,29,86.395,1.0,MEDIUM,29.0,True,12,True,False,False,13.0,18.6,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,30,86.708,1.0,MEDIUM,30.0,True,1,True,False,False,13.0,18.6,22.5,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,31,86.39,1.0,MEDIUM,31.0,True,1,True,False,False,13.0,18.6,22.3,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,32,86.572,1.0,MEDIUM,32.0,True,1,True,False,False,13.0,18.6,22.3,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,33,86.303,1.0,MEDIUM,33.0,True,1,True,False,False,13.0,18.5,22.3,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,34,87.708,1.0,MEDIUM,34.0,True,1,True,False,False,12.0,18.5,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,35,121.917,1.0,MEDIUM,35.0,True,14,False,True,False,12.0,18.5,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,36,142.739,2.0,SOFT,1.0,True,4,False,True,True,13.0,18.5,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,37,118.603,3.0,SOFT,2.0,False,4,False,True,True,13.0,18.4,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,38,146.301,4.0,SOFT,3.0,False,4,False,False,True,13.0,18.5,22.2,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,39,129.058,4.0,SOFT,4.0,False,41,False,False,False,12.0,18.5,22.2,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,40,114.034,4.0,SOFT,5.0,False,1264,False,False,False,11.0,18.4,22.3,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,41,134.065,4.0,SOFT,6.0,False,4,False,False,False,11.0,18.4,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,42,136.483,4.0,SOFT,7.0,False,41,False,False,False,11.0,18.4,22.1,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,43,87.968,4.0,SOFT,8.0,False,1,True,False,False,10.0,18.4,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,44,86.524,4.0,SOFT,9.0,False,1,True,False,False,10.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,45,85.844,4.0,SOFT,10.0,False,1,True,False,False,10.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,46,85.701,4.0,SOFT,11.0,False,1,True,False,False,9.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,47,85.559,4.0,SOFT,12.0,False,1,True,False,False,9.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,48,85.751,4.0,SOFT,13.0,False,1,True,False,False,9.0,18.3,21.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,49,87.222,4.0,SOFT,14.0,False,1,True,False,False,10.0,18.3,21.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,50,86.781,4.0,SOFT,15.0,False,1,True,False,False,10.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,51,86.66,4.0,SOFT,16.0,False,1,True,False,False,10.0,18.3,21.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,52,87.51,4.0,SOFT,17.0,False,1,True,False,False,10.0,18.3,21.9,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,53,90.321,4.0,SOFT,18.0,False,1,True,False,False,12.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,54,88.167,4.0,SOFT,19.0,False,1,True,False,False,12.0,18.2,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,55,92.223,4.0,SOFT,20.0,False,1,False,True,False,14.0,18.2,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ALB,Williams,56,123.543,5.0,SOFT,1.0,True,1,False,False,True,15.0,18.3,22.0,False,16.0,15.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,1,134.044,1.0,MEDIUM,1.0,True,124,False,False,False,15.0,19.1,23.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,2,145.861,1.0,MEDIUM,2.0,True,4,False,False,False,15.0,19.1,23.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,3,138.331,1.0,MEDIUM,3.0,True,4,False,False,False,15.0,19.1,23.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,4,130.295,1.0,MEDIUM,4.0,True,41,False,False,False,15.0,19.0,23.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,5,90.517,1.0,MEDIUM,5.0,True,12,True,False,False,13.0,19.0,22.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,6,89.258,1.0,MEDIUM,6.0,True,1,True,False,False,13.0,19.0,22.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,7,88.056,1.0,MEDIUM,7.0,True,1,True,False,False,13.0,19.0,22.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,8,88.369,1.0,MEDIUM,8.0,True,1,True,False,False,13.0,19.0,22.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,9,88.078,1.0,MEDIUM,9.0,True,1,True,False,False,13.0,19.0,22.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,10,87.643,1.0,MEDIUM,10.0,True,1,True,False,False,13.0,19.0,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,11,88.164,1.0,MEDIUM,11.0,True,1,True,False,False,13.0,19.0,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,12,87.973,1.0,MEDIUM,12.0,True,1,True,False,False,13.0,19.0,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,13,87.659,1.0,MEDIUM,13.0,True,1,True,False,False,13.0,19.0,22.6,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,14,87.909,1.0,MEDIUM,14.0,True,1,True,False,False,13.0,18.9,22.8,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,15,87.024,1.0,MEDIUM,15.0,True,1,True,False,False,12.0,19.0,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,16,87.165,1.0,MEDIUM,16.0,True,1,True,False,False,12.0,18.9,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,17,87.247,1.0,MEDIUM,17.0,True,1,True,False,False,12.0,18.9,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,18,87.02,1.0,MEDIUM,18.0,True,1,True,False,False,12.0,18.9,22.6,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,19,86.888,1.0,MEDIUM,19.0,True,1,True,False,False,12.0,18.9,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,20,86.609,1.0,MEDIUM,20.0,True,1,True,False,False,12.0,18.9,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,21,86.594,1.0,MEDIUM,21.0,True,1,True,False,False,12.0,18.8,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,22,86.428,1.0,MEDIUM,22.0,True,1,True,False,False,12.0,18.8,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,23,86.126,1.0,MEDIUM,23.0,True,1,True,False,False,12.0,18.8,22.7,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,24,86.397,1.0,MEDIUM,24.0,True,1,True,False,False,12.0,18.8,22.6,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,25,86.191,1.0,MEDIUM,25.0,True,1,True,False,False,12.0,18.8,22.6,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,26,85.928,1.0,MEDIUM,26.0,True,1,True,False,False,12.0,18.8,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,27,85.912,1.0,MEDIUM,27.0,True,1,True,False,False,12.0,18.7,22.4,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,28,85.916,1.0,MEDIUM,28.0,True,1,True,False,False,11.0,18.7,22.3,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,29,85.979,1.0,MEDIUM,29.0,True,12,True,False,False,11.0,18.7,22.2,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,30,85.849,1.0,MEDIUM,30.0,True,1,True,False,False,11.0,18.6,22.5,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,31,85.899,1.0,MEDIUM,31.0,True,1,True,False,False,11.0,18.6,22.4,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,32,85.849,1.0,MEDIUM,32.0,True,1,True,False,False,11.0,18.6,22.3,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,33,85.659,1.0,MEDIUM,33.0,True,1,True,False,False,11.0,18.5,22.3,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,34,85.937,1.0,MEDIUM,34.0,True,1,True,False,False,10.0,18.5,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,35,115.892,1.0,MEDIUM,35.0,True,14,False,True,False,9.0,18.5,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,36,146.39,2.0,HARD,1.0,False,4,False,True,True,10.0,18.5,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,37,129.664,3.0,HARD,2.0,False,4,False,True,True,9.0,18.4,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,38,146.432,4.0,HARD,3.0,False,4,False,False,True,9.0,18.5,22.2,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,39,135.506,4.0,HARD,4.0,False,41,False,False,False,8.0,18.5,22.2,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,40,112.918,4.0,HARD,5.0,False,1264,False,False,False,9.0,18.4,22.3,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,41,132.403,4.0,HARD,6.0,False,4,False,False,False,9.0,18.4,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,42,139.983,4.0,HARD,7.0,False,41,False,False,False,9.0,18.4,22.1,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,43,88.011,4.0,HARD,8.0,False,1,True,False,False,9.0,18.4,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,44,86.299,4.0,HARD,9.0,False,1,True,False,False,9.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,45,85.141,4.0,HARD,10.0,False,1,True,False,False,9.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,46,85.067,4.0,HARD,11.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,47,84.936,4.0,HARD,12.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,48,84.906,4.0,HARD,13.0,False,1,True,False,False,8.0,18.3,21.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,49,84.667,4.0,HARD,14.0,False,1,True,False,False,8.0,18.3,21.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,50,84.428,4.0,HARD,15.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,51,84.425,4.0,HARD,16.0,False,1,True,False,False,8.0,18.3,21.9,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,52,84.403,4.0,HARD,17.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,53,84.294,4.0,HARD,18.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,54,84.239,4.0,HARD,19.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,55,84.038,4.0,HARD,20.0,False,1,True,False,False,8.0,18.2,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,56,83.978,4.0,HARD,21.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,ZHO,Kick Sauber,57,83.889,4.0,HARD,22.0,False,1,True,False,False,8.0,18.3,22.0,False,12.0,8.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,1,165.271,1.0,HARD,1.0,True,124,False,True,False,18.0,19.1,23.0,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,2,127.072,2.0,HARD,1.0,True,4,False,False,True,18.0,19.1,23.1,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,3,131.639,2.0,HARD,2.0,True,4,False,False,False,18.0,19.1,23.0,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,4,126.08,2.0,HARD,3.0,True,41,False,False,False,18.0,19.0,23.0,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,5,91.557,2.0,HARD,4.0,True,12,True,False,False,16.0,19.0,22.9,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,6,90.682,2.0,HARD,5.0,True,1,True,False,False,16.0,19.0,22.9,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,7,88.652,2.0,HARD,6.0,True,1,True,False,False,16.0,19.0,22.9,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,8,88.418,2.0,HARD,7.0,True,1,True,False,False,16.0,19.0,22.9,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,9,87.812,2.0,HARD,8.0,True,1,True,False,False,16.0,19.0,22.9,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,10,88.286,2.0,HARD,9.0,True,1,True,False,False,16.0,19.0,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,11,88.031,2.0,HARD,10.0,True,1,True,False,False,16.0,19.0,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,12,88.229,2.0,HARD,11.0,True,1,True,False,False,16.0,19.0,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,13,87.908,2.0,HARD,12.0,True,1,True,False,False,16.0,19.0,22.6,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,14,87.442,2.0,HARD,13.0,True,1,True,False,False,16.0,18.9,22.8,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,15,87.232,2.0,HARD,14.0,True,1,True,False,False,16.0,19.0,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,16,86.897,2.0,HARD,15.0,True,1,True,False,False,16.0,18.9,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,17,87.481,2.0,HARD,16.0,True,1,True,False,False,16.0,18.9,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,18,87.808,2.0,HARD,17.0,True,1,True,False,False,16.0,18.9,22.6,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,19,87.227,2.0,HARD,18.0,True,1,True,False,False,16.0,18.9,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,20,87.237,2.0,HARD,19.0,True,1,True,False,False,16.0,18.9,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,21,87.327,2.0,HARD,20.0,True,1,True,False,False,16.0,18.8,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,22,87.214,2.0,HARD,21.0,True,1,True,False,False,16.0,18.8,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,23,87.3,2.0,HARD,22.0,True,1,True,False,False,16.0,18.8,22.7,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,24,87.021,2.0,HARD,23.0,True,1,True,False,False,16.0,18.8,22.6,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,25,86.647,2.0,HARD,24.0,True,1,True,False,False,15.0,18.8,22.6,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,26,86.568,2.0,HARD,25.0,True,1,True,False,False,15.0,18.8,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,27,86.737,2.0,HARD,26.0,True,1,True,False,False,15.0,18.7,22.4,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,28,86.235,2.0,HARD,27.0,True,1,True,False,False,14.0,18.7,22.3,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,29,86.334,2.0,HARD,28.0,True,12,True,False,False,14.0,18.6,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,30,86.595,2.0,HARD,29.0,True,1,True,False,False,14.0,18.6,22.5,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,31,90.767,2.0,HARD,30.0,True,1,False,True,False,15.0,18.6,22.3,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,32,106.841,3.0,MEDIUM,1.0,True,1,False,False,True,16.0,18.6,22.3,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,33,85.767,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,18.5,22.1,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,34,94.689,3.0,MEDIUM,3.0,True,14,False,False,False,16.0,18.5,22.1,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,35,118.789,3.0,MEDIUM,4.0,True,4,False,False,False,15.0,18.5,22.1,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,36,116.135,3.0,MEDIUM,5.0,True,4,False,True,False,14.0,18.5,22.2,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,37,119.627,4.0,MEDIUM,6.0,False,4,False,True,True,14.0,18.4,22.1,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,38,144.972,5.0,MEDIUM,7.0,False,4,False,False,True,14.0,18.5,22.2,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,39,127.982,5.0,MEDIUM,8.0,False,41,False,False,False,13.0,18.5,22.2,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,HUL,Haas F1 Team,40,,5.0,MEDIUM,9.0,False,1264,False,False,False,,18.4,22.3,False,18.0,16.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,1,133.331,1.0,MEDIUM,1.0,True,124,False,False,False,14.0,19.1,23.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,2,145.297,1.0,MEDIUM,2.0,True,4,False,False,False,14.0,19.1,23.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,3,138.396,1.0,MEDIUM,3.0,True,4,False,False,False,14.0,19.1,23.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,4,130.85,1.0,MEDIUM,4.0,True,41,False,False,False,14.0,19.0,23.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,5,97.35,1.0,MEDIUM,5.0,True,12,True,False,False,18.0,19.0,22.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,6,89.548,1.0,MEDIUM,6.0,True,1,True,False,False,18.0,19.0,22.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,7,88.165,1.0,MEDIUM,7.0,True,1,True,False,False,17.0,19.0,22.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,8,88.159,1.0,MEDIUM,8.0,True,1,True,False,False,17.0,19.0,22.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,9,87.66,1.0,MEDIUM,9.0,True,1,True,False,False,17.0,19.0,22.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,10,88.209,1.0,MEDIUM,10.0,True,1,True,False,False,17.0,19.0,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,11,88.037,1.0,MEDIUM,11.0,True,1,True,False,False,17.0,19.0,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,12,88.11,1.0,MEDIUM,12.0,True,1,True,False,False,17.0,19.0,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,13,88.275,1.0,MEDIUM,13.0,True,1,True,False,False,17.0,19.0,22.6,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,14,87.703,1.0,MEDIUM,14.0,True,1,True,False,False,17.0,18.9,22.8,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,15,87.692,1.0,MEDIUM,15.0,True,1,True,False,False,17.0,19.0,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,16,87.514,1.0,MEDIUM,16.0,True,1,True,False,False,17.0,18.9,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,17,87.411,1.0,MEDIUM,17.0,True,1,True,False,False,17.0,18.9,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,18,87.362,1.0,MEDIUM,18.0,True,1,True,False,False,17.0,18.9,22.6,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,19,87.288,1.0,MEDIUM,19.0,True,1,True,False,False,17.0,18.9,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,20,87.111,1.0,MEDIUM,20.0,True,1,True,False,False,17.0,18.9,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,21,87.143,1.0,MEDIUM,21.0,True,1,True,False,False,17.0,18.8,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,22,87.107,1.0,MEDIUM,22.0,True,1,True,False,False,17.0,18.8,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,23,86.886,1.0,MEDIUM,23.0,True,1,True,False,False,17.0,18.8,22.7,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,24,87.019,1.0,MEDIUM,24.0,True,1,True,False,False,17.0,18.8,22.6,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,25,87.045,1.0,MEDIUM,25.0,True,1,True,False,False,16.0,18.8,22.6,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,26,86.915,1.0,MEDIUM,26.0,True,1,True,False,False,16.0,18.8,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,27,86.56,1.0,MEDIUM,27.0,True,1,True,False,False,16.0,18.7,22.4,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,28,86.533,1.0,MEDIUM,28.0,True,1,True,False,False,15.0,18.7,22.3,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,29,86.446,1.0,MEDIUM,29.0,True,12,True,False,False,15.0,18.6,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,30,86.642,1.0,MEDIUM,30.0,True,1,True,False,False,15.0,18.6,22.5,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,31,86.242,1.0,MEDIUM,31.0,True,1,True,False,False,14.0,18.6,22.3,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,32,86.264,1.0,MEDIUM,32.0,True,1,True,False,False,14.0,18.6,22.3,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,33,86.219,1.0,MEDIUM,33.0,True,1,True,False,False,14.0,18.5,22.3,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,34,86.194,1.0,MEDIUM,34.0,True,1,True,False,False,13.0,18.5,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,35,123.205,1.0,MEDIUM,35.0,True,14,False,True,False,14.0,18.5,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,36,,2.0,HARD,1.0,True,4,False,True,True,15.0,18.5,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,37,115.739,3.0,HARD,2.0,False,4,False,True,True,15.0,18.4,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,38,134.297,4.0,HARD,3.0,False,4,False,False,True,15.0,18.5,22.2,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,39,125.703,4.0,HARD,4.0,False,41,False,False,False,14.0,18.5,22.2,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,40,120.647,4.0,HARD,5.0,False,1264,False,True,False,15.0,18.4,22.3,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,41,135.917,5.0,SOFT,1.0,True,4,False,False,True,15.0,18.4,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,42,128.759,5.0,SOFT,2.0,True,41,False,False,False,15.0,18.4,22.1,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,43,89.07,5.0,SOFT,3.0,True,1,True,False,False,15.0,18.4,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,44,87.6,5.0,SOFT,4.0,True,1,True,False,False,15.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,45,86.207,5.0,SOFT,5.0,True,1,True,False,False,15.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,46,86.076,5.0,SOFT,6.0,True,1,True,False,False,14.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,47,86.424,5.0,SOFT,7.0,True,1,True,False,False,13.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,48,86.369,5.0,SOFT,8.0,True,1,True,False,False,13.0,18.3,21.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,49,86.753,5.0,SOFT,9.0,True,1,True,False,False,13.0,18.3,21.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,50,87.637,5.0,SOFT,10.0,True,1,True,False,False,13.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,51,88.245,5.0,SOFT,11.0,True,1,True,False,False,14.0,18.3,21.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,52,87.612,5.0,SOFT,12.0,True,1,True,False,False,14.0,18.3,21.9,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,53,87.521,5.0,SOFT,13.0,True,1,True,False,False,14.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,54,87.69,5.0,SOFT,14.0,True,1,True,False,False,14.0,18.2,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,55,87.54,5.0,SOFT,15.0,True,1,True,False,False,15.0,18.2,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,56,86.327,5.0,SOFT,16.0,True,1,True,False,False,14.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,LAW,RB,57,86.522,5.0,SOFT,17.0,True,1,True,False,False,14.0,18.3,22.0,False,17.0,14.0
+2024,23,Qatar Grand Prix,Lusail,57,OCO,Alpine,1,,1.0,MEDIUM,1.0,True,124,False,False,False,,19.1,23.0,False,20.0,20.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,1,113.635,1.0,MEDIUM,1.0,True,124,False,False,False,2.0,19.1,23.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,2,141.28,1.0,MEDIUM,2.0,True,4,False,False,False,2.0,19.1,23.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,3,137.622,1.0,MEDIUM,3.0,True,4,False,False,False,2.0,19.1,23.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,4,,1.0,MEDIUM,4.0,True,41,False,False,False,2.0,19.0,23.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,5,87.175,1.0,MEDIUM,5.0,True,12,True,False,False,2.0,19.0,23.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,6,86.683,1.0,MEDIUM,6.0,True,1,True,False,False,2.0,19.0,22.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,7,86.5,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,19.0,22.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,8,86.668,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,19.0,22.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,9,86.344,1.0,MEDIUM,9.0,True,1,True,False,False,2.0,19.0,22.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,10,85.972,1.0,MEDIUM,10.0,True,1,True,False,False,2.0,19.0,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,11,85.985,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,19.0,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,12,85.813,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,19.0,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,13,85.794,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,19.0,22.6,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,14,85.924,1.0,MEDIUM,14.0,True,1,True,False,False,2.0,19.0,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,15,85.535,1.0,MEDIUM,15.0,True,1,True,False,False,2.0,19.0,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,16,85.508,1.0,MEDIUM,16.0,True,1,True,False,False,2.0,18.9,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,17,85.39,1.0,MEDIUM,17.0,True,1,True,False,False,2.0,18.9,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,18,85.253,1.0,MEDIUM,18.0,True,1,True,False,False,2.0,18.9,22.6,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,19,85.276,1.0,MEDIUM,19.0,True,1,True,False,False,2.0,18.9,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,20,85.017,1.0,MEDIUM,20.0,True,1,True,False,False,2.0,18.9,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,21,84.997,1.0,MEDIUM,21.0,True,1,True,False,False,2.0,18.9,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,22,84.865,1.0,MEDIUM,22.0,True,1,True,False,False,2.0,18.8,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,23,84.977,1.0,MEDIUM,23.0,True,1,True,False,False,2.0,18.8,22.7,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,24,84.67,1.0,MEDIUM,24.0,True,1,True,False,False,2.0,18.8,22.6,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,25,84.721,1.0,MEDIUM,25.0,True,1,True,False,False,2.0,18.8,22.6,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,26,84.537,1.0,MEDIUM,26.0,True,1,True,False,False,2.0,18.8,22.6,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,27,84.861,1.0,MEDIUM,27.0,True,1,True,False,False,2.0,18.7,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,28,84.751,1.0,MEDIUM,28.0,True,1,True,False,False,2.0,18.7,22.4,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,29,84.915,1.0,MEDIUM,29.0,True,1,True,False,False,2.0,18.7,22.2,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,30,84.556,1.0,MEDIUM,30.0,True,12,True,False,False,2.0,18.6,22.5,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,31,84.794,1.0,MEDIUM,31.0,True,1,True,False,False,2.0,18.6,22.4,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,32,84.65,1.0,MEDIUM,32.0,True,1,True,False,False,2.0,18.6,22.3,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,33,84.96,1.0,MEDIUM,33.0,True,1,True,False,False,2.0,18.6,22.3,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,34,84.562,1.0,MEDIUM,34.0,True,1,True,False,False,2.0,18.5,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,35,93.654,1.0,MEDIUM,35.0,True,14,False,True,False,2.0,18.5,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,36,,2.0,HARD,1.0,True,4,False,True,True,2.0,18.5,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,37,,3.0,HARD,2.0,False,4,False,True,True,2.0,18.4,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,38,149.162,4.0,HARD,3.0,False,4,False,False,True,2.0,18.4,22.3,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,39,144.447,4.0,HARD,4.0,False,41,False,False,False,2.0,18.5,22.2,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,40,99.808,4.0,HARD,5.0,False,1264,False,False,False,2.0,18.4,22.3,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,41,137.19,4.0,HARD,6.0,False,4,False,False,False,2.0,18.4,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,42,148.012,4.0,HARD,7.0,False,41,False,False,False,2.0,18.4,22.1,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,43,84.627,4.0,HARD,8.0,False,1,True,False,False,2.0,18.4,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,44,83.473,4.0,HARD,9.0,False,1,True,False,False,2.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,45,87.666,4.0,HARD,10.0,False,1,False,True,False,4.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,46,112.677,5.0,HARD,11.0,False,1,False,False,True,15.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,47,82.936,5.0,HARD,12.0,False,1,True,False,False,15.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,48,82.64,5.0,HARD,13.0,False,1,True,False,False,14.0,18.3,21.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,49,82.822,5.0,HARD,14.0,False,1,True,False,False,14.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,50,84.692,5.0,HARD,15.0,False,1,True,False,False,14.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,51,85.197,5.0,HARD,16.0,False,1,True,False,False,13.0,18.3,21.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,52,82.928,5.0,HARD,17.0,False,1,True,False,False,12.0,18.3,21.9,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,53,85.089,5.0,HARD,18.0,False,1,True,False,False,11.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,54,82.471,5.0,HARD,19.0,False,1,True,False,False,10.0,18.2,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,55,82.994,5.0,HARD,20.0,False,1,True,False,False,10.0,18.2,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,56,82.384,5.0,HARD,21.0,False,1,True,False,False,10.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,NOR,McLaren,57,83.271,5.0,HARD,22.0,False,1,True,False,False,10.0,18.3,22.0,False,3.0,10.0
+2024,23,Qatar Grand Prix,Lusail,57,COL,Williams,1,,1.0,MEDIUM,1.0,True,124,False,False,False,,19.1,23.0,False,19.0,19.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,1,124.279,1.0,MEDIUM,1.0,True,124,False,False,False,9.0,19.1,23.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,2,144.03,1.0,MEDIUM,2.0,True,4,False,False,False,9.0,19.1,23.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,3,138.93,1.0,MEDIUM,3.0,True,4,False,False,False,9.0,19.1,23.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,4,139.017,1.0,MEDIUM,4.0,True,41,False,False,False,9.0,19.0,23.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,5,89.473,1.0,MEDIUM,5.0,True,12,True,False,False,8.0,19.0,22.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,6,88.084,1.0,MEDIUM,6.0,True,1,True,False,False,8.0,19.0,22.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,7,87.872,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,19.0,22.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,8,87.043,1.0,MEDIUM,8.0,True,1,True,False,False,8.0,19.0,22.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,9,86.983,1.0,MEDIUM,9.0,True,1,True,False,False,8.0,19.0,22.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,10,87.154,1.0,MEDIUM,10.0,True,1,True,False,False,8.0,19.0,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,11,86.816,1.0,MEDIUM,11.0,True,1,True,False,False,8.0,19.0,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,12,86.532,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,19.0,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,13,86.514,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,19.0,22.6,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,14,86.558,1.0,MEDIUM,14.0,True,1,True,False,False,8.0,18.9,22.8,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,15,86.8,1.0,MEDIUM,15.0,True,1,True,False,False,8.0,19.0,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,16,86.585,1.0,MEDIUM,16.0,True,1,True,False,False,8.0,18.9,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,17,86.276,1.0,MEDIUM,17.0,True,1,True,False,False,8.0,18.9,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,18,86.47,1.0,MEDIUM,18.0,True,1,True,False,False,8.0,18.9,22.6,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,19,86.323,1.0,MEDIUM,19.0,True,1,True,False,False,8.0,18.9,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,20,86.383,1.0,MEDIUM,20.0,True,1,True,False,False,8.0,18.9,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,21,86.026,1.0,MEDIUM,21.0,True,1,True,False,False,8.0,18.8,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,22,86.189,1.0,MEDIUM,22.0,True,1,True,False,False,8.0,18.8,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,23,85.618,1.0,MEDIUM,23.0,True,1,True,False,False,8.0,18.8,22.7,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,24,85.734,1.0,MEDIUM,24.0,True,1,True,False,False,7.0,18.8,22.6,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,25,85.378,1.0,MEDIUM,25.0,True,1,True,False,False,7.0,18.8,22.6,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,26,85.326,1.0,MEDIUM,26.0,True,1,True,False,False,7.0,18.8,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,27,85.227,1.0,MEDIUM,27.0,True,1,True,False,False,7.0,18.7,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,28,86.598,1.0,MEDIUM,28.0,True,1,True,False,False,7.0,18.7,22.3,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,29,85.25,1.0,MEDIUM,29.0,True,12,True,False,False,7.0,18.7,22.2,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,30,85.396,1.0,MEDIUM,30.0,True,1,True,False,False,7.0,18.6,22.5,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,31,85.272,1.0,MEDIUM,31.0,True,1,True,False,False,7.0,18.6,22.4,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,32,85.253,1.0,MEDIUM,32.0,True,1,True,False,False,7.0,18.6,22.3,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,33,85.713,1.0,MEDIUM,33.0,True,1,True,False,False,7.0,18.5,22.3,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,34,136.781,1.0,MEDIUM,34.0,True,14,False,True,False,15.0,18.5,22.1,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,35,,2.0,HARD,1.0,False,4,False,True,True,16.0,18.5,22.1,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,36,,3.0,HARD,2.0,False,4,False,True,True,16.0,18.5,22.2,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,37,120.881,4.0,HARD,3.0,False,4,False,False,True,16.0,18.4,22.3,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,38,86.953,4.0,HARD,4.0,False,4,False,False,False,16.0,18.5,22.2,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,39,91.819,4.0,HARD,5.0,False,41,False,False,False,15.0,18.5,22.2,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,40,114.351,4.0,HARD,6.0,False,1264,False,False,False,12.0,18.4,22.3,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,41,134.586,4.0,HARD,7.0,False,4,False,False,False,12.0,18.4,22.1,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,42,135.024,4.0,HARD,8.0,False,41,False,False,False,12.0,18.4,22.1,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,43,89.654,4.0,HARD,9.0,False,1,True,False,False,14.0,18.4,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,44,87.093,4.0,HARD,10.0,False,1,True,False,False,14.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,45,85.28,4.0,HARD,11.0,False,1,True,False,False,13.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,46,84.726,4.0,HARD,12.0,False,1,True,False,False,11.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,47,89.954,4.0,HARD,13.0,False,1,False,True,False,14.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,48,102.41,5.0,HARD,14.0,False,1,False,False,True,15.0,18.3,21.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,49,85.096,5.0,HARD,15.0,False,1,True,False,False,15.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,50,84.806,5.0,HARD,16.0,False,1,True,False,False,15.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,51,84.462,5.0,HARD,17.0,False,1,True,False,False,15.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,52,83.865,5.0,HARD,18.0,False,1,True,False,False,15.0,18.3,21.9,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,53,84.044,5.0,HARD,19.0,False,1,True,False,False,15.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,54,87.079,5.0,HARD,20.0,False,1,True,False,False,15.0,18.2,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,55,84.25,5.0,HARD,21.0,False,1,True,False,False,13.0,18.2,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,56,84.412,5.0,HARD,22.0,False,1,True,False,False,12.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,HAM,Mercedes,57,85.086,5.0,HARD,23.0,False,1,True,False,False,12.0,18.3,22.0,False,6.0,12.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,1,119.394,1.0,MEDIUM,2.0,False,124,False,False,False,6.0,19.1,23.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,2,143.307,1.0,MEDIUM,3.0,False,4,False,False,False,6.0,19.1,23.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,3,137.994,1.0,MEDIUM,4.0,False,4,False,False,False,6.0,19.1,23.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,4,144.487,1.0,MEDIUM,5.0,False,41,False,False,False,6.0,19.0,23.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,5,89.355,1.0,MEDIUM,6.0,False,12,True,False,False,6.0,19.0,23.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,6,87.634,1.0,MEDIUM,7.0,False,1,True,False,False,6.0,19.0,22.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,7,87.189,1.0,MEDIUM,8.0,False,1,True,False,False,6.0,19.0,22.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,8,87.142,1.0,MEDIUM,9.0,False,1,True,False,False,6.0,19.0,22.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,9,86.794,1.0,MEDIUM,10.0,False,1,True,False,False,6.0,19.0,22.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,10,86.466,1.0,MEDIUM,11.0,False,1,True,False,False,6.0,19.0,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,11,86.378,1.0,MEDIUM,12.0,False,1,True,False,False,6.0,19.0,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,12,86.223,1.0,MEDIUM,13.0,False,1,True,False,False,6.0,19.0,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,13,86.126,1.0,MEDIUM,14.0,False,1,True,False,False,6.0,19.0,22.6,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,14,86.19,1.0,MEDIUM,15.0,False,1,True,False,False,6.0,18.9,22.8,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,15,86.112,1.0,MEDIUM,16.0,False,1,True,False,False,6.0,19.0,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,16,85.887,1.0,MEDIUM,17.0,False,1,True,False,False,6.0,18.9,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,17,85.873,1.0,MEDIUM,18.0,False,1,True,False,False,6.0,18.9,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,18,85.568,1.0,MEDIUM,19.0,False,1,True,False,False,6.0,18.9,22.6,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,19,85.852,1.0,MEDIUM,20.0,False,1,True,False,False,6.0,18.9,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,20,85.559,1.0,MEDIUM,21.0,False,1,True,False,False,6.0,18.9,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,21,85.369,1.0,MEDIUM,22.0,False,1,True,False,False,6.0,18.8,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,22,85.353,1.0,MEDIUM,23.0,False,1,True,False,False,6.0,18.8,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,23,85.373,1.0,MEDIUM,24.0,False,1,True,False,False,6.0,18.8,22.7,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,24,85.279,1.0,MEDIUM,25.0,False,1,True,False,False,5.0,18.8,22.6,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,25,85.331,1.0,MEDIUM,26.0,False,1,True,False,False,5.0,18.8,22.6,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,26,85.13,1.0,MEDIUM,27.0,False,1,True,False,False,5.0,18.8,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,27,84.859,1.0,MEDIUM,28.0,False,1,True,False,False,5.0,18.7,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,28,85.144,1.0,MEDIUM,29.0,False,1,True,False,False,5.0,18.7,22.3,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,29,84.982,1.0,MEDIUM,30.0,False,12,True,False,False,5.0,18.7,22.2,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,30,85.235,1.0,MEDIUM,31.0,False,21,True,False,False,5.0,18.6,22.5,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,31,84.802,1.0,MEDIUM,32.0,False,1,True,False,False,5.0,18.6,22.4,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,32,84.885,1.0,MEDIUM,33.0,False,1,True,False,False,5.0,18.6,22.3,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,33,85.104,1.0,MEDIUM,34.0,False,1,True,False,False,5.0,18.5,22.3,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,34,107.696,1.0,MEDIUM,35.0,False,1,False,True,False,6.0,18.5,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,35,148.364,2.0,HARD,1.0,True,14,False,False,True,10.0,18.5,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,36,123.309,2.0,HARD,2.0,True,4,False,True,False,8.0,18.5,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,37,133.402,3.0,HARD,3.0,False,4,False,True,True,8.0,18.4,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,38,146.73,4.0,HARD,4.0,False,4,False,False,True,8.0,18.5,22.2,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,39,135.775,4.0,HARD,5.0,False,41,False,False,False,7.0,18.5,22.2,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,40,110.298,4.0,HARD,6.0,False,1264,False,False,False,7.0,18.4,22.3,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,41,133.053,4.0,HARD,7.0,False,4,False,False,False,7.0,18.4,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,42,142.05,4.0,HARD,8.0,False,41,False,False,False,7.0,18.4,22.1,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,43,87.686,4.0,HARD,9.0,False,1,True,False,False,7.0,18.4,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,44,85.236,4.0,HARD,10.0,False,1,True,False,False,7.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,45,84.607,4.0,HARD,11.0,False,1,True,False,False,7.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,46,84.17,4.0,HARD,12.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,47,84.445,4.0,HARD,13.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,48,84.094,4.0,HARD,14.0,False,1,True,False,False,6.0,18.3,21.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,49,83.89,4.0,HARD,15.0,False,1,True,False,False,6.0,18.3,21.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,50,83.858,4.0,HARD,16.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,51,84.922,4.0,HARD,17.0,False,1,True,False,False,6.0,18.3,21.9,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,52,83.465,4.0,HARD,18.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,53,83.62,4.0,HARD,19.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,54,83.745,4.0,HARD,20.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,55,84.559,4.0,HARD,21.0,False,1,True,False,False,6.0,18.2,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,56,83.544,4.0,HARD,22.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,SAI,Ferrari,57,83.905,4.0,HARD,23.0,False,1,True,False,False,6.0,18.3,22.0,False,7.0,6.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,1,115.631,1.0,MEDIUM,2.0,False,124,False,False,False,3.0,19.1,23.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,2,141.375,1.0,MEDIUM,3.0,False,4,False,False,False,3.0,19.1,23.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,3,137.726,1.0,MEDIUM,4.0,False,4,False,False,False,3.0,19.1,23.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,4,149.191,1.0,MEDIUM,5.0,False,41,False,False,False,3.0,19.0,23.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,5,87.948,1.0,MEDIUM,6.0,False,12,True,False,False,3.0,19.0,23.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,6,86.797,1.0,MEDIUM,7.0,False,1,True,False,False,3.0,19.0,22.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,7,86.561,1.0,MEDIUM,8.0,False,1,True,False,False,3.0,19.0,22.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,8,86.433,1.0,MEDIUM,9.0,False,1,True,False,False,3.0,19.0,22.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,9,86.498,1.0,MEDIUM,10.0,False,1,True,False,False,3.0,19.0,22.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,10,86.274,1.0,MEDIUM,11.0,False,1,True,False,False,3.0,19.0,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,11,86.214,1.0,MEDIUM,12.0,False,1,True,False,False,3.0,19.0,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,12,85.989,1.0,MEDIUM,13.0,False,1,True,False,False,3.0,19.0,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,13,86.182,1.0,MEDIUM,14.0,False,1,True,False,False,3.0,19.0,22.6,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,14,86.24,1.0,MEDIUM,15.0,False,1,True,False,False,3.0,19.0,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,15,85.958,1.0,MEDIUM,16.0,False,1,True,False,False,3.0,19.0,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,16,86.022,1.0,MEDIUM,17.0,False,1,True,False,False,3.0,18.9,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,17,85.749,1.0,MEDIUM,18.0,False,1,True,False,False,3.0,18.9,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,18,85.56,1.0,MEDIUM,19.0,False,1,True,False,False,3.0,18.9,22.6,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,19,85.546,1.0,MEDIUM,20.0,False,1,True,False,False,3.0,18.9,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,20,85.76,1.0,MEDIUM,21.0,False,1,True,False,False,3.0,18.9,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,21,85.721,1.0,MEDIUM,22.0,False,1,True,False,False,3.0,18.9,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,22,85.576,1.0,MEDIUM,23.0,False,1,True,False,False,3.0,18.8,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,23,89.591,1.0,MEDIUM,24.0,False,1,False,True,False,5.0,18.8,22.7,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,24,113.294,2.0,HARD,1.0,True,1,False,False,True,11.0,18.8,22.6,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,25,85.514,2.0,HARD,2.0,True,1,True,False,False,11.0,18.8,22.6,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,26,85.973,2.0,HARD,3.0,True,1,True,False,False,11.0,18.8,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,27,86.155,2.0,HARD,4.0,True,1,True,False,False,11.0,18.7,22.4,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,28,85.867,2.0,HARD,5.0,True,1,True,False,False,10.0,18.7,22.3,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,29,85.916,2.0,HARD,6.0,True,12,True,False,False,10.0,18.7,22.2,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,30,86.145,2.0,HARD,7.0,True,1,True,False,False,10.0,18.6,22.5,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,31,85.811,2.0,HARD,8.0,True,1,True,False,False,10.0,18.6,22.4,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,32,85.583,2.0,HARD,9.0,True,1,True,False,False,10.0,18.6,22.3,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,33,85.498,2.0,HARD,10.0,True,1,True,False,False,10.0,18.5,22.3,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,34,85.972,2.0,HARD,11.0,True,1,True,False,False,8.0,18.5,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,35,114.752,2.0,HARD,12.0,True,14,False,True,False,7.0,18.5,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,36,142.188,3.0,HARD,1.0,True,4,False,True,True,7.0,18.5,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,37,134.784,4.0,HARD,2.0,False,4,False,True,True,7.0,18.4,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,38,146.38,5.0,HARD,3.0,False,4,False,False,True,7.0,18.5,22.2,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,39,137.029,5.0,HARD,4.0,False,41,False,False,False,6.0,18.5,22.2,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,40,106.275,5.0,HARD,5.0,False,1264,False,False,False,5.0,18.4,22.3,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,41,134.121,5.0,HARD,6.0,False,4,False,False,False,5.0,18.4,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,42,144.716,5.0,HARD,7.0,False,41,False,False,False,5.0,18.4,22.1,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,43,86.371,5.0,HARD,8.0,False,1,True,False,False,5.0,18.4,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,44,84.644,5.0,HARD,9.0,False,1,True,False,False,5.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,45,84.01,5.0,HARD,10.0,False,1,True,False,False,5.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,46,83.614,5.0,HARD,11.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,47,83.889,5.0,HARD,12.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,48,83.796,5.0,HARD,13.0,False,1,True,False,False,4.0,18.3,21.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,49,83.744,5.0,HARD,14.0,False,1,True,False,False,4.0,18.3,21.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,50,83.355,5.0,HARD,15.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,51,83.495,5.0,HARD,16.0,False,1,True,False,False,4.0,18.3,21.9,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,52,83.549,5.0,HARD,17.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,53,83.681,5.0,HARD,18.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,54,83.56,5.0,HARD,19.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,55,83.361,5.0,HARD,20.0,False,1,True,False,False,4.0,18.2,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,56,83.366,5.0,HARD,21.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,RUS,Mercedes,57,83.477,5.0,HARD,22.0,False,1,True,False,False,4.0,18.3,22.0,False,1.0,4.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,1,132.082,1.0,MEDIUM,1.0,True,124,False,False,False,13.0,19.1,23.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,2,144.412,1.0,MEDIUM,2.0,True,4,False,False,False,13.0,19.1,23.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,3,138.818,1.0,MEDIUM,3.0,True,4,False,False,False,13.0,19.1,23.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,4,132.447,1.0,MEDIUM,4.0,True,41,False,False,False,13.0,19.0,23.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,5,92.024,1.0,MEDIUM,5.0,True,12,True,False,False,14.0,19.0,22.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,6,89.4,1.0,MEDIUM,6.0,True,1,True,False,False,14.0,19.0,22.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,7,88.25,1.0,MEDIUM,7.0,True,1,True,False,False,14.0,19.0,22.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,8,88.501,1.0,MEDIUM,8.0,True,1,True,False,False,14.0,19.0,22.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,9,87.855,1.0,MEDIUM,9.0,True,1,True,False,False,14.0,19.0,22.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,10,87.717,1.0,MEDIUM,10.0,True,1,True,False,False,14.0,19.0,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,11,88.141,1.0,MEDIUM,11.0,True,1,True,False,False,14.0,19.0,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,12,87.842,1.0,MEDIUM,12.0,True,1,True,False,False,14.0,19.0,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,13,87.753,1.0,MEDIUM,13.0,True,1,True,False,False,14.0,19.0,22.6,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,14,87.79,1.0,MEDIUM,14.0,True,1,True,False,False,14.0,18.9,22.8,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,15,88.029,1.0,MEDIUM,15.0,True,1,True,False,False,14.0,19.0,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,16,87.96,1.0,MEDIUM,16.0,True,1,True,False,False,14.0,18.9,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,17,87.339,1.0,MEDIUM,17.0,True,1,True,False,False,14.0,18.9,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,18,87.489,1.0,MEDIUM,18.0,True,1,True,False,False,14.0,18.9,22.6,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,19,87.16,1.0,MEDIUM,19.0,True,1,True,False,False,14.0,18.9,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,20,86.295,1.0,MEDIUM,20.0,True,1,True,False,False,13.0,18.9,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,21,86.958,1.0,MEDIUM,21.0,True,1,True,False,False,13.0,18.8,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,22,86.843,1.0,MEDIUM,22.0,True,1,True,False,False,13.0,18.8,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,23,86.299,1.0,MEDIUM,23.0,True,1,True,False,False,13.0,18.8,22.7,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,24,90.542,1.0,MEDIUM,24.0,True,1,False,True,False,14.0,18.8,22.6,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,25,111.494,2.0,HARD,1.0,False,1,False,False,True,17.0,18.8,22.6,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,26,87.079,2.0,HARD,2.0,False,1,True,False,False,17.0,18.7,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,27,86.69,2.0,HARD,3.0,False,1,True,False,False,17.0,18.7,22.4,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,28,89.406,2.0,HARD,4.0,False,1,True,False,False,17.0,18.7,22.2,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,29,86.93,2.0,HARD,5.0,False,12,True,False,False,17.0,18.6,22.5,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,30,86.461,2.0,HARD,6.0,False,1,True,False,False,17.0,18.6,22.4,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,31,86.288,2.0,HARD,7.0,False,1,True,False,False,17.0,18.6,22.3,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,32,88.647,2.0,HARD,8.0,False,1,True,False,False,17.0,18.6,22.3,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,33,88.461,2.0,HARD,9.0,False,1,True,False,False,17.0,18.5,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,34,97.515,2.0,HARD,10.0,False,14,False,False,False,17.0,18.5,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,35,,2.0,HARD,11.0,False,4,False,True,False,17.0,18.5,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,36,,3.0,MEDIUM,9.0,False,4,False,True,True,17.0,18.4,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,37,120.033,4.0,MEDIUM,10.0,False,4,False,False,True,17.0,18.4,22.3,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,38,88.199,4.0,MEDIUM,11.0,False,4,False,False,False,17.0,18.5,22.2,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,39,89.792,4.0,MEDIUM,12.0,False,41,False,False,False,16.0,18.5,22.2,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,40,117.286,4.0,MEDIUM,13.0,False,1264,False,False,False,14.0,18.4,22.3,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,41,132.721,4.0,MEDIUM,14.0,False,4,False,False,False,13.0,18.4,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,42,133.244,4.0,MEDIUM,15.0,False,41,False,False,False,13.0,18.4,22.1,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,43,88.386,4.0,MEDIUM,16.0,False,1,True,False,False,12.0,18.4,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,44,86.779,4.0,MEDIUM,17.0,False,1,True,False,False,12.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,45,86.296,4.0,MEDIUM,18.0,False,1,True,False,False,12.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,46,86.979,4.0,MEDIUM,19.0,False,1,True,False,False,12.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,47,85.92,4.0,MEDIUM,20.0,False,1,True,False,False,11.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,48,85.548,4.0,MEDIUM,21.0,False,1,True,False,False,11.0,18.3,21.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,49,85.639,4.0,MEDIUM,22.0,False,1,True,False,False,11.0,18.3,21.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,50,85.881,4.0,MEDIUM,23.0,False,1,True,False,False,11.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,51,86.352,4.0,MEDIUM,24.0,False,1,True,False,False,11.0,18.3,21.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,52,86.927,4.0,MEDIUM,25.0,False,1,True,False,False,11.0,18.3,21.9,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,53,85.533,4.0,MEDIUM,26.0,False,1,True,False,False,10.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,54,86.568,4.0,MEDIUM,27.0,False,1,True,False,False,11.0,18.2,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,55,86.051,4.0,MEDIUM,28.0,False,1,True,False,False,11.0,18.2,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,56,86.311,4.0,MEDIUM,29.0,False,1,True,False,False,11.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,BOT,Kick Sauber,57,87.014,4.0,MEDIUM,30.0,False,1,True,False,False,11.0,18.3,22.0,False,13.0,11.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,1,118.513,1.0,MEDIUM,1.0,True,124,False,False,False,5.0,19.1,23.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,2,142.913,1.0,MEDIUM,2.0,True,4,False,False,False,5.0,19.1,23.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,3,137.707,1.0,MEDIUM,3.0,True,4,False,False,False,5.0,19.1,23.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,4,145.626,1.0,MEDIUM,4.0,True,41,False,False,False,5.0,19.0,23.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,5,87.603,1.0,MEDIUM,5.0,True,12,True,False,False,4.0,19.0,23.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,6,87.02,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,19.0,22.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,7,86.851,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,19.0,22.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,8,86.322,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,19.0,22.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,9,86.464,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,19.0,22.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,10,86.169,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,19.0,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,11,86.382,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,19.0,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,12,86.288,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,19.0,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,13,86.035,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,19.0,22.6,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,14,86.056,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,19.0,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,15,85.803,1.0,MEDIUM,15.0,True,1,True,False,False,4.0,19.0,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,16,86.474,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,18.9,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,17,86.031,1.0,MEDIUM,17.0,True,1,True,False,False,4.0,18.9,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,18,85.703,1.0,MEDIUM,18.0,True,1,True,False,False,4.0,18.9,22.6,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,19,85.494,1.0,MEDIUM,19.0,True,1,True,False,False,4.0,18.9,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,20,85.517,1.0,MEDIUM,20.0,True,1,True,False,False,4.0,18.9,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,21,85.366,1.0,MEDIUM,21.0,True,1,True,False,False,4.0,18.9,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,22,85.218,1.0,MEDIUM,22.0,True,1,True,False,False,4.0,18.8,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,23,85.634,1.0,MEDIUM,23.0,True,1,True,False,False,3.0,18.8,22.7,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,24,84.75,1.0,MEDIUM,24.0,True,1,True,False,False,3.0,18.8,22.6,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,25,84.897,1.0,MEDIUM,25.0,True,1,True,False,False,3.0,18.8,22.6,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,26,84.898,1.0,MEDIUM,26.0,True,1,True,False,False,3.0,18.8,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,27,84.727,1.0,MEDIUM,27.0,True,1,True,False,False,3.0,18.7,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,28,84.71,1.0,MEDIUM,28.0,True,1,True,False,False,3.0,18.7,22.4,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,29,84.761,1.0,MEDIUM,29.0,True,12,True,False,False,3.0,18.7,22.2,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,30,85.129,1.0,MEDIUM,30.0,True,21,True,False,False,3.0,18.6,22.5,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,31,84.883,1.0,MEDIUM,31.0,True,1,True,False,False,3.0,18.6,22.4,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,32,84.894,1.0,MEDIUM,32.0,True,1,True,False,False,3.0,18.6,22.3,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,33,85.284,1.0,MEDIUM,33.0,True,1,True,False,False,3.0,18.6,22.3,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,34,89.34,1.0,MEDIUM,34.0,True,1,False,True,False,4.0,18.5,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,35,127.624,2.0,HARD,1.0,True,14,False,False,True,5.0,18.5,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,36,128.14,2.0,HARD,2.0,True,4,False,True,False,4.0,18.5,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,37,,3.0,HARD,3.0,False,4,False,True,True,4.0,18.4,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,38,148.28,4.0,HARD,4.0,False,4,False,False,True,4.0,18.4,22.3,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,39,141.872,4.0,HARD,5.0,False,41,False,False,False,4.0,18.5,22.2,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,40,103.378,4.0,HARD,6.0,False,1264,False,False,False,4.0,18.4,22.3,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,41,135.81,4.0,HARD,7.0,False,4,False,False,False,4.0,18.4,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,42,145.878,4.0,HARD,8.0,False,41,False,False,False,4.0,18.4,22.1,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,43,86.116,4.0,HARD,9.0,False,1,True,False,False,4.0,18.4,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,44,84.301,4.0,HARD,10.0,False,1,True,False,False,4.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,45,83.98,4.0,HARD,11.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,46,83.909,4.0,HARD,12.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,47,83.568,4.0,HARD,13.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,48,83.624,4.0,HARD,14.0,False,1,True,False,False,3.0,18.3,21.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,49,83.623,4.0,HARD,15.0,False,1,True,False,False,3.0,18.3,21.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,50,83.625,4.0,HARD,16.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,51,83.218,4.0,HARD,17.0,False,1,True,False,False,3.0,18.3,21.9,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,52,83.478,4.0,HARD,18.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,53,83.523,4.0,HARD,19.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,54,83.37,4.0,HARD,20.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,55,83.269,4.0,HARD,21.0,False,1,True,False,False,3.0,18.2,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,56,83.313,4.0,HARD,22.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0
+2024,23,Qatar Grand Prix,Lusail,57,PIA,McLaren,57,83.241,4.0,HARD,23.0,False,1,True,False,False,3.0,18.3,22.0,False,4.0,3.0

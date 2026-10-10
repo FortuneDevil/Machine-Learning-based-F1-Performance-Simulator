@@ -1,0 +1,826 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,1,105.82,1.0,INTERMEDIATE,1.0,True,12,False,False,False,1.0,18.3,24.1,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,2,135.598,1.0,INTERMEDIATE,2.0,True,26,False,False,False,1.0,18.5,24.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,3,137.357,1.0,INTERMEDIATE,3.0,True,6,False,False,False,1.0,18.4,24.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,4,105.568,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,1.0,18.7,24.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,5,104.809,1.0,INTERMEDIATE,5.0,True,126,False,False,False,1.0,18.6,24.9,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,6,139.789,1.0,INTERMEDIATE,6.0,True,6,False,False,False,1.0,18.8,25.2,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,7,122.547,1.0,INTERMEDIATE,7.0,True,671,False,False,False,1.0,19.1,24.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,8,105.834,1.0,INTERMEDIATE,8.0,True,1,True,False,False,2.0,19.2,24.2,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,9,106.326,1.0,INTERMEDIATE,9.0,True,1,True,False,False,2.0,19.2,24.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,10,106.432,1.0,INTERMEDIATE,10.0,True,1,True,False,False,2.0,19.2,24.3,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,11,110.497,1.0,INTERMEDIATE,11.0,True,1,False,True,False,3.0,19.0,24.0,True,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,12,126.914,2.0,INTERMEDIATE,1.0,True,1,False,False,True,2.0,18.7,22.5,True,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,13,111.224,2.0,INTERMEDIATE,2.0,True,12,True,False,False,2.0,18.1,21.0,True,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,14,136.82,2.0,INTERMEDIATE,3.0,True,14,False,False,False,2.0,17.4,20.1,True,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,15,,2.0,INTERMEDIATE,4.0,True,4,False,False,False,2.0,16.7,20.0,True,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,2.0,16.2,20.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,2.0,16.0,21.1,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,18,118.665,2.0,INTERMEDIATE,7.0,True,124,False,False,False,2.0,16.1,21.7,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,2.0,16.2,22.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,2.0,16.6,24.3,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,10.0,16.7,23.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,22,111.018,2.0,INTERMEDIATE,11.0,True,12,True,False,False,10.0,16.7,23.1,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,23,105.863,2.0,INTERMEDIATE,12.0,True,1,True,False,False,10.0,17.0,22.9,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,24,105.017,2.0,INTERMEDIATE,13.0,True,1,True,False,False,10.0,17.0,22.9,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,25,104.139,2.0,INTERMEDIATE,14.0,True,1,True,False,False,10.0,17.2,22.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,26,104.304,2.0,INTERMEDIATE,15.0,True,1,True,False,False,10.0,17.1,22.7,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,27,103.903,2.0,INTERMEDIATE,16.0,True,1,True,False,False,10.0,17.1,22.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,28,104.243,2.0,INTERMEDIATE,17.0,True,1,True,False,False,10.0,17.4,22.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,29,104.716,2.0,INTERMEDIATE,18.0,True,1,True,False,False,10.0,17.5,22.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,30,104.721,2.0,INTERMEDIATE,19.0,True,1,True,False,False,10.0,17.5,22.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,31,104.559,2.0,INTERMEDIATE,20.0,True,1,True,False,False,10.0,17.7,22.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,32,104.511,2.0,INTERMEDIATE,21.0,True,1,True,False,False,10.0,17.9,23.3,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,33,104.306,2.0,INTERMEDIATE,22.0,True,1,True,False,False,10.0,18.0,23.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,34,103.923,2.0,INTERMEDIATE,23.0,True,1,True,False,False,9.0,18.0,23.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,35,102.617,2.0,INTERMEDIATE,24.0,True,1,True,False,False,9.0,18.2,23.2,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,36,101.924,2.0,INTERMEDIATE,25.0,True,1,True,False,False,9.0,18.5,23.2,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,37,101.583,2.0,INTERMEDIATE,26.0,True,1,True,False,False,9.0,18.5,23.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,38,101.19,2.0,INTERMEDIATE,27.0,True,1,True,False,False,8.0,18.5,23.7,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,39,100.758,2.0,INTERMEDIATE,28.0,True,12,True,False,False,7.0,18.7,24.1,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,40,101.474,2.0,INTERMEDIATE,29.0,True,1,True,False,False,7.0,18.8,23.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,41,99.465,2.0,INTERMEDIATE,30.0,True,1,False,True,False,6.0,18.9,23.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,42,127.784,3.0,MEDIUM,1.0,True,12,False,False,True,9.0,19.0,23.5,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,43,99.479,3.0,MEDIUM,2.0,True,12,True,False,False,6.0,19.0,22.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,44,95.165,3.0,MEDIUM,3.0,True,21,True,False,False,6.0,18.9,23.7,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,45,93.844,3.0,MEDIUM,4.0,True,1,True,False,False,6.0,19.0,24.0,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,46,92.96,3.0,MEDIUM,5.0,True,1,True,False,False,6.0,19.1,23.8,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,47,91.712,3.0,MEDIUM,6.0,True,1,True,False,False,6.0,19.2,23.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,48,90.776,3.0,MEDIUM,7.0,True,1,True,False,False,6.0,19.2,23.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,49,90.179,3.0,MEDIUM,8.0,True,1,True,False,False,6.0,19.1,23.7,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,50,90.29,3.0,MEDIUM,9.0,True,1,True,False,False,6.0,19.3,24.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,51,90.973,3.0,MEDIUM,10.0,True,1,True,False,False,5.0,19.4,24.4,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,VER,Red Bull Racing,52,91.389,3.0,MEDIUM,11.0,True,1,True,False,False,5.0,19.5,24.6,False,1.0,5.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,1,109.058,1.0,INTERMEDIATE,1.0,True,12,False,False,False,5.0,18.3,24.1,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,2,138.221,1.0,INTERMEDIATE,2.0,True,26,False,False,False,6.0,18.5,24.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,3,137.418,1.0,INTERMEDIATE,3.0,True,6,False,False,False,5.0,18.4,24.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,4,105.466,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,5.0,18.7,24.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,5,108.978,1.0,INTERMEDIATE,5.0,True,126,False,False,False,5.0,18.6,24.9,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,6,136.266,1.0,INTERMEDIATE,6.0,True,6,False,False,False,5.0,18.8,25.2,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,7,123.029,1.0,INTERMEDIATE,7.0,True,671,False,False,False,5.0,19.1,24.0,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,8,106.083,1.0,INTERMEDIATE,8.0,True,1,True,False,False,5.0,19.2,24.2,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,9,107.962,1.0,INTERMEDIATE,9.0,True,1,True,False,False,5.0,19.2,24.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,10,108.953,1.0,INTERMEDIATE,10.0,True,1,True,False,False,6.0,19.2,24.3,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,11,109.24,1.0,INTERMEDIATE,11.0,True,1,False,True,False,5.0,19.0,24.0,True,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,12,127.003,2.0,INTERMEDIATE,1.0,True,1,False,False,True,9.0,18.7,22.5,True,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,13,115.838,2.0,INTERMEDIATE,2.0,True,124,False,False,False,6.0,18.1,21.0,True,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,14,136.634,2.0,INTERMEDIATE,3.0,True,4,False,False,False,6.0,17.4,20.1,True,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,15,148.486,2.0,INTERMEDIATE,4.0,True,4,False,False,False,6.0,16.7,20.0,True,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,6.0,16.2,20.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,6.0,16.0,21.1,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,18,124.781,2.0,INTERMEDIATE,7.0,True,124,False,False,False,7.0,16.1,21.7,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,6.0,16.2,22.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,7.0,16.6,24.3,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,5.0,16.7,23.4,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,22,109.883,2.0,INTERMEDIATE,11.0,True,12,True,False,False,5.0,16.7,23.1,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,23,105.583,2.0,INTERMEDIATE,12.0,True,1,True,False,False,5.0,17.0,22.9,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,24,104.631,2.0,INTERMEDIATE,13.0,True,1,True,False,False,5.0,17.0,22.9,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,25,104.204,2.0,INTERMEDIATE,14.0,True,1,True,False,False,5.0,17.2,22.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,26,104.244,2.0,INTERMEDIATE,15.0,True,1,True,False,False,5.0,17.1,22.7,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,27,103.205,2.0,INTERMEDIATE,16.0,True,1,True,False,False,5.0,17.1,22.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,28,103.575,2.0,INTERMEDIATE,17.0,True,1,True,False,False,5.0,17.4,22.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,29,104.969,2.0,INTERMEDIATE,18.0,True,1,True,False,False,6.0,17.5,22.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,30,105.061,2.0,INTERMEDIATE,19.0,True,1,True,False,False,6.0,17.5,22.4,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,31,104.504,2.0,INTERMEDIATE,20.0,True,1,True,False,False,6.0,17.7,22.4,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,32,104.368,2.0,INTERMEDIATE,21.0,True,1,True,False,False,6.0,17.9,23.3,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,33,105.205,2.0,INTERMEDIATE,22.0,True,1,True,False,False,6.0,18.0,23.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,34,104.227,2.0,INTERMEDIATE,23.0,True,1,True,False,False,6.0,18.0,23.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,35,102.768,2.0,INTERMEDIATE,24.0,True,1,True,False,False,6.0,18.2,23.2,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,36,102.42,2.0,INTERMEDIATE,25.0,True,1,True,False,False,6.0,18.5,23.2,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,37,101.825,2.0,INTERMEDIATE,26.0,True,1,True,False,False,6.0,18.5,23.2,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,38,102.926,2.0,INTERMEDIATE,27.0,True,1,True,False,False,7.0,18.5,23.7,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,39,101.869,2.0,INTERMEDIATE,28.0,True,12,True,False,False,6.0,18.7,24.1,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,40,102.307,2.0,INTERMEDIATE,29.0,True,21,True,False,False,6.0,18.8,23.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,41,102.126,2.0,INTERMEDIATE,30.0,True,1,False,True,False,7.0,18.9,23.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,42,126.63,3.0,MEDIUM,1.0,True,12,False,False,True,10.0,19.0,23.5,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,43,98.76,3.0,MEDIUM,2.0,True,12,True,False,False,7.0,19.0,22.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,44,95.699,3.0,MEDIUM,3.0,True,21,True,False,False,7.0,18.9,23.7,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,45,93.758,3.0,MEDIUM,4.0,True,1,True,False,False,7.0,19.0,24.0,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,46,92.701,3.0,MEDIUM,5.0,True,1,True,False,False,7.0,19.1,23.8,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,47,91.824,3.0,MEDIUM,6.0,True,1,True,False,False,7.0,19.2,23.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,48,90.751,3.0,MEDIUM,7.0,True,1,True,False,False,7.0,19.2,23.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,49,90.759,3.0,MEDIUM,8.0,True,1,True,False,False,7.0,19.1,23.7,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,50,91.002,3.0,MEDIUM,9.0,True,1,True,False,False,7.0,19.3,24.4,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,51,91.465,3.0,MEDIUM,10.0,True,1,True,False,False,7.0,19.5,24.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,GAS,Alpine,52,91.884,3.0,MEDIUM,11.0,True,1,True,False,False,6.0,19.5,24.6,False,8.0,6.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,1,111.613,1.0,INTERMEDIATE,1.0,True,12,False,False,False,8.0,18.3,24.1,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,2,133.229,1.0,INTERMEDIATE,2.0,True,26,False,True,False,4.0,18.5,24.5,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,3,,2.0,HARD,1.0,True,67,False,False,True,13.0,18.4,24.5,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,4,115.035,2.0,HARD,2.0,True,712,False,False,False,13.0,18.7,24.8,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,5,121.805,2.0,HARD,3.0,True,126,False,False,False,14.0,18.6,24.9,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,6,135.762,2.0,HARD,4.0,True,6,False,False,False,14.0,19.1,25.0,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,7,115.536,2.0,HARD,5.0,True,671,False,False,False,14.0,19.1,24.0,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,8,105.576,2.0,HARD,6.0,True,1,True,False,False,14.0,19.2,24.2,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,9,99.336,2.0,HARD,7.0,True,1,False,True,False,14.0,19.2,24.8,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,10,125.979,3.0,INTERMEDIATE,1.0,True,1,False,False,True,17.0,19.0,24.1,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,11,108.439,3.0,INTERMEDIATE,2.0,True,1,True,False,False,15.0,18.9,23.3,True,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,12,107.009,3.0,INTERMEDIATE,3.0,True,1,True,False,False,15.0,18.7,22.5,True,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,13,118.898,3.0,INTERMEDIATE,4.0,True,124,False,False,False,15.0,18.1,21.0,True,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,14,136.49,3.0,INTERMEDIATE,5.0,True,4,False,False,False,15.0,17.4,20.1,True,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,15,140.841,3.0,INTERMEDIATE,6.0,True,4,False,False,False,15.0,16.7,20.0,True,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,16,,3.0,INTERMEDIATE,7.0,True,4,False,False,False,15.0,16.2,20.5,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,17,,3.0,INTERMEDIATE,8.0,True,41,False,False,False,15.0,16.1,21.3,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,18,133.8,3.0,INTERMEDIATE,9.0,True,124,False,False,False,16.0,16.1,21.7,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,19,,3.0,INTERMEDIATE,10.0,True,4,False,False,False,15.0,16.4,23.9,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,20,,3.0,INTERMEDIATE,11.0,True,4,False,True,False,6.0,16.6,24.3,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,21,,4.0,INTERMEDIATE,1.0,True,41,False,False,True,16.0,16.7,23.4,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,22,115.501,4.0,INTERMEDIATE,2.0,True,12,True,False,False,16.0,16.7,23.1,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ANT,Mercedes,23,116.7,4.0,INTERMEDIATE,3.0,True,1,False,True,False,16.0,17.0,22.9,False,10.0,16.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,1,110.468,1.0,INTERMEDIATE,1.0,True,12,False,False,False,6.0,18.3,24.1,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,2,137.676,1.0,INTERMEDIATE,2.0,True,26,False,False,False,7.0,18.5,24.5,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,3,137.227,1.0,INTERMEDIATE,3.0,True,6,False,False,False,6.0,18.4,24.5,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,4,105.678,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,6.0,18.7,24.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,5,109.536,1.0,INTERMEDIATE,5.0,True,126,False,False,False,6.0,18.6,24.9,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,6,136.643,1.0,INTERMEDIATE,6.0,True,6,False,False,False,6.0,18.8,25.2,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,7,122.063,1.0,INTERMEDIATE,7.0,True,671,False,False,False,6.0,19.1,24.0,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,8,106.42,1.0,INTERMEDIATE,8.0,True,1,True,False,False,6.0,19.2,24.2,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,9,107.569,1.0,INTERMEDIATE,9.0,True,1,True,False,False,6.0,19.2,24.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,10,108.951,1.0,INTERMEDIATE,10.0,True,1,True,False,False,7.0,19.2,24.3,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,11,109.478,1.0,INTERMEDIATE,11.0,True,1,False,True,False,6.0,19.0,24.0,True,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,12,127.516,2.0,INTERMEDIATE,1.0,True,1,False,False,True,10.0,18.7,22.5,True,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,13,122.342,2.0,INTERMEDIATE,2.0,True,124,False,False,False,10.0,18.1,21.0,True,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,14,136.573,2.0,INTERMEDIATE,3.0,True,4,False,False,False,10.0,17.4,20.1,True,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,15,144.268,2.0,INTERMEDIATE,4.0,True,4,False,False,False,10.0,16.7,20.0,True,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,10.0,16.2,20.5,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,10.0,16.0,21.1,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,18,127.029,2.0,INTERMEDIATE,7.0,True,124,False,False,False,10.0,16.1,21.7,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,9.0,16.2,22.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,10.0,16.6,24.3,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,8.0,16.7,23.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,22,110.388,2.0,INTERMEDIATE,11.0,True,12,True,False,False,8.0,16.7,23.1,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,23,106.209,2.0,INTERMEDIATE,12.0,True,1,True,False,False,8.0,17.0,22.9,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,24,104.879,2.0,INTERMEDIATE,13.0,True,1,True,False,False,8.0,17.0,22.9,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,25,104.158,2.0,INTERMEDIATE,14.0,True,1,True,False,False,8.0,17.2,22.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,26,103.977,2.0,INTERMEDIATE,15.0,True,1,True,False,False,8.0,17.1,22.7,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,27,103.527,2.0,INTERMEDIATE,16.0,True,1,True,False,False,8.0,17.1,22.5,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,28,103.779,2.0,INTERMEDIATE,17.0,True,1,True,False,False,8.0,17.4,22.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,29,103.763,2.0,INTERMEDIATE,18.0,True,1,True,False,False,8.0,17.5,22.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,30,104.281,2.0,INTERMEDIATE,19.0,True,1,True,False,False,8.0,17.5,22.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,31,104.625,2.0,INTERMEDIATE,20.0,True,1,True,False,False,8.0,17.7,22.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,32,104.587,2.0,INTERMEDIATE,21.0,True,1,True,False,False,8.0,17.9,23.3,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,33,104.331,2.0,INTERMEDIATE,22.0,True,1,True,False,False,8.0,18.0,23.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,34,104.712,2.0,INTERMEDIATE,23.0,True,1,True,False,False,8.0,18.0,23.5,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,35,103.238,2.0,INTERMEDIATE,24.0,True,1,True,False,False,8.0,18.2,23.2,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,36,102.516,2.0,INTERMEDIATE,25.0,True,1,True,False,False,8.0,18.5,23.2,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,37,100.138,2.0,INTERMEDIATE,26.0,True,1,False,True,False,7.0,18.5,23.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,38,136.801,3.0,MEDIUM,2.0,False,1,False,False,True,15.0,18.5,23.7,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,39,107.666,3.0,MEDIUM,3.0,False,12,True,False,False,15.0,18.7,24.1,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,40,102.659,3.0,MEDIUM,4.0,False,1,True,False,False,15.0,18.8,23.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,41,100.67,3.0,MEDIUM,5.0,False,1,True,False,False,15.0,18.9,23.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,42,99.415,3.0,MEDIUM,6.0,False,12,True,False,False,14.0,18.9,23.2,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,43,97.153,3.0,MEDIUM,7.0,False,12,True,False,False,9.0,19.0,22.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,44,93.635,3.0,MEDIUM,8.0,False,1,True,False,False,8.0,18.9,23.7,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,45,93.119,3.0,MEDIUM,9.0,False,1,True,False,False,8.0,19.0,24.0,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,46,92.4,3.0,MEDIUM,10.0,False,1,True,False,False,8.0,19.1,23.8,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,47,91.386,3.0,MEDIUM,11.0,False,1,True,False,False,8.0,19.2,23.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,48,90.669,3.0,MEDIUM,12.0,False,1,True,False,False,8.0,19.2,23.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,49,90.353,3.0,MEDIUM,13.0,False,1,True,False,False,8.0,19.2,24.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,50,90.943,3.0,MEDIUM,14.0,False,1,True,False,False,8.0,19.3,24.4,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,51,90.578,3.0,MEDIUM,15.0,False,1,True,False,False,8.0,19.5,24.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,ALO,Aston Martin,52,92.745,3.0,MEDIUM,16.0,False,1,True,False,False,9.0,19.5,24.6,False,7.0,9.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,1,131.978,1.0,MEDIUM,1.0,True,126,False,False,True,15.0,18.3,24.1,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,2,137.868,1.0,MEDIUM,2.0,True,6,False,False,False,15.0,18.5,24.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,3,135.872,1.0,MEDIUM,3.0,True,671,False,False,False,15.0,18.5,24.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,4,112.993,1.0,MEDIUM,4.0,True,12,True,False,False,15.0,18.7,24.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,5,118.458,1.0,MEDIUM,5.0,True,126,False,False,False,15.0,18.6,24.9,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,6,137.909,1.0,MEDIUM,6.0,True,6,False,False,False,15.0,19.1,25.0,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,7,112.542,1.0,MEDIUM,7.0,True,671,False,False,False,15.0,19.1,24.0,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,8,104.73,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,19.2,24.2,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,9,100.941,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,19.2,24.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,10,100.092,1.0,MEDIUM,10.0,True,1,False,True,False,13.0,19.0,24.1,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,11,128.576,2.0,INTERMEDIATE,1.0,True,1,False,False,True,14.0,19.0,24.0,True,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,12,108.142,2.0,INTERMEDIATE,2.0,True,1,True,False,False,14.0,18.7,22.5,True,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,13,120.583,2.0,INTERMEDIATE,3.0,True,124,False,False,False,14.0,18.1,21.0,True,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,14,135.37,2.0,INTERMEDIATE,4.0,True,4,False,False,False,14.0,17.4,20.1,True,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,15,142.1,2.0,INTERMEDIATE,5.0,True,4,False,False,False,14.0,16.7,20.0,True,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,16,,2.0,INTERMEDIATE,6.0,True,4,False,False,False,14.0,16.2,20.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,17,,2.0,INTERMEDIATE,7.0,True,41,False,False,False,14.0,16.1,21.3,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,18,130.334,2.0,INTERMEDIATE,8.0,True,124,False,False,False,13.0,16.1,21.7,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,19,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,12.0,16.4,23.9,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,20,,2.0,INTERMEDIATE,10.0,True,4,False,False,False,13.0,16.6,24.3,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,21,,2.0,INTERMEDIATE,11.0,True,41,False,False,False,12.0,16.7,23.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,22,111.791,2.0,INTERMEDIATE,12.0,True,12,True,False,False,12.0,16.7,23.1,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,23,106.291,2.0,INTERMEDIATE,13.0,True,1,True,False,False,12.0,17.0,22.9,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,24,104.821,2.0,INTERMEDIATE,14.0,True,1,True,False,False,12.0,17.0,22.9,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,25,104.251,2.0,INTERMEDIATE,15.0,True,1,True,False,False,12.0,17.2,22.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,26,104.13,2.0,INTERMEDIATE,16.0,True,1,True,False,False,12.0,17.2,22.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,27,103.878,2.0,INTERMEDIATE,17.0,True,1,True,False,False,12.0,17.1,22.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,28,104.728,2.0,INTERMEDIATE,18.0,True,1,True,False,False,12.0,17.4,22.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,29,104.472,2.0,INTERMEDIATE,19.0,True,1,True,False,False,12.0,17.5,22.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,30,104.511,2.0,INTERMEDIATE,20.0,True,1,True,False,False,12.0,17.5,22.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,31,104.832,2.0,INTERMEDIATE,21.0,True,1,True,False,False,12.0,17.7,22.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,32,105.187,2.0,INTERMEDIATE,22.0,True,1,True,False,False,12.0,17.9,23.3,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,33,104.096,2.0,INTERMEDIATE,23.0,True,1,True,False,False,12.0,18.0,23.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,34,104.024,2.0,INTERMEDIATE,24.0,True,1,True,False,False,12.0,18.0,23.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,35,103.415,2.0,INTERMEDIATE,25.0,True,1,True,False,False,11.0,18.2,23.2,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,36,102.957,2.0,INTERMEDIATE,26.0,True,1,True,False,False,11.0,18.5,23.2,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,37,102.994,2.0,INTERMEDIATE,27.0,True,1,True,False,False,11.0,18.5,23.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,38,102.457,2.0,INTERMEDIATE,28.0,True,1,True,False,False,10.0,18.5,23.7,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,39,101.051,2.0,INTERMEDIATE,29.0,True,12,True,False,False,8.0,18.7,24.1,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,40,99.633,2.0,INTERMEDIATE,30.0,True,1,True,False,False,8.0,18.8,23.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,41,99.616,2.0,INTERMEDIATE,31.0,True,1,True,False,False,8.0,18.9,23.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,42,102.92,2.0,INTERMEDIATE,32.0,True,12,False,True,False,4.0,19.0,23.5,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,43,141.05,3.0,SOFT,4.0,False,12,False,False,True,14.0,19.0,22.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,44,99.076,3.0,SOFT,5.0,False,1,True,False,False,14.0,18.9,23.7,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,45,93.731,3.0,SOFT,6.0,False,1,True,False,False,14.0,19.1,24.0,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,46,91.961,3.0,SOFT,7.0,False,1,True,False,False,14.0,19.1,23.8,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,47,91.557,3.0,SOFT,8.0,False,1,True,False,False,14.0,19.2,23.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,48,91.274,3.0,SOFT,9.0,False,1,True,False,False,14.0,19.2,23.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,49,91.17,3.0,SOFT,10.0,False,1,True,False,False,14.0,19.2,24.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,50,90.819,3.0,SOFT,11.0,False,1,True,False,False,14.0,19.3,24.4,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,51,91.24,3.0,SOFT,12.0,False,1,True,False,False,14.0,19.5,24.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,LEC,Ferrari,52,91.629,3.0,SOFT,13.0,False,1,True,False,False,14.0,19.5,24.6,False,6.0,14.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,1,114.213,1.0,INTERMEDIATE,1.0,True,12,False,False,False,12.0,18.3,24.1,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,2,139.999,1.0,INTERMEDIATE,2.0,True,26,False,False,False,12.0,18.5,24.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,3,135.927,1.0,INTERMEDIATE,3.0,True,67,False,False,False,11.0,18.5,24.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,4,106.197,1.0,INTERMEDIATE,4.0,True,712,False,False,False,11.0,18.7,24.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,5,111.895,1.0,INTERMEDIATE,5.0,True,126,False,False,False,11.0,18.6,24.9,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,6,131.987,1.0,INTERMEDIATE,6.0,True,6,False,True,False,8.0,18.8,25.2,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,7,131.823,2.0,SOFT,1.0,True,671,False,False,True,12.0,19.1,24.0,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,8,103.353,2.0,SOFT,2.0,True,1,True,False,False,12.0,19.2,24.2,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,9,104.912,2.0,SOFT,3.0,True,1,True,False,False,11.0,19.2,24.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,10,100.708,2.0,SOFT,4.0,True,1,False,True,False,5.0,19.2,24.3,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,11,126.264,3.0,INTERMEDIATE,1.0,True,1,False,False,True,11.0,19.0,24.0,True,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,12,107.154,3.0,INTERMEDIATE,2.0,True,1,True,False,False,5.0,18.7,22.5,True,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,13,112.134,3.0,INTERMEDIATE,3.0,True,124,False,False,False,4.0,18.1,21.0,True,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,14,138.76,3.0,INTERMEDIATE,4.0,True,4,False,False,False,4.0,17.4,20.1,True,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,15,,3.0,INTERMEDIATE,5.0,True,4,False,False,False,4.0,16.7,20.0,True,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,16,,3.0,INTERMEDIATE,6.0,True,4,False,False,False,4.0,16.2,20.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,17,,3.0,INTERMEDIATE,7.0,True,41,False,False,False,4.0,16.0,21.1,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,18,120.917,3.0,INTERMEDIATE,8.0,True,124,False,False,False,4.0,16.1,21.7,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,19,,3.0,INTERMEDIATE,9.0,True,4,False,False,False,4.0,16.2,22.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,20,,3.0,INTERMEDIATE,10.0,True,4,False,False,False,4.0,16.6,24.3,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,21,,3.0,INTERMEDIATE,11.0,True,41,False,False,False,3.0,16.7,23.4,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,22,108.945,3.0,INTERMEDIATE,12.0,True,12,True,False,False,3.0,16.7,23.1,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,23,104.958,3.0,INTERMEDIATE,13.0,True,1,True,False,False,3.0,17.0,22.9,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,24,103.673,3.0,INTERMEDIATE,14.0,True,1,True,False,False,3.0,17.0,22.9,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,25,103.667,3.0,INTERMEDIATE,15.0,True,1,True,False,False,3.0,17.2,22.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,26,103.525,3.0,INTERMEDIATE,16.0,True,1,True,False,False,3.0,17.1,22.7,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,27,103.329,3.0,INTERMEDIATE,17.0,True,1,True,False,False,3.0,17.1,22.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,28,103.656,3.0,INTERMEDIATE,18.0,True,1,True,False,False,3.0,17.4,22.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,29,103.467,3.0,INTERMEDIATE,19.0,True,1,True,False,False,3.0,17.5,22.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,30,104.094,3.0,INTERMEDIATE,20.0,True,1,True,False,False,3.0,17.5,22.4,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,31,104.096,3.0,INTERMEDIATE,21.0,True,1,True,False,False,3.0,17.7,22.4,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,32,104.277,3.0,INTERMEDIATE,22.0,True,1,True,False,False,3.0,17.9,23.3,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,33,103.803,3.0,INTERMEDIATE,23.0,True,1,True,False,False,3.0,17.9,23.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,34,104.881,3.0,INTERMEDIATE,24.0,True,1,True,False,False,4.0,18.0,23.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,35,105.225,3.0,INTERMEDIATE,25.0,True,1,True,False,False,5.0,18.2,23.2,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,36,103.139,3.0,INTERMEDIATE,26.0,True,1,True,False,False,5.0,18.5,23.2,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,37,102.74,3.0,INTERMEDIATE,27.0,True,1,True,False,False,5.0,18.5,23.2,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,38,102.379,3.0,INTERMEDIATE,28.0,True,1,True,False,False,5.0,18.5,23.7,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,39,101.939,3.0,INTERMEDIATE,29.0,True,12,True,False,False,5.0,18.7,24.1,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,40,102.308,3.0,INTERMEDIATE,30.0,True,21,True,False,False,5.0,18.8,23.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,41,100.951,3.0,INTERMEDIATE,31.0,True,1,False,True,False,5.0,18.9,23.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,42,124.425,4.0,SOFT,1.0,True,12,False,False,True,8.0,19.0,23.5,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,43,96.611,4.0,SOFT,2.0,True,12,True,False,False,5.0,19.0,22.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,44,97.279,4.0,SOFT,3.0,True,12,True,False,False,5.0,18.9,23.7,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,45,94.035,4.0,SOFT,4.0,True,1,True,False,False,5.0,19.0,24.0,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,46,93.059,4.0,SOFT,5.0,True,1,True,False,False,5.0,19.1,23.8,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,47,92.273,4.0,SOFT,6.0,True,1,True,False,False,5.0,19.2,23.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,48,92.132,4.0,SOFT,7.0,True,1,True,False,False,5.0,19.2,23.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,49,93.17,4.0,SOFT,8.0,True,1,True,False,False,5.0,19.1,23.7,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,50,92.088,4.0,SOFT,9.0,True,1,True,False,False,5.0,19.3,24.4,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,51,93.653,4.0,SOFT,10.0,True,1,True,False,False,6.0,19.4,24.4,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,STR,Aston Martin,52,93.247,4.0,SOFT,11.0,True,1,True,False,False,7.0,19.5,24.6,False,17.0,7.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,1,112.897,1.0,INTERMEDIATE,1.0,True,12,False,False,False,10.0,18.3,24.1,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,2,138.902,1.0,INTERMEDIATE,2.0,True,26,False,False,False,10.0,18.5,24.5,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,3,136.524,1.0,INTERMEDIATE,3.0,True,67,False,False,False,9.0,18.5,24.8,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,4,106.058,1.0,INTERMEDIATE,4.0,True,712,False,False,False,9.0,18.7,24.8,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,5,111.106,1.0,INTERMEDIATE,5.0,True,126,False,False,False,9.0,18.6,24.9,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,6,135.867,1.0,INTERMEDIATE,6.0,True,6,False,False,False,10.0,18.8,25.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,7,122.043,1.0,INTERMEDIATE,7.0,True,671,False,False,False,9.0,19.1,24.0,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,8,106.957,1.0,INTERMEDIATE,8.0,True,1,True,False,False,9.0,19.2,24.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,9,109.0,1.0,INTERMEDIATE,9.0,True,1,True,False,False,10.0,19.2,24.8,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,10,110.083,1.0,INTERMEDIATE,10.0,True,1,True,False,False,11.0,19.2,24.3,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,11,111.245,1.0,INTERMEDIATE,11.0,True,1,False,True,False,9.0,19.0,24.0,True,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,12,128.361,2.0,INTERMEDIATE,1.0,True,1,False,False,True,13.0,18.7,22.5,True,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,13,119.762,2.0,INTERMEDIATE,2.0,True,124,False,False,False,13.0,18.1,21.0,True,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,14,133.549,2.0,INTERMEDIATE,3.0,True,4,False,False,False,13.0,17.4,20.1,True,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,15,144.454,2.0,INTERMEDIATE,4.0,True,4,False,False,False,13.0,16.7,20.0,True,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,13.0,16.2,20.5,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,13.0,16.1,21.3,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,18,132.762,2.0,INTERMEDIATE,7.0,True,124,False,False,False,14.0,16.1,21.7,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,13.0,16.4,23.9,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,14.0,16.6,24.3,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,13.0,16.7,23.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,22,114.618,2.0,INTERMEDIATE,11.0,True,12,True,False,False,14.0,16.7,23.1,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,23,107.784,2.0,INTERMEDIATE,12.0,True,1,True,False,False,14.0,17.0,22.9,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,24,105.467,2.0,INTERMEDIATE,13.0,True,1,True,False,False,14.0,17.0,22.9,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,25,104.662,2.0,INTERMEDIATE,14.0,True,1,True,False,False,14.0,17.2,22.8,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,26,106.003,2.0,INTERMEDIATE,15.0,True,1,True,False,False,15.0,17.2,22.5,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,27,104.288,2.0,INTERMEDIATE,16.0,True,1,True,False,False,15.0,17.1,22.5,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,28,105.522,2.0,INTERMEDIATE,17.0,True,1,True,False,False,15.0,17.4,22.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,29,104.551,2.0,INTERMEDIATE,18.0,True,1,True,False,False,15.0,17.5,22.8,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,30,104.388,2.0,INTERMEDIATE,19.0,True,1,True,False,False,15.0,17.6,22.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,31,104.794,2.0,INTERMEDIATE,20.0,True,1,True,False,False,15.0,17.7,22.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,32,104.939,2.0,INTERMEDIATE,21.0,True,1,True,False,False,15.0,17.9,23.3,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,33,105.663,2.0,INTERMEDIATE,22.0,True,1,True,False,False,15.0,18.0,23.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,34,105.52,2.0,INTERMEDIATE,23.0,True,1,True,False,False,15.0,18.0,23.3,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,35,105.239,2.0,INTERMEDIATE,24.0,True,1,True,False,False,15.0,18.2,23.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,36,104.526,2.0,INTERMEDIATE,25.0,True,1,True,False,False,15.0,18.5,23.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,37,104.616,2.0,INTERMEDIATE,26.0,True,1,True,False,False,15.0,18.5,23.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,38,104.811,2.0,INTERMEDIATE,27.0,True,1,True,False,False,14.0,18.6,24.5,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,39,104.802,2.0,INTERMEDIATE,28.0,True,12,True,False,False,13.0,18.7,24.1,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,40,104.432,2.0,INTERMEDIATE,29.0,True,1,True,False,False,13.0,18.8,23.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,41,103.258,2.0,INTERMEDIATE,30.0,True,1,False,True,False,13.0,18.9,23.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,42,144.066,3.0,MEDIUM,1.0,True,12,False,False,True,15.0,18.9,23.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,43,101.64,3.0,MEDIUM,2.0,True,21,True,False,False,15.0,19.0,23.2,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,44,98.597,3.0,MEDIUM,3.0,True,1,True,False,False,15.0,19.0,24.0,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,45,95.637,3.0,MEDIUM,4.0,True,1,True,False,False,15.0,19.1,24.0,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,46,94.49,3.0,MEDIUM,5.0,True,1,True,False,False,15.0,19.2,23.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,47,92.976,3.0,MEDIUM,6.0,True,1,True,False,False,15.0,19.2,23.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,48,91.665,3.0,MEDIUM,7.0,True,1,True,False,False,15.0,19.1,23.7,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,49,90.873,3.0,MEDIUM,8.0,True,1,True,False,False,15.0,19.3,24.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,50,91.649,3.0,MEDIUM,9.0,True,1,True,False,False,15.0,19.4,24.4,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,TSU,Red Bull Racing,51,91.565,3.0,MEDIUM,10.0,True,1,True,False,False,15.0,19.5,24.6,False,11.0,15.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,1,112.18,1.0,INTERMEDIATE,1.0,True,12,False,False,False,9.0,18.3,24.1,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,2,138.765,1.0,INTERMEDIATE,2.0,True,26,False,False,False,9.0,18.5,24.5,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,3,136.656,1.0,INTERMEDIATE,3.0,True,6,False,False,False,8.0,18.5,24.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,4,105.774,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,8.0,18.7,24.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,5,110.861,1.0,INTERMEDIATE,5.0,True,126,False,False,False,8.0,18.6,24.9,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,6,136.208,1.0,INTERMEDIATE,6.0,True,6,False,False,False,9.0,18.8,25.2,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,7,121.594,1.0,INTERMEDIATE,7.0,True,671,False,False,False,8.0,19.1,24.0,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,8,106.496,1.0,INTERMEDIATE,8.0,True,1,True,False,False,8.0,19.2,24.2,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,9,108.888,1.0,INTERMEDIATE,9.0,True,1,True,False,False,9.0,19.2,24.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,10,109.218,1.0,INTERMEDIATE,10.0,True,1,True,False,False,9.0,19.2,24.3,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,11,111.991,1.0,INTERMEDIATE,11.0,True,1,True,False,False,8.0,19.0,24.0,True,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,12,109.68,1.0,INTERMEDIATE,12.0,True,1,False,True,False,3.0,18.7,22.5,True,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,13,138.76,2.0,INTERMEDIATE,1.0,True,124,False,False,True,12.0,18.1,21.0,True,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,14,133.691,2.0,INTERMEDIATE,2.0,True,4,False,False,False,12.0,17.4,20.1,True,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,15,144.808,2.0,INTERMEDIATE,3.0,True,4,False,False,False,12.0,16.7,20.0,True,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,16,,2.0,INTERMEDIATE,4.0,True,4,False,False,False,12.0,16.2,20.5,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,17,,2.0,INTERMEDIATE,5.0,True,41,False,False,False,12.0,16.0,21.1,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,18,128.671,2.0,INTERMEDIATE,6.0,True,124,False,False,False,12.0,16.1,21.7,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,19,,2.0,INTERMEDIATE,7.0,True,4,False,False,False,11.0,16.2,22.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,20,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,12.0,16.6,24.3,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,21,,2.0,INTERMEDIATE,9.0,True,41,False,False,False,11.0,16.7,23.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,22,111.437,2.0,INTERMEDIATE,10.0,True,12,True,False,False,11.0,16.7,23.1,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,23,106.294,2.0,INTERMEDIATE,11.0,True,1,True,False,False,11.0,17.0,22.9,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,24,104.946,2.0,INTERMEDIATE,12.0,True,1,True,False,False,11.0,17.0,22.9,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,25,104.01,2.0,INTERMEDIATE,13.0,True,1,True,False,False,11.0,17.2,22.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,26,104.357,2.0,INTERMEDIATE,14.0,True,1,True,False,False,11.0,17.1,22.7,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,27,104.082,2.0,INTERMEDIATE,15.0,True,1,True,False,False,11.0,17.1,22.5,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,28,104.367,2.0,INTERMEDIATE,16.0,True,1,True,False,False,11.0,17.4,22.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,29,104.591,2.0,INTERMEDIATE,17.0,True,1,True,False,False,11.0,17.5,22.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,30,104.618,2.0,INTERMEDIATE,18.0,True,1,True,False,False,11.0,17.5,22.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,31,104.761,2.0,INTERMEDIATE,19.0,True,1,True,False,False,11.0,17.7,22.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,32,105.126,2.0,INTERMEDIATE,20.0,True,1,True,False,False,11.0,17.9,23.3,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,33,104.063,2.0,INTERMEDIATE,21.0,True,1,True,False,False,11.0,18.0,23.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,34,104.29,2.0,INTERMEDIATE,22.0,True,1,True,False,False,11.0,18.0,23.5,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,35,105.664,2.0,INTERMEDIATE,23.0,True,1,True,False,False,12.0,18.2,23.2,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,36,102.965,2.0,INTERMEDIATE,24.0,True,1,True,False,False,12.0,18.5,23.2,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,37,102.684,2.0,INTERMEDIATE,25.0,True,1,True,False,False,12.0,18.5,23.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,38,102.667,2.0,INTERMEDIATE,26.0,True,1,True,False,False,11.0,18.5,23.7,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,39,102.701,2.0,INTERMEDIATE,27.0,True,12,True,False,False,10.0,18.7,24.1,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,40,102.225,2.0,INTERMEDIATE,28.0,True,1,True,False,False,10.0,18.8,23.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,41,101.5,2.0,INTERMEDIATE,29.0,True,1,True,False,False,11.0,18.9,23.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,42,99.22,2.0,INTERMEDIATE,30.0,True,12,False,True,False,5.0,19.0,23.5,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,43,124.165,3.0,MEDIUM,1.0,True,12,False,False,True,8.0,19.0,22.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,44,95.273,3.0,MEDIUM,2.0,True,1,True,False,False,9.0,18.9,23.7,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,45,94.663,3.0,MEDIUM,3.0,True,1,True,False,False,9.0,19.0,24.0,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,46,92.681,3.0,MEDIUM,4.0,True,1,True,False,False,9.0,19.1,23.8,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,47,91.309,3.0,MEDIUM,5.0,True,1,True,False,False,9.0,19.2,23.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,48,90.327,3.0,MEDIUM,6.0,True,1,True,False,False,9.0,19.2,23.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,49,90.148,3.0,MEDIUM,7.0,True,1,True,False,False,9.0,19.2,24.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,50,90.047,3.0,MEDIUM,8.0,True,1,True,False,False,9.0,19.3,24.4,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,51,90.12,3.0,MEDIUM,9.0,True,1,True,False,False,9.0,19.5,24.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,ALB,Williams,52,90.452,3.0,MEDIUM,10.0,True,1,True,False,False,8.0,19.5,24.6,False,13.0,8.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,1,113.433,1.0,INTERMEDIATE,1.0,True,12,False,False,False,11.0,18.3,24.1,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,2,139.63,1.0,INTERMEDIATE,2.0,True,26,False,False,False,11.0,18.5,24.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,3,135.863,1.0,INTERMEDIATE,3.0,True,67,False,False,False,10.0,18.5,24.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,4,106.563,1.0,INTERMEDIATE,4.0,True,712,False,False,False,10.0,18.7,24.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,5,111.575,1.0,INTERMEDIATE,5.0,True,126,False,False,False,10.0,18.6,24.9,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,6,136.14,1.0,INTERMEDIATE,6.0,True,6,False,False,False,11.0,18.8,25.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,7,121.737,1.0,INTERMEDIATE,7.0,True,671,False,False,False,10.0,19.1,24.0,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,8,106.517,1.0,INTERMEDIATE,8.0,True,1,True,False,False,10.0,19.2,24.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,9,105.879,1.0,INTERMEDIATE,9.0,True,1,False,True,False,8.0,19.2,24.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,10,124.672,2.0,INTERMEDIATE,1.0,True,1,False,False,True,16.0,19.2,24.3,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,11,105.789,2.0,INTERMEDIATE,2.0,True,1,True,False,False,12.0,19.0,24.0,True,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,12,107.347,2.0,INTERMEDIATE,3.0,True,1,True,False,False,6.0,18.7,22.5,True,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,13,113.815,2.0,INTERMEDIATE,4.0,True,124,False,False,False,5.0,18.1,21.0,True,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,14,138.607,2.0,INTERMEDIATE,5.0,True,4,False,False,False,5.0,17.4,20.1,True,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,15,,2.0,INTERMEDIATE,6.0,True,4,False,False,False,5.0,16.7,20.0,True,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,16,,2.0,INTERMEDIATE,7.0,True,4,False,False,False,5.0,16.2,20.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,17,,2.0,INTERMEDIATE,8.0,True,41,False,False,False,5.0,16.0,21.1,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,18,124.183,2.0,INTERMEDIATE,9.0,True,124,False,False,False,5.0,16.1,21.7,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,19,,2.0,INTERMEDIATE,10.0,True,4,False,False,False,5.0,16.2,22.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,20,,2.0,INTERMEDIATE,11.0,True,4,False,False,False,5.0,16.6,24.3,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,21,,2.0,INTERMEDIATE,12.0,True,41,False,False,False,4.0,16.7,23.4,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,22,109.15,2.0,INTERMEDIATE,13.0,True,12,True,False,False,4.0,16.7,23.1,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,23,105.226,2.0,INTERMEDIATE,14.0,True,1,True,False,False,4.0,17.0,22.9,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,24,103.475,2.0,INTERMEDIATE,15.0,True,1,True,False,False,4.0,17.0,22.9,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,25,103.716,2.0,INTERMEDIATE,16.0,True,1,True,False,False,4.0,17.2,22.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,26,103.905,2.0,INTERMEDIATE,17.0,True,1,True,False,False,4.0,17.1,22.7,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,27,103.748,2.0,INTERMEDIATE,18.0,True,1,True,False,False,4.0,17.1,22.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,28,103.414,2.0,INTERMEDIATE,19.0,True,1,True,False,False,4.0,17.4,22.6,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,29,103.643,2.0,INTERMEDIATE,20.0,True,1,True,False,False,4.0,17.5,22.8,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,30,103.379,2.0,INTERMEDIATE,21.0,True,1,True,False,False,4.0,17.5,22.4,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,31,103.832,2.0,INTERMEDIATE,22.0,True,1,True,False,False,4.0,17.7,22.4,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,32,103.946,2.0,INTERMEDIATE,23.0,True,1,True,False,False,4.0,17.9,23.3,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,33,103.882,2.0,INTERMEDIATE,24.0,True,1,True,False,False,4.0,17.9,23.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,34,103.089,2.0,INTERMEDIATE,25.0,True,1,True,False,False,3.0,18.0,23.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,35,101.463,2.0,INTERMEDIATE,26.0,True,1,True,False,False,3.0,18.2,23.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,36,101.519,2.0,INTERMEDIATE,27.0,True,1,True,False,False,3.0,18.5,23.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,37,101.009,2.0,INTERMEDIATE,28.0,True,1,True,False,False,3.0,18.5,23.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,38,101.023,2.0,INTERMEDIATE,29.0,True,1,True,False,False,3.0,18.5,23.7,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,39,100.101,2.0,INTERMEDIATE,30.0,True,1,True,False,False,3.0,18.7,24.1,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,40,100.096,2.0,INTERMEDIATE,31.0,True,12,True,False,False,3.0,18.7,23.7,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,41,100.716,2.0,INTERMEDIATE,32.0,True,1,True,False,False,3.0,18.9,23.6,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,42,98.912,2.0,INTERMEDIATE,33.0,True,1,False,True,False,3.0,19.0,23.5,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,43,121.259,3.0,MEDIUM,1.0,True,12,False,False,True,3.0,18.9,23.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,44,95.665,3.0,MEDIUM,2.0,True,12,True,False,False,3.0,19.0,23.2,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,45,93.473,3.0,MEDIUM,3.0,True,1,True,False,False,3.0,19.0,24.0,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,46,92.695,3.0,MEDIUM,4.0,True,1,True,False,False,3.0,19.1,24.0,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,47,91.93,3.0,MEDIUM,5.0,True,1,True,False,False,3.0,19.2,23.6,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,48,91.468,3.0,MEDIUM,6.0,True,1,True,False,False,3.0,19.2,23.6,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,49,91.081,3.0,MEDIUM,7.0,True,1,True,False,False,3.0,19.1,23.7,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,50,90.983,3.0,MEDIUM,8.0,True,1,True,False,False,3.0,19.3,24.4,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,51,90.933,3.0,MEDIUM,9.0,True,1,True,False,False,3.0,19.4,24.4,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,HUL,Kick Sauber,52,91.705,3.0,MEDIUM,10.0,True,1,True,False,False,3.0,19.5,24.6,False,19.0,3.0
+2025,12,British Grand Prix,Silverstone,52,LAW,Racing Bulls,1,,1.0,INTERMEDIATE,1.0,True,12,False,False,False,,18.3,24.1,False,15.0,19.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,1,114.646,1.0,INTERMEDIATE,1.0,True,12,False,False,False,13.0,18.3,24.1,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,2,140.933,1.0,INTERMEDIATE,2.0,True,26,False,False,False,13.0,18.5,24.5,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,3,135.573,1.0,INTERMEDIATE,3.0,True,67,False,False,False,12.0,18.5,24.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,4,106.266,1.0,INTERMEDIATE,4.0,True,712,False,False,False,12.0,18.7,24.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,5,112.165,1.0,INTERMEDIATE,5.0,True,126,False,False,False,12.0,18.6,24.9,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,6,135.737,1.0,INTERMEDIATE,6.0,True,6,False,False,False,12.0,18.8,25.2,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,7,121.435,1.0,INTERMEDIATE,7.0,True,671,False,False,False,11.0,19.1,24.0,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,8,107.293,1.0,INTERMEDIATE,8.0,True,1,True,False,False,11.0,19.2,24.2,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,9,109.361,1.0,INTERMEDIATE,9.0,True,1,True,False,False,12.0,19.2,24.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,10,109.77,1.0,INTERMEDIATE,10.0,True,1,True,False,False,12.0,19.2,24.3,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,11,111.866,1.0,INTERMEDIATE,11.0,True,1,True,False,False,10.0,19.0,24.0,True,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,12,110.786,1.0,INTERMEDIATE,12.0,True,1,True,False,False,7.0,18.7,22.5,True,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,13,120.169,1.0,INTERMEDIATE,13.0,True,124,False,False,False,7.0,18.1,21.0,True,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,14,136.497,1.0,INTERMEDIATE,14.0,True,4,False,False,False,7.0,17.4,20.1,True,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,15,147.377,1.0,INTERMEDIATE,15.0,True,4,False,False,False,7.0,16.7,20.0,True,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,16,,1.0,INTERMEDIATE,16.0,True,4,False,False,False,7.0,16.2,20.5,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,17,,1.0,INTERMEDIATE,17.0,True,41,False,False,False,7.0,16.0,21.1,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,18,123.452,1.0,INTERMEDIATE,18.0,True,124,False,True,False,6.0,16.1,21.7,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,19,,2.0,INTERMEDIATE,1.0,True,4,False,False,True,16.0,16.2,22.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,20,,2.0,INTERMEDIATE,2.0,True,4,False,False,False,16.0,16.6,24.3,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,21,,2.0,INTERMEDIATE,3.0,True,41,False,False,False,15.0,16.7,23.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,22,112.94,2.0,INTERMEDIATE,4.0,True,12,True,False,False,13.0,16.7,23.1,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,23,105.993,2.0,INTERMEDIATE,5.0,True,1,True,False,False,13.0,17.0,22.9,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,24,104.602,2.0,INTERMEDIATE,6.0,True,1,True,False,False,13.0,17.0,22.9,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,25,104.235,2.0,INTERMEDIATE,7.0,True,1,True,False,False,13.0,17.2,22.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,26,104.236,2.0,INTERMEDIATE,8.0,True,1,True,False,False,13.0,17.2,22.5,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,27,103.925,2.0,INTERMEDIATE,9.0,True,1,True,False,False,13.0,17.1,22.5,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,28,104.874,2.0,INTERMEDIATE,10.0,True,1,True,False,False,13.0,17.4,22.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,29,105.498,2.0,INTERMEDIATE,11.0,True,1,True,False,False,13.0,17.5,22.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,30,106.803,2.0,INTERMEDIATE,12.0,True,1,True,False,False,14.0,17.6,22.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,31,104.509,2.0,INTERMEDIATE,13.0,True,1,True,False,False,14.0,17.7,22.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,32,103.911,2.0,INTERMEDIATE,14.0,True,1,True,False,False,14.0,17.9,23.3,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,33,103.97,2.0,INTERMEDIATE,15.0,True,1,True,False,False,14.0,18.0,23.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,34,104.039,2.0,INTERMEDIATE,16.0,True,1,True,False,False,14.0,18.0,23.3,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,35,103.436,2.0,INTERMEDIATE,17.0,True,1,True,False,False,14.0,18.2,23.2,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,36,102.888,2.0,INTERMEDIATE,18.0,True,1,True,False,False,14.0,18.5,23.2,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,37,102.966,2.0,INTERMEDIATE,19.0,True,1,True,False,False,14.0,18.5,23.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,38,102.672,2.0,INTERMEDIATE,20.0,True,1,True,False,False,13.0,18.5,23.7,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,39,102.059,2.0,INTERMEDIATE,21.0,True,12,True,False,False,12.0,18.7,24.1,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,40,101.975,2.0,INTERMEDIATE,22.0,True,1,True,False,False,12.0,18.8,23.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,41,102.031,2.0,INTERMEDIATE,23.0,True,1,True,False,False,12.0,18.9,23.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,42,99.944,2.0,INTERMEDIATE,24.0,True,12,False,True,False,7.0,19.0,23.5,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,43,132.286,3.0,MEDIUM,1.0,True,12,False,False,True,13.0,19.0,22.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,44,96.001,3.0,MEDIUM,2.0,True,1,True,False,False,13.0,18.9,23.7,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,45,92.673,3.0,MEDIUM,3.0,True,1,True,False,False,13.0,19.1,24.0,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,46,92.56,3.0,MEDIUM,4.0,True,1,True,False,False,13.0,19.1,23.8,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,47,91.422,3.0,MEDIUM,5.0,True,1,True,False,False,13.0,19.2,23.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,48,90.823,3.0,MEDIUM,6.0,True,1,True,False,False,13.0,19.2,23.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,49,90.948,3.0,MEDIUM,7.0,True,1,True,False,False,13.0,19.2,24.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,50,91.216,3.0,MEDIUM,8.0,True,1,True,False,False,13.0,19.3,24.4,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,51,91.029,3.0,MEDIUM,9.0,True,1,True,False,False,13.0,19.5,24.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,OCO,Haas F1 Team,52,90.818,3.0,MEDIUM,10.0,True,1,True,False,False,13.0,19.5,24.6,False,14.0,13.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,1,108.196,1.0,INTERMEDIATE,1.0,True,12,False,False,False,3.0,18.3,24.1,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,2,136.245,1.0,INTERMEDIATE,2.0,True,26,False,False,False,3.0,18.5,24.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,3,137.443,1.0,INTERMEDIATE,3.0,True,6,False,False,False,3.0,18.4,24.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,4,105.751,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,3.0,18.7,24.8,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,5,105.033,1.0,INTERMEDIATE,5.0,True,126,False,False,False,3.0,18.6,24.9,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,6,139.233,1.0,INTERMEDIATE,6.0,True,6,False,False,False,3.0,18.8,25.2,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,7,123.224,1.0,INTERMEDIATE,7.0,True,671,False,False,False,3.0,19.1,24.0,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,8,104.869,1.0,INTERMEDIATE,8.0,True,1,True,False,False,3.0,19.2,24.2,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,9,105.595,1.0,INTERMEDIATE,9.0,True,1,True,False,False,3.0,19.2,24.8,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,10,105.857,1.0,INTERMEDIATE,10.0,True,1,True,False,False,3.0,19.2,24.3,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,11,107.735,1.0,INTERMEDIATE,11.0,True,1,False,True,False,2.0,19.0,24.0,True,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,12,130.451,2.0,INTERMEDIATE,1.0,True,1,False,False,True,4.0,18.7,22.5,True,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,13,109.605,2.0,INTERMEDIATE,2.0,True,12,True,False,False,3.0,18.1,21.0,True,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,14,138.86,2.0,INTERMEDIATE,3.0,True,14,False,False,False,3.0,17.4,20.1,True,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,15,,2.0,INTERMEDIATE,4.0,True,4,False,False,False,3.0,16.7,20.0,True,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,3.0,16.2,20.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,3.0,16.0,21.1,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,18,119.824,2.0,INTERMEDIATE,7.0,True,124,False,False,False,3.0,16.1,21.7,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,3.0,16.2,22.8,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,3.0,16.6,24.3,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,2.0,16.7,23.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,22,105.339,2.0,INTERMEDIATE,11.0,True,12,True,False,False,2.0,16.7,23.1,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,23,102.383,2.0,INTERMEDIATE,12.0,True,1,True,False,False,2.0,17.0,22.9,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,24,101.834,2.0,INTERMEDIATE,13.0,True,1,True,False,False,2.0,17.0,22.9,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,25,102.017,2.0,INTERMEDIATE,14.0,True,1,True,False,False,2.0,17.1,22.9,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,26,102.004,2.0,INTERMEDIATE,15.0,True,1,True,False,False,2.0,17.1,22.7,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,27,102.096,2.0,INTERMEDIATE,16.0,True,1,True,False,False,2.0,17.1,22.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,28,102.362,2.0,INTERMEDIATE,17.0,True,1,True,False,False,2.0,17.4,22.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,29,102.634,2.0,INTERMEDIATE,18.0,True,1,True,False,False,2.0,17.4,22.8,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,30,102.403,2.0,INTERMEDIATE,19.0,True,1,True,False,False,2.0,17.5,22.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,31,102.087,2.0,INTERMEDIATE,20.0,True,1,True,False,False,2.0,17.7,22.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,32,101.925,2.0,INTERMEDIATE,21.0,True,1,True,False,False,2.0,17.7,23.0,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,33,101.411,2.0,INTERMEDIATE,22.0,True,1,True,False,False,2.0,17.9,23.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,34,101.136,2.0,INTERMEDIATE,23.0,True,1,True,False,False,2.0,18.0,23.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,35,101.103,2.0,INTERMEDIATE,24.0,True,1,True,False,False,2.0,18.0,23.3,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,36,100.71,2.0,INTERMEDIATE,25.0,True,1,True,False,False,2.0,18.3,23.3,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,37,100.803,2.0,INTERMEDIATE,26.0,True,1,True,False,False,2.0,18.5,23.2,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,38,99.668,2.0,INTERMEDIATE,27.0,True,1,True,False,False,2.0,18.5,23.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,39,99.55,2.0,INTERMEDIATE,28.0,True,1,True,False,False,2.0,18.6,24.5,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,40,99.286,2.0,INTERMEDIATE,29.0,True,12,True,False,False,2.0,18.7,23.7,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,41,99.297,2.0,INTERMEDIATE,30.0,True,1,True,False,False,2.0,18.8,23.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,42,98.778,2.0,INTERMEDIATE,31.0,True,1,True,False,False,2.0,18.9,23.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,43,99.005,2.0,INTERMEDIATE,32.0,True,12,True,False,False,2.0,18.9,23.2,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,44,98.903,2.0,INTERMEDIATE,33.0,True,12,False,True,False,1.0,19.0,22.8,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,45,117.948,3.0,MEDIUM,1.0,True,1,False,False,True,1.0,18.9,23.7,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,46,91.777,3.0,MEDIUM,2.0,True,1,True,False,False,1.0,19.1,24.0,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,47,90.035,3.0,MEDIUM,3.0,True,1,True,False,False,1.0,19.2,23.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,48,89.734,3.0,MEDIUM,4.0,True,1,True,False,False,1.0,19.2,23.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,49,90.235,3.0,MEDIUM,5.0,True,1,True,False,False,1.0,19.1,23.7,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,50,89.921,3.0,MEDIUM,6.0,True,1,True,False,False,1.0,19.2,24.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,51,90.269,3.0,MEDIUM,7.0,True,1,True,False,False,1.0,19.4,24.4,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,NOR,McLaren,52,90.69,3.0,MEDIUM,8.0,True,1,True,False,False,1.0,19.5,24.6,False,3.0,1.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,1,108.827,1.0,INTERMEDIATE,1.0,True,12,False,False,False,4.0,18.3,24.1,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,2,137.611,1.0,INTERMEDIATE,2.0,True,26,False,False,False,5.0,18.5,24.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,3,136.362,1.0,INTERMEDIATE,3.0,True,6,False,False,False,4.0,18.4,24.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,4,106.333,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,4.0,18.7,24.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,5,107.677,1.0,INTERMEDIATE,5.0,True,126,False,False,False,4.0,18.6,24.9,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,6,136.745,1.0,INTERMEDIATE,6.0,True,6,False,False,False,4.0,18.8,25.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,7,124.009,1.0,INTERMEDIATE,7.0,True,671,False,False,False,4.0,19.1,24.0,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,8,106.102,1.0,INTERMEDIATE,8.0,True,1,True,False,False,4.0,19.2,24.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,9,108.049,1.0,INTERMEDIATE,9.0,True,1,True,False,False,4.0,19.2,24.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,10,108.242,1.0,INTERMEDIATE,10.0,True,1,True,False,False,4.0,19.2,24.3,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,11,109.484,1.0,INTERMEDIATE,11.0,True,1,False,True,False,4.0,19.0,24.0,True,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,12,127.044,2.0,INTERMEDIATE,1.0,True,1,False,False,True,8.0,18.7,22.5,True,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,13,120.754,2.0,INTERMEDIATE,2.0,True,124,False,False,False,8.0,18.1,21.0,True,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,14,136.623,2.0,INTERMEDIATE,3.0,True,4,False,False,False,8.0,17.4,20.1,True,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,15,146.802,2.0,INTERMEDIATE,4.0,True,4,False,False,False,8.0,16.7,20.0,True,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,8.0,16.2,20.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,8.0,16.0,21.1,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,18,124.321,2.0,INTERMEDIATE,7.0,True,124,False,False,False,8.0,16.1,21.7,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,7.0,16.2,22.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,8.0,16.6,24.3,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,6.0,16.7,23.4,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,22,110.026,2.0,INTERMEDIATE,11.0,True,12,True,False,False,6.0,16.7,23.1,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,23,105.518,2.0,INTERMEDIATE,12.0,True,1,True,False,False,6.0,17.0,22.9,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,24,105.853,2.0,INTERMEDIATE,13.0,True,1,True,False,False,7.0,17.0,22.9,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,25,103.72,2.0,INTERMEDIATE,14.0,True,1,True,False,False,7.0,17.2,22.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,26,103.735,2.0,INTERMEDIATE,15.0,True,1,True,False,False,6.0,17.1,22.7,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,27,102.922,2.0,INTERMEDIATE,16.0,True,1,True,False,False,6.0,17.1,22.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,28,103.668,2.0,INTERMEDIATE,17.0,True,1,True,False,False,6.0,17.4,22.6,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,29,103.851,2.0,INTERMEDIATE,18.0,True,1,True,False,False,5.0,17.5,22.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,30,103.57,2.0,INTERMEDIATE,19.0,True,1,True,False,False,5.0,17.5,22.4,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,31,103.59,2.0,INTERMEDIATE,20.0,True,1,True,False,False,5.0,17.7,22.4,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,32,103.029,2.0,INTERMEDIATE,21.0,True,1,True,False,False,5.0,17.9,23.3,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,33,102.567,2.0,INTERMEDIATE,22.0,True,1,True,False,False,5.0,17.9,23.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,34,103.044,2.0,INTERMEDIATE,23.0,True,1,True,False,False,5.0,18.0,23.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,35,101.444,2.0,INTERMEDIATE,24.0,True,1,True,False,False,4.0,18.2,23.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,36,101.354,2.0,INTERMEDIATE,25.0,True,1,True,False,False,4.0,18.5,23.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,37,100.507,2.0,INTERMEDIATE,26.0,True,1,True,False,False,4.0,18.5,23.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,38,101.149,2.0,INTERMEDIATE,27.0,True,1,True,False,False,4.0,18.5,23.7,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,39,100.836,2.0,INTERMEDIATE,28.0,True,1,True,False,False,4.0,18.7,24.1,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,40,100.697,2.0,INTERMEDIATE,29.0,True,12,True,False,False,4.0,18.7,23.7,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,41,99.553,2.0,INTERMEDIATE,30.0,True,1,False,True,False,4.0,18.9,23.6,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,42,129.772,3.0,SOFT,4.0,False,12,False,False,True,6.0,19.0,23.5,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,43,96.929,3.0,SOFT,5.0,False,12,True,False,False,4.0,19.0,22.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,44,94.874,3.0,SOFT,6.0,False,12,True,False,False,4.0,19.0,23.2,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,45,93.938,3.0,SOFT,7.0,False,1,True,False,False,4.0,19.0,24.0,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,46,91.328,3.0,SOFT,8.0,False,1,True,False,False,4.0,19.1,23.8,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,47,93.108,3.0,SOFT,9.0,False,1,True,False,False,4.0,19.2,23.6,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,48,90.785,3.0,SOFT,10.0,False,1,True,False,False,4.0,19.2,23.6,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,49,90.016,3.0,SOFT,11.0,False,1,True,False,False,4.0,19.1,23.7,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,50,90.775,3.0,SOFT,12.0,False,1,True,False,False,4.0,19.3,24.4,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,51,90.664,3.0,SOFT,13.0,False,1,True,False,False,4.0,19.4,24.4,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,HAM,Ferrari,52,91.662,3.0,SOFT,14.0,False,1,True,False,False,4.0,19.5,24.6,False,5.0,4.0
+2025,12,British Grand Prix,Silverstone,52,BOR,Kick Sauber,1,135.202,1.0,MEDIUM,1.0,True,126,False,False,True,17.0,18.3,24.1,False,16.0,18.0
+2025,12,British Grand Prix,Silverstone,52,BOR,Kick Sauber,2,137.78,1.0,MEDIUM,2.0,True,6,False,False,False,17.0,18.5,24.5,False,16.0,18.0
+2025,12,British Grand Prix,Silverstone,52,BOR,Kick Sauber,3,136.121,1.0,MEDIUM,3.0,True,671,False,False,False,17.0,18.5,24.8,False,16.0,18.0
+2025,12,British Grand Prix,Silverstone,52,BOR,Kick Sauber,4,,1.0,MEDIUM,4.0,True,12,False,False,False,,18.7,24.8,False,16.0,18.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,1,111.254,1.0,INTERMEDIATE,1.0,True,12,False,False,False,7.0,18.3,24.1,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,2,138.077,1.0,INTERMEDIATE,2.0,True,26,False,False,False,8.0,18.5,24.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,3,137.24,1.0,INTERMEDIATE,3.0,True,6,False,False,False,7.0,18.4,24.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,4,106.016,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,7.0,18.7,24.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,5,110.644,1.0,INTERMEDIATE,5.0,True,126,False,False,False,7.0,18.6,24.9,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,6,135.577,1.0,INTERMEDIATE,6.0,True,6,False,False,False,7.0,18.8,25.2,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,7,122.205,1.0,INTERMEDIATE,7.0,True,671,False,False,False,7.0,19.1,24.0,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,8,106.227,1.0,INTERMEDIATE,8.0,True,1,True,False,False,7.0,19.2,24.2,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,9,107.819,1.0,INTERMEDIATE,9.0,True,1,True,False,False,7.0,19.2,24.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,10,108.531,1.0,INTERMEDIATE,10.0,True,1,True,False,False,8.0,19.2,24.3,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,11,109.688,1.0,INTERMEDIATE,11.0,True,1,False,True,False,7.0,19.0,24.0,True,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,12,128.134,2.0,INTERMEDIATE,1.0,True,1,False,False,True,12.0,18.7,22.5,True,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,13,123.101,2.0,INTERMEDIATE,2.0,True,124,False,False,False,11.0,18.1,21.0,True,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,14,135.643,2.0,INTERMEDIATE,3.0,True,4,False,False,False,11.0,17.4,20.1,True,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,15,144.702,2.0,INTERMEDIATE,4.0,True,4,False,False,False,11.0,16.7,20.0,True,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,11.0,16.2,20.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,11.0,16.0,21.1,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,18,128.665,2.0,INTERMEDIATE,7.0,True,124,False,False,False,11.0,16.1,21.7,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,10.0,16.2,22.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,11.0,16.6,24.3,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,9.0,16.7,23.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,22,110.697,2.0,INTERMEDIATE,11.0,True,12,True,False,False,9.0,16.7,23.1,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,23,105.893,2.0,INTERMEDIATE,12.0,True,1,True,False,False,9.0,17.0,22.9,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,24,104.859,2.0,INTERMEDIATE,13.0,True,1,True,False,False,9.0,17.0,22.9,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,25,104.229,2.0,INTERMEDIATE,14.0,True,1,True,False,False,9.0,17.2,22.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,26,104.287,2.0,INTERMEDIATE,15.0,True,1,True,False,False,9.0,17.1,22.7,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,27,103.772,2.0,INTERMEDIATE,16.0,True,1,True,False,False,9.0,17.1,22.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,28,104.265,2.0,INTERMEDIATE,17.0,True,1,True,False,False,9.0,17.4,22.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,29,104.379,2.0,INTERMEDIATE,18.0,True,1,True,False,False,9.0,17.5,22.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,30,104.712,2.0,INTERMEDIATE,19.0,True,1,True,False,False,9.0,17.5,22.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,31,104.747,2.0,INTERMEDIATE,20.0,True,1,True,False,False,9.0,17.7,22.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,32,105.107,2.0,INTERMEDIATE,21.0,True,1,True,False,False,9.0,17.9,23.3,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,33,104.414,2.0,INTERMEDIATE,22.0,True,1,True,False,False,9.0,18.0,23.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,34,105.146,2.0,INTERMEDIATE,23.0,True,1,True,False,False,10.0,18.0,23.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,35,104.475,2.0,INTERMEDIATE,24.0,True,1,True,False,False,10.0,18.2,23.2,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,36,103.152,2.0,INTERMEDIATE,25.0,True,1,True,False,False,10.0,18.5,23.2,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,37,103.057,2.0,INTERMEDIATE,26.0,True,1,True,False,False,10.0,18.5,23.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,38,102.692,2.0,INTERMEDIATE,27.0,True,1,True,False,False,9.0,18.5,23.7,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,39,103.891,2.0,INTERMEDIATE,28.0,True,12,True,False,False,9.0,18.7,24.1,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,40,102.143,2.0,INTERMEDIATE,29.0,True,1,True,False,False,9.0,18.8,23.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,41,100.264,2.0,INTERMEDIATE,30.0,True,1,False,True,False,9.0,18.9,23.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,42,124.071,3.0,MEDIUM,1.0,True,12,False,False,True,11.0,19.0,23.5,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,43,107.371,3.0,MEDIUM,2.0,True,12,True,False,False,12.0,19.0,22.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,44,96.504,3.0,MEDIUM,3.0,True,1,True,False,False,12.0,18.9,23.7,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,45,93.517,3.0,MEDIUM,4.0,True,1,True,False,False,12.0,19.1,24.0,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,46,94.08,3.0,MEDIUM,5.0,True,1,True,False,False,12.0,19.1,23.8,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,47,91.822,3.0,MEDIUM,6.0,True,1,True,False,False,12.0,19.2,23.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,48,91.07,3.0,MEDIUM,7.0,True,1,True,False,False,12.0,19.2,23.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,49,90.952,3.0,MEDIUM,8.0,True,1,True,False,False,12.0,19.2,24.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,50,91.965,3.0,MEDIUM,9.0,True,1,True,False,False,12.0,19.3,24.4,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,51,91.017,3.0,MEDIUM,10.0,True,1,True,False,False,12.0,19.5,24.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,SAI,Williams,52,90.645,3.0,MEDIUM,11.0,True,1,True,False,False,12.0,19.5,24.6,False,9.0,12.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,1,133.171,1.0,MEDIUM,1.0,True,126,False,False,True,16.0,18.3,24.1,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,2,138.715,1.0,MEDIUM,2.0,True,6,False,False,False,16.0,18.5,24.5,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,3,135.981,1.0,MEDIUM,3.0,True,671,False,False,False,16.0,18.5,24.8,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,4,113.542,1.0,MEDIUM,4.0,True,12,True,False,False,16.0,18.7,24.8,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,5,119.848,1.0,MEDIUM,5.0,True,126,False,False,False,16.0,18.6,24.9,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,6,137.761,1.0,MEDIUM,6.0,True,6,False,False,False,16.0,19.1,25.0,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,7,111.751,1.0,MEDIUM,7.0,True,671,False,False,False,16.0,19.1,24.0,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,8,103.759,1.0,MEDIUM,8.0,True,1,True,False,False,16.0,19.2,24.2,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,9,101.705,1.0,MEDIUM,9.0,True,1,True,False,False,16.0,19.2,24.8,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,10,102.691,1.0,MEDIUM,10.0,True,1,False,True,False,14.0,19.0,24.1,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,11,129.977,2.0,INTERMEDIATE,1.0,True,1,False,False,True,16.0,19.0,24.0,True,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,12,108.339,2.0,INTERMEDIATE,2.0,True,1,True,False,False,16.0,18.7,22.5,True,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,13,117.216,2.0,INTERMEDIATE,3.0,True,124,False,False,False,16.0,18.1,21.0,True,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,14,136.377,2.0,INTERMEDIATE,4.0,True,4,False,False,False,16.0,17.4,20.1,True,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,15,139.641,2.0,INTERMEDIATE,5.0,True,4,False,False,False,16.0,16.5,20.2,True,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,16,,2.0,INTERMEDIATE,6.0,True,4,False,False,False,16.0,16.2,20.5,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,17,,2.0,INTERMEDIATE,7.0,True,41,False,False,False,16.0,16.1,21.3,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,HAD,Racing Bulls,18,,2.0,INTERMEDIATE,8.0,True,124,False,False,False,,16.1,21.7,False,12.0,17.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,1,130.567,1.0,HARD,1.0,True,126,False,False,True,14.0,18.3,24.1,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,2,136.938,1.0,HARD,2.0,True,6,False,False,False,14.0,18.5,24.5,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,3,136.427,1.0,HARD,3.0,True,671,False,False,False,14.0,18.5,24.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,4,111.418,1.0,HARD,4.0,True,12,True,False,False,14.0,18.7,24.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,5,115.425,1.0,HARD,5.0,True,126,False,False,False,13.0,18.6,24.9,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,6,137.488,1.0,HARD,6.0,True,6,False,False,False,13.0,19.1,25.0,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,7,113.675,1.0,HARD,7.0,True,671,False,False,False,13.0,19.1,24.0,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,8,101.287,1.0,HARD,8.0,True,1,True,False,False,13.0,19.2,24.2,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,9,101.503,1.0,HARD,9.0,True,1,True,False,False,13.0,19.2,24.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,10,102.417,1.0,HARD,10.0,True,1,False,True,False,10.0,19.2,24.3,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,11,124.881,2.0,INTERMEDIATE,1.0,True,1,False,False,True,13.0,19.0,24.0,True,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,12,107.571,2.0,INTERMEDIATE,2.0,True,1,True,False,False,11.0,18.7,22.5,True,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,13,119.779,2.0,INTERMEDIATE,3.0,True,124,False,False,False,9.0,18.1,21.0,True,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,14,137.864,2.0,INTERMEDIATE,4.0,True,4,False,False,False,9.0,17.4,20.1,True,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,15,144.561,2.0,INTERMEDIATE,5.0,True,4,False,False,False,9.0,16.7,20.0,True,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,16,,2.0,INTERMEDIATE,6.0,True,4,False,False,False,9.0,16.2,20.5,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,17,,2.0,INTERMEDIATE,7.0,True,41,False,False,False,9.0,16.0,21.1,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,18,125.399,2.0,INTERMEDIATE,8.0,True,124,False,False,False,9.0,16.1,21.7,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,19,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,8.0,16.2,22.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,20,,2.0,INTERMEDIATE,10.0,True,4,False,False,False,9.0,16.6,24.3,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,21,,2.0,INTERMEDIATE,11.0,True,41,False,False,False,7.0,16.7,23.4,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,22,110.251,2.0,INTERMEDIATE,12.0,True,12,True,False,False,7.0,16.7,23.1,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,23,105.37,2.0,INTERMEDIATE,13.0,True,1,True,False,False,7.0,17.0,22.9,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,24,104.023,2.0,INTERMEDIATE,14.0,True,1,True,False,False,6.0,17.0,22.9,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,25,104.303,2.0,INTERMEDIATE,15.0,True,1,True,False,False,6.0,17.2,22.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,26,104.89,2.0,INTERMEDIATE,16.0,True,1,True,False,False,7.0,17.1,22.7,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,27,103.854,2.0,INTERMEDIATE,17.0,True,1,True,False,False,7.0,17.1,22.5,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,28,103.669,2.0,INTERMEDIATE,18.0,True,1,True,False,False,7.0,17.4,22.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,29,103.869,2.0,INTERMEDIATE,19.0,True,1,True,False,False,7.0,17.5,22.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,30,104.714,2.0,INTERMEDIATE,20.0,True,1,True,False,False,7.0,17.5,22.4,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,31,104.706,2.0,INTERMEDIATE,21.0,True,1,True,False,False,7.0,17.7,22.4,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,32,104.186,2.0,INTERMEDIATE,22.0,True,1,True,False,False,7.0,17.9,23.3,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,33,104.928,2.0,INTERMEDIATE,23.0,True,1,True,False,False,7.0,18.0,23.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,34,104.359,2.0,INTERMEDIATE,24.0,True,1,True,False,False,7.0,18.0,23.5,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,35,102.795,2.0,INTERMEDIATE,25.0,True,1,True,False,False,7.0,18.2,23.2,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,36,102.502,2.0,INTERMEDIATE,26.0,True,1,True,False,False,7.0,18.5,23.2,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,37,101.85,2.0,INTERMEDIATE,27.0,True,1,True,False,False,8.0,18.5,23.2,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,38,101.178,2.0,INTERMEDIATE,28.0,True,1,False,True,False,6.0,18.5,23.7,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,39,137.522,3.0,HARD,1.0,True,12,False,False,True,14.0,18.7,24.1,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,40,105.74,3.0,HARD,2.0,True,1,True,False,False,14.0,18.8,23.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,41,101.089,3.0,HARD,3.0,True,1,True,False,False,14.0,18.9,23.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,42,100.654,3.0,HARD,4.0,True,12,True,False,False,13.0,18.9,23.2,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,43,98.569,3.0,HARD,5.0,True,12,True,False,False,10.0,19.0,22.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,44,95.71,3.0,HARD,6.0,True,1,True,False,False,10.0,18.9,23.7,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,45,93.795,3.0,HARD,7.0,True,1,True,False,False,10.0,19.1,24.0,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,46,92.141,3.0,HARD,8.0,True,1,True,False,False,10.0,19.1,23.8,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,47,91.926,3.0,HARD,9.0,True,1,True,False,False,10.0,19.2,23.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,48,91.239,3.0,HARD,10.0,True,1,True,False,False,10.0,19.2,23.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,49,91.315,3.0,HARD,11.0,True,1,True,False,False,10.0,19.2,24.4,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,50,90.956,3.0,HARD,12.0,True,1,True,False,False,10.0,19.3,24.4,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,51,90.869,3.0,HARD,13.0,True,1,True,False,False,10.0,19.5,24.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,RUS,Mercedes,52,91.9,3.0,HARD,14.0,True,1,True,False,False,10.0,19.5,24.6,False,4.0,10.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,1,106.554,1.0,INTERMEDIATE,1.0,True,12,False,False,False,2.0,18.3,24.1,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,2,135.131,1.0,INTERMEDIATE,2.0,True,26,False,False,False,2.0,18.5,24.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,3,137.795,1.0,INTERMEDIATE,3.0,True,6,False,False,False,2.0,18.4,24.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,4,105.828,1.0,INTERMEDIATE,4.0,True,6712,False,False,False,2.0,18.7,24.8,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,5,104.455,1.0,INTERMEDIATE,5.0,True,126,False,False,False,2.0,18.6,24.9,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,6,139.626,1.0,INTERMEDIATE,6.0,True,6,False,False,False,2.0,18.8,25.2,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,7,122.77,1.0,INTERMEDIATE,7.0,True,671,False,False,False,2.0,19.1,24.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,8,104.171,1.0,INTERMEDIATE,8.0,True,1,True,False,False,1.0,19.2,24.2,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,9,104.393,1.0,INTERMEDIATE,9.0,True,1,True,False,False,1.0,19.2,24.8,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,10,104.89,1.0,INTERMEDIATE,10.0,True,1,True,False,False,1.0,19.2,24.3,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,11,105.937,1.0,INTERMEDIATE,11.0,True,1,False,True,False,1.0,19.0,24.0,True,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,12,126.15,2.0,INTERMEDIATE,1.0,True,1,False,False,True,1.0,18.7,22.5,True,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,13,107.585,2.0,INTERMEDIATE,2.0,True,1,True,False,False,1.0,18.1,21.0,True,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,14,135.81,2.0,INTERMEDIATE,3.0,True,124,False,False,False,1.0,17.8,20.5,True,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,15,,2.0,INTERMEDIATE,4.0,True,4,False,False,False,1.0,16.7,20.0,True,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,16,,2.0,INTERMEDIATE,5.0,True,4,False,False,False,1.0,16.2,20.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,17,,2.0,INTERMEDIATE,6.0,True,41,False,False,False,1.0,16.0,21.1,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,18,118.043,2.0,INTERMEDIATE,7.0,True,124,False,False,False,1.0,16.1,21.7,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,19,,2.0,INTERMEDIATE,8.0,True,4,False,False,False,1.0,16.2,22.8,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,20,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,1.0,16.6,24.3,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,21,,2.0,INTERMEDIATE,10.0,True,41,False,False,False,1.0,16.7,23.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,22,104.494,2.0,INTERMEDIATE,11.0,True,12,True,False,False,1.0,16.7,23.1,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,23,102.3,2.0,INTERMEDIATE,12.0,True,1,True,False,False,1.0,17.0,22.9,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,24,101.978,2.0,INTERMEDIATE,13.0,True,1,True,False,False,1.0,17.0,22.9,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,25,101.581,2.0,INTERMEDIATE,14.0,True,1,True,False,False,1.0,17.1,22.9,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,26,101.646,2.0,INTERMEDIATE,15.0,True,1,True,False,False,1.0,17.1,22.7,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,27,102.133,2.0,INTERMEDIATE,16.0,True,1,True,False,False,1.0,17.1,22.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,28,102.428,2.0,INTERMEDIATE,17.0,True,1,True,False,False,1.0,17.2,22.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,29,102.815,2.0,INTERMEDIATE,18.0,True,1,True,False,False,1.0,17.4,22.8,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,30,102.887,2.0,INTERMEDIATE,19.0,True,1,True,False,False,1.0,17.5,22.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,31,102.642,2.0,INTERMEDIATE,20.0,True,1,True,False,False,1.0,17.7,22.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,32,102.01,2.0,INTERMEDIATE,21.0,True,1,True,False,False,1.0,17.7,23.0,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,33,101.663,2.0,INTERMEDIATE,22.0,True,1,True,False,False,1.0,17.9,23.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,34,101.386,2.0,INTERMEDIATE,23.0,True,1,True,False,False,1.0,18.0,23.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,35,101.091,2.0,INTERMEDIATE,24.0,True,1,True,False,False,1.0,18.0,23.3,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,36,100.97,2.0,INTERMEDIATE,25.0,True,1,True,False,False,1.0,18.3,23.3,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,37,100.351,2.0,INTERMEDIATE,26.0,True,1,True,False,False,1.0,18.5,23.2,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,38,100.127,2.0,INTERMEDIATE,27.0,True,1,True,False,False,1.0,18.5,23.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,39,99.8,2.0,INTERMEDIATE,28.0,True,1,True,False,False,1.0,18.6,24.5,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,40,99.461,2.0,INTERMEDIATE,29.0,True,12,True,False,False,1.0,18.7,23.7,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,41,99.273,2.0,INTERMEDIATE,30.0,True,1,True,False,False,1.0,18.8,23.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,42,98.87,2.0,INTERMEDIATE,31.0,True,1,True,False,False,1.0,18.9,23.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,43,97.478,2.0,INTERMEDIATE,32.0,True,12,False,True,False,1.0,18.9,23.2,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,44,129.636,3.0,MEDIUM,1.0,True,12,False,False,True,2.0,19.0,22.8,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,45,94.87,3.0,MEDIUM,2.0,True,1,True,False,False,2.0,19.0,24.0,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,46,91.673,3.0,MEDIUM,3.0,True,1,True,False,False,2.0,19.1,24.0,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,47,90.609,3.0,MEDIUM,4.0,True,1,True,False,False,2.0,19.2,23.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,48,90.817,3.0,MEDIUM,5.0,True,1,True,False,False,2.0,19.2,23.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,49,90.209,3.0,MEDIUM,6.0,True,1,True,False,False,2.0,19.1,23.7,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,50,89.686,3.0,MEDIUM,7.0,True,1,True,False,False,2.0,19.2,24.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,51,89.337,3.0,MEDIUM,8.0,True,1,True,False,False,2.0,19.4,24.4,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,PIA,McLaren,52,92.34,3.0,MEDIUM,9.0,True,1,True,False,False,2.0,19.5,24.6,False,2.0,2.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,1,136.342,1.0,HARD,1.0,True,126,False,False,True,18.0,18.3,24.1,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,2,137.12,1.0,HARD,2.0,True,6,False,False,False,18.0,18.5,24.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,3,137.209,1.0,HARD,3.0,True,671,False,False,False,18.0,18.5,24.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,4,111.955,1.0,HARD,4.0,True,12,True,False,False,17.0,18.7,24.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,5,120.293,1.0,HARD,5.0,True,126,False,False,False,17.0,18.6,24.9,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,6,137.467,1.0,HARD,6.0,True,6,False,False,False,17.0,19.1,25.0,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,7,111.212,1.0,HARD,7.0,True,671,False,False,False,17.0,19.1,24.0,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,8,104.011,1.0,HARD,8.0,True,1,True,False,False,17.0,19.2,24.2,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,9,102.431,1.0,HARD,9.0,True,1,True,False,False,17.0,19.2,24.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,10,103.208,1.0,HARD,10.0,True,1,False,True,False,15.0,19.0,24.1,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,11,128.816,2.0,INTERMEDIATE,1.0,True,1,False,False,True,17.0,19.0,24.0,True,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,12,108.51,2.0,INTERMEDIATE,2.0,True,1,True,False,False,17.0,18.7,22.5,True,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,13,118.712,2.0,INTERMEDIATE,3.0,True,124,False,False,False,17.0,18.1,21.0,True,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,14,136.851,2.0,INTERMEDIATE,4.0,True,4,False,False,False,17.0,17.4,20.1,True,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,15,137.133,2.0,INTERMEDIATE,5.0,True,4,False,False,False,17.0,16.5,20.2,True,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,16,,2.0,INTERMEDIATE,6.0,True,4,False,False,False,17.0,16.2,20.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,17,,2.0,INTERMEDIATE,7.0,True,41,False,False,False,17.0,16.1,21.3,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,18,131.242,2.0,INTERMEDIATE,8.0,True,124,False,False,False,15.0,16.1,21.7,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,19,,2.0,INTERMEDIATE,9.0,True,4,False,False,False,14.0,16.4,23.9,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,20,,2.0,INTERMEDIATE,10.0,True,4,False,False,False,15.0,16.6,24.3,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,21,,2.0,INTERMEDIATE,11.0,True,41,False,False,False,14.0,16.7,23.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,22,114.756,2.0,INTERMEDIATE,12.0,True,12,True,False,False,15.0,16.7,23.1,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,23,107.955,2.0,INTERMEDIATE,13.0,True,1,True,False,False,15.0,17.0,22.9,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,24,105.308,2.0,INTERMEDIATE,14.0,True,1,True,False,False,15.0,17.0,22.9,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,25,104.627,2.0,INTERMEDIATE,15.0,True,1,True,False,False,15.0,17.2,22.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,26,103.157,2.0,INTERMEDIATE,16.0,True,1,True,False,False,14.0,17.2,22.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,27,102.738,2.0,INTERMEDIATE,17.0,True,1,True,False,False,14.0,17.1,22.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,28,103.912,2.0,INTERMEDIATE,18.0,True,1,True,False,False,14.0,17.4,22.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,29,104.926,2.0,INTERMEDIATE,19.0,True,1,True,False,False,14.0,17.5,22.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,30,104.269,2.0,INTERMEDIATE,20.0,True,1,True,False,False,13.0,17.6,22.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,31,104.0,2.0,INTERMEDIATE,21.0,True,1,True,False,False,13.0,17.7,22.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,32,103.978,2.0,INTERMEDIATE,22.0,True,1,True,False,False,13.0,17.9,23.3,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,33,103.937,2.0,INTERMEDIATE,23.0,True,1,True,False,False,13.0,18.0,23.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,34,103.948,2.0,INTERMEDIATE,24.0,True,1,True,False,False,13.0,18.0,23.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,35,104.439,2.0,INTERMEDIATE,25.0,True,1,True,False,False,13.0,18.2,23.2,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,36,102.937,2.0,INTERMEDIATE,26.0,True,1,True,False,False,13.0,18.5,23.2,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,37,103.169,2.0,INTERMEDIATE,27.0,True,1,True,False,False,13.0,18.5,23.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,38,102.626,2.0,INTERMEDIATE,28.0,True,1,True,False,False,12.0,18.5,23.7,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,39,102.278,2.0,INTERMEDIATE,29.0,True,12,True,False,False,11.0,18.7,24.1,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,40,102.278,2.0,INTERMEDIATE,30.0,True,1,True,False,False,11.0,18.8,23.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,41,99.875,2.0,INTERMEDIATE,31.0,True,1,False,True,False,10.0,18.9,23.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,42,124.956,3.0,MEDIUM,1.0,True,12,False,False,True,12.0,19.0,23.5,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,43,102.511,3.0,MEDIUM,2.0,True,12,True,False,False,11.0,19.0,22.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,44,94.874,3.0,MEDIUM,3.0,True,1,True,False,False,11.0,18.9,23.7,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,45,93.735,3.0,MEDIUM,4.0,True,1,True,False,False,11.0,19.1,24.0,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,46,92.102,3.0,MEDIUM,5.0,True,1,True,False,False,11.0,19.1,23.8,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,47,92.098,3.0,MEDIUM,6.0,True,1,True,False,False,11.0,19.2,23.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,48,91.041,3.0,MEDIUM,7.0,True,1,True,False,False,11.0,19.2,23.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,49,91.273,3.0,MEDIUM,8.0,True,1,True,False,False,11.0,19.2,24.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,50,90.921,3.0,MEDIUM,9.0,True,1,True,False,False,11.0,19.3,24.4,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,51,91.121,3.0,MEDIUM,10.0,True,1,True,False,False,11.0,19.5,24.6,False,18.0,11.0
+2025,12,British Grand Prix,Silverstone,52,BEA,Haas F1 Team,52,92.585,3.0,MEDIUM,11.0,True,1,True,False,False,11.0,19.5,24.6,False,18.0,11.0

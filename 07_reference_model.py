@@ -24,8 +24,8 @@ from the full dataset using local interpolation:
             ↓
     nearest observations in dataset
             ↓
-      inverse-distance
-       weighted average
+      distance-weighted
+      local polynomial fit
             ↓
     reference aerodynamic response
 
@@ -65,7 +65,8 @@ Interpolation method
 - Standardize all six continuous input dimensions.
 - Build a KD-tree through sklearn NearestNeighbors.
 - Find K nearest observations.
-- Use inverse-distance weighting.
+- Fit a tricube-weighted local polynomial through them (see
+  reference_model.py, which holds the shared model class).
 - Exact dataset points return the exact observed response.
 - Queries outside the observed input envelope are rejected by default.
 
@@ -114,8 +115,8 @@ from sklearn.metrics import (
     mean_squared_error,
     r2_score,
 )
-from sklearn.neighbors import NearestNeighbors
-from sklearn.preprocessing import StandardScaler
+
+from reference_model import ReferenceAerodynamicModel
 
 
 # =====================================================================
@@ -162,27 +163,20 @@ TARGET_COLUMNS = [
 ]
 
 # Number of neighbours used by the reference interpolator.
-K_NEIGHBORS = 12
+K_NEIGHBORS = 130
 
-# Exponent used in inverse-distance weighting:
+# Degree of the local polynomial fitted through the neighbours:
 #
-#     weight = 1 / distance^p
+#     1 = local linear, 2 = local quadratic
 #
-# p=2 gives stronger emphasis to the closest observations.
-DISTANCE_POWER = 2.0
+# K and the degree were chosen by leave-one-out reconstruction error.
+LOCAL_FIT_DEGREE = 2
 
 # Number of rows used when estimating leave-one-out interpolation quality.
 # We do not evaluate all 100k observations because this is only a diagnostic.
 VALIDATION_SAMPLE_SIZE = 5000
 
 RANDOM_STATE = 42
-
-# Use a small epsilon to prevent division by zero.
-DISTANCE_EPSILON = 1e-12
-
-# How far into the boundary can a diagnostic query be before it is
-# considered outside. The actual reference model checks the exact min/max.
-BOUNDARY_TOLERANCE = 1e-10
 
 
 # =====================================================================
@@ -402,428 +396,6 @@ def check_dataset(
 
 
 # =====================================================================
-# Reference model
-# =====================================================================
-
-class ReferenceAerodynamicModel:
-    """
-    Dataset-grounded local interpolator for aerodynamic responses.
-
-    The model operates entirely inside the observed six-dimensional
-    continuous input envelope.
-
-    Parameters
-    ----------
-    X:
-        Full dataset input matrix.
-    y:
-        Full dataset target matrix.
-    input_columns:
-        Names of continuous input variables.
-    target_columns:
-        Names of continuous targets.
-    k_neighbors:
-        Number of neighbours used for interpolation.
-    distance_power:
-        Exponent p in inverse-distance weighting.
-    """
-
-    def __init__(
-        self,
-        X: np.ndarray,
-        y: np.ndarray,
-        input_columns: list[str],
-        target_columns: list[str],
-        k_neighbors: int = K_NEIGHBORS,
-        distance_power: float = DISTANCE_POWER,
-    ) -> None:
-        X = np.asarray(
-            X,
-            dtype=float,
-        )
-
-        y = np.asarray(
-            y,
-            dtype=float,
-        )
-
-        if X.ndim != 2:
-            raise ValueError(
-                "X must be a 2D array."
-            )
-
-        if y.ndim != 2:
-            raise ValueError(
-                "y must be a 2D array."
-            )
-
-        if X.shape[0] != y.shape[0]:
-            raise ValueError(
-                "X and y must contain the same number of rows."
-            )
-
-        if X.shape[1] != len(input_columns):
-            raise ValueError(
-                "Number of X columns does not match input_columns."
-            )
-
-        if y.shape[1] != len(target_columns):
-            raise ValueError(
-                "Number of y columns does not match target_columns."
-            )
-
-        if not np.isfinite(X).all():
-            raise ValueError(
-                "X contains non-finite values."
-            )
-
-        if not np.isfinite(y).all():
-            raise ValueError(
-                "y contains non-finite values."
-            )
-
-        if k_neighbors < 1:
-            raise ValueError(
-                "k_neighbors must be >= 1."
-            )
-
-        if k_neighbors >= len(X):
-            raise ValueError(
-                "k_neighbors must be smaller than the number of observations."
-            )
-
-        if distance_power <= 0:
-            raise ValueError(
-                "distance_power must be positive."
-            )
-
-        self.X_raw = X
-        self.y = y
-
-        self.input_columns = list(
-            input_columns
-        )
-        self.target_columns = list(
-            target_columns
-        )
-
-        self.k_neighbors = int(
-            k_neighbors
-        )
-
-        self.distance_power = float(
-            distance_power
-        )
-
-        self.scaler = StandardScaler()
-
-        X_scaled = self.scaler.fit_transform(
-            self.X_raw
-        )
-
-        self.X_scaled = X_scaled
-
-        self.neighbor_search = NearestNeighbors(
-            n_neighbors=self.k_neighbors,
-            algorithm="auto",
-            metric="euclidean",
-            n_jobs=1,
-        )
-
-        self.neighbor_search.fit(
-            self.X_scaled
-        )
-
-        self.feature_min = self.X_raw.min(
-            axis=0
-        )
-
-        self.feature_max = self.X_raw.max(
-            axis=0
-        )
-
-    # -----------------------------------------------------------------
-    # Input handling
-    # -----------------------------------------------------------------
-
-    def _prepare_query(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-    ) -> np.ndarray:
-        """
-        Convert a query to an array with correct feature ordering.
-        """
-        if isinstance(
-            X_query,
-            pd.DataFrame,
-        ):
-            missing = [
-                col
-                for col in self.input_columns
-                if col not in X_query.columns
-            ]
-
-            if missing:
-                raise ValueError(
-                    "Query is missing input columns:\n"
-                    + "\n".join(
-                        f"  - {col}"
-                        for col in missing
-                    )
-                )
-
-            query = X_query[
-                self.input_columns
-            ].to_numpy(
-                dtype=float
-            )
-        else:
-            query = np.asarray(
-                X_query,
-                dtype=float,
-            )
-
-        if query.ndim == 1:
-            query = query.reshape(
-                1,
-                -1,
-            )
-
-        if query.ndim != 2:
-            raise ValueError(
-                "Query must be a 1D or 2D numerical array."
-            )
-
-        if query.shape[1] != len(
-            self.input_columns
-        ):
-            raise ValueError(
-                "Query has the wrong number of input features. "
-                f"Expected {len(self.input_columns)}."
-            )
-
-        if not np.isfinite(query).all():
-            raise ValueError(
-                "Query contains non-finite values."
-            )
-
-        return query
-
-    def check_bounds(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-    ) -> pd.DataFrame:
-        """
-        Check whether each query lies inside the observed input envelope.
-
-        Returns a row-level report. This does not raise an exception.
-        """
-        query = self._prepare_query(
-            X_query
-        )
-
-        rows = []
-
-        for row_index, row in enumerate(
-            query
-        ):
-            below = (
-                row
-                < (
-                    self.feature_min
-                    - BOUNDARY_TOLERANCE
-                )
-            )
-
-            above = (
-                row
-                > (
-                    self.feature_max
-                    + BOUNDARY_TOLERANCE
-                )
-            )
-
-            outside_columns = [
-                self.input_columns[i]
-                for i in range(
-                    len(self.input_columns)
-                )
-                if below[i] or above[i]
-            ]
-
-            rows.append(
-                {
-                    "query_index": row_index,
-                    "inside_observed_envelope":
-                        len(outside_columns) == 0,
-                    "outside_columns":
-                        ", ".join(
-                            outside_columns
-                        ),
-                }
-            )
-
-        return pd.DataFrame(
-            rows
-        )
-
-    # -----------------------------------------------------------------
-    # Prediction
-    # -----------------------------------------------------------------
-
-    def predict(
-        self,
-        X_query: pd.DataFrame | np.ndarray,
-        reject_outside: bool = True,
-        return_distance: bool = False,
-    ) -> np.ndarray | tuple[np.ndarray, np.ndarray]:
-        """
-        Predict reference outputs using inverse-distance weighting.
-
-        Parameters
-        ----------
-        X_query:
-            One or more continuous operating points.
-
-        reject_outside:
-            If True, reject points outside the observed six-dimensional
-            feature envelope. Extrapolation is intentionally avoided.
-
-        return_distance:
-            If True, also return the distance to the nearest neighbour.
-
-        Returns
-        -------
-        predictions:
-            Array of shape (n_queries, n_targets).
-
-        nearest_distance:
-            Returned only when return_distance=True.
-        """
-        query = self._prepare_query(
-            X_query
-        )
-
-        bounds = self.check_bounds(
-            query
-        )
-
-        if reject_outside:
-            invalid = ~bounds[
-                "inside_observed_envelope"
-            ].to_numpy()
-
-            if invalid.any():
-                bad_indices = np.where(
-                    invalid
-                )[0]
-
-                raise ValueError(
-                    "Reference-model query contains points outside the "
-                    "observed continuous operating envelope. "
-                    f"Invalid query indices: {bad_indices.tolist()}"
-                )
-
-        query_scaled = self.scaler.transform(
-            query
-        )
-
-        distances, indices = (
-            self.neighbor_search.kneighbors(
-                query_scaled,
-                n_neighbors=self.k_neighbors,
-                return_distance=True,
-            )
-        )
-
-        neighbor_values = self.y[
-            indices
-        ]
-
-        predictions = np.empty(
-            (
-                len(query),
-                self.y.shape[1],
-            ),
-            dtype=float,
-        )
-
-        for i in range(
-            len(query)
-        ):
-            d = distances[i]
-
-            # If the query exactly matches a dataset point, return that
-            # observation exactly. This is important for reference runs
-            # initialized from an observed operating point.
-            exact = (
-                d
-                <= DISTANCE_EPSILON
-            )
-
-            if exact.any():
-                first_exact = int(
-                    np.where(
-                        exact
-                    )[0][0]
-                )
-
-                predictions[i] = (
-                    neighbor_values[
-                        i,
-                        first_exact
-                    ]
-                )
-
-                continue
-
-            weights = (
-                1.0
-                / np.power(
-                    d,
-                    self.distance_power,
-                )
-            )
-
-            weights /= weights.sum()
-
-            predictions[i] = np.sum(
-                neighbor_values[i]
-                * weights[:, None],
-                axis=0,
-            )
-
-        nearest_distance = distances[
-            :, 0
-        ]
-
-        if return_distance:
-            return (
-                predictions,
-                nearest_distance,
-            )
-
-        return predictions
-
-    def predict_dataframe(
-        self,
-        X_query: pd.DataFrame,
-        reject_outside: bool = True,
-    ) -> pd.DataFrame:
-        """Predict and return named target columns."""
-        prediction = self.predict(
-            X_query,
-            reject_outside=reject_outside,
-        )
-
-        return pd.DataFrame(
-            prediction,
-            columns=self.target_columns,
-            index=X_query.index,
-        )
-
-
-# =====================================================================
 # Leave-one-out local interpolation diagnostic
 # =====================================================================
 
@@ -874,74 +446,12 @@ def leave_one_out_reference_validation(
         sample_indices
     ][TARGET_COLUMNS]
 
-    # We need one extra neighbour because the first neighbour is the point
-    # itself when querying an observation from the reference dataset.
-    distances, indices = (
-        model.neighbor_search.kneighbors(
-            model.scaler.transform(
-                X_sample
-            ),
-            n_neighbors=model.k_neighbors + 1,
-            return_distance=True,
-        )
+    (
+        predictions,
+        nearest_nonself_distance,
+    ) = model.predict_leave_one_out(
+        sample_indices
     )
-
-    predictions = np.empty(
-        (
-            sample_n,
-            len(TARGET_COLUMNS),
-        ),
-        dtype=float,
-    )
-
-    nearest_nonself_distance = (
-        np.empty(
-            sample_n,
-            dtype=float,
-        )
-    )
-
-    for i in range(
-        sample_n
-    ):
-        d = distances[i]
-        idx = indices[i]
-
-        # Remove the exact self-neighbour.
-        nonself_mask = (
-            d > DISTANCE_EPSILON
-        )
-
-        d = d[
-            nonself_mask
-        ][: model.k_neighbors]
-
-        idx = idx[
-            nonself_mask
-        ][: model.k_neighbors]
-
-        if len(d) == 0:
-            raise RuntimeError(
-                "Unable to identify non-self neighbours."
-            )
-
-        weights = (
-            1.0
-            / np.power(
-                d,
-                model.distance_power,
-            )
-        )
-
-        weights /= weights.sum()
-
-        predictions[i] = np.sum(
-            model.y[idx]
-            * weights[:, None],
-            axis=0,
-        )
-
-        nearest_nonself_distance[i] = d[0]
 
     result_rows = []
 
@@ -1403,7 +913,8 @@ def create_markdown_report(
             f"- Standardization: `StandardScaler`",
             f"- Neighbours: `{K_NEIGHBORS}`",
             f"- Metric: Euclidean distance in standardized input space",
-            f"- Weighting: inverse distance^{DISTANCE_POWER:.1f}",
+            f"- Local fit: tricube-weighted polynomial of degree "
+            f"`{LOCAL_FIT_DEGREE}`",
             "- Exact dataset points return their exact stored response",
             "- Queries outside the observed feature envelope are rejected",
             "",
@@ -1580,7 +1091,7 @@ def main() -> int:
             input_columns=INPUT_COLUMNS,
             target_columns=TARGET_COLUMNS,
             k_neighbors=K_NEIGHBORS,
-            distance_power=DISTANCE_POWER,
+            degree=LOCAL_FIT_DEGREE,
         )
     )
 
@@ -1599,8 +1110,8 @@ def main() -> int:
     )
 
     print(
-        f"Distance power = "
-        f"{DISTANCE_POWER:.1f}"
+        f"Local polynomial degree = "
+        f"{LOCAL_FIT_DEGREE}"
     )
 
     # ---------------------------------------------------------------
@@ -1609,13 +1120,13 @@ def main() -> int:
     bundle = {
         "model": reference_model,
         "description": (
-            "Dataset-grounded inverse-distance weighted KNN "
+            "Dataset-grounded local-polynomial KNN "
             "reference aerodynamic model."
         ),
         "input_columns": INPUT_COLUMNS,
         "target_columns": TARGET_COLUMNS,
         "k_neighbors": K_NEIGHBORS,
-        "distance_power": DISTANCE_POWER,
+        "degree": LOCAL_FIT_DEGREE,
         "dataset_name": DATA_PATH.name,
         "dataset_rows": len(df),
     }
@@ -1674,60 +1185,10 @@ def main() -> int:
         sample_indices
     ][TARGET_COLUMNS]
 
-    # Get reference predictions directly. The sampled observations are
-    # exact data points, so this prediction is exact. For the error plots
-    # we instead need the leave-one-out predictions recreated below.
-    distances, indices = (
-        reference_model.neighbor_search.kneighbors(
-            reference_model.scaler.transform(
-                X_sample
-            ),
-            n_neighbors=K_NEIGHBORS + 1,
-            return_distance=True,
-        )
+    # Recreate the leave-one-out predictions for the error plots.
+    loo_predictions, _ = reference_model.predict_leave_one_out(
+        sample_indices
     )
-
-    loo_predictions = np.empty(
-        (
-            sample_n,
-            len(TARGET_COLUMNS),
-        ),
-        dtype=float,
-    )
-
-    for i in range(
-        sample_n
-    ):
-        d = distances[i]
-        idx = indices[i]
-
-        nonself = (
-            d > DISTANCE_EPSILON
-        )
-
-        d = d[
-            nonself
-        ][:K_NEIGHBORS]
-
-        idx = idx[
-            nonself
-        ][:K_NEIGHBORS]
-
-        weights = (
-            1.0
-            / np.power(
-                d,
-                DISTANCE_POWER,
-            )
-        )
-
-        weights /= weights.sum()
-
-        loo_predictions[i] = np.sum(
-            reference_model.y[idx]
-            * weights[:, None],
-            axis=0,
-        )
 
     # ---------------------------------------------------------------
     # Plots

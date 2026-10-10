@@ -1,0 +1,1260 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,1,92.564,1.0,SOFT,1.0,True,124,False,False,False,3.0,23.6,49.5,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,2,114.095,1.0,SOFT,2.0,True,4,False,False,False,3.0,23.6,49.5,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,3,119.616,1.0,SOFT,3.0,True,4,False,False,False,3.0,23.4,49.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,4,120.947,1.0,SOFT,4.0,True,4,False,False,False,3.0,23.3,49.0,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,5,113.381,1.0,SOFT,5.0,True,4,False,False,False,3.0,23.3,48.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,6,124.049,1.0,SOFT,6.0,True,41,False,False,False,3.0,23.3,48.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,7,85.93,1.0,SOFT,7.0,True,12,False,True,False,17.0,23.2,48.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,8,101.052,2.0,MEDIUM,1.0,True,1,False,False,True,17.0,23.3,48.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,9,75.564,2.0,MEDIUM,2.0,True,1,True,False,False,17.0,23.6,49.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,10,75.866,2.0,MEDIUM,3.0,True,1,True,False,False,17.0,23.7,49.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,11,76.204,2.0,MEDIUM,4.0,True,1,True,False,False,17.0,23.7,49.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,12,76.434,2.0,MEDIUM,5.0,True,1,True,False,False,17.0,23.9,49.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,13,76.444,2.0,MEDIUM,6.0,True,1,True,False,False,17.0,23.8,48.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,14,76.353,2.0,MEDIUM,7.0,True,1,True,False,False,17.0,23.7,47.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,15,76.468,2.0,MEDIUM,8.0,True,1,True,False,False,16.0,23.5,46.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,16,76.688,2.0,MEDIUM,9.0,True,1,True,False,False,16.0,23.6,47.7,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,17,77.05,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,23.7,48.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,18,76.851,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,23.7,47.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,19,77.837,2.0,MEDIUM,12.0,True,1,True,False,False,14.0,23.6,46.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,20,77.323,2.0,MEDIUM,13.0,True,1,True,False,False,12.0,23.5,46.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,21,77.484,2.0,MEDIUM,14.0,True,1,True,False,False,12.0,23.3,46.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,22,77.293,2.0,MEDIUM,15.0,True,1,True,False,False,12.0,23.2,46.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,23,81.517,2.0,MEDIUM,16.0,True,1,False,True,False,14.0,23.2,46.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,24,102.169,3.0,SOFT,8.0,False,1,False,False,True,17.0,23.2,45.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,25,76.05,3.0,SOFT,9.0,False,1,True,False,False,17.0,23.0,45.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,26,76.145,3.0,SOFT,10.0,False,1,True,False,False,17.0,22.8,45.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,27,75.991,3.0,SOFT,11.0,False,1,True,False,False,17.0,22.8,44.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,28,75.83,3.0,SOFT,12.0,False,1,True,False,False,17.0,22.9,44.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,29,76.37,3.0,SOFT,13.0,False,1,True,False,False,17.0,22.9,43.7,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,30,76.171,3.0,SOFT,14.0,False,1,True,False,False,16.0,22.8,43.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,31,76.275,3.0,SOFT,15.0,False,1,True,False,False,16.0,22.4,42.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,32,76.521,3.0,SOFT,16.0,False,1,True,False,False,16.0,22.5,43.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,33,76.998,3.0,SOFT,17.0,False,1,True,False,False,15.0,22.4,43.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,34,76.099,3.0,SOFT,18.0,False,1,True,False,False,15.0,22.5,42.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,35,76.476,3.0,SOFT,19.0,False,1,True,False,False,15.0,22.6,41.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,36,76.377,3.0,SOFT,20.0,False,1,True,False,False,12.0,22.6,41.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,37,76.028,3.0,SOFT,21.0,False,1,True,False,False,11.0,22.5,41.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,38,76.32,3.0,SOFT,22.0,False,1,True,False,False,11.0,22.4,41.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,39,76.484,3.0,SOFT,23.0,False,1,True,False,False,11.0,22.3,41.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,40,76.259,3.0,SOFT,24.0,False,1,True,False,False,11.0,22.1,42.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,41,76.333,3.0,SOFT,25.0,False,1,True,False,False,10.0,22.1,42.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,42,76.115,3.0,SOFT,26.0,False,1,True,False,False,10.0,21.9,42.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,43,76.22,3.0,SOFT,27.0,False,1,True,False,False,10.0,22.0,42.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,44,76.193,3.0,SOFT,28.0,False,1,True,False,False,9.0,21.9,42.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,45,77.223,3.0,SOFT,29.0,False,1,True,False,False,8.0,21.9,42.0,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,46,75.954,3.0,SOFT,30.0,False,1,True,False,False,6.0,22.0,40.6,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,47,76.31,3.0,SOFT,31.0,False,1,True,False,False,6.0,21.8,40.6,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,48,79.905,3.0,SOFT,32.0,False,1,False,True,False,6.0,21.8,40.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,49,92.762,4.0,SOFT,1.0,True,1,False,False,True,11.0,21.9,40.4,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,50,74.709,4.0,SOFT,2.0,True,1,True,False,False,11.0,21.7,40.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,51,75.054,4.0,SOFT,3.0,True,12,True,False,False,10.0,21.7,40.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,52,85.071,4.0,SOFT,4.0,True,26,False,False,False,10.0,21.8,40.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,53,101.425,4.0,SOFT,5.0,True,6,False,False,False,10.0,21.8,40.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,54,101.805,4.0,SOFT,6.0,True,64,False,False,False,10.0,21.7,39.6,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,55,100.895,4.0,SOFT,7.0,True,4,False,False,False,10.0,21.5,39.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,56,86.621,4.0,SOFT,8.0,True,4,False,False,False,10.0,21.4,39.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,57,114.435,4.0,SOFT,9.0,True,4,False,False,False,10.0,21.4,39.1,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,58,115.094,4.0,SOFT,10.0,True,4,False,False,False,10.0,21.4,39.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,59,115.185,4.0,SOFT,11.0,True,41,False,False,False,10.0,21.4,39.5,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,60,76.615,4.0,SOFT,12.0,True,1,True,False,False,9.0,21.4,38.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,61,75.448,4.0,SOFT,13.0,True,1,True,False,False,9.0,21.5,38.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,62,75.305,4.0,SOFT,14.0,True,1,True,False,False,9.0,21.5,39.0,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,63,74.278,4.0,SOFT,15.0,True,1,True,False,False,7.0,21.5,39.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,64,74.195,4.0,SOFT,16.0,True,1,True,False,False,7.0,21.5,39.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,65,74.284,4.0,SOFT,17.0,True,1,True,False,False,7.0,21.3,39.3,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,66,74.56,4.0,SOFT,18.0,True,1,True,False,False,7.0,21.4,39.2,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,67,74.195,4.0,SOFT,19.0,True,1,True,False,False,6.0,21.3,38.7,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,68,74.628,4.0,SOFT,20.0,True,1,True,False,False,6.0,21.3,38.7,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,69,74.776,4.0,SOFT,21.0,True,1,True,False,False,6.0,21.2,38.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,70,74.547,4.0,SOFT,22.0,True,1,True,False,False,6.0,21.2,37.8,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VER,Red Bull Racing,71,74.387,4.0,SOFT,23.0,True,1,True,False,False,6.0,21.2,37.9,False,3.0,6.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,1,102.129,1.0,SOFT,1.0,True,124,False,False,False,9.0,23.6,49.5,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,2,112.007,1.0,SOFT,2.0,True,4,False,False,False,9.0,23.6,49.5,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,3,119.65,1.0,SOFT,3.0,True,4,False,False,False,9.0,23.4,49.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,4,121.578,1.0,SOFT,4.0,True,4,False,False,False,9.0,23.3,49.0,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,5,115.772,1.0,SOFT,5.0,True,4,False,False,False,9.0,23.3,48.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,6,115.164,1.0,SOFT,6.0,True,41,False,False,False,9.0,23.3,48.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,7,78.896,1.0,SOFT,7.0,True,12,True,False,False,6.0,23.2,48.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,8,77.411,1.0,SOFT,8.0,True,1,True,False,False,6.0,23.3,48.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,9,77.3,1.0,SOFT,9.0,True,1,True,False,False,7.0,23.4,47.6,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,10,77.541,1.0,SOFT,10.0,True,1,True,False,False,7.0,23.7,49.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,11,77.341,1.0,SOFT,11.0,True,1,True,False,False,7.0,23.7,49.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,12,77.318,1.0,SOFT,12.0,True,1,True,False,False,7.0,23.8,49.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,13,77.458,1.0,SOFT,13.0,True,1,True,False,False,7.0,23.8,48.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,14,77.66,1.0,SOFT,14.0,True,1,True,False,False,7.0,23.7,47.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,15,77.776,1.0,SOFT,15.0,True,1,True,False,False,7.0,23.5,47.5,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,16,78.004,1.0,SOFT,16.0,True,1,True,False,False,7.0,23.6,47.7,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,17,77.758,1.0,SOFT,17.0,True,1,True,False,False,7.0,23.7,48.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,18,77.648,1.0,SOFT,18.0,True,1,True,False,False,6.0,23.7,47.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,19,81.692,1.0,SOFT,19.0,True,1,False,True,False,8.0,23.7,46.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,20,94.679,2.0,MEDIUM,1.0,True,1,False,False,True,15.0,23.5,46.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,21,76.862,2.0,MEDIUM,2.0,True,1,True,False,False,14.0,23.3,46.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,22,77.241,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,23.2,46.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,23,77.253,2.0,MEDIUM,4.0,True,1,True,False,False,13.0,23.2,46.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,24,77.402,2.0,MEDIUM,5.0,True,1,True,False,False,13.0,23.2,45.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,25,77.392,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,23.1,45.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,26,77.17,2.0,MEDIUM,7.0,True,1,True,False,False,8.0,22.8,45.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,27,77.055,2.0,MEDIUM,8.0,True,1,True,False,False,7.0,22.8,44.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,28,77.968,2.0,MEDIUM,9.0,True,1,True,False,False,8.0,22.8,44.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,29,78.094,2.0,MEDIUM,10.0,True,1,True,False,False,9.0,22.9,43.7,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,30,78.256,2.0,MEDIUM,11.0,True,1,True,False,False,9.0,22.8,43.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,31,77.668,2.0,MEDIUM,12.0,True,1,True,False,False,9.0,22.5,43.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,32,77.608,2.0,MEDIUM,13.0,True,1,True,False,False,9.0,22.5,43.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,33,77.409,2.0,MEDIUM,14.0,True,1,True,False,False,9.0,22.4,43.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,34,77.766,2.0,MEDIUM,15.0,True,1,True,False,False,9.0,22.5,42.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,35,81.196,2.0,MEDIUM,16.0,True,1,False,True,False,10.0,22.5,42.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,36,93.844,3.0,SOFT,6.0,False,1,False,False,True,17.0,22.6,41.8,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,37,76.259,3.0,SOFT,7.0,False,1,True,False,False,17.0,22.5,41.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,38,76.606,3.0,SOFT,8.0,False,1,True,False,False,16.0,22.4,41.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,39,76.723,3.0,SOFT,9.0,False,1,True,False,False,16.0,22.3,41.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,40,76.796,3.0,SOFT,10.0,False,1,True,False,False,14.0,22.1,42.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,41,76.697,3.0,SOFT,11.0,False,1,True,False,False,14.0,22.1,42.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,42,76.648,3.0,SOFT,12.0,False,1,True,False,False,14.0,21.9,42.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,43,76.52,3.0,SOFT,13.0,False,1,True,False,False,14.0,22.0,42.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,44,76.608,3.0,SOFT,14.0,False,1,True,False,False,14.0,21.9,42.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,45,76.541,3.0,SOFT,15.0,False,1,True,False,False,13.0,22.0,40.6,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,46,76.997,3.0,SOFT,16.0,False,1,True,False,False,12.0,22.0,40.6,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,47,76.798,3.0,SOFT,17.0,False,1,True,False,False,12.0,21.8,40.6,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,48,77.449,3.0,SOFT,18.0,False,1,True,False,False,12.0,21.8,40.4,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,49,77.277,3.0,SOFT,19.0,False,1,True,False,False,10.0,21.8,40.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,50,76.742,3.0,SOFT,20.0,False,1,True,False,False,10.0,21.7,40.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,51,76.808,3.0,SOFT,21.0,False,12,True,False,False,11.0,21.7,40.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,52,88.911,3.0,SOFT,22.0,False,26,False,True,False,11.0,21.8,40.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,53,114.596,4.0,MEDIUM,1.0,True,6,False,False,True,14.0,21.8,40.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,54,102.298,4.0,MEDIUM,2.0,True,64,False,False,False,14.0,21.7,39.6,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,55,101.023,4.0,MEDIUM,3.0,True,4,False,False,False,14.0,21.4,39.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,56,81.137,4.0,MEDIUM,4.0,True,4,False,False,False,14.0,21.4,39.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,57,106.469,4.0,MEDIUM,5.0,True,4,False,False,False,14.0,21.4,39.1,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,58,114.562,4.0,MEDIUM,6.0,True,4,False,False,False,14.0,21.4,39.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,59,112.619,4.0,MEDIUM,7.0,True,41,False,False,False,14.0,21.4,39.5,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,60,77.986,4.0,MEDIUM,8.0,True,1,True,False,False,14.0,21.4,38.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,61,78.014,4.0,MEDIUM,9.0,True,1,True,False,False,14.0,21.4,39.0,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,62,75.809,4.0,MEDIUM,10.0,True,1,True,False,False,14.0,21.5,39.0,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,63,75.361,4.0,MEDIUM,11.0,True,1,True,False,False,14.0,21.5,39.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,64,75.327,4.0,MEDIUM,12.0,True,1,True,False,False,14.0,21.5,39.3,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,65,75.689,4.0,MEDIUM,13.0,True,1,True,False,False,14.0,21.3,39.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,66,76.195,4.0,MEDIUM,14.0,True,1,True,False,False,13.0,21.4,39.2,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,67,75.43,4.0,MEDIUM,15.0,True,1,True,False,False,13.0,21.3,38.7,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,68,75.886,4.0,MEDIUM,16.0,True,1,True,False,False,12.0,21.3,38.7,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,69,75.697,4.0,MEDIUM,17.0,True,1,True,False,False,12.0,21.2,38.8,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,70,75.845,4.0,MEDIUM,18.0,True,1,True,False,False,12.0,21.2,37.8,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,GAS,AlphaTauri,71,75.622,4.0,MEDIUM,19.0,True,1,True,False,False,12.0,21.2,37.9,False,10.0,14.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,1,93.603,1.0,SOFT,1.0,True,124,False,False,False,4.0,23.6,49.5,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,2,114.096,1.0,SOFT,2.0,True,4,False,False,False,4.0,23.6,49.5,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,3,119.735,1.0,SOFT,3.0,True,4,False,False,False,4.0,23.4,49.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,4,121.807,1.0,SOFT,4.0,True,4,False,False,False,4.0,23.3,49.0,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,5,114.764,1.0,SOFT,5.0,True,4,False,False,False,4.0,23.3,48.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,6,120.838,1.0,SOFT,6.0,True,41,False,False,False,4.0,23.3,48.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,7,76.928,1.0,SOFT,7.0,True,12,True,False,False,2.0,23.2,48.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,8,76.083,1.0,SOFT,8.0,True,1,True,False,False,2.0,23.3,48.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,9,76.224,1.0,SOFT,9.0,True,1,True,False,False,2.0,23.4,47.6,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,10,76.22,1.0,SOFT,10.0,True,1,True,False,False,2.0,23.7,49.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,11,76.142,1.0,SOFT,11.0,True,1,True,False,False,2.0,23.7,49.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,12,76.331,1.0,SOFT,12.0,True,1,True,False,False,2.0,23.8,49.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,13,76.519,1.0,SOFT,13.0,True,1,True,False,False,2.0,23.9,49.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,14,76.602,1.0,SOFT,14.0,True,1,True,False,False,2.0,23.7,47.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,15,76.225,1.0,SOFT,15.0,True,1,True,False,False,2.0,23.5,47.5,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,16,76.563,1.0,SOFT,16.0,True,1,True,False,False,2.0,23.5,46.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,17,76.401,1.0,SOFT,17.0,True,1,True,False,False,2.0,23.7,48.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,18,76.429,1.0,SOFT,18.0,True,1,True,False,False,2.0,23.7,47.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,19,76.689,1.0,SOFT,19.0,True,1,True,False,False,2.0,23.7,46.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,20,76.885,1.0,SOFT,20.0,True,1,True,False,False,2.0,23.6,46.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,21,76.993,1.0,SOFT,21.0,True,1,True,False,False,2.0,23.3,46.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,22,77.085,1.0,SOFT,22.0,True,1,True,False,False,2.0,23.3,46.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,23,81.078,1.0,SOFT,23.0,True,1,False,True,False,2.0,23.2,46.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,24,93.981,2.0,MEDIUM,1.0,True,1,False,False,True,4.0,23.2,45.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,25,75.839,2.0,MEDIUM,2.0,True,1,True,False,False,4.0,23.1,45.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,26,76.291,2.0,MEDIUM,3.0,True,1,True,False,False,3.0,23.0,45.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,27,76.113,2.0,MEDIUM,4.0,True,1,True,False,False,3.0,22.8,44.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,28,76.13,2.0,MEDIUM,5.0,True,1,True,False,False,3.0,22.8,44.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,29,76.166,2.0,MEDIUM,6.0,True,1,True,False,False,3.0,22.9,44.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,30,76.231,2.0,MEDIUM,7.0,True,1,True,False,False,2.0,22.9,43.7,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,31,76.329,2.0,MEDIUM,8.0,True,1,True,False,False,2.0,22.5,43.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,32,76.307,2.0,MEDIUM,9.0,True,1,True,False,False,2.0,22.4,42.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,33,76.328,2.0,MEDIUM,10.0,True,1,True,False,False,2.0,22.5,43.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,34,76.362,2.0,MEDIUM,11.0,True,1,True,False,False,2.0,22.5,42.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,35,76.284,2.0,MEDIUM,12.0,True,1,True,False,False,2.0,22.5,42.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,36,76.174,2.0,MEDIUM,13.0,True,1,True,False,False,2.0,22.6,41.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,37,76.26,2.0,MEDIUM,14.0,True,1,True,False,False,2.0,22.6,41.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,38,76.173,2.0,MEDIUM,15.0,True,1,True,False,False,2.0,22.4,41.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,39,76.371,2.0,MEDIUM,16.0,True,1,True,False,False,2.0,22.4,41.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,40,76.628,2.0,MEDIUM,17.0,True,1,True,False,False,2.0,22.3,41.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,41,76.434,2.0,MEDIUM,18.0,True,1,True,False,False,2.0,22.1,42.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,42,76.299,2.0,MEDIUM,19.0,True,1,True,False,False,2.0,21.8,42.6,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,43,76.571,2.0,MEDIUM,20.0,True,1,True,False,False,2.0,21.9,42.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,44,77.163,2.0,MEDIUM,21.0,True,1,True,False,False,2.0,22.0,42.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,45,77.513,2.0,MEDIUM,22.0,True,1,True,False,False,3.0,21.9,42.0,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,46,77.043,2.0,MEDIUM,23.0,True,1,True,False,False,3.0,22.0,40.6,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,47,80.204,2.0,MEDIUM,24.0,True,1,False,True,False,3.0,22.0,40.6,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,48,92.919,3.0,MEDIUM,1.0,True,1,False,False,True,4.0,21.8,40.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,49,75.23,3.0,MEDIUM,2.0,True,1,True,False,False,4.0,21.9,40.4,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,50,75.28,3.0,MEDIUM,3.0,True,1,True,False,False,4.0,21.8,40.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,51,75.159,3.0,MEDIUM,4.0,True,1,True,False,False,4.0,21.7,40.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,52,75.479,3.0,MEDIUM,5.0,True,12,True,False,False,4.0,21.7,40.0,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,53,95.844,3.0,MEDIUM,6.0,True,26,False,False,False,4.0,21.8,40.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,54,100.84,3.0,MEDIUM,7.0,True,64,False,False,False,3.0,21.8,39.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,55,113.502,3.0,MEDIUM,8.0,True,4,False,False,False,3.0,21.7,39.6,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,56,120.298,3.0,MEDIUM,9.0,True,4,False,False,False,3.0,21.4,39.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,57,116.722,3.0,MEDIUM,10.0,True,4,False,False,False,3.0,21.4,39.1,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,58,116.786,3.0,MEDIUM,11.0,True,4,False,False,False,3.0,21.4,39.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,59,121.042,3.0,MEDIUM,12.0,True,41,False,False,False,3.0,21.4,39.5,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,60,75.382,3.0,MEDIUM,13.0,True,1,True,False,False,3.0,21.4,38.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,61,74.911,3.0,MEDIUM,14.0,True,1,True,False,False,3.0,21.5,38.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,62,74.283,3.0,MEDIUM,15.0,True,1,True,False,False,3.0,21.5,39.0,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,63,75.588,3.0,MEDIUM,16.0,True,1,True,False,False,4.0,21.5,39.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,64,75.661,3.0,MEDIUM,17.0,True,1,True,False,False,5.0,21.5,39.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,65,76.051,3.0,MEDIUM,18.0,True,1,True,False,False,6.0,21.3,39.3,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,66,74.866,3.0,MEDIUM,19.0,True,1,True,False,False,6.0,21.4,39.2,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,67,75.715,3.0,MEDIUM,20.0,True,1,True,False,False,7.0,21.3,38.7,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,68,75.103,3.0,MEDIUM,21.0,True,1,True,False,False,7.0,21.3,38.7,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,69,75.188,3.0,MEDIUM,22.0,True,1,True,False,False,7.0,21.2,38.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,70,75.042,3.0,MEDIUM,23.0,True,1,True,False,False,7.0,21.2,37.8,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,PER,Red Bull Racing,71,75.799,3.0,MEDIUM,24.0,True,1,True,False,False,7.0,21.2,37.9,False,4.0,7.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,1,110.726,1.0,MEDIUM,1.0,True,124,False,False,False,15.0,23.6,49.5,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,2,112.539,1.0,MEDIUM,2.0,True,4,False,False,False,15.0,23.6,49.5,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,3,117.216,1.0,MEDIUM,3.0,True,4,False,False,False,15.0,23.4,49.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,4,121.527,1.0,MEDIUM,4.0,True,4,False,False,False,15.0,23.3,49.0,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,5,115.247,1.0,MEDIUM,5.0,True,4,False,False,False,15.0,23.3,48.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,6,110.592,1.0,MEDIUM,6.0,True,41,False,False,False,15.0,23.3,48.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,7,80.639,1.0,MEDIUM,7.0,True,12,True,False,False,12.0,23.2,48.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,8,78.187,1.0,MEDIUM,8.0,True,1,True,False,False,12.0,23.3,48.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,9,77.147,1.0,MEDIUM,9.0,True,1,True,False,False,12.0,23.6,49.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,10,77.102,1.0,MEDIUM,10.0,True,1,True,False,False,12.0,23.7,49.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,11,77.626,1.0,MEDIUM,11.0,True,1,True,False,False,12.0,23.7,49.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,12,77.859,1.0,MEDIUM,12.0,True,1,True,False,False,12.0,23.8,49.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,13,78.242,1.0,MEDIUM,13.0,True,1,True,False,False,12.0,23.8,48.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,14,81.551,1.0,MEDIUM,14.0,True,1,False,True,False,13.0,23.7,47.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,15,93.331,2.0,MEDIUM,1.0,True,1,False,False,True,17.0,23.5,47.5,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,16,75.999,2.0,MEDIUM,2.0,True,1,True,False,False,17.0,23.6,47.7,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,17,76.481,2.0,MEDIUM,3.0,True,1,True,False,False,16.0,23.7,48.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,18,76.845,2.0,MEDIUM,4.0,True,1,True,False,False,16.0,23.7,47.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,19,76.937,2.0,MEDIUM,5.0,True,1,True,False,False,16.0,23.6,46.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,20,77.206,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,23.5,46.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,21,76.996,2.0,MEDIUM,7.0,True,1,True,False,False,13.0,23.3,46.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,22,77.236,2.0,MEDIUM,8.0,True,1,True,False,False,13.0,23.2,46.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,23,77.243,2.0,MEDIUM,9.0,True,1,True,False,False,12.0,23.2,46.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,24,77.196,2.0,MEDIUM,10.0,True,1,True,False,False,12.0,23.2,45.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,25,77.061,2.0,MEDIUM,11.0,True,1,True,False,False,7.0,23.1,45.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,26,77.148,2.0,MEDIUM,12.0,True,1,True,False,False,7.0,22.8,45.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,27,76.727,2.0,MEDIUM,13.0,True,1,True,False,False,6.0,22.8,44.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,28,76.998,2.0,MEDIUM,14.0,True,1,True,False,False,6.0,22.8,44.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,29,76.844,2.0,MEDIUM,15.0,True,1,True,False,False,5.0,22.9,43.7,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,30,76.448,2.0,MEDIUM,16.0,True,1,True,False,False,5.0,22.8,43.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,31,76.922,2.0,MEDIUM,17.0,True,1,True,False,False,5.0,22.5,43.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,32,76.997,2.0,MEDIUM,18.0,True,1,True,False,False,5.0,22.4,42.8,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,33,77.063,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,22.4,43.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,34,77.157,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,22.5,42.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,35,81.022,2.0,MEDIUM,21.0,True,1,False,True,False,7.0,22.5,42.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,36,98.439,3.0,MEDIUM,1.0,True,1,False,False,True,15.0,22.6,41.8,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,37,76.08,3.0,MEDIUM,2.0,True,1,True,False,False,14.0,22.5,41.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,38,75.844,3.0,MEDIUM,3.0,True,1,True,False,False,13.0,22.4,41.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,39,75.637,3.0,MEDIUM,4.0,True,1,True,False,False,13.0,22.3,41.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,40,75.757,3.0,MEDIUM,5.0,True,1,True,False,False,13.0,22.1,42.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,41,76.37,3.0,MEDIUM,6.0,True,1,True,False,False,12.0,22.1,42.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,42,75.834,3.0,MEDIUM,7.0,True,1,True,False,False,12.0,21.9,42.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,43,75.813,3.0,MEDIUM,8.0,True,1,True,False,False,12.0,22.0,42.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,44,76.157,3.0,MEDIUM,9.0,True,1,True,False,False,11.0,21.9,42.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,45,76.109,3.0,MEDIUM,10.0,True,1,True,False,False,9.0,21.9,42.0,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,46,75.642,3.0,MEDIUM,11.0,True,1,True,False,False,7.0,22.0,40.6,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,47,75.987,3.0,MEDIUM,12.0,True,1,True,False,False,7.0,21.8,40.6,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,48,76.15,3.0,MEDIUM,13.0,True,1,True,False,False,5.0,21.8,40.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,49,76.148,3.0,MEDIUM,14.0,True,1,True,False,False,5.0,21.9,40.4,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,50,76.035,3.0,MEDIUM,15.0,True,1,True,False,False,5.0,21.7,40.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,51,75.97,3.0,MEDIUM,16.0,True,1,True,False,False,5.0,21.7,40.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,52,84.572,3.0,MEDIUM,17.0,True,126,False,True,False,5.0,21.7,40.0,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,53,114.811,4.0,SOFT,1.0,True,6,False,False,True,9.0,21.8,40.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,54,102.496,4.0,SOFT,2.0,True,64,False,False,False,9.0,21.7,39.6,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,55,101.436,4.0,SOFT,3.0,True,4,False,False,False,9.0,21.5,39.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,56,87.812,4.0,SOFT,4.0,True,4,False,False,False,9.0,21.4,39.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,57,114.811,4.0,SOFT,5.0,True,4,False,False,False,9.0,21.4,39.1,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,58,114.966,4.0,SOFT,6.0,True,4,False,False,False,9.0,21.4,39.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,59,115.727,4.0,SOFT,7.0,True,41,False,False,False,9.0,21.4,39.5,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,60,75.677,4.0,SOFT,8.0,True,1,True,False,False,7.0,21.4,38.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,61,74.862,4.0,SOFT,9.0,True,1,True,False,False,6.0,21.5,38.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,62,74.164,4.0,SOFT,10.0,True,1,True,False,False,6.0,21.5,39.0,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,63,74.43,4.0,SOFT,11.0,True,1,True,False,False,6.0,21.5,39.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,64,74.756,4.0,SOFT,12.0,True,1,True,False,False,6.0,21.5,39.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,65,74.726,4.0,SOFT,13.0,True,1,True,False,False,5.0,21.3,39.3,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,66,74.438,4.0,SOFT,14.0,True,1,True,False,False,5.0,21.4,39.2,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,67,74.429,4.0,SOFT,15.0,True,1,True,False,False,5.0,21.3,38.7,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,68,74.857,4.0,SOFT,16.0,True,1,True,False,False,5.0,21.3,38.7,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,69,74.924,4.0,SOFT,17.0,True,1,True,False,False,5.0,21.2,38.8,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,70,74.888,4.0,SOFT,18.0,True,1,True,False,False,5.0,21.2,37.8,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALO,Alpine,71,74.794,4.0,SOFT,19.0,True,1,True,False,False,5.0,21.2,37.9,False,17.0,5.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,1,97.377,1.0,MEDIUM,1.0,True,124,False,False,False,6.0,23.6,49.5,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,2,113.672,1.0,MEDIUM,2.0,True,4,False,False,False,6.0,23.6,49.5,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,3,118.265,1.0,MEDIUM,3.0,True,4,False,False,False,6.0,23.4,49.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,4,122.323,1.0,MEDIUM,4.0,True,4,False,False,False,6.0,23.3,49.0,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,5,115.543,1.0,MEDIUM,5.0,True,4,False,False,False,6.0,23.3,48.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,6,118.365,1.0,MEDIUM,6.0,True,41,False,False,False,6.0,23.3,48.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,7,93.18,1.0,MEDIUM,7.0,True,12,False,True,False,18.0,23.2,48.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,8,98.986,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,23.3,48.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,9,75.307,2.0,MEDIUM,2.0,True,1,True,False,False,18.0,23.6,49.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,10,75.725,2.0,MEDIUM,3.0,True,1,True,False,False,18.0,23.7,49.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,11,76.128,2.0,MEDIUM,4.0,True,1,True,False,False,18.0,23.8,49.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,12,76.188,2.0,MEDIUM,5.0,True,1,True,False,False,18.0,23.9,49.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,13,76.525,2.0,MEDIUM,6.0,True,1,True,False,False,18.0,23.8,48.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,14,76.636,2.0,MEDIUM,7.0,True,1,True,False,False,18.0,23.7,47.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,15,76.767,2.0,MEDIUM,8.0,True,1,True,False,False,18.0,23.5,46.8,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,16,76.76,2.0,MEDIUM,9.0,True,1,True,False,False,18.0,23.6,47.7,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,17,76.758,2.0,MEDIUM,10.0,True,1,True,False,False,17.0,23.7,48.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,18,77.001,2.0,MEDIUM,11.0,True,1,True,False,False,17.0,23.7,47.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,19,77.092,2.0,MEDIUM,12.0,True,1,True,False,False,17.0,23.6,46.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,20,77.735,2.0,MEDIUM,13.0,True,1,True,False,False,16.0,23.5,46.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,21,80.748,2.0,MEDIUM,14.0,True,1,False,True,False,16.0,23.3,46.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,22,93.684,3.0,SOFT,1.0,True,1,False,False,True,17.0,23.2,46.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,23,76.102,3.0,SOFT,2.0,True,1,True,False,False,17.0,23.2,46.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,24,76.716,3.0,SOFT,3.0,True,1,True,False,False,16.0,23.1,45.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,25,76.364,3.0,SOFT,4.0,True,1,True,False,False,16.0,23.0,45.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,26,75.793,3.0,SOFT,5.0,True,1,True,False,False,15.0,22.8,45.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,27,75.778,3.0,SOFT,6.0,True,1,True,False,False,15.0,22.8,44.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,28,76.137,3.0,SOFT,7.0,True,1,True,False,False,15.0,22.9,44.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,29,76.073,3.0,SOFT,8.0,True,1,True,False,False,14.0,22.9,43.7,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,30,75.839,3.0,SOFT,9.0,True,1,True,False,False,13.0,22.8,43.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,31,76.136,3.0,SOFT,10.0,True,1,True,False,False,13.0,22.5,43.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,32,76.614,3.0,SOFT,11.0,True,1,True,False,False,13.0,22.5,43.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,33,76.31,3.0,SOFT,12.0,True,1,True,False,False,13.0,22.4,43.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,34,76.873,3.0,SOFT,13.0,True,1,True,False,False,13.0,22.5,42.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,35,76.501,3.0,SOFT,14.0,True,1,True,False,False,12.0,22.6,41.8,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,36,76.075,3.0,SOFT,15.0,True,1,True,False,False,9.0,22.6,41.8,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,37,76.404,3.0,SOFT,16.0,True,1,True,False,False,9.0,22.5,41.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,38,76.347,3.0,SOFT,17.0,True,1,True,False,False,9.0,22.4,41.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,39,76.753,3.0,SOFT,18.0,True,1,True,False,False,9.0,22.3,41.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,40,76.728,3.0,SOFT,19.0,True,1,True,False,False,9.0,22.1,42.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,41,76.987,3.0,SOFT,20.0,True,1,True,False,False,9.0,22.1,42.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,42,76.773,3.0,SOFT,21.0,True,1,True,False,False,9.0,21.8,42.6,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,43,76.686,3.0,SOFT,22.0,True,1,True,False,False,8.0,22.0,42.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,44,80.008,3.0,SOFT,23.0,True,1,False,True,False,10.0,21.9,42.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,45,92.449,4.0,SOFT,2.0,False,1,False,False,True,14.0,21.9,42.0,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,46,75.292,4.0,SOFT,3.0,False,1,True,False,False,13.0,22.0,40.6,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,47,75.622,4.0,SOFT,4.0,False,1,True,False,False,11.0,21.8,40.6,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,48,75.355,4.0,SOFT,5.0,False,1,True,False,False,9.0,21.8,40.4,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,49,75.003,4.0,SOFT,6.0,False,1,True,False,False,8.0,21.8,40.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,50,75.983,4.0,SOFT,7.0,False,1,True,False,False,8.0,21.7,40.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,51,74.884,4.0,SOFT,8.0,False,12,True,False,False,7.0,21.7,40.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,52,83.498,4.0,SOFT,9.0,False,26,False,False,False,7.0,21.7,40.0,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,53,101.296,4.0,SOFT,10.0,False,6,False,False,False,6.0,21.8,40.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,54,102.519,4.0,SOFT,11.0,False,64,False,False,False,6.0,21.8,39.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,55,101.266,4.0,SOFT,12.0,False,4,False,False,False,6.0,21.5,39.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,56,88.185,4.0,SOFT,13.0,False,4,False,False,False,6.0,21.4,39.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,57,116.759,4.0,SOFT,14.0,False,4,False,False,False,6.0,21.4,39.1,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,58,114.219,4.0,SOFT,15.0,False,4,False,False,False,6.0,21.4,39.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,59,118.573,4.0,SOFT,16.0,False,41,False,False,False,6.0,21.4,39.5,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,60,75.417,4.0,SOFT,17.0,False,1,True,False,False,5.0,21.4,38.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,61,75.159,4.0,SOFT,18.0,False,1,True,False,False,5.0,21.5,38.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,62,74.307,4.0,SOFT,19.0,False,1,True,False,False,5.0,21.5,39.0,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,63,74.253,4.0,SOFT,20.0,False,1,True,False,False,5.0,21.5,39.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,64,74.555,4.0,SOFT,21.0,False,1,True,False,False,4.0,21.5,39.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,65,74.448,4.0,SOFT,22.0,False,1,True,False,False,4.0,21.3,39.3,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,66,74.637,4.0,SOFT,23.0,False,1,True,False,False,4.0,21.4,39.2,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,67,74.528,4.0,SOFT,24.0,False,1,True,False,False,4.0,21.3,38.7,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,68,74.856,4.0,SOFT,25.0,False,1,True,False,False,4.0,21.3,38.7,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,69,75.007,4.0,SOFT,26.0,False,1,True,False,False,4.0,21.2,38.8,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,70,74.757,4.0,SOFT,27.0,False,1,True,False,False,4.0,21.2,37.8,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LEC,Ferrari,71,74.896,4.0,SOFT,28.0,False,1,True,False,False,4.0,21.2,37.9,False,5.0,4.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,1,105.389,1.0,MEDIUM,2.0,False,124,False,False,False,12.0,23.6,49.5,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,2,111.889,1.0,MEDIUM,3.0,False,4,False,False,False,12.0,23.6,49.5,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,3,119.377,1.0,MEDIUM,4.0,False,4,False,False,False,12.0,23.4,49.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,4,121.509,1.0,MEDIUM,5.0,False,4,False,False,False,12.0,23.3,49.0,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,5,115.846,1.0,MEDIUM,6.0,False,4,False,False,False,12.0,23.3,48.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,6,113.123,1.0,MEDIUM,7.0,False,41,False,False,False,12.0,23.3,48.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,7,80.519,1.0,MEDIUM,8.0,False,12,True,False,False,9.0,23.2,48.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,8,77.144,1.0,MEDIUM,9.0,False,1,True,False,False,9.0,23.3,48.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,9,77.197,1.0,MEDIUM,10.0,False,1,True,False,False,9.0,23.6,49.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,10,77.327,1.0,MEDIUM,11.0,False,1,True,False,False,9.0,23.7,49.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,11,77.996,1.0,MEDIUM,12.0,False,1,True,False,False,9.0,23.7,49.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,12,78.261,1.0,MEDIUM,13.0,False,1,True,False,False,10.0,23.8,49.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,13,78.819,1.0,MEDIUM,14.0,False,1,True,False,False,11.0,23.8,48.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,14,78.489,1.0,MEDIUM,15.0,False,1,True,False,False,11.0,23.7,47.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,15,77.731,1.0,MEDIUM,16.0,False,1,True,False,False,11.0,23.5,47.5,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,16,78.824,1.0,MEDIUM,17.0,False,1,True,False,False,11.0,23.6,47.7,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,17,77.423,1.0,MEDIUM,18.0,False,1,True,False,False,11.0,23.7,48.4,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,18,77.912,1.0,MEDIUM,19.0,False,1,True,False,False,10.0,23.7,47.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,19,78.11,1.0,MEDIUM,20.0,False,1,True,False,False,10.0,23.7,46.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,20,78.508,1.0,MEDIUM,21.0,False,1,True,False,False,10.0,23.5,46.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,21,78.289,1.0,MEDIUM,22.0,False,1,True,False,False,10.0,23.3,46.4,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,22,78.208,1.0,MEDIUM,23.0,False,1,True,False,False,10.0,23.3,46.4,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,23,78.269,1.0,MEDIUM,24.0,False,1,True,False,False,10.0,23.2,46.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,24,78.269,1.0,MEDIUM,25.0,False,1,True,False,False,9.0,23.2,45.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,25,78.33,1.0,MEDIUM,26.0,False,1,True,False,False,6.0,23.1,45.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,26,78.067,1.0,MEDIUM,27.0,False,1,True,False,False,6.0,22.8,45.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,27,78.126,1.0,MEDIUM,28.0,False,1,True,False,False,5.0,22.8,44.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,28,78.312,1.0,MEDIUM,29.0,False,1,True,False,False,5.0,22.8,44.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,29,82.627,1.0,MEDIUM,30.0,False,1,False,True,False,7.0,22.9,43.7,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,30,94.481,2.0,MEDIUM,2.0,False,1,False,False,True,15.0,22.8,43.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,31,76.301,2.0,MEDIUM,3.0,False,1,True,False,False,15.0,22.5,43.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,32,76.925,2.0,MEDIUM,4.0,False,1,True,False,False,15.0,22.5,43.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,33,76.892,2.0,MEDIUM,5.0,False,1,True,False,False,14.0,22.4,43.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,34,76.625,2.0,MEDIUM,6.0,False,1,True,False,False,14.0,22.5,42.4,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,35,76.738,2.0,MEDIUM,7.0,False,1,True,False,False,14.0,22.6,41.8,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,36,77.786,2.0,MEDIUM,8.0,False,1,True,False,False,13.0,22.6,41.8,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,37,76.979,2.0,MEDIUM,9.0,False,1,True,False,False,13.0,22.5,41.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,38,76.898,2.0,MEDIUM,10.0,False,1,True,False,False,12.0,22.4,41.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,39,77.101,2.0,MEDIUM,11.0,False,1,True,False,False,12.0,22.3,41.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,40,76.735,2.0,MEDIUM,12.0,False,1,True,False,False,12.0,22.1,42.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,41,76.841,2.0,MEDIUM,13.0,False,1,True,False,False,13.0,22.1,42.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,42,77.34,2.0,MEDIUM,14.0,False,1,True,False,False,13.0,21.9,42.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,43,76.98,2.0,MEDIUM,15.0,False,1,True,False,False,13.0,22.0,42.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,44,77.114,2.0,MEDIUM,16.0,False,1,True,False,False,13.0,21.9,42.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,45,76.964,2.0,MEDIUM,17.0,False,1,True,False,False,12.0,21.9,42.0,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,46,76.787,2.0,MEDIUM,18.0,False,1,True,False,False,8.0,22.0,40.6,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,47,78.411,2.0,MEDIUM,19.0,False,1,True,False,False,9.0,21.8,40.6,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,48,81.208,2.0,MEDIUM,20.0,False,1,False,True,False,10.0,21.8,40.4,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,49,93.412,3.0,SOFT,1.0,False,1,False,False,True,15.0,21.8,40.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,50,74.831,3.0,SOFT,2.0,False,1,True,False,False,15.0,21.7,40.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,51,74.846,3.0,SOFT,3.0,False,12,True,False,False,14.0,21.7,40.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,52,88.151,3.0,SOFT,4.0,False,26,False,False,False,14.0,21.8,40.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,53,102.218,3.0,SOFT,5.0,False,6,False,False,False,13.0,21.8,40.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,54,102.445,3.0,SOFT,6.0,False,64,False,False,False,13.0,21.7,39.6,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,55,101.903,3.0,SOFT,7.0,False,4,False,False,False,13.0,21.4,39.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,56,80.835,3.0,SOFT,8.0,False,4,False,False,False,13.0,21.4,39.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,57,106.424,3.0,SOFT,9.0,False,4,False,False,False,13.0,21.4,39.1,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,58,114.809,3.0,SOFT,10.0,False,4,False,False,False,13.0,21.4,39.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,59,112.923,3.0,SOFT,11.0,False,41,False,False,False,13.0,21.4,39.5,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,60,77.438,3.0,SOFT,12.0,False,1,True,False,False,12.0,21.4,38.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,61,76.073,3.0,SOFT,13.0,False,1,True,False,False,12.0,21.4,39.0,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,62,75.786,3.0,SOFT,14.0,False,1,True,False,False,12.0,21.5,39.0,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,63,75.366,3.0,SOFT,15.0,False,1,True,False,False,11.0,21.5,39.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,64,75.531,3.0,SOFT,16.0,False,1,True,False,False,11.0,21.5,39.3,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,65,75.298,3.0,SOFT,17.0,False,1,True,False,False,10.0,21.3,39.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,66,75.791,3.0,SOFT,18.0,False,1,True,False,False,10.0,21.4,39.2,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,67,75.751,3.0,SOFT,19.0,False,1,True,False,False,10.0,21.3,38.7,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,68,75.73,3.0,SOFT,20.0,False,1,True,False,False,10.0,21.3,38.7,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,69,75.607,3.0,SOFT,21.0,False,1,True,False,False,10.0,21.2,38.8,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,70,75.713,3.0,SOFT,22.0,False,1,True,False,False,10.0,21.2,37.8,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,STR,Aston Martin,71,75.719,3.0,SOFT,23.0,False,1,True,False,False,10.0,21.2,37.9,False,15.0,10.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MAG,Haas F1 Team,1,,1.0,MEDIUM,1.0,True,124,False,False,False,,23.6,49.5,False,8.0,19.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,1,114.921,1.0,MEDIUM,1.0,True,124,False,False,True,18.0,23.6,49.5,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,2,111.324,1.0,MEDIUM,2.0,True,4,False,False,False,18.0,23.6,49.5,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,3,117.616,1.0,MEDIUM,3.0,True,4,False,False,False,18.0,23.4,49.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,4,121.059,1.0,MEDIUM,4.0,True,4,False,False,False,17.0,23.3,49.0,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,5,115.424,1.0,MEDIUM,5.0,True,4,False,False,False,17.0,23.3,48.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,6,107.849,1.0,MEDIUM,6.0,True,41,False,False,False,17.0,23.3,48.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,7,81.453,1.0,MEDIUM,7.0,True,12,True,False,False,15.0,23.2,48.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,8,78.734,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,23.3,48.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,9,78.413,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,23.6,49.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,10,77.545,1.0,MEDIUM,10.0,True,1,True,False,False,15.0,23.7,49.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,11,78.023,1.0,MEDIUM,11.0,True,1,True,False,False,15.0,23.7,49.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,12,78.18,1.0,MEDIUM,12.0,True,1,True,False,False,14.0,23.8,49.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,13,79.227,1.0,MEDIUM,13.0,True,1,True,False,False,15.0,23.8,48.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,14,78.228,1.0,MEDIUM,14.0,True,1,True,False,False,15.0,23.7,47.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,15,78.451,1.0,MEDIUM,15.0,True,1,True,False,False,14.0,23.5,47.5,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,16,78.307,1.0,MEDIUM,16.0,True,1,True,False,False,14.0,23.6,47.7,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,17,78.427,1.0,MEDIUM,17.0,True,1,True,False,False,13.0,23.7,48.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,18,78.58,1.0,MEDIUM,18.0,True,1,True,False,False,13.0,23.7,47.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,19,78.517,1.0,MEDIUM,19.0,True,1,True,False,False,13.0,23.6,46.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,20,82.382,1.0,MEDIUM,20.0,True,1,False,True,False,13.0,23.5,46.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,21,94.951,2.0,SOFT,1.0,True,1,False,False,True,17.0,23.3,46.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,22,76.725,2.0,SOFT,2.0,True,1,True,False,False,16.0,23.2,46.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,23,76.899,2.0,SOFT,3.0,True,1,True,False,False,16.0,23.2,46.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,24,77.38,2.0,SOFT,4.0,True,1,True,False,False,15.0,23.2,45.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,25,77.289,2.0,SOFT,5.0,True,1,True,False,False,15.0,23.0,45.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,26,77.205,2.0,SOFT,6.0,True,1,True,False,False,14.0,22.8,45.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,27,77.121,2.0,SOFT,7.0,True,1,True,False,False,14.0,22.8,44.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,28,77.107,2.0,SOFT,8.0,True,1,True,False,False,14.0,22.9,44.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,29,78.058,2.0,SOFT,9.0,True,1,True,False,False,15.0,22.9,43.7,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,30,77.234,2.0,SOFT,10.0,True,1,True,False,False,14.0,22.8,43.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,31,77.319,2.0,SOFT,11.0,True,1,True,False,False,14.0,22.5,43.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,32,77.612,2.0,SOFT,12.0,True,1,True,False,False,14.0,22.5,43.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,33,78.045,2.0,SOFT,13.0,True,1,True,False,False,16.0,22.4,43.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,34,78.217,2.0,SOFT,14.0,True,1,True,False,False,16.0,22.5,42.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,35,77.463,2.0,SOFT,15.0,True,1,True,False,False,16.0,22.6,41.8,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,36,77.785,2.0,SOFT,16.0,True,1,True,False,False,14.0,22.6,41.8,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,37,77.593,2.0,SOFT,17.0,True,1,True,False,False,15.0,22.5,41.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,38,78.229,2.0,SOFT,18.0,True,1,True,False,False,14.0,22.4,41.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,39,77.641,2.0,SOFT,19.0,True,1,True,False,False,14.0,22.3,41.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,40,81.241,2.0,SOFT,20.0,True,1,False,True,False,16.0,22.1,42.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,41,96.605,3.0,SOFT,1.0,True,1,False,False,True,17.0,22.1,42.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,42,76.638,3.0,SOFT,2.0,True,1,True,False,False,17.0,21.9,42.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,43,76.515,3.0,SOFT,3.0,True,1,True,False,False,17.0,22.0,42.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,44,76.797,3.0,SOFT,4.0,True,1,True,False,False,17.0,21.9,42.0,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,45,76.818,3.0,SOFT,5.0,True,1,True,False,False,17.0,22.0,40.6,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,46,76.722,3.0,SOFT,6.0,True,1,True,False,False,17.0,22.0,40.6,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,47,76.65,3.0,SOFT,7.0,True,1,True,False,False,17.0,21.8,40.6,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,48,76.831,3.0,SOFT,8.0,True,1,True,False,False,16.0,21.9,40.4,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,49,76.775,3.0,SOFT,9.0,True,1,True,False,False,16.0,21.8,40.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,50,76.394,3.0,SOFT,10.0,True,1,True,False,False,16.0,21.7,40.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,51,77.935,3.0,SOFT,11.0,True,12,True,False,False,15.0,21.7,40.0,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,52,92.343,3.0,SOFT,12.0,True,26,False,False,False,15.0,21.8,40.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,53,102.666,3.0,SOFT,13.0,True,64,False,False,False,15.0,21.8,40.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,54,121.207,3.0,SOFT,14.0,True,4,False,True,False,15.0,21.7,39.6,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,55,127.132,4.0,MEDIUM,1.0,True,4,False,False,True,16.0,21.4,39.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,56,117.303,4.0,MEDIUM,2.0,True,4,False,False,False,16.0,21.4,39.1,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,57,115.198,4.0,MEDIUM,3.0,True,4,False,False,False,17.0,21.4,39.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,58,121.33,4.0,MEDIUM,4.0,True,41,False,False,False,17.0,21.4,39.5,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,59,83.332,4.0,MEDIUM,5.0,True,1,True,False,False,17.0,21.4,38.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,60,76.867,4.0,MEDIUM,6.0,True,1,True,False,False,17.0,21.4,39.0,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,61,76.352,4.0,MEDIUM,7.0,True,1,True,False,False,17.0,21.5,39.0,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,62,75.809,4.0,MEDIUM,8.0,True,1,True,False,False,17.0,21.5,39.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,63,75.508,4.0,MEDIUM,9.0,True,1,True,False,False,17.0,21.5,39.3,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,64,75.633,4.0,MEDIUM,10.0,True,1,True,False,False,17.0,21.3,39.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,65,75.999,4.0,MEDIUM,11.0,True,1,True,False,False,17.0,21.4,39.2,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,66,75.983,4.0,MEDIUM,12.0,True,1,True,False,False,17.0,21.3,38.7,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,67,76.339,4.0,MEDIUM,13.0,True,1,True,False,False,17.0,21.3,38.7,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,68,76.097,4.0,MEDIUM,14.0,True,1,True,False,False,17.0,21.2,38.8,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,69,76.406,4.0,MEDIUM,15.0,True,1,True,False,False,17.0,21.2,37.8,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,TSU,AlphaTauri,70,76.387,4.0,MEDIUM,16.0,True,1,True,False,False,17.0,21.2,37.9,False,0.0,17.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,1,112.761,1.0,HARD,1.0,True,124,False,False,False,17.0,23.6,49.5,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,2,112.39,1.0,HARD,2.0,True,4,False,False,False,17.0,23.6,49.5,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,3,117.968,1.0,HARD,3.0,True,4,False,False,False,17.0,23.4,49.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,4,124.054,1.0,HARD,4.0,True,4,False,True,False,18.0,23.3,49.0,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,5,115.026,2.0,MEDIUM,1.0,True,4,False,False,True,18.0,23.3,48.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,6,106.15,2.0,MEDIUM,2.0,True,41,False,False,False,18.0,23.3,48.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,7,81.421,2.0,MEDIUM,3.0,True,12,True,False,False,16.0,23.2,48.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,8,79.245,2.0,MEDIUM,4.0,True,1,True,False,False,16.0,23.3,48.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,9,78.002,2.0,MEDIUM,5.0,True,1,True,False,False,16.0,23.6,49.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,10,77.888,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,23.7,49.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,11,78.013,2.0,MEDIUM,7.0,True,1,True,False,False,16.0,23.7,49.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,12,77.769,2.0,MEDIUM,8.0,True,1,True,False,False,15.0,23.8,49.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,13,78.497,2.0,MEDIUM,9.0,True,1,True,False,False,14.0,23.8,48.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,14,78.095,2.0,MEDIUM,10.0,True,1,True,False,False,14.0,23.7,47.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,15,78.136,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,23.5,47.5,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,16,78.107,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,23.6,47.7,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,17,78.241,2.0,MEDIUM,13.0,True,1,True,False,False,12.0,23.7,48.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,18,78.335,2.0,MEDIUM,14.0,True,1,True,False,False,12.0,23.7,47.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,19,78.534,2.0,MEDIUM,15.0,True,1,True,False,False,12.0,23.6,46.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,20,78.481,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,23.5,46.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,21,78.649,2.0,MEDIUM,17.0,True,1,True,False,False,11.0,23.3,46.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,22,78.635,2.0,MEDIUM,18.0,True,1,True,False,False,11.0,23.2,46.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,23,78.75,2.0,MEDIUM,19.0,True,1,True,False,False,11.0,23.2,46.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,24,78.337,2.0,MEDIUM,20.0,True,1,True,False,False,11.0,23.2,45.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,25,83.055,2.0,MEDIUM,21.0,True,1,False,True,False,11.0,23.1,45.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,26,94.192,3.0,MEDIUM,1.0,True,1,False,False,True,16.0,22.8,45.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,27,76.626,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,22.8,44.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,28,76.774,3.0,MEDIUM,3.0,True,1,True,False,False,16.0,22.9,44.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,29,77.127,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,22.9,43.7,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,30,77.9,3.0,MEDIUM,5.0,True,1,True,False,False,17.0,22.8,43.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,31,77.221,3.0,MEDIUM,6.0,True,1,True,False,False,17.0,22.4,42.8,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,32,77.297,3.0,MEDIUM,7.0,True,1,True,False,False,17.0,22.5,43.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,33,77.344,3.0,MEDIUM,8.0,True,1,True,False,False,17.0,22.4,43.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,34,77.416,3.0,MEDIUM,9.0,True,1,True,False,False,17.0,22.5,42.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,35,77.436,3.0,MEDIUM,10.0,True,1,True,False,False,17.0,22.6,41.8,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,36,77.868,3.0,MEDIUM,11.0,True,1,True,False,False,16.0,22.6,41.8,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,37,77.388,3.0,MEDIUM,12.0,True,1,True,False,False,16.0,22.5,41.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,38,77.361,3.0,MEDIUM,13.0,True,1,True,False,False,15.0,22.4,41.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,39,77.734,3.0,MEDIUM,14.0,True,1,True,False,False,15.0,22.3,41.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,40,78.341,3.0,MEDIUM,15.0,True,1,True,False,False,15.0,22.1,42.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,41,77.69,3.0,MEDIUM,16.0,True,1,True,False,False,15.0,22.1,42.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,42,77.576,3.0,MEDIUM,17.0,True,1,True,False,False,15.0,21.9,42.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,43,77.549,3.0,MEDIUM,18.0,True,1,True,False,False,15.0,22.0,42.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,44,77.544,3.0,MEDIUM,19.0,True,1,True,False,False,15.0,21.9,42.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,45,77.639,3.0,MEDIUM,20.0,True,1,True,False,False,15.0,22.0,40.6,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,46,77.796,3.0,MEDIUM,21.0,True,1,True,False,False,14.0,22.0,40.6,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,47,82.297,3.0,MEDIUM,22.0,True,1,False,True,False,15.0,21.8,40.6,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,48,93.744,4.0,MEDIUM,1.0,True,1,False,False,True,17.0,21.9,40.4,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,49,75.613,4.0,MEDIUM,2.0,True,1,True,False,False,17.0,21.8,40.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,50,75.992,4.0,MEDIUM,3.0,True,1,True,False,False,17.0,21.7,40.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,51,76.503,4.0,MEDIUM,4.0,True,12,True,False,False,16.0,21.7,40.0,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,52,94.785,4.0,MEDIUM,5.0,True,26,False,False,False,16.0,21.8,40.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,53,102.077,4.0,MEDIUM,6.0,True,64,False,False,False,16.0,21.8,39.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,54,117.084,4.0,MEDIUM,7.0,True,4,False,False,False,16.0,21.7,39.6,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,55,120.416,4.0,MEDIUM,8.0,True,4,False,False,False,15.0,21.4,39.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,56,116.571,4.0,MEDIUM,9.0,True,4,False,False,False,15.0,21.4,39.1,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,57,83.854,4.0,MEDIUM,10.0,True,4,False,False,False,15.0,21.4,39.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,58,77.68,4.0,MEDIUM,11.0,True,4,False,False,False,15.0,21.4,39.5,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,59,83.449,4.0,MEDIUM,12.0,True,41,False,False,False,15.0,21.5,38.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,60,78.533,4.0,MEDIUM,13.0,True,1,True,False,False,15.0,21.4,38.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,61,78.227,4.0,MEDIUM,14.0,True,1,True,False,False,15.0,21.4,39.0,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,62,76.767,4.0,MEDIUM,15.0,True,1,True,False,False,15.0,21.5,39.0,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,63,77.21,4.0,MEDIUM,16.0,True,1,True,False,False,15.0,21.5,39.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,64,76.278,4.0,MEDIUM,17.0,True,1,True,False,False,15.0,21.5,39.3,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,65,76.333,4.0,MEDIUM,18.0,True,1,True,False,False,15.0,21.3,39.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,66,76.327,4.0,MEDIUM,19.0,True,1,True,False,False,15.0,21.4,39.2,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,67,76.13,4.0,MEDIUM,20.0,True,1,True,False,False,15.0,21.3,38.7,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,68,76.253,4.0,MEDIUM,21.0,True,1,True,False,False,15.0,21.3,38.7,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,69,76.287,4.0,MEDIUM,22.0,True,1,True,False,False,15.0,21.2,38.8,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,70,76.573,4.0,MEDIUM,23.0,True,1,True,False,False,15.0,21.2,37.8,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ALB,Williams,71,76.719,4.0,MEDIUM,24.0,True,1,True,False,False,15.0,21.2,37.9,False,19.0,15.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,1,106.561,1.0,SOFT,1.0,False,124,False,False,False,13.0,23.6,49.5,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,2,111.893,1.0,SOFT,2.0,False,4,False,False,False,13.0,23.6,49.5,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,3,119.282,1.0,SOFT,3.0,False,4,False,False,False,13.0,23.4,49.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,4,122.146,1.0,SOFT,4.0,False,4,False,False,False,13.0,23.3,49.0,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,5,115.227,1.0,SOFT,5.0,False,4,False,False,False,13.0,23.3,48.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,6,112.506,1.0,SOFT,6.0,False,41,False,False,False,13.0,23.3,48.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,7,80.932,1.0,SOFT,7.0,False,12,True,False,False,13.0,23.2,48.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,8,78.712,1.0,SOFT,8.0,False,1,True,False,False,13.0,23.3,48.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,9,76.935,1.0,SOFT,9.0,False,1,True,False,False,13.0,23.6,49.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,10,77.19,1.0,SOFT,10.0,False,1,True,False,False,13.0,23.7,49.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,11,77.605,1.0,SOFT,11.0,False,1,True,False,False,13.0,23.7,49.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,12,77.872,1.0,SOFT,12.0,False,1,True,False,False,13.0,23.8,49.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,13,78.375,1.0,SOFT,13.0,False,1,True,False,False,13.0,23.8,48.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,14,78.142,1.0,SOFT,14.0,False,1,True,False,False,12.0,23.7,47.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,15,77.482,1.0,SOFT,15.0,False,1,True,False,False,12.0,23.5,47.5,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,16,81.51,1.0,SOFT,16.0,False,1,False,True,False,12.0,23.6,47.7,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,17,94.61,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,23.7,48.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,18,76.319,2.0,MEDIUM,2.0,True,1,True,False,False,18.0,23.7,46.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,19,76.714,2.0,MEDIUM,3.0,True,1,True,False,False,18.0,23.6,46.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,20,76.991,2.0,MEDIUM,4.0,True,1,True,False,False,18.0,23.5,46.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,21,77.008,2.0,MEDIUM,5.0,True,1,True,False,False,15.0,23.3,46.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,22,77.197,2.0,MEDIUM,6.0,True,1,True,False,False,15.0,23.2,46.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,23,77.164,2.0,MEDIUM,7.0,True,1,True,False,False,15.0,23.2,46.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,24,77.095,2.0,MEDIUM,8.0,True,1,True,False,False,14.0,23.2,45.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,25,77.498,2.0,MEDIUM,9.0,True,1,True,False,False,9.0,23.0,45.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,26,78.154,2.0,MEDIUM,10.0,True,1,True,False,False,10.0,22.8,45.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,27,77.778,2.0,MEDIUM,11.0,True,1,True,False,False,11.0,22.8,44.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,28,77.968,2.0,MEDIUM,12.0,True,1,True,False,False,11.0,22.8,44.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,29,77.967,2.0,MEDIUM,13.0,True,1,True,False,False,11.0,22.9,43.7,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,30,78.293,2.0,MEDIUM,14.0,True,1,True,False,False,11.0,22.8,43.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,31,77.66,2.0,MEDIUM,15.0,True,1,True,False,False,11.0,22.5,43.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,32,77.507,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,22.5,43.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,33,77.826,2.0,MEDIUM,17.0,True,1,True,False,False,11.0,22.4,43.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,34,77.918,2.0,MEDIUM,18.0,True,1,True,False,False,11.0,22.5,42.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,35,77.737,2.0,MEDIUM,19.0,True,1,True,False,False,11.0,22.5,42.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,36,78.123,2.0,MEDIUM,20.0,True,1,True,False,False,10.0,22.6,41.8,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,37,81.569,2.0,MEDIUM,21.0,True,1,False,True,False,12.0,22.5,41.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,38,95.361,3.0,SOFT,1.0,True,1,False,False,True,17.0,22.4,41.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,39,76.131,3.0,SOFT,2.0,True,1,True,False,False,17.0,22.3,41.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,40,76.246,3.0,SOFT,3.0,True,1,True,False,False,17.0,22.1,42.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,41,76.119,3.0,SOFT,4.0,True,1,True,False,False,16.0,21.8,42.6,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,42,76.354,3.0,SOFT,5.0,True,1,True,False,False,16.0,21.9,42.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,43,76.555,3.0,SOFT,6.0,True,1,True,False,False,16.0,22.0,42.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,44,76.553,3.0,SOFT,7.0,True,1,True,False,False,16.0,21.9,42.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,45,76.627,3.0,SOFT,8.0,True,1,True,False,False,16.0,22.0,40.6,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,46,78.172,3.0,SOFT,9.0,True,1,True,False,False,15.0,22.0,40.6,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,47,77.742,3.0,SOFT,10.0,True,1,True,False,False,13.0,21.8,40.6,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,48,77.595,3.0,SOFT,11.0,True,1,True,False,False,14.0,21.9,40.4,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,49,76.923,3.0,SOFT,12.0,True,1,True,False,False,13.0,21.8,40.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,50,77.012,3.0,SOFT,13.0,True,1,True,False,False,13.0,21.7,40.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,51,76.525,3.0,SOFT,14.0,True,12,True,False,False,12.0,21.7,40.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,52,89.145,3.0,SOFT,15.0,True,26,False,False,False,12.0,21.8,40.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,53,101.087,3.0,SOFT,16.0,True,6,False,False,False,11.0,21.8,40.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,54,101.813,3.0,SOFT,17.0,True,64,False,False,False,11.0,21.7,39.6,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,55,101.77,3.0,SOFT,18.0,True,4,False,False,False,11.0,21.4,39.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,56,81.12,3.0,SOFT,19.0,True,4,False,False,False,11.0,21.4,39.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,57,107.34,3.0,SOFT,20.0,True,4,False,False,False,11.0,21.4,39.1,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,58,115.192,3.0,SOFT,21.0,True,4,False,False,False,11.0,21.4,39.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,59,114.46,3.0,SOFT,22.0,True,41,False,False,False,11.0,21.4,39.5,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,60,77.195,3.0,SOFT,23.0,True,1,True,False,False,11.0,21.4,38.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,61,76.188,3.0,SOFT,24.0,True,1,True,False,False,11.0,21.5,38.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,62,76.198,3.0,SOFT,25.0,True,1,True,False,False,11.0,21.5,39.0,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,63,76.57,3.0,SOFT,26.0,True,1,True,False,False,12.0,21.5,39.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,64,75.802,3.0,SOFT,27.0,True,1,True,False,False,12.0,21.5,39.3,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,65,75.937,3.0,SOFT,28.0,True,1,True,False,False,12.0,21.3,39.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,66,76.138,3.0,SOFT,29.0,True,1,True,False,False,12.0,21.4,39.2,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,67,76.25,3.0,SOFT,30.0,True,1,True,False,False,12.0,21.3,38.7,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,68,76.978,3.0,SOFT,31.0,True,1,True,False,False,13.0,21.3,38.7,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,69,76.086,3.0,SOFT,32.0,True,1,True,False,False,13.0,21.2,38.8,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,70,76.298,3.0,SOFT,33.0,True,1,True,False,False,13.0,21.2,37.8,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,ZHO,Alfa Romeo,71,76.421,3.0,SOFT,34.0,True,1,True,False,False,13.0,21.2,37.9,False,13.0,12.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RIC,McLaren,1,,1.0,SOFT,1.0,True,124,False,False,False,,23.6,49.5,False,11.0,20.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,1,108.37,1.0,SOFT,1.0,True,124,False,False,False,14.0,23.6,49.5,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,2,111.72,1.0,SOFT,2.0,True,4,False,False,False,14.0,23.6,49.5,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,3,118.847,1.0,SOFT,3.0,True,4,False,False,False,14.0,23.4,49.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,4,122.185,1.0,SOFT,4.0,True,4,False,False,False,14.0,23.3,49.0,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,5,114.782,1.0,SOFT,5.0,True,4,False,False,False,14.0,23.3,48.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,6,111.762,1.0,SOFT,6.0,True,41,False,False,False,14.0,23.3,48.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,7,80.433,1.0,SOFT,7.0,True,12,True,False,False,11.0,23.2,48.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,8,77.873,1.0,SOFT,8.0,True,1,True,False,False,11.0,23.3,48.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,9,77.135,1.0,SOFT,9.0,True,1,True,False,False,11.0,23.6,49.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,10,77.211,1.0,SOFT,10.0,True,1,True,False,False,11.0,23.7,49.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,11,77.718,1.0,SOFT,11.0,True,1,True,False,False,11.0,23.7,49.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,12,77.779,1.0,SOFT,12.0,True,1,True,False,False,11.0,23.8,49.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,13,77.459,1.0,SOFT,13.0,True,1,True,False,False,10.0,23.8,48.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,14,77.649,1.0,SOFT,14.0,True,1,True,False,False,10.0,23.7,47.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,15,77.506,1.0,SOFT,15.0,True,1,True,False,False,10.0,23.5,47.5,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,16,77.618,1.0,SOFT,16.0,True,1,True,False,False,10.0,23.6,47.7,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,17,77.509,1.0,SOFT,17.0,True,1,True,False,False,10.0,23.7,48.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,18,77.278,1.0,SOFT,18.0,True,1,True,False,False,8.0,23.7,47.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,19,77.378,1.0,SOFT,19.0,True,1,True,False,False,7.0,23.7,46.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,20,77.463,1.0,SOFT,20.0,True,1,True,False,False,7.0,23.5,46.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,21,77.728,1.0,SOFT,21.0,True,1,True,False,False,7.0,23.3,46.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,22,77.713,1.0,SOFT,22.0,True,1,True,False,False,7.0,23.3,46.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,23,77.555,1.0,SOFT,23.0,True,1,True,False,False,7.0,23.2,46.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,24,82.529,1.0,SOFT,24.0,True,1,False,True,False,8.0,23.2,45.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,25,94.547,2.0,MEDIUM,1.0,True,1,False,False,True,12.0,23.1,45.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,26,75.921,2.0,MEDIUM,2.0,True,1,True,False,False,11.0,22.8,45.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,27,76.787,2.0,MEDIUM,3.0,True,1,True,False,False,10.0,22.8,44.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,28,76.371,2.0,MEDIUM,4.0,True,1,True,False,False,10.0,22.8,44.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,29,76.492,2.0,MEDIUM,5.0,True,1,True,False,False,10.0,22.9,43.7,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,30,76.595,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,22.8,43.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,31,76.724,2.0,MEDIUM,7.0,True,1,True,False,False,8.0,22.5,43.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,32,76.96,2.0,MEDIUM,8.0,True,1,True,False,False,8.0,22.4,42.8,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,33,76.939,2.0,MEDIUM,9.0,True,1,True,False,False,8.0,22.4,43.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,34,76.965,2.0,MEDIUM,10.0,True,1,True,False,False,8.0,22.5,42.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,35,76.988,2.0,MEDIUM,11.0,True,1,True,False,False,8.0,22.5,42.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,36,76.823,2.0,MEDIUM,12.0,True,1,True,False,False,7.0,22.6,41.8,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,37,76.963,2.0,MEDIUM,13.0,True,1,True,False,False,7.0,22.5,41.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,38,76.927,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,22.4,41.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,39,77.04,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,22.4,41.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,40,77.106,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,22.1,42.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,41,77.191,2.0,MEDIUM,17.0,True,1,True,False,False,7.0,22.1,42.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,42,77.044,2.0,MEDIUM,18.0,True,1,True,False,False,7.0,21.8,42.6,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,43,77.235,2.0,MEDIUM,19.0,True,1,True,False,False,7.0,22.0,42.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,44,77.113,2.0,MEDIUM,20.0,True,1,True,False,False,7.0,21.9,42.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,45,77.166,2.0,MEDIUM,21.0,True,1,True,False,False,6.0,21.9,42.0,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,46,76.846,2.0,MEDIUM,22.0,True,1,True,False,False,5.0,22.0,40.6,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,47,80.985,2.0,MEDIUM,23.0,True,1,False,True,False,5.0,21.8,40.6,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,48,94.599,3.0,SOFT,4.0,False,1,False,False,True,11.0,21.8,40.4,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,49,75.326,3.0,SOFT,5.0,False,1,True,False,False,9.0,21.8,40.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,50,75.761,3.0,SOFT,6.0,False,1,True,False,False,9.0,21.7,40.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,51,75.893,3.0,SOFT,7.0,False,12,True,False,False,9.0,21.7,40.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,52,84.118,3.0,SOFT,8.0,False,26,False,False,False,9.0,21.7,40.0,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,53,102.016,3.0,SOFT,9.0,False,6,False,False,False,8.0,21.8,40.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,54,102.654,3.0,SOFT,10.0,False,64,False,False,False,8.0,21.7,39.6,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,55,101.063,3.0,SOFT,11.0,False,4,False,False,False,8.0,21.5,39.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,56,88.208,3.0,SOFT,12.0,False,4,False,False,False,8.0,21.4,39.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,57,114.329,3.0,SOFT,13.0,False,4,False,False,False,8.0,21.4,39.1,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,58,114.744,3.0,SOFT,14.0,False,4,False,False,False,8.0,21.4,39.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,59,116.385,3.0,SOFT,15.0,False,41,False,False,False,8.0,21.4,39.5,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,60,76.468,3.0,SOFT,16.0,False,1,True,False,False,8.0,21.4,38.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,61,76.235,3.0,SOFT,17.0,False,1,True,False,False,8.0,21.5,38.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,62,75.439,3.0,SOFT,18.0,False,1,True,False,False,8.0,21.5,39.0,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,63,75.646,3.0,SOFT,19.0,False,1,True,False,False,8.0,21.5,39.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,64,75.282,3.0,SOFT,20.0,False,1,True,False,False,8.0,21.5,39.3,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,65,75.093,3.0,SOFT,21.0,False,1,True,False,False,8.0,21.3,39.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,66,75.169,3.0,SOFT,22.0,False,1,True,False,False,8.0,21.4,39.2,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,67,75.108,3.0,SOFT,23.0,False,1,True,False,False,8.0,21.3,38.7,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,68,75.318,3.0,SOFT,24.0,False,1,True,False,False,8.0,21.3,38.7,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,69,75.46,3.0,SOFT,25.0,False,1,True,False,False,8.0,21.2,38.8,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,70,75.631,3.0,SOFT,26.0,False,1,True,False,False,8.0,21.2,37.8,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,OCO,Alpine,71,75.861,3.0,SOFT,27.0,False,1,True,False,False,8.0,21.2,37.9,False,16.0,8.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,1,96.436,1.0,SOFT,1.0,True,124,False,False,False,5.0,23.6,49.5,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,2,113.784,1.0,SOFT,2.0,True,4,False,False,False,5.0,23.6,49.5,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,3,118.193,1.0,SOFT,3.0,True,4,False,False,False,5.0,23.4,49.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,4,121.454,1.0,SOFT,4.0,True,4,False,False,False,5.0,23.3,49.0,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,5,116.369,1.0,SOFT,5.0,True,4,False,False,False,5.0,23.3,48.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,6,119.119,1.0,SOFT,6.0,True,41,False,False,False,5.0,23.3,48.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,7,78.29,1.0,SOFT,7.0,True,12,True,False,False,3.0,23.2,48.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,8,76.722,1.0,SOFT,8.0,True,1,True,False,False,3.0,23.3,48.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,9,76.907,1.0,SOFT,9.0,True,1,True,False,False,4.0,23.4,47.6,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,10,76.742,1.0,SOFT,10.0,True,1,True,False,False,4.0,23.7,49.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,11,76.984,1.0,SOFT,11.0,True,1,True,False,False,4.0,23.7,49.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,12,77.257,1.0,SOFT,12.0,True,1,True,False,False,4.0,23.8,49.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,13,77.508,1.0,SOFT,13.0,True,1,True,False,False,4.0,23.8,48.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,14,77.543,1.0,SOFT,14.0,True,1,True,False,False,4.0,23.7,47.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,15,78.045,1.0,SOFT,15.0,True,1,True,False,False,5.0,23.5,47.5,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,16,77.84,1.0,SOFT,16.0,True,1,True,False,False,5.0,23.5,46.8,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,17,78.748,1.0,SOFT,17.0,True,1,True,False,False,6.0,23.7,48.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,18,77.918,1.0,SOFT,18.0,True,1,True,False,False,5.0,23.7,47.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,19,77.866,1.0,SOFT,19.0,True,1,True,False,False,5.0,23.7,46.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,20,78.0,1.0,SOFT,20.0,True,1,True,False,False,5.0,23.5,46.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,21,78.147,1.0,SOFT,21.0,True,1,True,False,False,5.0,23.3,46.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,22,78.278,1.0,SOFT,22.0,True,1,True,False,False,5.0,23.3,46.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,23,78.06,1.0,SOFT,23.0,True,1,True,False,False,5.0,23.2,46.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,24,81.591,1.0,SOFT,24.0,True,1,False,True,False,6.0,23.2,45.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,25,100.595,2.0,MEDIUM,1.0,True,1,False,False,True,13.0,23.1,45.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,26,76.748,2.0,MEDIUM,2.0,True,1,True,False,False,12.0,22.8,45.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,27,76.593,2.0,MEDIUM,3.0,True,1,True,False,False,12.0,22.8,44.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,28,76.633,2.0,MEDIUM,4.0,True,1,True,False,False,12.0,22.8,44.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,29,76.725,2.0,MEDIUM,5.0,True,1,True,False,False,12.0,22.9,43.7,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,30,76.653,2.0,MEDIUM,6.0,True,1,True,False,False,10.0,22.8,43.3,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,31,77.052,2.0,MEDIUM,7.0,True,1,True,False,False,10.0,22.5,43.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,32,77.329,2.0,MEDIUM,8.0,True,1,True,False,False,10.0,22.5,43.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,33,77.221,2.0,MEDIUM,9.0,True,1,True,False,False,10.0,22.4,43.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,34,77.028,2.0,MEDIUM,10.0,True,1,True,False,False,10.0,22.5,42.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,35,77.513,2.0,MEDIUM,11.0,True,1,True,False,False,9.0,22.5,42.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,36,76.905,2.0,MEDIUM,12.0,True,1,True,False,False,8.0,22.6,41.8,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,37,77.045,2.0,MEDIUM,13.0,True,1,True,False,False,8.0,22.5,41.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,38,77.348,2.0,MEDIUM,14.0,True,1,True,False,False,8.0,22.4,41.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,39,77.23,2.0,MEDIUM,15.0,True,1,True,False,False,8.0,22.3,41.9,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,40,77.173,2.0,MEDIUM,16.0,True,1,True,False,False,8.0,22.1,42.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,41,77.174,2.0,MEDIUM,17.0,True,1,True,False,False,8.0,22.1,42.1,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,42,77.059,2.0,MEDIUM,18.0,True,1,True,False,False,8.0,21.8,42.6,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,43,78.38,2.0,MEDIUM,19.0,True,1,True,False,False,9.0,22.0,42.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,44,77.761,2.0,MEDIUM,20.0,True,1,True,False,False,8.0,21.9,42.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,45,81.162,2.0,MEDIUM,21.0,True,1,False,True,False,10.0,21.9,42.0,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,46,95.443,3.0,SOFT,7.0,False,1,False,False,True,16.0,22.0,40.6,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,47,76.937,3.0,SOFT,8.0,False,1,True,False,False,14.0,21.8,40.6,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,48,75.855,3.0,SOFT,9.0,False,1,True,False,False,13.0,21.9,40.4,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,49,76.14,3.0,SOFT,10.0,False,1,True,False,False,12.0,21.8,40.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,50,76.079,3.0,SOFT,11.0,False,1,True,False,False,12.0,21.7,40.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,NOR,McLaren,51,,3.0,SOFT,12.0,False,126,False,False,False,,21.7,40.2,False,6.0,18.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,1,90.833,1.0,SOFT,1.0,True,124,False,False,False,2.0,23.6,49.5,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,2,114.748,1.0,SOFT,2.0,True,4,False,False,False,2.0,23.6,49.5,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,3,120.447,1.0,SOFT,3.0,True,4,False,False,False,2.0,23.4,49.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,4,119.697,1.0,SOFT,4.0,True,4,False,False,False,2.0,23.3,49.0,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,5,114.039,1.0,SOFT,5.0,True,4,False,False,False,2.0,23.3,48.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,6,124.765,1.0,SOFT,6.0,True,41,False,False,False,2.0,23.3,48.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,7,82.132,1.0,SOFT,7.0,True,12,True,False,False,8.0,23.2,48.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,8,76.802,1.0,SOFT,8.0,True,1,True,False,False,8.0,23.3,48.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,9,76.402,1.0,SOFT,9.0,True,1,True,False,False,6.0,23.4,47.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,10,75.781,1.0,SOFT,10.0,True,1,True,False,False,6.0,23.7,49.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,11,76.518,1.0,SOFT,11.0,True,1,True,False,False,6.0,23.7,49.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,12,77.047,1.0,SOFT,12.0,True,1,True,False,False,6.0,23.8,49.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,13,77.172,1.0,SOFT,13.0,True,1,True,False,False,6.0,23.8,48.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,14,76.948,1.0,SOFT,14.0,True,1,True,False,False,5.0,23.7,47.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,15,76.735,1.0,SOFT,15.0,True,1,True,False,False,4.0,23.5,47.5,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,16,76.354,1.0,SOFT,16.0,True,1,True,False,False,4.0,23.5,46.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,17,76.406,1.0,SOFT,17.0,True,1,True,False,False,3.0,23.7,48.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,18,76.387,1.0,SOFT,18.0,True,1,True,False,False,3.0,23.7,47.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,19,76.339,1.0,SOFT,19.0,True,1,True,False,False,3.0,23.7,46.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,20,76.308,1.0,SOFT,20.0,True,1,True,False,False,3.0,23.5,46.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,21,76.98,1.0,SOFT,21.0,True,1,True,False,False,3.0,23.3,46.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,22,76.618,1.0,SOFT,22.0,True,1,True,False,False,3.0,23.3,46.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,23,76.859,1.0,SOFT,23.0,True,1,True,False,False,3.0,23.2,46.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,24,76.554,1.0,SOFT,24.0,True,1,True,False,False,2.0,23.2,45.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,25,76.936,1.0,SOFT,25.0,True,1,True,False,False,1.0,23.1,45.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,26,76.834,1.0,SOFT,26.0,True,1,True,False,False,1.0,23.0,45.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,27,76.959,1.0,SOFT,27.0,True,1,True,False,False,1.0,22.8,45.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,28,77.043,1.0,SOFT,28.0,True,1,True,False,False,1.0,22.8,44.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,29,80.866,1.0,SOFT,29.0,True,1,False,True,False,1.0,22.9,44.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,30,93.544,2.0,MEDIUM,1.0,True,1,False,False,True,4.0,22.9,43.7,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,31,75.047,2.0,MEDIUM,2.0,True,1,True,False,False,4.0,22.5,43.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,32,75.605,2.0,MEDIUM,3.0,True,1,True,False,False,4.0,22.4,42.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,33,75.62,2.0,MEDIUM,4.0,True,1,True,False,False,4.0,22.5,43.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,34,75.513,2.0,MEDIUM,5.0,True,1,True,False,False,4.0,22.5,42.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,35,75.693,2.0,MEDIUM,6.0,True,1,True,False,False,4.0,22.5,42.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,36,75.474,2.0,MEDIUM,7.0,True,1,True,False,False,3.0,22.6,41.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,37,75.675,2.0,MEDIUM,8.0,True,1,True,False,False,3.0,22.6,41.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,38,75.392,2.0,MEDIUM,9.0,True,1,True,False,False,3.0,22.4,41.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,39,75.735,2.0,MEDIUM,10.0,True,1,True,False,False,3.0,22.4,41.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,40,75.86,2.0,MEDIUM,11.0,True,1,True,False,False,3.0,22.3,41.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,41,75.962,2.0,MEDIUM,12.0,True,1,True,False,False,3.0,22.1,42.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,42,75.702,2.0,MEDIUM,13.0,True,1,True,False,False,3.0,21.8,42.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,43,75.666,2.0,MEDIUM,14.0,True,1,True,False,False,3.0,21.9,42.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,44,76.724,2.0,MEDIUM,15.0,True,1,True,False,False,3.0,22.0,42.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,45,75.927,2.0,MEDIUM,16.0,True,1,True,False,False,2.0,21.9,42.0,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,46,76.03,2.0,MEDIUM,17.0,True,1,True,False,False,2.0,22.0,40.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,47,76.016,2.0,MEDIUM,18.0,True,1,True,False,False,2.0,22.0,40.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,48,79.237,2.0,MEDIUM,19.0,True,1,False,True,False,2.0,21.8,40.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,49,92.263,3.0,SOFT,7.0,False,1,False,False,True,3.0,21.9,40.4,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,50,74.103,3.0,SOFT,8.0,False,1,True,False,False,3.0,21.8,40.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,51,74.648,3.0,SOFT,9.0,False,1,True,False,False,3.0,21.7,40.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,52,74.998,3.0,SOFT,10.0,False,12,True,False,False,3.0,21.7,40.0,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,53,94.731,3.0,SOFT,11.0,False,26,False,False,False,3.0,21.8,40.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,54,102.947,3.0,SOFT,12.0,False,64,False,False,False,2.0,21.8,39.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,55,116.484,3.0,SOFT,13.0,False,4,False,False,False,2.0,21.7,39.6,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,56,120.09,3.0,SOFT,14.0,False,4,False,False,False,2.0,21.4,39.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,57,117.05,3.0,SOFT,15.0,False,4,False,False,False,2.0,21.4,39.1,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,58,117.565,3.0,SOFT,16.0,False,4,False,False,False,2.0,21.4,39.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,59,121.047,3.0,SOFT,17.0,False,41,False,False,False,2.0,21.4,39.5,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,60,74.928,3.0,SOFT,18.0,False,1,True,False,False,2.0,21.4,38.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,61,73.949,3.0,SOFT,19.0,False,1,True,False,False,2.0,21.5,38.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,62,73.972,3.0,SOFT,20.0,False,1,True,False,False,2.0,21.5,39.0,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,63,73.942,3.0,SOFT,21.0,False,1,True,False,False,2.0,21.5,39.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,64,73.957,3.0,SOFT,22.0,False,1,True,False,False,2.0,21.5,39.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,65,74.024,3.0,SOFT,23.0,False,1,True,False,False,2.0,21.3,39.3,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,66,74.102,3.0,SOFT,24.0,False,1,True,False,False,2.0,21.4,39.2,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,67,74.199,3.0,SOFT,25.0,False,1,True,False,False,2.0,21.3,38.7,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,68,74.45,3.0,SOFT,26.0,False,1,True,False,False,2.0,21.3,38.7,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,69,74.564,3.0,SOFT,27.0,False,1,True,False,False,2.0,21.2,38.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,70,74.853,3.0,SOFT,28.0,False,1,True,False,False,2.0,21.2,37.8,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,HAM,Mercedes,71,74.776,3.0,SOFT,29.0,False,1,True,False,False,2.0,21.2,37.9,False,2.0,2.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,1,103.315,1.0,MEDIUM,1.0,True,124,False,False,False,10.0,23.6,49.5,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,2,111.772,1.0,MEDIUM,2.0,True,4,False,False,False,10.0,23.6,49.5,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,3,119.677,1.0,MEDIUM,3.0,True,4,False,False,False,10.0,23.4,49.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,4,121.453,1.0,MEDIUM,4.0,True,4,False,False,False,10.0,23.3,49.0,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,5,115.978,1.0,MEDIUM,5.0,True,4,False,False,False,10.0,23.3,48.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,6,114.43,1.0,MEDIUM,6.0,True,41,False,False,False,10.0,23.3,48.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,7,79.308,1.0,MEDIUM,7.0,True,12,True,False,False,7.0,23.2,48.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,8,77.494,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,23.3,48.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,9,77.343,1.0,MEDIUM,9.0,True,1,True,False,False,8.0,23.4,47.6,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,10,77.229,1.0,MEDIUM,10.0,True,1,True,False,False,8.0,23.7,49.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,11,77.434,1.0,MEDIUM,11.0,True,1,True,False,False,8.0,23.7,49.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,12,77.572,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,23.8,49.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,13,77.422,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,23.8,48.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,14,77.951,1.0,MEDIUM,14.0,True,1,True,False,False,8.0,23.7,47.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,15,78.111,1.0,MEDIUM,15.0,True,1,True,False,False,8.0,23.5,47.5,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,16,78.086,1.0,MEDIUM,16.0,True,1,True,False,False,8.0,23.6,47.7,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,17,78.809,1.0,MEDIUM,17.0,True,1,True,False,False,9.0,23.7,48.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,18,78.654,1.0,MEDIUM,18.0,True,1,True,False,False,9.0,23.7,47.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,19,78.432,1.0,MEDIUM,19.0,True,1,True,False,False,9.0,23.7,46.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,20,78.637,1.0,MEDIUM,20.0,True,1,True,False,False,8.0,23.5,46.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,21,78.35,1.0,MEDIUM,21.0,True,1,True,False,False,9.0,23.3,46.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,22,78.531,1.0,MEDIUM,22.0,True,1,True,False,False,9.0,23.3,46.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,23,78.41,1.0,MEDIUM,23.0,True,1,True,False,False,9.0,23.2,46.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,24,82.198,1.0,MEDIUM,24.0,True,1,False,True,False,10.0,23.2,45.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,25,95.863,2.0,SOFT,1.0,False,1,False,False,True,14.0,23.1,45.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,26,76.541,2.0,SOFT,2.0,False,1,True,False,False,13.0,22.8,45.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,27,76.828,2.0,SOFT,3.0,False,1,True,False,False,13.0,22.8,44.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,28,76.421,2.0,SOFT,4.0,False,1,True,False,False,13.0,22.9,44.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,29,77.242,2.0,SOFT,5.0,False,1,True,False,False,13.0,22.9,43.7,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,30,77.006,2.0,SOFT,6.0,False,1,True,False,False,12.0,22.8,43.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,31,77.069,2.0,SOFT,7.0,False,1,True,False,False,12.0,22.5,43.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,32,77.174,2.0,SOFT,8.0,False,1,True,False,False,12.0,22.5,43.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,33,77.18,2.0,SOFT,9.0,False,1,True,False,False,12.0,22.4,43.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,34,77.386,2.0,SOFT,10.0,False,1,True,False,False,12.0,22.5,42.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,35,77.99,2.0,SOFT,11.0,False,1,True,False,False,13.0,22.6,41.8,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,36,77.154,2.0,SOFT,12.0,False,1,True,False,False,11.0,22.6,41.8,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,37,77.252,2.0,SOFT,13.0,False,1,True,False,False,10.0,22.5,41.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,38,77.475,2.0,SOFT,14.0,False,1,True,False,False,10.0,22.4,41.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,39,77.266,2.0,SOFT,15.0,False,1,True,False,False,10.0,22.3,41.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,40,76.954,2.0,SOFT,16.0,False,1,True,False,False,10.0,22.1,42.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,41,78.091,2.0,SOFT,17.0,False,1,True,False,False,11.0,22.1,42.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,42,77.131,2.0,SOFT,18.0,False,1,True,False,False,11.0,21.9,42.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,43,77.191,2.0,SOFT,19.0,False,1,True,False,False,11.0,22.0,42.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,44,77.807,2.0,SOFT,20.0,False,1,True,False,False,12.0,21.9,42.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,45,77.223,2.0,SOFT,21.0,False,1,True,False,False,11.0,21.9,42.0,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,46,81.304,2.0,SOFT,22.0,False,1,False,True,False,10.0,22.0,40.6,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,47,96.908,3.0,SOFT,5.0,False,1,False,False,True,16.0,21.8,40.6,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,48,75.853,3.0,SOFT,6.0,False,1,True,False,False,15.0,21.9,40.4,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,49,75.564,3.0,SOFT,7.0,False,1,True,False,False,14.0,21.8,40.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,50,75.512,3.0,SOFT,8.0,False,1,True,False,False,14.0,21.7,40.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,51,75.461,3.0,SOFT,9.0,False,12,True,False,False,13.0,21.7,40.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,52,88.155,3.0,SOFT,10.0,False,26,False,False,False,13.0,21.8,40.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,53,102.114,3.0,SOFT,11.0,False,6,False,False,False,12.0,21.8,40.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,54,102.379,3.0,SOFT,12.0,False,64,False,False,False,12.0,21.7,39.6,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,55,101.994,3.0,SOFT,13.0,False,4,False,False,False,12.0,21.4,39.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,56,81.229,3.0,SOFT,14.0,False,4,False,False,False,12.0,21.4,39.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,57,105.602,3.0,SOFT,15.0,False,4,False,False,False,12.0,21.4,39.1,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,58,114.696,3.0,SOFT,16.0,False,4,False,False,False,12.0,21.4,39.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,59,113.874,3.0,SOFT,17.0,False,41,False,False,False,12.0,21.4,39.5,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,60,78.463,3.0,SOFT,18.0,False,1,True,False,False,13.0,21.4,38.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,61,77.644,3.0,SOFT,19.0,False,1,True,False,False,13.0,21.4,39.0,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,62,75.651,3.0,SOFT,20.0,False,1,True,False,False,13.0,21.5,39.0,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,63,75.251,3.0,SOFT,21.0,False,1,True,False,False,13.0,21.5,39.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,64,75.302,3.0,SOFT,22.0,False,1,True,False,False,13.0,21.5,39.3,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,65,76.187,3.0,SOFT,23.0,False,1,True,False,False,13.0,21.3,39.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,66,77.311,3.0,SOFT,24.0,False,1,True,False,False,14.0,21.4,39.2,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,67,75.992,3.0,SOFT,25.0,False,1,True,False,False,14.0,21.3,38.7,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,68,76.059,3.0,SOFT,26.0,False,1,True,False,False,14.0,21.3,38.7,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,69,75.809,3.0,SOFT,27.0,False,1,True,False,False,14.0,21.2,38.8,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,70,76.37,3.0,SOFT,28.0,False,1,True,False,False,14.0,21.2,37.8,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,MSC,Haas F1 Team,71,76.419,3.0,SOFT,29.0,False,1,True,False,False,14.0,21.2,37.9,False,12.0,13.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,1,101.404,1.0,SOFT,1.0,True,124,False,False,False,8.0,23.6,49.5,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,2,111.802,1.0,SOFT,2.0,True,4,False,False,False,8.0,23.6,49.5,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,3,119.271,1.0,SOFT,3.0,True,4,False,False,False,8.0,23.4,49.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,4,121.932,1.0,SOFT,4.0,True,4,False,False,False,8.0,23.3,49.0,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,5,115.348,1.0,SOFT,5.0,True,4,False,False,False,8.0,23.3,48.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,6,116.35,1.0,SOFT,6.0,True,41,False,False,False,8.0,23.3,48.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,7,78.403,1.0,SOFT,7.0,True,12,True,False,False,5.0,23.2,48.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,8,77.197,1.0,SOFT,8.0,True,1,True,False,False,5.0,23.3,48.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,9,76.783,1.0,SOFT,9.0,True,1,True,False,False,5.0,23.4,47.6,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,10,76.735,1.0,SOFT,10.0,True,1,True,False,False,5.0,23.7,49.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,11,76.564,1.0,SOFT,11.0,True,1,True,False,False,5.0,23.7,49.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,12,77.137,1.0,SOFT,12.0,True,1,True,False,False,5.0,23.8,49.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,13,77.318,1.0,SOFT,13.0,True,1,True,False,False,5.0,23.8,48.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,14,77.984,1.0,SOFT,14.0,True,1,True,False,False,6.0,23.7,47.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,15,77.575,1.0,SOFT,15.0,True,1,True,False,False,6.0,23.5,47.5,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,16,77.653,1.0,SOFT,16.0,True,1,True,False,False,6.0,23.5,46.8,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,17,77.483,1.0,SOFT,17.0,True,1,True,False,False,5.0,23.7,48.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,18,77.43,1.0,SOFT,18.0,True,1,True,False,False,4.0,23.7,47.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,19,77.588,1.0,SOFT,19.0,True,1,True,False,False,4.0,23.7,46.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,20,77.359,1.0,SOFT,20.0,True,1,True,False,False,4.0,23.5,46.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,21,77.787,1.0,SOFT,21.0,True,1,True,False,False,4.0,23.3,46.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,22,77.557,1.0,SOFT,22.0,True,1,True,False,False,4.0,23.3,46.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,23,77.673,1.0,SOFT,23.0,True,1,True,False,False,4.0,23.2,46.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,24,77.658,1.0,SOFT,24.0,True,1,True,False,False,3.0,23.2,45.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,25,78.428,1.0,SOFT,25.0,True,1,True,False,False,3.0,23.1,45.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,26,81.84,1.0,SOFT,26.0,True,1,False,True,False,5.0,23.0,45.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,27,95.547,2.0,MEDIUM,2.0,False,1,False,False,True,9.0,22.8,44.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,28,77.352,2.0,MEDIUM,3.0,False,1,True,False,False,9.0,22.8,44.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,29,76.988,2.0,MEDIUM,4.0,False,1,True,False,False,8.0,22.9,43.7,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,30,76.664,2.0,MEDIUM,5.0,False,1,True,False,False,7.0,22.8,43.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,31,76.714,2.0,MEDIUM,6.0,False,1,True,False,False,7.0,22.5,43.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,32,76.787,2.0,MEDIUM,7.0,False,1,True,False,False,7.0,22.4,42.8,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,33,76.669,2.0,MEDIUM,8.0,False,1,True,False,False,7.0,22.4,43.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,34,77.115,2.0,MEDIUM,9.0,False,1,True,False,False,7.0,22.5,42.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,35,76.832,2.0,MEDIUM,10.0,False,1,True,False,False,6.0,22.5,42.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,36,76.584,2.0,MEDIUM,11.0,False,1,True,False,False,6.0,22.6,41.8,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,37,76.769,2.0,MEDIUM,12.0,False,1,True,False,False,6.0,22.5,41.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,38,76.851,2.0,MEDIUM,13.0,False,1,True,False,False,6.0,22.4,41.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,39,77.134,2.0,MEDIUM,14.0,False,1,True,False,False,6.0,22.4,41.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,40,76.953,2.0,MEDIUM,15.0,False,1,True,False,False,6.0,22.1,42.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,41,77.206,2.0,MEDIUM,16.0,False,1,True,False,False,6.0,22.1,42.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,42,77.306,2.0,MEDIUM,17.0,False,1,True,False,False,6.0,21.8,42.6,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,43,77.091,2.0,MEDIUM,18.0,False,1,True,False,False,6.0,22.0,42.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,44,77.113,2.0,MEDIUM,19.0,False,1,True,False,False,6.0,21.9,42.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,45,80.983,2.0,MEDIUM,20.0,False,1,False,True,False,7.0,21.9,42.0,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,46,94.335,3.0,MEDIUM,2.0,False,1,False,False,True,11.0,22.0,40.6,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,47,75.946,3.0,MEDIUM,3.0,False,1,True,False,False,10.0,21.8,40.6,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,48,76.413,3.0,MEDIUM,4.0,False,1,True,False,False,8.0,21.8,40.4,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,49,76.154,3.0,MEDIUM,5.0,False,1,True,False,False,7.0,21.8,40.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,50,76.492,3.0,MEDIUM,6.0,False,1,True,False,False,7.0,21.7,40.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,51,76.928,3.0,MEDIUM,7.0,False,12,True,False,False,8.0,21.7,40.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,52,83.565,3.0,MEDIUM,8.0,False,26,False,False,False,8.0,21.7,40.0,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,53,102.16,3.0,MEDIUM,9.0,False,6,False,False,False,7.0,21.8,40.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,54,102.157,3.0,MEDIUM,10.0,False,64,False,False,False,7.0,21.7,39.6,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,55,101.77,3.0,MEDIUM,11.0,False,4,False,False,False,7.0,21.5,39.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,56,88.849,3.0,MEDIUM,12.0,False,4,False,False,False,7.0,21.4,39.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,57,114.021,3.0,MEDIUM,13.0,False,4,False,False,False,7.0,21.4,39.1,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,58,114.559,3.0,MEDIUM,14.0,False,4,False,False,False,7.0,21.4,39.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,59,117.692,3.0,MEDIUM,15.0,False,41,False,False,False,7.0,21.4,39.5,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,60,78.175,3.0,MEDIUM,16.0,False,1,True,False,False,10.0,21.4,38.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,61,76.098,3.0,MEDIUM,17.0,False,1,True,False,False,10.0,21.5,38.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,62,75.862,3.0,MEDIUM,18.0,False,1,True,False,False,10.0,21.5,39.0,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,63,75.838,3.0,MEDIUM,19.0,False,1,True,False,False,10.0,21.5,39.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,64,75.549,3.0,MEDIUM,20.0,False,1,True,False,False,10.0,21.5,39.3,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,65,76.86,3.0,MEDIUM,21.0,False,1,True,False,False,11.0,21.3,39.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,66,75.79,3.0,MEDIUM,22.0,False,1,True,False,False,11.0,21.4,39.2,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,67,76.054,3.0,MEDIUM,23.0,False,1,True,False,False,11.0,21.3,38.7,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,68,76.066,3.0,MEDIUM,24.0,False,1,True,False,False,11.0,21.3,38.7,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,69,75.927,3.0,MEDIUM,25.0,False,1,True,False,False,11.0,21.2,38.8,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,70,75.852,3.0,MEDIUM,26.0,False,1,True,False,False,11.0,21.2,37.8,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,VET,Aston Martin,71,76.198,3.0,MEDIUM,27.0,False,1,True,False,False,11.0,21.2,37.9,False,9.0,11.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,1,99.095,1.0,MEDIUM,1.0,True,124,False,False,False,7.0,23.6,49.5,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,2,112.707,1.0,MEDIUM,2.0,True,4,False,False,False,7.0,23.6,49.5,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,3,119.094,1.0,MEDIUM,3.0,True,4,False,False,False,7.0,23.4,49.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,4,122.359,1.0,MEDIUM,4.0,True,4,False,False,False,7.0,23.3,49.0,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,5,115.022,1.0,MEDIUM,5.0,True,4,False,False,False,7.0,23.3,48.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,6,117.594,1.0,MEDIUM,6.0,True,41,False,False,False,7.0,23.3,48.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,7,78.139,1.0,MEDIUM,7.0,True,12,True,False,False,4.0,23.2,48.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,8,76.555,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,23.3,48.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,9,75.917,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,23.4,47.6,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,10,76.495,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,23.7,49.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,11,76.444,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,23.7,49.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,12,76.58,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,23.8,49.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,13,76.71,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,23.8,48.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,14,76.829,1.0,MEDIUM,14.0,True,1,True,False,False,3.0,23.7,47.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,15,76.685,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,23.5,47.5,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,16,76.814,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,23.5,46.8,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,17,80.648,1.0,MEDIUM,17.0,True,1,False,True,False,4.0,23.7,48.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,18,94.83,2.0,SOFT,1.0,True,1,False,False,True,11.0,23.7,47.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,19,75.489,2.0,SOFT,2.0,True,1,True,False,False,11.0,23.6,46.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,20,76.513,2.0,SOFT,3.0,True,1,True,False,False,9.0,23.5,46.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,21,76.202,2.0,SOFT,4.0,True,1,True,False,False,8.0,23.3,46.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,22,76.138,2.0,SOFT,5.0,True,1,True,False,False,8.0,23.3,46.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,23,76.051,2.0,SOFT,6.0,True,1,True,False,False,8.0,23.2,46.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,24,76.279,2.0,SOFT,7.0,True,1,True,False,False,5.0,23.2,45.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,25,76.475,2.0,SOFT,8.0,True,1,True,False,False,5.0,23.1,45.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,26,76.351,2.0,SOFT,9.0,True,1,True,False,False,4.0,23.0,45.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,27,76.316,2.0,SOFT,10.0,True,1,True,False,False,4.0,22.8,44.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,28,76.464,2.0,SOFT,11.0,True,1,True,False,False,4.0,22.8,44.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,29,76.688,2.0,SOFT,12.0,True,1,True,False,False,4.0,22.9,44.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,30,76.503,2.0,SOFT,13.0,True,1,True,False,False,3.0,22.8,43.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,31,76.478,2.0,SOFT,14.0,True,1,True,False,False,3.0,22.5,43.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,32,76.557,2.0,SOFT,15.0,True,1,True,False,False,3.0,22.4,42.8,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,33,76.46,2.0,SOFT,16.0,True,1,True,False,False,3.0,22.5,43.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,34,76.427,2.0,SOFT,17.0,True,1,True,False,False,3.0,22.5,42.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,35,76.338,2.0,SOFT,18.0,True,1,True,False,False,3.0,22.5,42.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,36,80.025,2.0,SOFT,19.0,True,1,False,True,False,4.0,22.6,41.8,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,37,92.467,3.0,MEDIUM,1.0,True,1,False,False,True,4.0,22.5,41.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,38,74.754,3.0,MEDIUM,2.0,True,1,True,False,False,4.0,22.4,41.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,39,75.025,3.0,MEDIUM,3.0,True,1,True,False,False,4.0,22.4,41.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,40,75.049,3.0,MEDIUM,4.0,True,1,True,False,False,4.0,22.1,42.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,41,75.424,3.0,MEDIUM,5.0,True,1,True,False,False,4.0,22.1,42.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,42,75.167,3.0,MEDIUM,6.0,True,1,True,False,False,4.0,21.8,42.6,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,43,75.189,3.0,MEDIUM,7.0,True,1,True,False,False,4.0,21.9,42.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,44,75.246,3.0,MEDIUM,8.0,True,1,True,False,False,4.0,21.9,42.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,45,75.41,3.0,MEDIUM,9.0,True,1,True,False,False,4.0,21.9,42.0,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,46,75.862,3.0,MEDIUM,10.0,True,1,True,False,False,4.0,22.0,40.6,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,47,75.805,3.0,MEDIUM,11.0,True,1,True,False,False,4.0,22.0,40.6,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,48,75.587,3.0,MEDIUM,12.0,True,1,True,False,False,3.0,21.8,40.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,49,75.553,3.0,MEDIUM,13.0,True,1,True,False,False,2.0,21.9,40.4,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,50,76.033,3.0,MEDIUM,14.0,True,1,True,False,False,2.0,21.8,40.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,51,75.792,3.0,MEDIUM,15.0,True,1,True,False,False,2.0,21.7,40.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,52,76.576,3.0,MEDIUM,16.0,True,12,True,False,False,2.0,21.7,40.0,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,53,95.631,3.0,MEDIUM,17.0,True,26,False,True,False,2.0,21.8,40.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,54,114.377,4.0,SOFT,7.0,False,64,False,False,True,4.0,21.8,39.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,55,110.482,4.0,SOFT,8.0,False,4,False,False,False,4.0,21.7,39.6,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,56,118.876,4.0,SOFT,9.0,False,4,False,False,False,4.0,21.4,39.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,57,117.128,4.0,SOFT,10.0,False,4,False,False,False,4.0,21.4,39.1,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,58,117.392,4.0,SOFT,11.0,False,4,False,False,False,4.0,21.4,39.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,59,119.654,4.0,SOFT,12.0,False,41,False,False,False,4.0,21.4,39.5,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,60,75.447,4.0,SOFT,13.0,False,1,True,False,False,4.0,21.4,38.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,61,75.241,4.0,SOFT,14.0,False,1,True,False,False,4.0,21.5,38.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,62,74.024,4.0,SOFT,15.0,False,1,True,False,False,4.0,21.5,39.0,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,63,74.021,4.0,SOFT,16.0,False,1,True,False,False,3.0,21.5,39.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,64,74.19,4.0,SOFT,17.0,False,1,True,False,False,3.0,21.5,39.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,65,73.953,4.0,SOFT,18.0,False,1,True,False,False,3.0,21.3,39.3,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,66,74.196,4.0,SOFT,19.0,False,1,True,False,False,3.0,21.4,39.2,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,67,74.261,4.0,SOFT,20.0,False,1,True,False,False,3.0,21.3,38.7,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,68,74.657,4.0,SOFT,21.0,False,1,True,False,False,3.0,21.3,38.7,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,69,74.398,4.0,SOFT,22.0,False,1,True,False,False,3.0,21.2,38.8,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,70,74.465,4.0,SOFT,23.0,False,1,True,False,False,3.0,21.2,37.8,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,SAI,Ferrari,71,74.492,4.0,SOFT,24.0,False,1,True,False,False,3.0,21.2,37.9,False,7.0,3.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,1,111.636,1.0,MEDIUM,1.0,True,124,False,False,False,16.0,23.6,49.5,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,2,112.587,1.0,MEDIUM,2.0,True,4,False,False,False,16.0,23.6,49.5,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,3,117.449,1.0,MEDIUM,3.0,True,4,False,False,False,16.0,23.4,49.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,4,122.448,1.0,MEDIUM,4.0,True,4,False,False,False,16.0,23.3,49.0,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,5,114.96,1.0,MEDIUM,5.0,True,4,False,False,False,16.0,23.3,48.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,6,108.923,1.0,MEDIUM,6.0,True,41,False,False,False,16.0,23.3,48.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,7,81.187,1.0,MEDIUM,7.0,True,12,True,False,False,14.0,23.2,48.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,8,79.022,1.0,MEDIUM,8.0,True,1,True,False,False,14.0,23.3,48.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,9,77.967,1.0,MEDIUM,9.0,True,1,True,False,False,14.0,23.6,49.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,10,77.77,1.0,MEDIUM,10.0,True,1,True,False,False,14.0,23.7,49.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,11,78.117,1.0,MEDIUM,11.0,True,1,True,False,False,14.0,23.7,49.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,12,80.065,1.0,MEDIUM,12.0,True,1,True,False,False,16.0,23.8,49.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,13,78.965,1.0,MEDIUM,13.0,True,1,True,False,False,16.0,23.8,48.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,14,78.685,1.0,MEDIUM,14.0,True,1,True,False,False,16.0,23.7,47.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,15,78.546,1.0,MEDIUM,15.0,True,1,True,False,False,15.0,23.5,47.5,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,16,78.789,1.0,MEDIUM,16.0,True,1,True,False,False,15.0,23.6,47.7,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,17,78.639,1.0,MEDIUM,17.0,True,1,True,False,False,14.0,23.7,48.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,18,78.626,1.0,MEDIUM,18.0,True,1,True,False,False,14.0,23.7,47.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,19,79.081,1.0,MEDIUM,19.0,True,1,True,False,False,15.0,23.6,46.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,20,83.26,1.0,MEDIUM,20.0,True,1,False,True,False,17.0,23.5,46.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,21,101.966,2.0,HARD,1.0,True,1,False,False,True,18.0,23.3,46.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,22,77.341,2.0,HARD,2.0,True,1,True,False,False,18.0,23.2,46.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,23,77.352,2.0,HARD,3.0,True,1,True,False,False,18.0,23.2,46.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,24,77.863,2.0,HARD,4.0,True,1,True,False,False,18.0,23.1,45.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,25,77.92,2.0,HARD,5.0,True,1,True,False,False,18.0,23.0,45.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,26,77.965,2.0,HARD,6.0,True,1,True,False,False,18.0,22.8,45.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,27,78.145,2.0,HARD,7.0,True,1,True,False,False,18.0,22.8,44.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,28,78.021,2.0,HARD,8.0,True,1,True,False,False,18.0,22.9,44.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,29,78.625,2.0,HARD,9.0,True,1,True,False,False,18.0,22.9,43.7,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,30,78.46,2.0,HARD,10.0,True,1,True,False,False,18.0,22.8,43.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,31,78.154,2.0,HARD,11.0,True,1,True,False,False,18.0,22.4,42.8,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,32,82.428,2.0,HARD,12.0,True,1,False,True,False,18.0,22.5,43.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,33,96.515,3.0,MEDIUM,1.0,True,1,False,False,True,18.0,22.4,43.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,34,77.286,3.0,MEDIUM,2.0,True,1,True,False,False,18.0,22.5,42.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,35,77.445,3.0,MEDIUM,3.0,True,1,True,False,False,18.0,22.6,41.8,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,36,77.25,3.0,MEDIUM,4.0,True,1,True,False,False,18.0,22.5,41.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,37,77.442,3.0,MEDIUM,5.0,True,1,True,False,False,18.0,22.4,41.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,38,77.434,3.0,MEDIUM,6.0,True,1,True,False,False,18.0,22.4,41.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,39,77.219,3.0,MEDIUM,7.0,True,1,True,False,False,18.0,22.3,41.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,40,78.813,3.0,MEDIUM,8.0,True,1,True,False,False,18.0,22.1,42.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,41,77.954,3.0,MEDIUM,9.0,True,1,True,False,False,18.0,21.8,42.6,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,42,77.364,3.0,MEDIUM,10.0,True,1,True,False,False,18.0,21.9,42.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,43,77.688,3.0,MEDIUM,11.0,True,1,True,False,False,18.0,21.9,42.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,44,77.561,3.0,MEDIUM,12.0,True,1,True,False,False,18.0,21.9,42.0,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,45,77.816,3.0,MEDIUM,13.0,True,1,True,False,False,18.0,22.0,40.6,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,46,77.762,3.0,MEDIUM,14.0,True,1,True,False,False,18.0,21.8,40.6,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,47,77.491,3.0,MEDIUM,15.0,True,1,True,False,False,18.0,21.8,40.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,48,77.799,3.0,MEDIUM,16.0,True,1,True,False,False,18.0,21.9,40.4,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,49,77.762,3.0,MEDIUM,17.0,True,1,True,False,False,18.0,21.8,40.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,50,77.708,3.0,MEDIUM,18.0,True,1,True,False,False,18.0,21.7,40.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,51,78.033,3.0,MEDIUM,19.0,True,12,True,False,False,17.0,21.7,40.0,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,52,104.357,3.0,MEDIUM,20.0,True,26,False,True,False,17.0,21.8,40.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,53,114.735,4.0,SOFT,1.0,True,64,False,False,True,17.0,21.8,39.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,54,100.063,4.0,SOFT,2.0,True,4,False,False,False,17.0,21.5,39.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,55,98.588,4.0,SOFT,3.0,True,4,False,False,False,17.0,21.4,39.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,56,117.156,4.0,SOFT,4.0,True,4,False,False,False,17.0,21.4,39.1,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,57,97.181,4.0,SOFT,5.0,True,4,False,False,False,16.0,21.4,39.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,58,75.499,4.0,SOFT,6.0,True,4,False,False,False,16.0,21.4,39.5,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,59,75.327,4.0,SOFT,7.0,True,41,False,False,False,16.0,21.5,38.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,60,75.902,4.0,SOFT,8.0,True,1,True,False,False,16.0,21.4,38.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,61,75.821,4.0,SOFT,9.0,True,1,True,False,False,16.0,21.4,39.0,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,62,76.064,4.0,SOFT,10.0,True,1,True,False,False,16.0,21.5,39.0,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,63,75.957,4.0,SOFT,11.0,True,1,True,False,False,16.0,21.5,39.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,64,76.05,4.0,SOFT,12.0,True,1,True,False,False,16.0,21.5,39.3,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,65,75.922,4.0,SOFT,13.0,True,1,True,False,False,16.0,21.3,39.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,66,76.136,4.0,SOFT,14.0,True,1,True,False,False,16.0,21.4,39.2,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,67,76.015,4.0,SOFT,15.0,True,1,True,False,False,16.0,21.3,38.7,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,68,76.03,4.0,SOFT,16.0,True,1,True,False,False,16.0,21.2,38.8,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,69,76.098,4.0,SOFT,17.0,True,1,True,False,False,16.0,21.2,38.8,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,70,76.126,4.0,SOFT,18.0,True,1,True,False,False,16.0,21.2,37.8,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,LAT,Williams,71,76.751,4.0,SOFT,19.0,True,1,True,False,False,16.0,21.2,37.9,False,18.0,16.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,1,88.575,1.0,SOFT,1.0,True,124,False,False,False,1.0,23.6,49.5,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,2,116.346,1.0,SOFT,2.0,True,4,False,False,False,1.0,23.6,49.5,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,3,119.966,1.0,SOFT,3.0,True,4,False,False,False,1.0,23.4,49.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,4,119.234,1.0,SOFT,4.0,True,4,False,False,False,1.0,23.3,49.0,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,5,114.429,1.0,SOFT,5.0,True,4,False,False,False,1.0,23.3,48.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,6,125.656,1.0,SOFT,6.0,True,41,False,False,False,1.0,23.3,48.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,7,76.122,1.0,SOFT,7.0,True,12,True,False,False,1.0,23.2,48.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,8,76.096,1.0,SOFT,8.0,True,1,True,False,False,1.0,23.3,48.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,9,76.022,1.0,SOFT,9.0,True,1,True,False,False,1.0,23.4,47.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,10,76.167,1.0,SOFT,10.0,True,1,True,False,False,1.0,23.7,49.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,11,76.184,1.0,SOFT,11.0,True,1,True,False,False,1.0,23.7,49.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,12,76.465,1.0,SOFT,12.0,True,1,True,False,False,1.0,23.8,49.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,13,76.488,1.0,SOFT,13.0,True,1,True,False,False,1.0,23.9,49.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,14,76.412,1.0,SOFT,14.0,True,1,True,False,False,1.0,23.7,47.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,15,76.228,1.0,SOFT,15.0,True,1,True,False,False,1.0,23.5,47.5,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,16,76.275,1.0,SOFT,16.0,True,1,True,False,False,1.0,23.5,46.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,17,76.559,1.0,SOFT,17.0,True,1,True,False,False,1.0,23.7,48.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,18,76.34,1.0,SOFT,18.0,True,1,True,False,False,1.0,23.7,47.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,19,76.37,1.0,SOFT,19.0,True,1,True,False,False,1.0,23.7,46.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,20,76.445,1.0,SOFT,20.0,True,1,True,False,False,1.0,23.6,46.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,21,76.704,1.0,SOFT,21.0,True,1,True,False,False,1.0,23.3,46.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,22,76.671,1.0,SOFT,22.0,True,1,True,False,False,1.0,23.3,46.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,23,76.796,1.0,SOFT,23.0,True,1,True,False,False,1.0,23.2,46.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,24,80.102,1.0,SOFT,24.0,True,1,False,True,False,1.0,23.2,46.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,25,93.573,2.0,MEDIUM,1.0,True,1,False,False,True,2.0,23.1,45.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,26,75.946,2.0,MEDIUM,2.0,True,1,True,False,False,2.0,23.0,45.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,27,76.093,2.0,MEDIUM,3.0,True,1,True,False,False,2.0,22.8,44.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,28,76.103,2.0,MEDIUM,4.0,True,1,True,False,False,2.0,22.8,44.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,29,75.958,2.0,MEDIUM,5.0,True,1,True,False,False,2.0,22.9,44.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,30,75.994,2.0,MEDIUM,6.0,True,1,True,False,False,1.0,22.9,43.7,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,31,75.983,2.0,MEDIUM,7.0,True,1,True,False,False,1.0,22.5,43.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,32,76.02,2.0,MEDIUM,8.0,True,1,True,False,False,1.0,22.4,42.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,33,76.196,2.0,MEDIUM,9.0,True,1,True,False,False,1.0,22.5,43.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,34,76.108,2.0,MEDIUM,10.0,True,1,True,False,False,1.0,22.4,43.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,35,76.237,2.0,MEDIUM,11.0,True,1,True,False,False,1.0,22.5,42.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,36,76.053,2.0,MEDIUM,12.0,True,1,True,False,False,1.0,22.6,41.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,37,75.999,2.0,MEDIUM,13.0,True,1,True,False,False,1.0,22.6,41.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,38,75.55,2.0,MEDIUM,14.0,True,1,True,False,False,1.0,22.4,41.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,39,75.81,2.0,MEDIUM,15.0,True,1,True,False,False,1.0,22.4,41.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,40,76.048,2.0,MEDIUM,16.0,True,1,True,False,False,1.0,22.3,41.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,41,76.33,2.0,MEDIUM,17.0,True,1,True,False,False,1.0,22.1,42.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,42,76.14,2.0,MEDIUM,18.0,True,1,True,False,False,1.0,21.8,42.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,43,76.035,2.0,MEDIUM,19.0,True,1,True,False,False,1.0,21.9,42.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,44,75.868,2.0,MEDIUM,20.0,True,1,True,False,False,1.0,22.0,42.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,45,76.035,2.0,MEDIUM,21.0,True,1,True,False,False,1.0,21.9,42.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,46,76.044,2.0,MEDIUM,22.0,True,1,True,False,False,1.0,22.0,40.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,47,76.231,2.0,MEDIUM,23.0,True,1,True,False,False,1.0,22.0,40.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,48,75.712,2.0,MEDIUM,24.0,True,1,True,False,False,1.0,21.8,40.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,49,79.936,2.0,MEDIUM,25.0,True,1,False,True,False,1.0,21.8,40.4,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,50,92.287,3.0,SOFT,10.0,False,1,False,False,True,1.0,21.8,40.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,51,73.996,3.0,SOFT,11.0,False,1,True,False,False,1.0,21.7,40.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,52,75.199,3.0,SOFT,12.0,False,12,True,False,False,1.0,21.7,40.0,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,53,92.517,3.0,SOFT,13.0,False,26,False,False,False,1.0,21.8,40.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,54,101.487,3.0,SOFT,14.0,False,64,False,False,False,1.0,21.8,40.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,55,125.052,3.0,SOFT,15.0,False,4,False,False,False,1.0,21.7,39.6,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,56,120.566,3.0,SOFT,16.0,False,4,False,False,False,1.0,21.4,39.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,57,115.908,3.0,SOFT,17.0,False,4,False,False,False,1.0,21.4,39.1,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,58,120.212,3.0,SOFT,18.0,False,4,False,False,False,1.0,21.4,39.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,59,121.663,3.0,SOFT,19.0,False,41,False,False,False,1.0,21.4,39.5,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,60,74.333,3.0,SOFT,20.0,False,1,True,False,False,1.0,21.4,38.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,61,73.785,3.0,SOFT,21.0,False,1,True,False,False,1.0,21.5,38.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,62,73.881,3.0,SOFT,22.0,False,1,True,False,False,1.0,21.5,39.0,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,63,73.916,3.0,SOFT,23.0,False,1,True,False,False,1.0,21.5,39.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,64,73.839,3.0,SOFT,24.0,False,1,True,False,False,1.0,21.5,39.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,65,74.057,3.0,SOFT,25.0,False,1,True,False,False,1.0,21.3,39.3,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,66,74.145,3.0,SOFT,26.0,False,1,True,False,False,1.0,21.4,39.2,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,67,74.314,3.0,SOFT,27.0,False,1,True,False,False,1.0,21.3,38.7,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,68,74.38,3.0,SOFT,28.0,False,1,True,False,False,1.0,21.3,38.7,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,69,74.46,3.0,SOFT,29.0,False,1,True,False,False,1.0,21.2,38.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,70,74.515,3.0,SOFT,30.0,False,1,True,False,False,1.0,21.2,38.8,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,RUS,Mercedes,71,74.878,3.0,SOFT,31.0,False,1,True,False,False,1.0,21.2,37.9,False,1.0,1.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,1,104.67,1.0,SOFT,1.0,False,124,False,False,False,11.0,23.6,49.5,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,2,111.493,1.0,SOFT,2.0,False,4,False,False,False,11.0,23.6,49.5,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,3,119.56,1.0,SOFT,3.0,False,4,False,False,False,11.0,23.4,49.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,4,121.619,1.0,SOFT,4.0,False,4,False,False,False,11.0,23.3,49.0,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,5,115.893,1.0,SOFT,5.0,False,4,False,False,False,11.0,23.3,48.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,6,113.581,1.0,SOFT,6.0,False,41,False,False,False,11.0,23.3,48.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,7,81.112,1.0,SOFT,7.0,False,12,True,False,False,10.0,23.2,48.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,8,77.428,1.0,SOFT,8.0,False,1,True,False,False,10.0,23.3,48.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,9,77.014,1.0,SOFT,9.0,False,1,True,False,False,10.0,23.6,49.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,10,77.088,1.0,SOFT,10.0,False,1,True,False,False,10.0,23.7,49.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,11,77.891,1.0,SOFT,11.0,False,1,True,False,False,10.0,23.7,49.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,12,77.081,1.0,SOFT,12.0,False,1,True,False,False,9.0,23.8,49.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,13,77.589,1.0,SOFT,13.0,False,1,True,False,False,9.0,23.8,48.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,14,77.667,1.0,SOFT,14.0,False,1,True,False,False,9.0,23.7,47.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,15,77.36,1.0,SOFT,15.0,False,1,True,False,False,9.0,23.5,47.5,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,16,77.603,1.0,SOFT,16.0,False,1,True,False,False,9.0,23.6,47.7,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,17,77.252,1.0,SOFT,17.0,False,1,True,False,False,8.0,23.7,48.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,18,77.377,1.0,SOFT,18.0,False,1,True,False,False,7.0,23.7,47.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,19,77.403,1.0,SOFT,19.0,False,1,True,False,False,6.0,23.7,46.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,20,77.404,1.0,SOFT,20.0,False,1,True,False,False,6.0,23.5,46.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,21,77.834,1.0,SOFT,21.0,False,1,True,False,False,6.0,23.3,46.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,22,77.77,1.0,SOFT,22.0,False,1,True,False,False,6.0,23.3,46.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,23,77.325,1.0,SOFT,23.0,False,1,True,False,False,6.0,23.2,46.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,24,81.765,1.0,SOFT,24.0,False,1,False,True,False,7.0,23.2,45.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,25,94.221,2.0,MEDIUM,1.0,True,1,False,False,True,10.0,23.1,45.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,26,75.76,2.0,MEDIUM,2.0,True,1,True,False,False,9.0,22.8,45.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,27,76.428,2.0,MEDIUM,3.0,True,1,True,False,False,8.0,22.8,44.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,28,76.131,2.0,MEDIUM,4.0,True,1,True,False,False,7.0,22.8,44.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,29,76.971,2.0,MEDIUM,5.0,True,1,True,False,False,6.0,22.9,43.7,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,30,76.587,2.0,MEDIUM,6.0,True,1,True,False,False,6.0,22.8,43.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,31,76.578,2.0,MEDIUM,7.0,True,1,True,False,False,6.0,22.5,43.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,32,76.609,2.0,MEDIUM,8.0,True,1,True,False,False,6.0,22.4,42.8,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,33,76.93,2.0,MEDIUM,9.0,True,1,True,False,False,6.0,22.4,43.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,34,76.747,2.0,MEDIUM,10.0,True,1,True,False,False,6.0,22.5,42.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,35,76.512,2.0,MEDIUM,11.0,True,1,True,False,False,5.0,22.5,42.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,36,76.43,2.0,MEDIUM,12.0,True,1,True,False,False,5.0,22.6,41.8,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,37,76.909,2.0,MEDIUM,13.0,True,1,True,False,False,5.0,22.5,41.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,38,76.783,2.0,MEDIUM,14.0,True,1,True,False,False,5.0,22.4,41.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,39,76.907,2.0,MEDIUM,15.0,True,1,True,False,False,5.0,22.4,41.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,40,76.923,2.0,MEDIUM,16.0,True,1,True,False,False,5.0,22.1,42.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,41,77.195,2.0,MEDIUM,17.0,True,1,True,False,False,5.0,22.1,42.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,42,77.131,2.0,MEDIUM,18.0,True,1,True,False,False,5.0,21.8,42.6,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,43,77.103,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,22.0,42.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,44,76.977,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,21.9,42.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,45,80.762,2.0,MEDIUM,21.0,True,1,False,True,False,5.0,21.9,42.0,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,46,94.51,3.0,SOFT,1.0,True,1,False,False,True,9.0,22.0,40.6,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,47,77.772,3.0,SOFT,2.0,True,1,True,False,False,8.0,21.8,40.6,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,48,76.043,3.0,SOFT,3.0,True,1,True,False,False,7.0,21.8,40.4,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,49,76.592,3.0,SOFT,4.0,True,1,True,False,False,6.0,21.8,40.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,50,76.346,3.0,SOFT,5.0,True,1,True,False,False,6.0,21.7,40.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,51,76.036,3.0,SOFT,6.0,True,12,True,False,False,6.0,21.7,40.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,52,83.623,3.0,SOFT,7.0,True,26,False,False,False,6.0,21.7,40.0,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,53,101.14,3.0,SOFT,8.0,True,6,False,False,False,5.0,21.8,40.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,54,102.074,3.0,SOFT,9.0,True,64,False,False,False,5.0,21.8,39.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,55,101.538,3.0,SOFT,10.0,True,4,False,False,False,5.0,21.5,39.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,56,87.723,3.0,SOFT,11.0,True,4,False,False,False,5.0,21.4,39.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,57,116.745,3.0,SOFT,12.0,True,4,False,False,False,5.0,21.4,39.1,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,58,115.042,3.0,SOFT,13.0,True,4,False,False,False,5.0,21.4,39.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,59,118.962,3.0,SOFT,14.0,True,41,False,False,False,5.0,21.4,39.5,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,60,76.561,3.0,SOFT,15.0,True,1,True,False,False,6.0,21.4,38.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,61,76.264,3.0,SOFT,16.0,True,1,True,False,False,7.0,21.5,38.9,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,62,75.511,3.0,SOFT,17.0,True,1,True,False,False,7.0,21.5,39.0,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,63,76.811,3.0,SOFT,18.0,True,1,True,False,False,9.0,21.5,39.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,64,75.885,3.0,SOFT,19.0,True,1,True,False,False,9.0,21.5,39.3,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,65,75.617,3.0,SOFT,20.0,True,1,True,False,False,9.0,21.3,39.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,66,75.587,3.0,SOFT,21.0,True,1,True,False,False,9.0,21.4,39.2,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,67,75.861,3.0,SOFT,22.0,True,1,True,False,False,9.0,21.3,38.7,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,68,75.584,3.0,SOFT,23.0,True,1,True,False,False,9.0,21.3,38.7,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,69,75.674,3.0,SOFT,24.0,True,1,True,False,False,9.0,21.2,38.8,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,70,75.756,3.0,SOFT,25.0,True,1,True,False,False,9.0,21.2,37.8,False,14.0,9.0
+2022,21,São Paulo Grand Prix,São Paulo,71,BOT,Alfa Romeo,71,75.966,3.0,SOFT,26.0,True,1,True,False,False,9.0,21.2,37.9,False,14.0,9.0

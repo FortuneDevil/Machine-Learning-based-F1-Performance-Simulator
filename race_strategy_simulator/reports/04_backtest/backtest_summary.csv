@@ -1,0 +1,12 @@
+metric,value
+Driver races backtested,182.0
+Races covered,20.0
+Driver races fully under green flag,60.0
+Race-time MAE on green races (s),24.270705739103104
+Race-time MAE on green races (% of race time),0.5679135986600266
+Race-time bias on green races (s),2.20138514790029
+"Race-time MAE with no model, constant baseline pace (s)",54.57800000000012
+Same number of stops as the team (%),64.83516483516483
+First pit lap MAE vs team (laps),8.021978021978022
+First pit lap within 3 laps of team (%),26.373626373626376
+Median predicted gain of recommended strategy (s),2.193731933465642
