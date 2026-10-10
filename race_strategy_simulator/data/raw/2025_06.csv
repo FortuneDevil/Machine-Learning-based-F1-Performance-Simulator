@@ -1,0 +1,1006 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,1,95.669,,nan,,True,12,False,False,False,1.0,26.3,39.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,2,111.128,,nan,,True,126,False,False,False,1.0,26.4,40.3,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,3,125.946,,nan,,True,671,False,False,False,1.0,26.7,39.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,4,92.569,,nan,,True,1,True,False,False,1.0,26.6,39.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,5,92.133,,nan,,True,1,True,False,False,1.0,26.4,38.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,6,92.096,,nan,,True,1,True,False,False,1.0,26.4,38.4,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,7,92.083,,nan,,True,1,True,False,False,1.0,26.6,38.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,8,92.583,,nan,,True,1,True,False,False,1.0,26.6,38.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,9,92.406,,nan,,True,1,True,False,False,1.0,26.7,38.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,10,92.392,,nan,,True,1,True,False,False,1.0,26.7,39.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,11,92.595,,nan,,True,1,True,False,False,1.0,26.6,38.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,12,92.236,,nan,,True,1,True,False,False,1.0,26.6,38.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,13,92.272,,nan,,True,1,True,False,False,1.0,26.8,38.2,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,14,94.727,,nan,,True,1,True,False,False,2.0,26.7,38.2,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,15,93.736,,nan,,True,1,True,False,False,2.0,26.6,37.6,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,16,93.178,,nan,,True,1,True,False,False,2.0,26.5,37.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,17,94.857,,nan,,True,1,True,False,False,2.0,26.6,37.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,18,93.253,,nan,,True,1,True,False,False,3.0,26.7,37.6,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,19,92.824,,nan,,True,1,True,False,False,3.0,26.8,37.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,20,93.284,,nan,,True,1,True,False,False,3.0,26.8,37.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,21,92.693,,nan,,True,1,True,False,False,3.0,26.6,37.6,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,22,92.472,,nan,,True,1,True,False,False,3.0,26.6,37.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,23,92.636,,nan,,True,1,True,False,False,3.0,26.7,37.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,24,92.44,,nan,,True,1,True,False,False,3.0,26.8,37.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,25,92.523,1.0,MEDIUM,1.0,True,1,True,False,False,3.0,26.8,37.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,26,96.935,1.0,MEDIUM,2.0,True,1,False,True,False,4.0,26.8,37.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,27,105.511,1.0,MEDIUM,3.0,True,1,False,False,True,5.0,26.6,37.2,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,28,96.612,1.0,MEDIUM,4.0,True,16,False,False,False,5.0,26.6,37.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,29,124.704,1.0,MEDIUM,5.0,True,67,False,False,False,5.0,26.6,36.6,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,30,91.899,1.0,MEDIUM,6.0,True,71,False,False,False,4.0,26.6,36.4,True,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,31,91.025,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,26.5,36.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,32,91.781,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,26.5,36.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,33,119.077,2.0,HARD,1.0,True,167,False,False,False,4.0,26.4,35.8,True,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,34,90.879,2.0,HARD,2.0,True,1,True,False,False,4.0,26.2,36.1,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,35,90.68,2.0,HARD,3.0,True,1,True,False,False,4.0,26.2,36.1,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,36,90.829,2.0,HARD,4.0,True,1,True,False,False,4.0,26.1,35.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,37,90.751,2.0,HARD,5.0,True,1,True,False,False,4.0,26.1,35.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,38,90.992,2.0,HARD,6.0,True,1,True,False,False,4.0,26.1,36.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,39,90.793,2.0,HARD,7.0,True,1,True,False,False,4.0,26.2,36.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,40,90.743,2.0,HARD,8.0,True,1,True,False,False,4.0,26.2,35.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,41,90.466,2.0,HARD,9.0,True,1,True,False,False,4.0,26.2,35.5,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,42,90.685,2.0,HARD,10.0,True,1,True,False,False,4.0,26.1,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,43,90.775,2.0,HARD,11.0,True,1,True,False,False,4.0,26.1,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,44,90.822,2.0,HARD,12.0,True,1,True,False,False,4.0,26.0,35.3,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,45,90.643,2.0,HARD,13.0,True,1,True,False,False,4.0,26.0,35.6,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,46,90.977,2.0,HARD,14.0,True,1,True,False,False,4.0,26.0,35.7,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,47,91.136,2.0,HARD,15.0,True,1,True,False,False,4.0,26.0,35.4,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,48,90.879,2.0,HARD,16.0,True,1,True,False,False,4.0,26.0,35.3,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,49,90.59,2.0,HARD,17.0,True,1,True,False,False,4.0,26.0,35.3,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,50,90.668,2.0,HARD,18.0,True,1,True,False,False,4.0,26.0,35.0,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,51,90.534,2.0,HARD,19.0,True,1,True,False,False,4.0,26.0,35.1,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,52,90.773,2.0,HARD,20.0,True,1,True,False,False,4.0,26.0,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,53,90.887,2.0,HARD,21.0,True,1,True,False,False,4.0,25.9,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,54,91.606,2.0,HARD,22.0,True,1,True,False,False,4.0,26.0,34.8,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,55,90.523,2.0,HARD,23.0,True,1,True,False,False,4.0,25.9,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,56,90.651,2.0,HARD,24.0,True,1,True,False,False,4.0,25.9,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,VER,Red Bull Racing,57,90.986,2.0,HARD,25.0,True,1,True,False,False,4.0,26.0,34.9,False,1.0,4.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,1,105.474,,nan,,True,12,False,False,True,18.0,26.3,39.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,2,125.704,,nan,,True,126,False,False,False,18.0,26.4,40.3,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,3,115.733,,nan,,True,671,False,False,False,18.0,26.7,39.8,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,4,94.054,,nan,,True,1,True,False,False,18.0,26.6,39.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,5,94.123,,nan,,True,1,True,False,False,18.0,26.4,38.5,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,6,94.295,,nan,,True,1,True,False,False,18.0,26.4,38.4,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,7,94.019,,nan,,True,1,True,False,False,18.0,26.6,38.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,8,94.087,,nan,,True,1,True,False,False,18.0,26.6,38.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,9,93.727,,nan,,True,1,True,False,False,17.0,26.7,38.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,10,93.43,,nan,,True,1,True,False,False,17.0,26.7,38.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,11,93.253,,nan,,True,1,True,False,False,17.0,26.6,38.5,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,12,93.244,,nan,,True,1,True,False,False,17.0,26.6,38.4,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,13,93.113,,nan,,True,1,True,False,False,17.0,26.8,38.2,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,14,93.309,,nan,,True,1,True,False,False,17.0,26.6,38.1,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,15,93.775,,nan,,True,1,True,False,False,17.0,26.6,37.6,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,16,93.39,,nan,,True,1,True,False,False,17.0,26.5,37.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,17,93.478,,nan,,True,1,True,False,False,17.0,26.5,37.6,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,18,93.528,,nan,,True,1,True,False,False,17.0,26.7,37.6,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,19,93.563,,nan,,True,1,True,False,False,17.0,26.8,38.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,20,93.441,,nan,,True,1,True,False,False,15.0,26.8,37.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,21,93.143,,nan,,True,1,True,False,False,15.0,26.5,37.6,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,22,93.025,,nan,,True,1,True,False,False,15.0,26.6,37.8,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,23,92.798,,nan,,True,1,True,False,False,14.0,26.8,37.8,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,24,92.831,1.0,HARD,1.0,True,1,True,False,False,13.0,26.8,37.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,25,92.853,1.0,HARD,2.0,True,1,True,False,False,13.0,26.8,37.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,26,94.359,1.0,HARD,3.0,True,1,True,False,False,13.0,26.7,37.3,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,27,92.77,1.0,HARD,4.0,True,1,True,False,False,12.0,26.6,37.2,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,28,101.231,1.0,HARD,5.0,True,16,False,False,False,11.0,26.6,36.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,29,122.824,1.0,HARD,6.0,True,671,False,False,False,11.0,26.6,36.6,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,30,93.172,1.0,HARD,7.0,True,1,True,False,False,12.0,26.6,36.4,True,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,31,92.523,1.0,HARD,8.0,True,1,True,False,False,12.0,26.5,36.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,32,98.57,1.0,HARD,9.0,True,16,False,True,False,13.0,26.5,36.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,33,123.372,2.0,MEDIUM,1.0,True,671,False,False,True,14.0,26.4,35.8,True,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,34,91.372,2.0,MEDIUM,2.0,True,1,True,False,False,14.0,26.2,36.1,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,35,91.159,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,26.1,35.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,36,91.533,2.0,MEDIUM,4.0,True,1,True,False,False,14.0,26.1,35.8,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,37,91.682,2.0,MEDIUM,5.0,True,1,True,False,False,13.0,26.1,35.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,38,91.642,2.0,MEDIUM,6.0,True,1,True,False,False,13.0,26.1,36.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,39,91.602,2.0,MEDIUM,7.0,True,1,True,False,False,13.0,26.2,35.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,40,91.455,2.0,MEDIUM,8.0,True,1,True,False,False,13.0,26.2,35.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,41,91.637,2.0,MEDIUM,9.0,True,1,True,False,False,13.0,26.2,35.1,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,42,91.528,2.0,MEDIUM,10.0,True,1,True,False,False,13.0,26.1,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,43,91.511,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,26.0,35.2,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,44,91.443,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,26.0,35.3,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,45,92.445,2.0,MEDIUM,13.0,True,1,True,False,False,13.0,26.0,35.8,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,46,91.913,2.0,MEDIUM,14.0,True,1,True,False,False,13.0,26.0,35.7,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,47,91.438,2.0,MEDIUM,15.0,True,1,True,False,False,13.0,26.1,35.3,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,48,91.327,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,26.0,35.3,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,49,91.304,2.0,MEDIUM,17.0,True,1,True,False,False,13.0,26.1,35.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,50,91.391,2.0,MEDIUM,18.0,True,1,True,False,False,13.0,26.0,35.1,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,51,91.497,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,26.0,35.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,52,92.09,2.0,MEDIUM,20.0,True,1,True,False,False,13.0,25.9,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,53,91.948,2.0,MEDIUM,21.0,True,1,True,False,False,13.0,26.0,35.0,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,54,91.937,2.0,MEDIUM,22.0,True,1,True,False,False,13.0,25.9,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,55,91.574,2.0,MEDIUM,23.0,True,1,True,False,False,13.0,25.9,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,56,91.519,2.0,MEDIUM,24.0,True,1,True,False,False,13.0,26.0,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,GAS,Alpine,57,92.874,2.0,MEDIUM,25.0,True,1,True,False,False,13.0,26.0,34.9,False,20.0,13.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,1,96.85,,nan,,True,12,False,False,False,2.0,26.3,39.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,2,112.276,,nan,,True,126,False,False,False,2.0,26.4,40.3,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,3,124.905,,nan,,True,671,False,False,False,2.0,26.7,39.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,4,93.016,,nan,,True,1,True,False,False,3.0,26.6,39.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,5,92.859,,nan,,True,1,True,False,False,3.0,26.4,38.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,6,92.883,,nan,,True,1,True,False,False,3.0,26.4,38.4,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,7,93.029,,nan,,True,1,True,False,False,3.0,26.6,38.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,8,92.945,,nan,,True,1,True,False,False,3.0,26.6,38.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,9,93.684,,nan,,True,1,True,False,False,4.0,26.7,38.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,10,93.004,,nan,,True,1,True,False,False,4.0,26.7,39.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,11,92.79,,nan,,True,1,True,False,False,4.0,26.6,38.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,12,92.725,,nan,,True,1,True,False,False,4.0,26.6,38.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,13,92.745,,nan,,True,1,True,False,False,4.0,26.8,38.2,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,14,92.692,,nan,,True,1,True,False,False,4.0,26.6,38.1,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,15,92.902,,nan,,True,1,True,False,False,4.0,26.6,37.6,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,16,92.878,,nan,,True,1,True,False,False,4.0,26.5,37.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,17,92.734,,nan,,True,1,True,False,False,4.0,26.6,37.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,18,93.014,,nan,,True,1,True,False,False,4.0,26.7,37.6,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,19,93.113,,nan,,True,1,True,False,False,4.0,26.8,37.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,20,92.901,,nan,,True,1,True,False,False,4.0,26.8,37.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,21,92.781,,nan,,True,1,True,False,False,4.0,26.6,37.6,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,22,92.71,,nan,,True,1,True,False,False,4.0,26.6,37.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,23,92.4,,nan,,True,1,True,False,False,4.0,26.7,37.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,24,92.5,,nan,,True,1,True,False,False,4.0,26.8,37.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,25,97.258,1.0,MEDIUM,1.0,True,1,False,True,False,6.0,26.8,37.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,26,108.147,1.0,MEDIUM,2.0,True,1,False,False,True,9.0,26.8,37.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,27,90.795,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,26.6,37.2,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,28,97.71,1.0,MEDIUM,4.0,True,16,False,False,False,7.0,26.6,37.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,29,124.85,1.0,MEDIUM,5.0,True,671,False,False,False,6.0,26.6,36.6,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,30,91.786,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,26.6,36.4,True,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,31,92.717,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,26.5,36.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,32,91.967,1.0,MEDIUM,8.0,True,1,True,False,False,6.0,26.5,36.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,33,119.776,2.0,HARD,1.0,True,167,False,False,False,6.0,26.4,35.8,True,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,34,90.845,2.0,HARD,2.0,True,1,True,False,False,6.0,26.2,36.1,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,35,90.807,2.0,HARD,3.0,True,1,True,False,False,6.0,26.2,36.1,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,36,90.948,2.0,HARD,4.0,True,1,True,False,False,6.0,26.1,35.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,37,91.352,2.0,HARD,5.0,True,1,True,False,False,6.0,26.1,35.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,38,91.086,2.0,HARD,6.0,True,1,True,False,False,6.0,26.1,36.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,39,91.188,2.0,HARD,7.0,True,1,True,False,False,6.0,26.2,36.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,40,91.288,2.0,HARD,8.0,True,1,True,False,False,6.0,26.2,35.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,41,91.725,2.0,HARD,9.0,True,1,True,False,False,6.0,26.2,35.5,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,42,91.58,2.0,HARD,10.0,True,1,True,False,False,6.0,26.1,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,43,91.616,2.0,HARD,11.0,True,1,True,False,False,6.0,26.1,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,44,91.187,2.0,HARD,12.0,True,1,True,False,False,6.0,26.0,35.3,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,45,91.426,2.0,HARD,13.0,True,1,True,False,False,6.0,26.0,35.6,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,46,91.572,2.0,HARD,14.0,True,1,True,False,False,6.0,26.0,35.7,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,47,91.375,2.0,HARD,15.0,True,1,True,False,False,6.0,26.1,35.3,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,48,91.072,2.0,HARD,16.0,True,1,True,False,False,6.0,26.0,35.3,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,49,91.131,2.0,HARD,17.0,True,1,True,False,False,6.0,26.1,35.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,50,90.946,2.0,HARD,18.0,True,1,True,False,False,6.0,26.0,35.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,51,90.965,2.0,HARD,19.0,True,1,True,False,False,6.0,26.0,35.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,52,90.973,2.0,HARD,20.0,True,1,True,False,False,6.0,26.0,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,53,90.988,2.0,HARD,21.0,True,1,True,False,False,6.0,26.0,35.0,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,54,90.912,2.0,HARD,22.0,True,1,True,False,False,6.0,26.0,34.8,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,55,90.829,2.0,HARD,23.0,True,1,True,False,False,6.0,25.9,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,56,90.937,2.0,HARD,24.0,True,1,True,False,False,6.0,25.9,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ANT,Mercedes,57,90.999,2.0,HARD,25.0,True,1,True,False,False,6.0,26.0,34.9,False,3.0,6.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,1,104.913,,nan,,True,12,False,False,False,17.0,26.3,39.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,2,125.043,,nan,,True,126,False,False,False,17.0,26.4,40.3,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,3,115.758,,nan,,True,671,False,False,False,17.0,26.7,39.8,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,4,93.693,,nan,,True,1,True,False,False,17.0,26.6,39.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,5,94.064,,nan,,True,1,True,False,False,17.0,26.4,38.5,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,6,93.695,,nan,,True,1,True,False,False,17.0,26.4,38.4,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,7,93.485,,nan,,True,1,True,False,False,17.0,26.6,38.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,8,93.387,,nan,,True,1,True,False,False,17.0,26.6,38.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,9,101.044,,nan,,True,1,True,False,False,18.0,26.7,38.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,10,93.184,,nan,,True,1,True,False,False,18.0,26.7,38.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,11,93.184,,nan,,True,1,True,False,False,18.0,26.6,38.5,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,12,92.548,,nan,,True,1,True,False,False,18.0,26.6,38.4,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,13,92.982,,nan,,True,1,True,False,False,18.0,26.8,38.2,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,14,93.132,,nan,,True,1,True,False,False,18.0,26.6,38.1,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,15,93.29,,nan,,True,1,True,False,False,18.0,26.6,37.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,16,93.246,,nan,,True,1,True,False,False,18.0,26.5,37.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,17,93.477,,nan,,True,1,True,False,False,18.0,26.5,37.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,18,93.313,,nan,,True,1,True,False,False,18.0,26.7,37.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,19,93.239,,nan,,True,1,True,False,False,18.0,26.8,38.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,20,93.19,,nan,,True,1,True,False,False,16.0,26.8,37.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,21,93.521,,nan,,True,1,True,False,False,16.0,26.5,37.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,22,93.504,,nan,,True,1,True,False,False,16.0,26.6,37.8,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,23,93.461,,nan,,True,1,True,False,False,15.0,26.8,37.8,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,24,93.165,1.0,HARD,2.0,False,1,True,False,False,14.0,26.8,37.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,25,93.268,1.0,HARD,3.0,False,1,True,False,False,14.0,26.8,37.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,26,93.205,1.0,HARD,4.0,False,1,True,False,False,14.0,26.7,37.3,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,27,93.003,1.0,HARD,5.0,False,1,True,False,False,14.0,26.6,37.2,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,28,108.651,1.0,HARD,6.0,False,16,False,True,False,15.0,26.6,36.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,29,128.73,1.0,HARD,7.0,False,671,False,False,True,16.0,26.6,36.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,30,92.823,1.0,HARD,8.0,False,1,True,False,False,15.0,26.5,36.4,True,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,31,92.855,1.0,HARD,9.0,False,1,True,False,False,15.0,26.5,36.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,32,101.254,1.0,HARD,10.0,False,16,False,False,False,15.0,26.4,36.4,True,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,33,111.086,2.0,MEDIUM,2.0,False,671,False,False,False,15.0,26.4,35.8,True,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,34,92.364,2.0,MEDIUM,3.0,False,1,True,False,False,15.0,26.2,36.1,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,35,92.44,2.0,MEDIUM,4.0,False,1,True,False,False,15.0,26.1,35.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,36,92.227,2.0,MEDIUM,5.0,False,1,True,False,False,15.0,26.1,35.8,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,37,92.641,2.0,MEDIUM,6.0,False,1,True,False,False,15.0,26.1,35.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,38,91.287,2.0,MEDIUM,7.0,False,1,True,False,False,15.0,26.1,36.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,39,92.011,2.0,MEDIUM,8.0,False,1,True,False,False,15.0,26.2,35.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,40,92.077,2.0,MEDIUM,9.0,False,1,True,False,False,15.0,26.2,35.7,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,41,92.121,2.0,MEDIUM,10.0,False,1,True,False,False,15.0,26.2,35.1,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,42,92.246,2.0,MEDIUM,11.0,False,1,True,False,False,15.0,26.1,34.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,43,91.947,2.0,MEDIUM,12.0,False,1,True,False,False,15.0,26.0,35.2,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,44,91.96,2.0,MEDIUM,13.0,False,1,True,False,False,15.0,26.0,35.6,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,45,91.928,2.0,MEDIUM,14.0,False,1,True,False,False,15.0,26.0,35.8,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,46,92.259,2.0,MEDIUM,15.0,False,1,True,False,False,15.0,26.0,35.4,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,47,93.466,2.0,MEDIUM,16.0,False,1,True,False,False,15.0,26.1,35.3,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,48,92.556,2.0,MEDIUM,17.0,False,1,True,False,False,15.0,26.0,35.3,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,49,93.964,2.0,MEDIUM,18.0,False,1,True,False,False,15.0,26.1,35.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,50,92.935,2.0,MEDIUM,19.0,False,1,True,False,False,15.0,26.0,35.1,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,51,92.227,2.0,MEDIUM,20.0,False,1,True,False,False,15.0,26.0,35.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,52,91.981,2.0,MEDIUM,21.0,False,1,True,False,False,15.0,25.9,34.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,53,92.609,2.0,MEDIUM,22.0,False,1,True,False,False,15.0,26.0,35.0,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,54,92.495,2.0,MEDIUM,23.0,False,1,True,False,False,15.0,25.9,34.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,55,92.155,2.0,MEDIUM,24.0,False,1,True,False,False,15.0,25.9,34.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALO,Aston Martin,56,92.277,2.0,MEDIUM,25.0,False,1,True,False,False,15.0,26.0,34.9,False,17.0,15.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,1,100.561,,nan,,True,12,False,False,False,8.0,26.3,39.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,2,116.383,,nan,,True,126,False,False,False,8.0,26.4,40.3,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,3,121.385,,nan,,True,671,False,False,False,8.0,26.7,39.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,4,92.763,,nan,,True,1,True,False,False,8.0,26.6,39.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,5,92.509,,nan,,True,1,True,False,False,8.0,26.4,38.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,6,93.363,,nan,,True,1,True,False,False,8.0,26.4,38.4,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,7,93.047,,nan,,True,1,True,False,False,8.0,26.6,38.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,8,93.415,,nan,,True,1,True,False,False,8.0,26.6,38.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,9,93.033,,nan,,True,1,True,False,False,8.0,26.7,38.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,10,92.85,,nan,,True,1,True,False,False,8.0,26.7,39.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,11,93.558,,nan,,True,1,True,False,False,8.0,26.6,38.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,12,93.096,,nan,,True,1,True,False,False,8.0,26.6,38.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,13,93.112,,nan,,True,1,True,False,False,8.0,26.8,38.2,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,14,93.6,,nan,,True,1,True,False,False,8.0,26.6,38.1,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,15,93.409,,nan,,True,1,True,False,False,8.0,26.6,37.6,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,16,93.207,,nan,,True,1,True,False,False,8.0,26.5,37.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,17,93.05,,nan,,True,1,True,False,False,8.0,26.6,37.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,18,93.269,,nan,,True,1,True,False,False,8.0,26.7,37.6,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,19,92.61,,nan,,True,1,True,False,False,8.0,26.8,37.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,20,92.671,,nan,,True,1,True,False,False,8.0,26.8,37.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,21,92.673,,nan,,True,1,True,False,False,8.0,26.6,37.6,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,22,92.735,,nan,,True,1,True,False,False,8.0,26.6,37.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,23,92.685,,nan,,True,1,True,False,False,8.0,26.8,37.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,24,92.858,,nan,,True,1,True,False,False,8.0,26.8,37.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,25,92.417,1.0,MEDIUM,1.0,True,1,True,False,False,7.0,26.8,37.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,26,92.749,1.0,MEDIUM,2.0,True,1,True,False,False,6.0,26.8,37.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,27,92.452,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,26.6,37.2,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,28,92.228,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,26.6,37.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,29,131.178,1.0,MEDIUM,5.0,True,167,False,True,False,4.0,26.6,36.6,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,30,106.616,1.0,MEDIUM,6.0,True,71,False,False,True,7.0,26.6,36.4,True,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,31,93.623,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,26.5,36.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,32,91.641,1.0,MEDIUM,8.0,True,1,True,False,False,8.0,26.5,36.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,33,120.821,2.0,HARD,1.0,True,167,False,False,False,8.0,26.4,35.8,True,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,34,90.813,2.0,HARD,2.0,True,1,True,False,False,7.0,26.2,36.1,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,35,90.461,2.0,HARD,3.0,True,1,True,False,False,7.0,26.2,36.1,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,36,90.724,2.0,HARD,4.0,True,1,True,False,False,7.0,26.1,35.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,37,90.97,2.0,HARD,5.0,True,1,True,False,False,7.0,26.1,35.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,38,92.29,2.0,HARD,6.0,True,1,True,False,False,8.0,26.1,36.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,39,91.324,2.0,HARD,7.0,True,1,True,False,False,8.0,26.2,36.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,40,91.022,2.0,HARD,8.0,True,1,True,False,False,8.0,26.2,35.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,41,91.236,2.0,HARD,9.0,True,1,True,False,False,8.0,26.2,35.5,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,42,91.097,2.0,HARD,10.0,True,1,True,False,False,8.0,26.1,34.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,43,91.258,2.0,HARD,11.0,True,1,True,False,False,8.0,26.0,35.2,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,44,91.057,2.0,HARD,12.0,True,1,True,False,False,8.0,26.0,35.3,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,45,91.167,2.0,HARD,13.0,True,1,True,False,False,8.0,26.0,35.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,46,91.334,2.0,HARD,14.0,True,1,True,False,False,8.0,26.0,35.7,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,47,90.984,2.0,HARD,15.0,True,1,True,False,False,8.0,26.1,35.3,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,48,90.888,2.0,HARD,16.0,True,1,True,False,False,8.0,26.0,35.3,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,49,90.849,2.0,HARD,17.0,True,1,True,False,False,8.0,26.1,35.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,50,90.828,2.0,HARD,18.0,True,1,True,False,False,8.0,26.0,35.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,51,90.557,2.0,HARD,19.0,True,1,True,False,False,8.0,26.0,35.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,52,90.975,2.0,HARD,20.0,True,1,True,False,False,7.0,26.0,34.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,53,90.551,2.0,HARD,21.0,True,1,True,False,False,7.0,26.0,35.0,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,54,90.496,2.0,HARD,22.0,True,1,True,False,False,7.0,26.0,34.8,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,55,90.601,2.0,HARD,23.0,True,1,True,False,False,7.0,25.9,34.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,56,90.707,2.0,HARD,24.0,True,1,True,False,False,7.0,25.9,34.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LEC,Ferrari,57,90.867,2.0,HARD,25.0,True,1,True,False,False,7.0,26.0,34.9,False,8.0,7.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,1,103.734,1.0,MEDIUM,2.0,False,12,False,False,False,15.0,26.3,39.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,2,124.499,1.0,MEDIUM,3.0,False,126,False,False,False,15.0,26.4,40.3,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,3,116.297,1.0,MEDIUM,4.0,False,671,False,False,False,15.0,26.7,39.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,4,93.892,1.0,MEDIUM,5.0,False,1,True,False,False,15.0,26.6,39.0,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,5,93.896,1.0,MEDIUM,6.0,False,1,True,False,False,15.0,26.4,38.5,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,6,93.212,1.0,MEDIUM,7.0,False,1,True,False,False,15.0,26.4,38.4,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,7,93.581,1.0,MEDIUM,8.0,False,1,True,False,False,15.0,26.6,38.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,8,93.469,1.0,MEDIUM,9.0,False,1,True,False,False,15.0,26.6,38.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,9,93.621,1.0,MEDIUM,10.0,False,1,True,False,False,15.0,26.7,38.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,10,93.843,1.0,MEDIUM,11.0,False,1,True,False,False,15.0,26.7,38.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,11,93.678,1.0,MEDIUM,12.0,False,1,True,False,False,15.0,26.6,38.5,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,12,93.547,1.0,MEDIUM,13.0,False,1,True,False,False,15.0,26.6,38.4,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,13,93.825,1.0,MEDIUM,14.0,False,1,True,False,False,15.0,26.8,38.2,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,14,94.221,1.0,MEDIUM,15.0,False,1,True,False,False,15.0,26.6,38.1,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,15,93.694,1.0,MEDIUM,16.0,False,1,True,False,False,15.0,26.6,37.6,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,16,93.913,1.0,MEDIUM,17.0,False,1,True,False,False,15.0,26.5,37.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,17,93.859,1.0,MEDIUM,18.0,False,1,True,False,False,15.0,26.6,37.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,18,93.59,1.0,MEDIUM,19.0,False,1,True,False,False,15.0,26.7,37.6,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,19,93.545,1.0,MEDIUM,20.0,False,1,True,False,False,14.0,26.8,38.0,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,20,98.388,1.0,MEDIUM,21.0,False,1,False,True,False,17.0,26.8,37.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,21,106.462,2.0,HARD,2.0,False,1,False,False,True,18.0,26.5,37.6,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,22,92.538,2.0,HARD,3.0,False,1,True,False,False,18.0,26.7,37.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,23,93.019,2.0,HARD,4.0,False,1,True,False,False,18.0,26.8,37.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,24,93.004,2.0,HARD,5.0,False,1,True,False,False,18.0,26.8,37.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,25,92.687,2.0,HARD,6.0,False,1,True,False,False,18.0,26.8,37.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,26,92.634,2.0,HARD,7.0,False,1,True,False,False,18.0,26.7,37.3,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,27,92.527,2.0,HARD,8.0,False,1,True,False,False,18.0,26.6,37.2,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,28,106.25,2.0,HARD,9.0,False,16,False,False,False,17.0,26.6,36.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,29,120.032,2.0,HARD,10.0,False,671,False,False,False,17.0,26.6,36.4,True,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,30,92.804,2.0,HARD,11.0,False,1,True,False,False,16.0,26.5,36.4,True,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,31,92.974,2.0,HARD,12.0,False,1,True,False,False,16.0,26.5,36.0,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,32,102.783,2.0,HARD,13.0,False,16,False,False,False,16.0,26.4,36.4,True,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,33,109.78,2.0,HARD,14.0,False,671,False,False,False,16.0,26.4,35.8,True,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,34,92.189,2.0,HARD,15.0,False,1,True,False,False,16.0,26.2,36.1,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,35,92.333,2.0,HARD,16.0,False,1,True,False,False,16.0,26.1,35.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,36,92.387,2.0,HARD,17.0,False,1,True,False,False,16.0,26.1,35.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,37,92.999,2.0,HARD,18.0,False,1,True,False,False,16.0,26.1,35.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,38,92.298,2.0,HARD,19.0,False,1,True,False,False,16.0,26.1,36.0,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,39,92.237,2.0,HARD,20.0,False,1,True,False,False,16.0,26.2,35.7,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,40,92.166,2.0,HARD,21.0,False,1,True,False,False,16.0,26.2,35.5,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,41,92.181,2.0,HARD,22.0,False,1,True,False,False,16.0,26.2,35.1,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,42,92.205,2.0,HARD,23.0,False,1,True,False,False,16.0,26.1,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,43,92.19,2.0,HARD,24.0,False,1,True,False,False,16.0,26.0,35.2,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,44,92.353,2.0,HARD,25.0,False,1,True,False,False,16.0,26.0,35.6,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,45,94.538,2.0,HARD,26.0,False,1,True,False,False,16.0,26.0,35.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,46,94.595,2.0,HARD,27.0,False,1,True,False,False,16.0,26.0,35.4,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,47,92.662,2.0,HARD,28.0,False,1,True,False,False,16.0,26.1,35.3,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,48,92.521,2.0,HARD,29.0,False,1,True,False,False,16.0,26.0,35.3,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,49,92.044,2.0,HARD,30.0,False,1,True,False,False,16.0,26.1,35.0,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,50,91.769,2.0,HARD,31.0,False,1,True,False,False,16.0,26.0,35.1,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,51,92.029,2.0,HARD,32.0,False,1,True,False,False,16.0,26.0,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,52,92.28,2.0,HARD,33.0,False,1,True,False,False,16.0,25.9,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,53,92.266,2.0,HARD,34.0,False,1,True,False,False,16.0,26.0,34.8,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,54,92.186,2.0,HARD,35.0,False,1,True,False,False,16.0,25.9,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,55,92.076,2.0,HARD,36.0,False,1,True,False,False,16.0,25.9,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,STR,Aston Martin,56,92.447,2.0,HARD,37.0,False,1,True,False,False,16.0,26.0,34.9,False,18.0,16.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,1,101.207,,nan,,True,12,False,False,False,9.0,26.3,39.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,2,116.508,,nan,,True,126,False,False,False,9.0,26.4,40.3,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,3,121.976,,nan,,True,671,False,False,False,9.0,26.7,39.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,4,92.955,,nan,,True,1,True,False,False,9.0,26.6,39.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,5,92.945,,nan,,True,1,True,False,False,9.0,26.4,38.5,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,6,93.036,,nan,,True,1,True,False,False,9.0,26.4,38.4,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,7,93.076,,nan,,True,1,True,False,False,9.0,26.6,38.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,8,93.187,,nan,,True,1,True,False,False,9.0,26.6,38.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,9,93.272,,nan,,True,1,True,False,False,9.0,26.7,38.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,10,93.145,,nan,,True,1,True,False,False,9.0,26.7,39.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,11,93.219,,nan,,True,1,True,False,False,9.0,26.6,38.5,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,12,93.239,,nan,,True,1,True,False,False,9.0,26.6,38.4,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,13,93.225,,nan,,True,1,True,False,False,9.0,26.8,38.2,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,14,93.105,,nan,,True,1,True,False,False,9.0,26.6,38.1,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,15,93.489,,nan,,True,1,True,False,False,9.0,26.6,37.6,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,16,93.366,,nan,,True,1,True,False,False,9.0,26.5,37.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,17,93.213,,nan,,True,1,True,False,False,9.0,26.6,37.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,18,93.325,,nan,,True,1,True,False,False,9.0,26.7,37.6,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,19,93.148,,nan,,True,1,True,False,False,9.0,26.8,37.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,20,93.15,,nan,,True,1,True,False,False,9.0,26.8,37.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,21,92.758,,nan,,True,1,True,False,False,9.0,26.5,37.6,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,22,92.829,,nan,,True,1,True,False,False,9.0,26.6,37.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,23,92.855,,nan,,True,1,True,False,False,9.0,26.8,37.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,24,92.673,,nan,,True,1,True,False,False,9.0,26.8,37.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,25,92.528,1.0,MEDIUM,1.0,True,1,True,False,False,8.0,26.8,37.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,26,92.634,1.0,MEDIUM,2.0,True,1,True,False,False,7.0,26.8,37.5,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,27,97.38,1.0,MEDIUM,3.0,True,1,False,True,False,6.0,26.6,37.2,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,28,115.106,1.0,MEDIUM,4.0,True,16,False,False,True,12.0,26.6,37.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,29,122.748,1.0,MEDIUM,5.0,True,671,False,False,False,12.0,26.6,36.6,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,30,91.531,1.0,MEDIUM,6.0,True,1,True,False,False,11.0,26.6,36.4,True,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,31,91.698,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,26.5,36.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,32,93.002,1.0,MEDIUM,8.0,True,16,False,False,False,11.0,26.5,36.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,33,118.586,2.0,HARD,1.0,True,671,False,False,False,11.0,26.4,35.8,True,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,34,91.393,2.0,HARD,2.0,True,1,True,False,False,10.0,26.2,36.1,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,35,91.41,2.0,HARD,3.0,True,1,True,False,False,10.0,26.2,36.1,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,36,91.287,2.0,HARD,4.0,True,1,True,False,False,10.0,26.1,35.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,37,91.495,2.0,HARD,5.0,True,1,True,False,False,10.0,26.1,35.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,38,91.199,2.0,HARD,6.0,True,1,True,False,False,10.0,26.1,36.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,39,91.557,2.0,HARD,7.0,True,1,True,False,False,10.0,26.2,35.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,40,91.328,2.0,HARD,8.0,True,1,True,False,False,10.0,26.2,35.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,41,91.345,2.0,HARD,9.0,True,1,True,False,False,10.0,26.2,35.1,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,42,91.211,2.0,HARD,10.0,True,1,True,False,False,10.0,26.1,34.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,43,91.229,2.0,HARD,11.0,True,1,True,False,False,10.0,26.0,35.2,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,44,91.183,2.0,HARD,12.0,True,1,True,False,False,10.0,26.0,35.3,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,45,91.335,2.0,HARD,13.0,True,1,True,False,False,10.0,26.0,35.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,46,91.427,2.0,HARD,14.0,True,1,True,False,False,10.0,26.0,35.7,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,47,91.046,2.0,HARD,15.0,True,1,True,False,False,10.0,26.1,35.3,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,48,91.528,2.0,HARD,16.0,True,1,True,False,False,10.0,26.0,35.3,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,49,91.131,2.0,HARD,17.0,True,1,True,False,False,10.0,26.1,35.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,50,91.363,2.0,HARD,18.0,True,1,True,False,False,10.0,26.0,35.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,51,91.179,2.0,HARD,19.0,True,1,True,False,False,10.0,26.0,35.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,52,91.237,2.0,HARD,20.0,True,1,True,False,False,10.0,26.0,34.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,53,91.267,2.0,HARD,21.0,True,1,True,False,False,10.0,26.0,35.0,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,54,91.341,2.0,HARD,22.0,True,1,True,False,False,10.0,26.0,34.8,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,55,90.964,2.0,HARD,23.0,True,1,True,False,False,10.0,25.9,34.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,56,91.401,2.0,HARD,24.0,True,1,True,False,False,10.0,25.9,34.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,TSU,Red Bull Racing,57,91.051,2.0,HARD,25.0,True,1,True,False,False,10.0,26.0,34.9,False,10.0,10.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,1,98.782,,nan,,True,12,False,False,False,5.0,26.3,39.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,2,113.64,,nan,,True,126,False,False,False,5.0,26.4,40.3,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,3,123.54,,nan,,True,671,False,False,False,5.0,26.7,39.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,4,93.079,,nan,,True,1,True,False,False,6.0,26.6,39.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,5,93.836,,nan,,True,1,True,False,False,7.0,26.4,38.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,6,93.206,,nan,,True,1,True,False,False,7.0,26.4,38.4,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,7,92.982,,nan,,True,1,True,False,False,7.0,26.6,38.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,8,93.117,,nan,,True,1,True,False,False,7.0,26.6,38.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,9,93.014,,nan,,True,1,True,False,False,7.0,26.7,38.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,10,92.834,,nan,,True,1,True,False,False,7.0,26.7,39.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,11,93.569,,nan,,True,1,True,False,False,7.0,26.6,38.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,12,93.515,,nan,,True,1,True,False,False,7.0,26.6,38.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,13,93.031,,nan,,True,1,True,False,False,7.0,26.8,38.2,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,14,92.701,,nan,,True,1,True,False,False,6.0,26.6,38.1,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,15,92.968,,nan,,True,1,True,False,False,6.0,26.6,37.6,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,16,92.612,,nan,,True,1,True,False,False,6.0,26.5,37.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,17,92.506,,nan,,True,1,True,False,False,6.0,26.6,37.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,18,92.648,,nan,,True,1,True,False,False,6.0,26.7,37.6,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,19,92.736,,nan,,True,1,True,False,False,6.0,26.8,37.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,20,92.601,,nan,,True,1,True,False,False,6.0,26.8,37.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,21,92.551,,nan,,True,1,True,False,False,6.0,26.6,37.6,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,22,92.39,,nan,,True,1,True,False,False,6.0,26.6,37.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,23,92.397,,nan,,True,1,True,False,False,6.0,26.7,37.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,24,92.43,,nan,,True,1,True,False,False,6.0,26.8,37.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,25,92.076,1.0,MEDIUM,1.0,True,1,True,False,False,5.0,26.8,37.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,26,97.279,1.0,MEDIUM,2.0,True,1,False,True,False,5.0,26.8,37.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,27,105.269,1.0,MEDIUM,3.0,True,1,False,False,True,9.0,26.6,37.2,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,28,98.254,1.0,MEDIUM,4.0,True,16,False,False,False,8.0,26.6,37.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,29,124.258,1.0,MEDIUM,5.0,True,671,False,False,False,7.0,26.6,36.6,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,30,91.203,1.0,MEDIUM,6.0,True,1,True,False,False,6.0,26.6,36.4,True,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,31,91.071,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,26.5,36.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,32,91.514,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,26.5,36.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,33,119.283,2.0,HARD,1.0,True,167,False,False,False,5.0,26.4,35.8,True,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,34,90.608,2.0,HARD,2.0,True,1,True,False,False,5.0,26.2,36.1,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,35,91.143,2.0,HARD,3.0,True,1,True,False,False,5.0,26.2,36.1,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,36,90.799,2.0,HARD,4.0,True,1,True,False,False,5.0,26.1,35.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,37,91.111,2.0,HARD,5.0,True,1,True,False,False,5.0,26.1,35.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,38,91.363,2.0,HARD,6.0,True,1,True,False,False,5.0,26.1,36.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,39,91.351,2.0,HARD,7.0,True,1,True,False,False,5.0,26.2,36.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,40,91.181,2.0,HARD,8.0,True,1,True,False,False,5.0,26.2,35.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,41,90.975,2.0,HARD,9.0,True,1,True,False,False,5.0,26.2,35.5,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,42,91.389,2.0,HARD,10.0,True,1,True,False,False,5.0,26.1,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,43,91.172,2.0,HARD,11.0,True,1,True,False,False,5.0,26.1,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,44,91.169,2.0,HARD,12.0,True,1,True,False,False,5.0,26.0,35.3,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,45,91.122,2.0,HARD,13.0,True,1,True,False,False,5.0,26.0,35.6,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,46,91.073,2.0,HARD,14.0,True,1,True,False,False,5.0,26.0,35.7,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,47,91.012,2.0,HARD,15.0,True,1,True,False,False,5.0,26.0,35.4,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,48,91.055,2.0,HARD,16.0,True,1,True,False,False,5.0,26.0,35.3,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,49,90.839,2.0,HARD,17.0,True,1,True,False,False,5.0,26.1,35.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,50,90.95,2.0,HARD,18.0,True,1,True,False,False,5.0,26.0,35.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,51,90.687,2.0,HARD,19.0,True,1,True,False,False,5.0,26.0,35.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,52,90.684,2.0,HARD,20.0,True,1,True,False,False,5.0,26.0,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,53,90.688,2.0,HARD,21.0,True,1,True,False,False,5.0,26.0,35.0,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,54,90.657,2.0,HARD,22.0,True,1,True,False,False,5.0,26.0,34.8,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,55,90.482,2.0,HARD,23.0,True,1,True,False,False,5.0,25.9,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,56,90.675,2.0,HARD,24.0,True,1,True,False,False,5.0,25.9,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,ALB,Williams,57,90.577,2.0,HARD,25.0,True,1,True,False,False,5.0,26.0,34.9,False,7.0,5.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,1,103.306,,nan,,True,12,False,False,False,14.0,26.3,39.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,2,122.663,,nan,,True,126,False,False,False,14.0,26.4,40.3,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,3,117.784,,nan,,True,671,False,False,False,14.0,26.7,39.8,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,4,94.181,,nan,,True,1,True,False,False,14.0,26.6,39.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,5,93.552,,nan,,True,1,True,False,False,14.0,26.4,38.5,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,6,93.311,,nan,,True,1,True,False,False,14.0,26.4,38.4,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,7,93.576,,nan,,True,1,True,False,False,14.0,26.6,38.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,8,93.415,,nan,,True,1,True,False,False,14.0,26.6,38.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,9,93.517,,nan,,True,1,True,False,False,14.0,26.7,38.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,10,93.584,,nan,,True,1,True,False,False,14.0,26.7,38.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,11,93.736,,nan,,True,1,True,False,False,14.0,26.6,38.5,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,12,93.441,,nan,,True,1,True,False,False,14.0,26.6,38.4,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,13,93.39,,nan,,True,1,True,False,False,14.0,26.8,38.2,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,14,93.56,,nan,,True,1,True,False,False,14.0,26.6,38.1,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,15,93.743,,nan,,True,1,True,False,False,14.0,26.6,37.6,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,16,93.591,,nan,,True,1,True,False,False,14.0,26.5,37.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,17,93.607,,nan,,True,1,True,False,False,14.0,26.6,37.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,18,93.621,,nan,,True,1,True,False,False,14.0,26.7,37.6,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,19,93.461,,nan,,True,1,True,False,False,13.0,26.8,38.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,20,93.252,,nan,,True,1,True,False,False,13.0,26.8,37.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,21,93.282,,nan,,True,1,True,False,False,13.0,26.5,37.6,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,22,93.272,,nan,,True,1,True,False,False,12.0,26.6,37.8,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,23,92.881,,nan,,True,1,True,False,False,12.0,26.8,37.8,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,24,92.738,1.0,HARD,1.0,True,1,True,False,False,11.0,26.8,37.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,25,92.441,1.0,HARD,2.0,True,1,True,False,False,11.0,26.8,37.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,26,93.266,1.0,HARD,3.0,True,1,True,False,False,10.0,26.8,37.5,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,27,93.274,1.0,HARD,4.0,True,1,True,False,False,11.0,26.6,37.2,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,28,100.58,1.0,HARD,5.0,True,16,False,False,False,10.0,26.6,36.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,29,125.176,1.0,HARD,6.0,True,671,False,False,False,9.0,26.6,36.6,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,30,92.735,1.0,HARD,7.0,True,1,True,False,False,10.0,26.6,36.4,True,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,31,93.128,1.0,HARD,8.0,True,1,True,False,False,10.0,26.5,36.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,32,93.23,1.0,HARD,9.0,True,16,False,False,False,10.0,26.5,36.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,33,119.066,1.0,HARD,10.0,True,671,False,False,False,10.0,26.4,35.8,True,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,34,92.815,1.0,HARD,11.0,True,1,True,False,False,11.0,26.2,36.1,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,35,92.655,1.0,HARD,12.0,True,1,True,False,False,11.0,26.2,36.1,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,36,97.202,1.0,HARD,13.0,True,1,False,True,False,13.0,26.1,35.8,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,37,104.964,2.0,MEDIUM,1.0,True,1,False,False,True,14.0,26.1,35.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,38,91.365,2.0,MEDIUM,2.0,True,1,True,False,False,14.0,26.1,36.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,39,91.044,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,26.2,35.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,40,91.491,2.0,MEDIUM,4.0,True,1,True,False,False,14.0,26.2,35.7,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,41,91.203,2.0,MEDIUM,5.0,True,1,True,False,False,14.0,26.2,35.1,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,42,91.33,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,26.1,34.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,43,91.015,2.0,MEDIUM,7.0,True,1,True,False,False,14.0,26.0,35.2,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,44,91.108,2.0,MEDIUM,8.0,True,1,True,False,False,14.0,26.0,35.6,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,45,91.321,2.0,MEDIUM,9.0,True,1,True,False,False,14.0,26.0,35.8,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,46,91.053,2.0,MEDIUM,10.0,True,1,True,False,False,14.0,26.0,35.4,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,47,91.052,2.0,MEDIUM,11.0,True,1,True,False,False,14.0,26.1,35.3,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,48,91.124,2.0,MEDIUM,12.0,True,1,True,False,False,14.0,26.0,35.3,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,49,91.154,2.0,MEDIUM,13.0,True,1,True,False,False,14.0,26.1,35.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,50,91.227,2.0,MEDIUM,14.0,True,1,True,False,False,14.0,26.0,35.1,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,51,91.363,2.0,MEDIUM,15.0,True,1,True,False,False,14.0,26.0,35.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,52,91.767,2.0,MEDIUM,16.0,True,1,True,False,False,14.0,25.9,34.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,53,91.419,2.0,MEDIUM,17.0,True,1,True,False,False,14.0,26.0,35.0,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,54,91.137,2.0,MEDIUM,18.0,True,1,True,False,False,14.0,25.9,34.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,55,91.156,2.0,MEDIUM,19.0,True,1,True,False,False,14.0,25.9,34.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HUL,Kick Sauber,56,93.417,2.0,MEDIUM,20.0,True,1,True,False,False,14.0,26.0,34.9,False,16.0,14.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,1,115.964,,nan,,True,12,False,False,False,19.0,26.3,39.7,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,2,121.748,,nan,,True,126,False,False,False,19.0,26.4,40.3,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,3,117.913,,nan,,True,671,False,False,False,19.0,26.7,39.8,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,4,93.315,,nan,,True,1,True,False,False,19.0,26.6,39.0,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,5,94.526,,nan,,True,1,True,False,False,19.0,26.4,38.5,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,6,94.334,,nan,,True,1,True,False,False,19.0,26.5,38.5,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,7,94.046,,nan,,True,1,True,False,False,19.0,26.6,38.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,8,94.137,,nan,,True,1,True,False,False,19.0,26.6,38.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,9,94.094,,nan,,True,1,True,False,False,19.0,26.7,38.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,10,94.204,,nan,,True,1,True,False,False,19.0,26.7,38.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,11,93.99,,nan,,True,1,True,False,False,19.0,26.6,38.5,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,12,94.087,,nan,,True,1,True,False,False,19.0,26.6,38.4,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,13,94.351,,nan,,True,1,True,False,False,19.0,26.8,38.2,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,14,94.598,,nan,,True,1,True,False,False,19.0,26.6,38.1,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,15,94.692,,nan,,True,1,True,False,False,19.0,26.5,37.6,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,16,94.401,,nan,,True,1,True,False,False,19.0,26.5,37.7,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,17,94.82,,nan,,True,1,True,False,False,19.0,26.5,37.6,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,18,94.722,,nan,,True,1,True,False,False,19.0,26.7,37.6,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,19,94.501,,nan,,True,1,True,False,False,19.0,26.8,38.0,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,20,94.448,,nan,,True,1,True,False,False,19.0,26.6,37.6,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,21,94.492,,nan,,True,1,True,False,False,19.0,26.5,37.6,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,22,94.433,,nan,,True,1,True,False,False,19.0,26.7,37.8,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,23,94.53,,nan,,True,1,True,False,False,19.0,26.8,37.8,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,24,94.337,1.0,HARD,1.0,True,1,True,False,False,19.0,26.8,37.7,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,25,94.094,1.0,HARD,2.0,True,1,True,False,False,19.0,26.8,37.7,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,26,94.112,1.0,HARD,3.0,True,1,True,False,False,19.0,26.7,37.3,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,27,94.372,1.0,HARD,4.0,True,1,True,False,False,19.0,26.6,37.0,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,28,118.141,1.0,HARD,5.0,True,16,False,True,False,18.0,26.6,36.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,29,118.646,1.0,HARD,6.0,True,671,False,False,True,18.0,26.6,36.4,True,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,30,91.77,1.0,HARD,7.0,True,1,True,False,False,18.0,26.5,36.4,True,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,31,92.361,1.0,HARD,8.0,True,1,True,False,False,17.0,26.5,36.0,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,32,111.905,2.0,MEDIUM,1.0,True,16,False,False,False,17.0,26.4,36.4,True,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,33,99.589,2.0,MEDIUM,2.0,True,671,False,False,False,17.0,26.3,35.5,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,34,94.513,2.0,MEDIUM,3.0,True,1,True,False,False,17.0,26.2,36.1,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,35,92.855,2.0,MEDIUM,4.0,True,1,True,False,False,17.0,26.1,35.9,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,LAW,Racing Bulls,36,107.47,2.0,MEDIUM,5.0,True,1,False,True,False,17.0,26.1,35.5,False,15.0,17.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,1,101.555,1.0,MEDIUM,1.0,True,12,False,False,False,10.0,26.3,39.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,2,117.623,1.0,MEDIUM,2.0,True,126,False,False,False,10.0,26.4,40.3,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,3,121.586,1.0,MEDIUM,3.0,True,671,False,False,False,10.0,26.7,39.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,4,92.67,1.0,MEDIUM,4.0,True,1,True,False,False,10.0,26.6,39.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,5,92.756,1.0,MEDIUM,5.0,True,1,True,False,False,10.0,26.4,38.5,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,6,93.113,1.0,MEDIUM,6.0,True,1,True,False,False,10.0,26.4,38.4,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,7,93.054,1.0,MEDIUM,7.0,True,1,True,False,False,10.0,26.6,38.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,8,93.145,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,26.6,38.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,9,94.012,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,26.7,38.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,10,93.278,1.0,MEDIUM,10.0,True,1,True,False,False,10.0,26.7,39.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,11,93.257,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,26.6,38.5,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,12,93.153,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,26.6,38.4,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,13,93.061,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,26.8,38.2,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,14,93.214,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,26.6,38.1,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,15,93.377,1.0,MEDIUM,15.0,True,1,True,False,False,10.0,26.6,37.6,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,16,93.697,1.0,MEDIUM,16.0,True,1,True,False,False,10.0,26.5,37.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,17,93.186,1.0,MEDIUM,17.0,True,1,True,False,False,10.0,26.6,37.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,18,93.61,1.0,MEDIUM,18.0,True,1,True,False,False,10.0,26.7,37.6,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,19,93.406,1.0,MEDIUM,19.0,True,1,True,False,False,10.0,26.8,37.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,20,92.989,1.0,MEDIUM,20.0,True,1,True,False,False,10.0,26.8,37.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,21,93.479,1.0,MEDIUM,21.0,True,1,True,False,False,10.0,26.5,37.6,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,22,95.102,1.0,MEDIUM,22.0,True,1,True,False,False,11.0,26.6,37.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,23,98.825,1.0,MEDIUM,23.0,True,1,False,True,False,11.0,26.8,37.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,24,106.766,2.0,HARD,1.0,True,1,False,False,True,16.0,26.8,37.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,25,91.358,2.0,HARD,2.0,True,1,True,False,False,16.0,26.8,37.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,26,91.463,2.0,HARD,3.0,True,1,True,False,False,16.0,26.7,37.3,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,27,91.96,2.0,HARD,4.0,True,1,True,False,False,16.0,26.6,37.2,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,28,103.701,2.0,HARD,5.0,True,16,False,False,False,14.0,26.6,36.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,29,120.87,2.0,HARD,6.0,True,671,False,False,False,14.0,26.6,36.6,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,30,91.122,2.0,HARD,7.0,True,1,True,False,False,14.0,26.6,36.4,True,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,31,91.877,2.0,HARD,8.0,True,1,True,False,False,14.0,26.5,36.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,32,97.165,2.0,HARD,9.0,True,16,False,False,False,14.0,26.5,36.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,33,114.247,2.0,HARD,10.0,True,671,False,False,False,13.0,26.4,35.8,True,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,34,91.33,2.0,HARD,11.0,True,1,True,False,False,13.0,26.2,36.1,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,35,91.511,2.0,HARD,12.0,True,1,True,False,False,13.0,26.1,35.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,36,91.65,2.0,HARD,13.0,True,1,True,False,False,12.0,26.1,35.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,37,91.747,2.0,HARD,14.0,True,1,True,False,False,12.0,26.1,35.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,38,91.603,2.0,HARD,15.0,True,1,True,False,False,12.0,26.1,36.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,39,91.553,2.0,HARD,16.0,True,1,True,False,False,12.0,26.2,35.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,40,91.562,2.0,HARD,17.0,True,1,True,False,False,12.0,26.2,35.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,41,91.339,2.0,HARD,18.0,True,1,True,False,False,12.0,26.2,35.1,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,42,91.542,2.0,HARD,19.0,True,1,True,False,False,12.0,26.1,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,43,91.67,2.0,HARD,20.0,True,1,True,False,False,12.0,26.0,35.2,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,44,91.836,2.0,HARD,21.0,True,1,True,False,False,12.0,26.0,35.3,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,45,92.099,2.0,HARD,22.0,True,1,True,False,False,12.0,26.0,35.8,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,46,91.838,2.0,HARD,23.0,True,1,True,False,False,12.0,26.0,35.7,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,47,91.662,2.0,HARD,24.0,True,1,True,False,False,12.0,26.1,35.3,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,48,91.533,2.0,HARD,25.0,True,1,True,False,False,12.0,26.0,35.3,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,49,91.924,2.0,HARD,26.0,True,1,True,False,False,12.0,26.1,35.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,50,91.642,2.0,HARD,27.0,True,1,True,False,False,12.0,26.0,35.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,51,91.586,2.0,HARD,28.0,True,1,True,False,False,12.0,26.0,35.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,52,91.766,2.0,HARD,29.0,True,1,True,False,False,12.0,26.0,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,53,91.815,2.0,HARD,30.0,True,1,True,False,False,12.0,26.0,35.0,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,54,91.794,2.0,HARD,31.0,True,1,True,False,False,12.0,25.9,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,55,91.586,2.0,HARD,32.0,True,1,True,False,False,12.0,25.9,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,56,91.482,2.0,HARD,33.0,True,1,True,False,False,12.0,26.0,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,OCO,Haas F1 Team,57,91.846,2.0,HARD,34.0,True,1,True,False,False,12.0,26.0,34.9,False,9.0,12.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,1,99.277,,nan,,True,12,False,False,False,6.0,26.3,39.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,2,115.086,,nan,,True,126,False,False,False,6.0,26.4,40.3,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,3,122.001,,nan,,True,671,False,False,False,6.0,26.7,39.8,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,4,92.128,,nan,,True,1,True,False,False,5.0,26.6,39.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,5,92.639,,nan,,True,1,True,False,False,5.0,26.4,38.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,6,92.634,,nan,,True,1,True,False,False,5.0,26.4,38.4,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,7,93.008,,nan,,True,1,True,False,False,4.0,26.6,38.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,8,92.427,,nan,,True,1,True,False,False,4.0,26.6,38.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,9,92.146,,nan,,True,1,True,False,False,3.0,26.7,38.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,10,91.901,,nan,,True,1,True,False,False,3.0,26.7,39.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,11,91.7,,nan,,True,1,True,False,False,3.0,26.6,38.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,12,91.905,,nan,,True,1,True,False,False,3.0,26.6,38.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,13,91.745,,nan,,True,1,True,False,False,3.0,26.8,38.2,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,14,92.333,,nan,,True,1,True,False,False,3.0,26.7,38.2,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,15,93.943,,nan,,True,1,True,False,False,3.0,26.6,37.6,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,16,93.099,,nan,,True,1,True,False,False,3.0,26.5,37.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,17,94.855,,nan,,True,1,True,False,False,3.0,26.6,37.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,18,92.384,,nan,,True,1,True,False,False,2.0,26.7,37.6,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,19,92.038,,nan,,True,1,True,False,False,2.0,26.8,37.8,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,20,91.884,,nan,,True,1,True,False,False,2.0,26.8,37.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,21,91.555,,nan,,True,1,True,False,False,2.0,26.6,37.6,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,22,91.537,,nan,,True,1,True,False,False,2.0,26.6,37.8,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,23,91.478,,nan,,True,1,True,False,False,2.0,26.7,37.8,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,24,91.312,,nan,,True,1,True,False,False,2.0,26.8,37.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,25,91.453,1.0,MEDIUM,1.0,True,1,True,False,False,2.0,26.8,37.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,26,91.277,1.0,MEDIUM,2.0,True,1,True,False,False,2.0,26.8,37.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,27,91.612,1.0,MEDIUM,3.0,True,1,True,False,False,2.0,26.7,37.3,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,28,91.786,1.0,MEDIUM,4.0,True,1,True,False,False,2.0,26.6,37.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,29,121.886,1.0,MEDIUM,5.0,True,16,False,True,False,2.0,26.6,36.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,30,109.289,1.0,MEDIUM,6.0,True,671,False,False,True,2.0,26.6,36.4,True,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,31,90.375,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,26.5,36.4,True,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,32,90.414,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,26.5,36.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,33,113.913,2.0,HARD,1.0,True,16,False,False,False,2.0,26.4,36.4,True,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,34,94.624,2.0,HARD,2.0,True,671,False,False,False,2.0,26.3,35.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,35,89.834,2.0,HARD,3.0,True,1,True,False,False,2.0,26.2,36.1,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,36,89.746,2.0,HARD,4.0,True,1,True,False,False,2.0,26.1,35.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,37,89.975,2.0,HARD,5.0,True,1,True,False,False,2.0,26.1,35.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,38,90.196,2.0,HARD,6.0,True,1,True,False,False,2.0,26.1,35.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,39,90.168,2.0,HARD,7.0,True,1,True,False,False,2.0,26.2,36.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,40,90.117,2.0,HARD,8.0,True,1,True,False,False,2.0,26.2,35.7,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,41,90.168,2.0,HARD,9.0,True,1,True,False,False,2.0,26.2,35.5,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,42,90.163,2.0,HARD,10.0,True,1,True,False,False,2.0,26.2,35.1,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,43,90.144,2.0,HARD,11.0,True,1,True,False,False,2.0,26.1,34.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,44,90.024,2.0,HARD,12.0,True,1,True,False,False,2.0,26.0,35.2,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,45,90.095,2.0,HARD,13.0,True,1,True,False,False,2.0,26.0,35.6,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,46,89.982,2.0,HARD,14.0,True,1,True,False,False,2.0,26.0,35.8,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,47,90.055,2.0,HARD,15.0,True,1,True,False,False,2.0,26.0,35.4,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,48,90.11,2.0,HARD,16.0,True,1,True,False,False,2.0,26.1,35.3,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,49,90.211,2.0,HARD,17.0,True,1,True,False,False,2.0,26.0,35.3,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,50,89.791,2.0,HARD,18.0,True,1,True,False,False,2.0,26.1,35.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,51,89.9,2.0,HARD,19.0,True,1,True,False,False,2.0,26.0,35.1,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,52,90.398,2.0,HARD,20.0,True,1,True,False,False,2.0,26.0,35.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,53,90.54,2.0,HARD,21.0,True,1,True,False,False,2.0,25.9,34.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,54,90.475,2.0,HARD,22.0,True,1,True,False,False,2.0,26.0,35.0,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,55,90.764,2.0,HARD,23.0,True,1,True,False,False,2.0,25.9,34.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,56,90.732,2.0,HARD,24.0,True,1,True,False,False,2.0,25.9,34.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,NOR,McLaren,57,90.985,2.0,HARD,25.0,True,1,True,False,False,2.0,26.0,34.9,False,2.0,2.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,1,102.517,,nan,,True,12,False,False,False,12.0,26.3,39.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,2,119.324,,nan,,True,126,False,False,False,12.0,26.4,40.3,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,3,120.931,,nan,,True,671,False,False,False,12.0,26.7,39.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,4,92.412,,nan,,True,1,True,False,False,11.0,26.6,39.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,5,92.899,,nan,,True,1,True,False,False,11.0,26.4,38.5,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,6,93.41,,nan,,True,1,True,False,False,11.0,26.4,38.4,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,7,92.96,,nan,,True,1,True,False,False,11.0,26.6,38.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,8,93.229,,nan,,True,1,True,False,False,11.0,26.6,38.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,9,93.164,,nan,,True,1,True,False,False,11.0,26.7,38.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,10,92.876,,nan,,True,1,True,False,False,11.0,26.7,39.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,11,93.328,,nan,,True,1,True,False,False,11.0,26.6,38.5,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,12,93.039,,nan,,True,1,True,False,False,11.0,26.6,38.4,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,13,92.844,,nan,,True,1,True,False,False,11.0,26.8,38.2,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,14,93.067,,nan,,True,1,True,False,False,11.0,26.6,38.1,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,15,93.369,,nan,,True,1,True,False,False,11.0,26.6,37.6,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,16,93.513,,nan,,True,1,True,False,False,11.0,26.5,37.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,17,93.399,,nan,,True,1,True,False,False,11.0,26.6,37.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,18,93.44,,nan,,True,1,True,False,False,11.0,26.7,37.6,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,19,93.444,,nan,,True,1,True,False,False,11.0,26.8,37.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,20,92.965,,nan,,True,1,True,False,False,11.0,26.8,37.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,21,93.329,,nan,,True,1,True,False,False,11.0,26.5,37.6,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,22,94.369,,nan,,True,1,True,False,False,10.0,26.6,37.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,23,93.387,,nan,,True,1,True,False,False,10.0,26.8,37.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,24,92.636,1.0,HARD,1.0,True,1,True,False,False,10.0,26.8,37.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,25,92.674,1.0,HARD,2.0,True,1,True,False,False,10.0,26.8,37.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,26,92.503,1.0,HARD,3.0,True,1,True,False,False,8.0,26.8,37.5,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,27,92.824,1.0,HARD,4.0,True,1,True,False,False,7.0,26.6,37.2,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,28,99.786,1.0,HARD,5.0,True,16,False,True,False,6.0,26.6,37.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,29,135.146,1.0,HARD,6.0,True,671,False,False,True,10.0,26.6,36.6,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,30,90.62,1.0,HARD,7.0,True,1,True,False,False,9.0,26.6,36.4,True,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,31,91.139,1.0,HARD,8.0,True,1,True,False,False,9.0,26.5,36.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,32,91.221,1.0,HARD,9.0,True,1,True,False,False,9.0,26.5,36.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,33,120.171,2.0,MEDIUM,1.0,True,167,False,False,False,9.0,26.4,35.8,True,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,34,90.922,2.0,MEDIUM,2.0,True,1,True,False,False,8.0,26.2,36.1,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,35,90.562,2.0,MEDIUM,3.0,True,1,True,False,False,8.0,26.2,36.1,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,36,90.723,2.0,MEDIUM,4.0,True,1,True,False,False,8.0,26.1,35.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,37,90.856,2.0,MEDIUM,5.0,True,1,True,False,False,8.0,26.1,35.5,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,38,90.822,2.0,MEDIUM,6.0,True,1,True,False,False,7.0,26.1,36.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,39,90.961,2.0,MEDIUM,7.0,True,1,True,False,False,7.0,26.2,36.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,40,91.047,2.0,MEDIUM,8.0,True,1,True,False,False,7.0,26.2,35.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,41,91.289,2.0,MEDIUM,9.0,True,1,True,False,False,7.0,26.2,35.5,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,42,91.209,2.0,MEDIUM,10.0,True,1,True,False,False,7.0,26.1,34.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,43,91.522,2.0,MEDIUM,11.0,True,1,True,False,False,7.0,26.0,35.2,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,44,91.274,2.0,MEDIUM,12.0,True,1,True,False,False,7.0,26.0,35.3,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,45,91.046,2.0,MEDIUM,13.0,True,1,True,False,False,7.0,26.0,35.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,46,91.01,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,26.0,35.7,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,47,91.473,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,26.1,35.3,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,48,90.891,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,26.0,35.3,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,49,90.886,2.0,MEDIUM,17.0,True,1,True,False,False,7.0,26.1,35.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,50,90.673,2.0,MEDIUM,18.0,True,1,True,False,False,7.0,26.0,35.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,51,90.756,2.0,MEDIUM,19.0,True,1,True,False,False,7.0,26.0,35.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,52,92.162,2.0,MEDIUM,20.0,True,1,True,False,False,8.0,26.0,34.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,53,90.779,2.0,MEDIUM,21.0,True,1,True,False,False,8.0,26.0,35.0,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,54,90.993,2.0,MEDIUM,22.0,True,1,True,False,False,8.0,26.0,34.8,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,55,90.999,2.0,MEDIUM,23.0,True,1,True,False,False,8.0,25.9,34.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,56,91.025,2.0,MEDIUM,24.0,True,1,True,False,False,8.0,25.9,34.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAM,Ferrari,57,91.958,2.0,MEDIUM,25.0,True,1,True,False,False,8.0,26.0,34.9,False,12.0,8.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,1,103.084,1.0,MEDIUM,1.0,True,12,False,False,False,13.0,26.3,39.7,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,2,121.11,1.0,MEDIUM,2.0,True,126,False,False,False,13.0,26.4,40.3,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,3,118.97,1.0,MEDIUM,3.0,True,671,False,False,False,13.0,26.7,39.8,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,4,94.522,1.0,MEDIUM,4.0,True,1,True,False,False,13.0,26.6,39.0,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,5,93.194,1.0,MEDIUM,5.0,True,1,True,False,False,13.0,26.4,38.5,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,6,93.134,1.0,MEDIUM,6.0,True,1,True,False,False,13.0,26.4,38.4,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,7,93.607,1.0,MEDIUM,7.0,True,1,True,False,False,13.0,26.6,38.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,8,93.594,1.0,MEDIUM,8.0,True,1,True,False,False,13.0,26.6,38.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,9,93.269,1.0,MEDIUM,9.0,True,1,True,False,False,13.0,26.7,38.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,10,93.439,1.0,MEDIUM,10.0,True,1,True,False,False,13.0,26.7,38.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,11,93.561,1.0,MEDIUM,11.0,True,1,True,False,False,13.0,26.6,38.5,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,12,93.381,1.0,MEDIUM,12.0,True,1,True,False,False,13.0,26.6,38.4,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,13,93.402,1.0,MEDIUM,13.0,True,1,True,False,False,13.0,26.8,38.2,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,14,93.203,1.0,MEDIUM,14.0,True,1,True,False,False,13.0,26.6,38.1,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,15,93.547,1.0,MEDIUM,15.0,True,1,True,False,False,13.0,26.6,37.6,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,16,93.778,1.0,MEDIUM,16.0,True,1,True,False,False,13.0,26.5,37.7,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,17,93.581,1.0,MEDIUM,17.0,True,1,True,False,False,13.0,26.6,37.7,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,18,93.89,1.0,MEDIUM,18.0,True,1,True,False,False,13.0,26.7,37.6,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,19,98.41,1.0,MEDIUM,19.0,True,1,False,True,False,16.0,26.8,38.0,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,20,106.558,2.0,HARD,1.0,True,1,False,False,True,18.0,26.8,37.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,21,92.328,2.0,HARD,2.0,True,1,True,False,False,17.0,26.5,37.6,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,22,92.414,2.0,HARD,3.0,True,1,True,False,False,17.0,26.7,37.8,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,23,92.423,2.0,HARD,4.0,True,1,True,False,False,17.0,26.8,37.8,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,24,93.275,2.0,HARD,5.0,True,1,True,False,False,17.0,26.8,37.7,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,25,93.162,2.0,HARD,6.0,True,1,True,False,False,17.0,26.8,37.7,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,26,92.822,2.0,HARD,7.0,True,1,True,False,False,17.0,26.7,37.3,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,27,92.42,2.0,HARD,8.0,True,1,True,False,False,17.0,26.6,37.2,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,28,104.735,2.0,HARD,9.0,True,16,False,False,False,16.0,26.6,36.9,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,29,121.597,2.0,HARD,10.0,True,671,False,False,False,15.0,26.6,36.4,True,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,30,117.049,2.0,HARD,11.0,True,1,True,False,False,17.0,26.5,36.4,True,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BOR,Kick Sauber,31,,2.0,HARD,12.0,True,16,False,False,False,,26.5,36.0,False,13.0,18.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,1,99.731,,nan,,True,12,False,False,False,7.0,26.3,39.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,2,115.407,,nan,,True,126,False,False,False,7.0,26.4,40.3,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,3,121.936,,nan,,True,671,False,False,False,7.0,26.7,39.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,4,92.521,,nan,,True,1,True,False,False,7.0,26.6,39.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,5,92.332,,nan,,True,1,True,False,False,6.0,26.4,38.5,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,6,93.317,,nan,,True,1,True,False,False,6.0,26.4,38.4,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,7,93.029,,nan,,True,1,True,False,False,6.0,26.6,38.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,8,93.23,,nan,,True,1,True,False,False,6.0,26.6,38.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,9,93.1,,nan,,True,1,True,False,False,6.0,26.7,38.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,10,92.906,,nan,,True,1,True,False,False,6.0,26.7,39.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,11,93.652,,nan,,True,1,True,False,False,6.0,26.6,38.5,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,12,93.379,,nan,,True,1,True,False,False,6.0,26.6,38.5,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,13,93.044,,nan,,True,1,True,False,False,6.0,26.8,38.2,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,14,93.614,,nan,,True,1,True,False,False,7.0,26.6,38.1,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,15,93.538,,nan,,True,1,True,False,False,7.0,26.6,37.6,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,16,92.915,,nan,,True,1,True,False,False,7.0,26.5,37.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,17,92.857,,nan,,True,1,True,False,False,7.0,26.6,37.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,18,93.257,,nan,,True,1,True,False,False,7.0,26.7,37.6,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,19,92.546,,nan,,True,1,True,False,False,7.0,26.8,37.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,20,92.658,,nan,,True,1,True,False,False,7.0,26.8,37.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,21,93.213,,nan,,True,1,True,False,False,7.0,26.6,37.6,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,22,92.858,,nan,,True,1,True,False,False,7.0,26.6,37.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,23,92.557,,nan,,True,1,True,False,False,7.0,26.8,37.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,24,92.846,,nan,,True,1,True,False,False,7.0,26.8,37.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,25,97.333,1.0,MEDIUM,7.0,False,1,False,True,False,9.0,26.8,37.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,26,105.727,1.0,MEDIUM,8.0,False,1,False,False,True,11.0,26.8,37.5,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,27,91.198,1.0,MEDIUM,9.0,False,1,True,False,False,10.0,26.6,37.2,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,28,98.091,1.0,MEDIUM,10.0,False,16,False,False,False,9.0,26.6,36.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,29,125.347,1.0,MEDIUM,11.0,False,671,False,False,False,8.0,26.6,36.6,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,30,91.546,1.0,MEDIUM,12.0,False,1,True,False,False,8.0,26.6,36.4,True,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,31,92.773,1.0,MEDIUM,13.0,False,1,True,False,False,7.0,26.5,36.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,32,91.597,1.0,MEDIUM,14.0,False,1,True,False,False,7.0,26.5,36.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,33,121.453,2.0,HARD,1.0,True,167,False,False,False,7.0,26.4,35.8,True,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,34,91.979,2.0,HARD,2.0,True,1,True,False,False,9.0,26.2,36.1,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,35,90.703,2.0,HARD,3.0,True,1,True,False,False,9.0,26.2,36.1,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,36,91.132,2.0,HARD,4.0,True,1,True,False,False,9.0,26.1,35.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,37,91.0,2.0,HARD,5.0,True,1,True,False,False,9.0,26.1,35.5,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,38,91.414,2.0,HARD,6.0,True,1,True,False,False,9.0,26.1,36.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,39,91.285,2.0,HARD,7.0,True,1,True,False,False,9.0,26.2,36.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,40,91.558,2.0,HARD,8.0,True,1,True,False,False,9.0,26.2,35.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,41,91.21,2.0,HARD,9.0,True,1,True,False,False,9.0,26.2,35.1,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,42,91.159,2.0,HARD,10.0,True,1,True,False,False,9.0,26.1,34.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,43,91.248,2.0,HARD,11.0,True,1,True,False,False,9.0,26.0,35.2,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,44,91.157,2.0,HARD,12.0,True,1,True,False,False,9.0,26.0,35.3,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,45,91.288,2.0,HARD,13.0,True,1,True,False,False,9.0,26.0,35.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,46,91.038,2.0,HARD,14.0,True,1,True,False,False,9.0,26.0,35.7,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,47,91.128,2.0,HARD,15.0,True,1,True,False,False,9.0,26.1,35.3,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,48,90.933,2.0,HARD,16.0,True,1,True,False,False,9.0,26.0,35.3,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,49,90.849,2.0,HARD,17.0,True,1,True,False,False,9.0,26.1,35.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,50,90.98,2.0,HARD,18.0,True,1,True,False,False,9.0,26.0,35.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,51,90.813,2.0,HARD,19.0,True,1,True,False,False,9.0,26.0,35.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,52,90.763,2.0,HARD,20.0,True,1,True,False,False,9.0,26.0,34.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,53,90.877,2.0,HARD,21.0,True,1,True,False,False,9.0,26.0,35.0,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,54,90.904,2.0,HARD,22.0,True,1,True,False,False,9.0,26.0,34.8,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,55,90.801,2.0,HARD,23.0,True,1,True,False,False,9.0,25.9,34.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,56,91.178,2.0,HARD,24.0,True,1,True,False,False,9.0,25.9,34.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,SAI,Williams,57,91.259,2.0,HARD,25.0,True,1,True,False,False,9.0,26.0,34.9,False,6.0,9.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,1,102.125,1.0,MEDIUM,1.0,False,12,False,False,False,11.0,26.3,39.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,2,119.426,1.0,MEDIUM,2.0,False,126,False,False,False,11.0,26.4,40.3,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,3,121.095,1.0,MEDIUM,3.0,False,671,False,False,False,11.0,26.7,39.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,4,94.546,1.0,MEDIUM,4.0,False,1,True,False,False,12.0,26.6,39.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,5,92.963,1.0,MEDIUM,5.0,False,1,True,False,False,12.0,26.4,38.5,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,6,93.291,1.0,MEDIUM,6.0,False,1,True,False,False,12.0,26.4,38.4,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,7,93.114,1.0,MEDIUM,7.0,False,1,True,False,False,12.0,26.6,38.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,8,93.342,1.0,MEDIUM,8.0,False,1,True,False,False,12.0,26.6,38.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,9,93.399,1.0,MEDIUM,9.0,False,1,True,False,False,12.0,26.7,38.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,10,93.205,1.0,MEDIUM,10.0,False,1,True,False,False,12.0,26.7,38.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,11,93.095,1.0,MEDIUM,11.0,False,1,True,False,False,12.0,26.6,38.5,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,12,93.235,1.0,MEDIUM,12.0,False,1,True,False,False,12.0,26.6,38.4,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,13,93.145,1.0,MEDIUM,13.0,False,1,True,False,False,12.0,26.8,38.2,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,14,93.641,1.0,MEDIUM,14.0,False,1,True,False,False,12.0,26.6,38.1,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,15,93.241,1.0,MEDIUM,15.0,False,1,True,False,False,12.0,26.6,37.6,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,16,93.151,1.0,MEDIUM,16.0,False,1,True,False,False,12.0,26.5,37.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,17,93.366,1.0,MEDIUM,17.0,False,1,True,False,False,12.0,26.6,37.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,18,93.33,1.0,MEDIUM,18.0,False,1,True,False,False,12.0,26.7,37.6,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,19,93.365,1.0,MEDIUM,19.0,False,1,True,False,False,12.0,26.8,37.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,20,93.29,1.0,MEDIUM,20.0,False,1,True,False,False,12.0,26.8,37.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,21,93.069,1.0,MEDIUM,21.0,False,1,True,False,False,12.0,26.5,37.6,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,22,98.581,1.0,MEDIUM,22.0,False,1,False,True,False,13.0,26.6,37.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,23,105.757,2.0,HARD,1.0,True,1,False,False,True,16.0,26.8,37.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,24,92.032,2.0,HARD,2.0,True,1,True,False,False,15.0,26.8,37.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,25,91.644,2.0,HARD,3.0,True,1,True,False,False,15.0,26.8,37.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,26,91.853,2.0,HARD,4.0,True,1,True,False,False,15.0,26.7,37.3,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,27,91.902,2.0,HARD,5.0,True,1,True,False,False,15.0,26.6,37.2,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,28,103.81,2.0,HARD,6.0,True,16,False,False,False,13.0,26.6,36.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,29,120.719,2.0,HARD,7.0,True,671,False,False,False,13.0,26.6,36.6,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,30,91.233,2.0,HARD,8.0,True,1,True,False,False,13.0,26.6,36.4,True,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,31,91.671,2.0,HARD,9.0,True,1,True,False,False,13.0,26.5,36.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,32,96.02,2.0,HARD,10.0,True,16,False,False,False,12.0,26.5,36.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,33,115.478,2.0,HARD,11.0,True,671,False,False,False,12.0,26.4,35.8,True,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,34,91.309,2.0,HARD,12.0,True,1,True,False,False,12.0,26.2,36.1,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,35,91.488,2.0,HARD,13.0,True,1,True,False,False,12.0,26.1,35.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,36,91.73,2.0,HARD,14.0,True,1,True,False,False,11.0,26.1,35.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,37,91.747,2.0,HARD,15.0,True,1,True,False,False,11.0,26.1,35.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,38,91.452,2.0,HARD,16.0,True,1,True,False,False,11.0,26.1,36.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,39,91.507,2.0,HARD,17.0,True,1,True,False,False,11.0,26.2,35.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,40,91.544,2.0,HARD,18.0,True,1,True,False,False,11.0,26.2,35.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,41,91.573,2.0,HARD,19.0,True,1,True,False,False,11.0,26.2,35.1,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,42,91.481,2.0,HARD,20.0,True,1,True,False,False,11.0,26.1,34.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,43,91.438,2.0,HARD,21.0,True,1,True,False,False,11.0,26.0,35.2,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,44,91.459,2.0,HARD,22.0,True,1,True,False,False,11.0,26.0,35.3,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,45,91.512,2.0,HARD,23.0,True,1,True,False,False,11.0,26.0,35.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,46,91.53,2.0,HARD,24.0,True,1,True,False,False,11.0,26.0,35.7,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,47,91.572,2.0,HARD,25.0,True,1,True,False,False,11.0,26.1,35.3,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,48,91.172,2.0,HARD,26.0,True,1,True,False,False,11.0,26.0,35.3,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,49,91.042,2.0,HARD,27.0,True,1,True,False,False,11.0,26.1,35.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,50,90.997,2.0,HARD,28.0,True,1,True,False,False,11.0,26.0,35.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,51,90.971,2.0,HARD,29.0,True,1,True,False,False,11.0,26.0,35.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,52,91.228,2.0,HARD,30.0,True,1,True,False,False,11.0,26.0,34.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,53,91.309,2.0,HARD,31.0,True,1,True,False,False,11.0,26.0,35.0,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,54,91.217,2.0,HARD,32.0,True,1,True,False,False,11.0,26.0,34.8,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,55,91.128,2.0,HARD,33.0,True,1,True,False,False,11.0,25.9,34.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,56,91.336,2.0,HARD,34.0,True,1,True,False,False,11.0,26.0,34.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,HAD,Racing Bulls,57,91.313,2.0,HARD,35.0,True,1,True,False,False,11.0,26.0,34.9,False,11.0,11.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,1,98.178,,nan,,True,12,False,False,False,4.0,26.3,39.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,2,112.831,,nan,,True,126,False,False,False,4.0,26.4,40.3,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,3,124.09,,nan,,True,671,False,False,False,4.0,26.7,39.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,4,92.646,,nan,,True,1,True,False,False,4.0,26.6,39.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,5,92.779,,nan,,True,1,True,False,False,4.0,26.4,38.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,6,93.036,,nan,,True,1,True,False,False,4.0,26.4,38.4,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,7,94.362,,nan,,True,1,True,False,False,5.0,26.6,38.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,8,93.136,,nan,,True,1,True,False,False,5.0,26.6,38.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,9,92.951,,nan,,True,1,True,False,False,5.0,26.7,38.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,10,93.161,,nan,,True,1,True,False,False,5.0,26.7,39.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,11,92.67,,nan,,True,1,True,False,False,5.0,26.6,38.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,12,92.836,,nan,,True,1,True,False,False,5.0,26.6,38.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,13,92.829,,nan,,True,1,True,False,False,5.0,26.8,38.2,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,14,92.719,,nan,,True,1,True,False,False,5.0,26.6,38.1,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,15,92.755,,nan,,True,1,True,False,False,5.0,26.6,37.6,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,16,92.886,,nan,,True,1,True,False,False,5.0,26.5,37.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,17,92.69,,nan,,True,1,True,False,False,5.0,26.6,37.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,18,93.1,,nan,,True,1,True,False,False,5.0,26.7,37.6,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,19,92.858,,nan,,True,1,True,False,False,5.0,26.8,37.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,20,92.751,,nan,,True,1,True,False,False,5.0,26.8,37.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,21,92.82,,nan,,True,1,True,False,False,5.0,26.6,37.6,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,22,92.592,,nan,,True,1,True,False,False,5.0,26.6,37.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,23,92.432,,nan,,True,1,True,False,False,5.0,26.7,37.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,24,92.54,,nan,,True,1,True,False,False,5.0,26.8,37.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,25,92.356,1.0,HARD,1.0,True,1,True,False,False,4.0,26.8,37.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,26,92.02,1.0,HARD,2.0,True,1,True,False,False,3.0,26.8,37.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,27,92.164,1.0,HARD,3.0,True,1,True,False,False,3.0,26.6,37.2,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,28,92.391,1.0,HARD,4.0,True,1,True,False,False,3.0,26.6,37.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,29,128.381,1.0,HARD,5.0,True,16,False,True,False,3.0,26.6,36.6,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,30,105.845,1.0,HARD,6.0,True,671,False,False,True,3.0,26.6,36.4,True,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,31,90.318,1.0,HARD,7.0,True,1,True,False,False,3.0,26.5,36.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,32,91.208,1.0,HARD,8.0,True,1,True,False,False,3.0,26.5,36.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,33,118.663,2.0,MEDIUM,1.0,True,167,False,False,False,3.0,26.4,35.8,True,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,34,90.826,2.0,MEDIUM,2.0,True,1,True,False,False,3.0,26.2,36.1,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,35,90.856,2.0,MEDIUM,3.0,True,1,True,False,False,3.0,26.2,36.1,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,36,91.119,2.0,MEDIUM,4.0,True,1,True,False,False,3.0,26.1,35.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,37,91.197,2.0,MEDIUM,5.0,True,1,True,False,False,3.0,26.1,35.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,38,90.859,2.0,MEDIUM,6.0,True,1,True,False,False,3.0,26.1,36.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,39,91.0,2.0,MEDIUM,7.0,True,1,True,False,False,3.0,26.2,36.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,40,90.903,2.0,MEDIUM,8.0,True,1,True,False,False,3.0,26.2,35.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,41,90.848,2.0,MEDIUM,9.0,True,1,True,False,False,3.0,26.2,35.5,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,42,90.755,2.0,MEDIUM,10.0,True,1,True,False,False,3.0,26.1,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,43,90.96,2.0,MEDIUM,11.0,True,1,True,False,False,3.0,26.1,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,44,90.795,2.0,MEDIUM,12.0,True,1,True,False,False,3.0,26.0,35.3,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,45,90.837,2.0,MEDIUM,13.0,True,1,True,False,False,3.0,26.0,35.6,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,46,90.778,2.0,MEDIUM,14.0,True,1,True,False,False,3.0,26.0,35.7,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,47,90.879,2.0,MEDIUM,15.0,True,1,True,False,False,3.0,26.0,35.4,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,48,90.821,2.0,MEDIUM,16.0,True,1,True,False,False,3.0,26.0,35.3,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,49,90.942,2.0,MEDIUM,17.0,True,1,True,False,False,3.0,26.0,35.3,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,50,90.752,2.0,MEDIUM,18.0,True,1,True,False,False,3.0,26.0,35.0,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,51,90.644,2.0,MEDIUM,19.0,True,1,True,False,False,3.0,26.0,35.1,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,52,90.637,2.0,MEDIUM,20.0,True,1,True,False,False,3.0,26.0,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,53,90.518,2.0,MEDIUM,21.0,True,1,True,False,False,3.0,25.9,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,54,90.516,2.0,MEDIUM,22.0,True,1,True,False,False,3.0,26.0,34.8,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,55,90.789,2.0,MEDIUM,23.0,True,1,True,False,False,3.0,25.9,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,56,91.001,2.0,MEDIUM,24.0,True,1,True,False,False,3.0,25.9,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,RUS,Mercedes,57,91.005,2.0,MEDIUM,25.0,True,1,True,False,False,3.0,26.0,34.9,False,5.0,3.0
+2025,6,Miami Grand Prix,Miami Gardens,57,DOO,Alpine,1,,1.0,MEDIUM,1.0,True,12,False,False,False,,26.3,39.7,False,14.0,20.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,1,97.135,,nan,,True,12,False,False,False,3.0,26.3,39.7,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,2,112.677,,nan,,True,126,False,False,False,3.0,26.4,40.3,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,3,124.62,,nan,,True,671,False,False,False,3.0,26.7,39.8,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,4,91.92,,nan,,True,1,True,False,False,2.0,26.6,39.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,5,92.282,,nan,,True,1,True,False,False,2.0,26.4,38.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,6,92.047,,nan,,True,1,True,False,False,2.0,26.4,38.4,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,7,92.197,,nan,,True,1,True,False,False,2.0,26.6,38.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,8,91.985,,nan,,True,1,True,False,False,2.0,26.6,38.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,9,92.236,,nan,,True,1,True,False,False,2.0,26.7,38.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,10,92.076,,nan,,True,1,True,False,False,2.0,26.7,39.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,11,92.9,,nan,,True,1,True,False,False,2.0,26.6,38.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,12,92.253,,nan,,True,1,True,False,False,2.0,26.6,38.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,13,91.879,,nan,,True,1,True,False,False,2.0,26.8,38.2,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,14,92.986,,nan,,True,1,True,False,False,1.0,26.7,38.2,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,15,91.816,,nan,,True,1,True,False,False,1.0,26.6,37.6,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,16,91.687,,nan,,True,1,True,False,False,1.0,26.5,37.6,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,17,91.793,,nan,,True,1,True,False,False,1.0,26.6,37.7,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,18,91.954,,nan,,True,1,True,False,False,1.0,26.7,37.6,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,19,91.662,,nan,,True,1,True,False,False,1.0,26.8,37.8,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,20,91.711,,nan,,True,1,True,False,False,1.0,26.8,37.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,21,91.822,,nan,,True,1,True,False,False,1.0,26.6,37.6,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,22,91.843,,nan,,True,1,True,False,False,1.0,26.6,37.8,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,23,91.465,,nan,,True,1,True,False,False,1.0,26.7,37.8,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,24,91.429,,nan,,True,1,True,False,False,1.0,26.8,37.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,25,91.392,1.0,MEDIUM,1.0,True,1,True,False,False,1.0,26.8,37.7,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,26,91.507,1.0,MEDIUM,2.0,True,1,True,False,False,1.0,26.8,37.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,27,91.432,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,26.7,37.3,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,28,91.718,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,26.6,37.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,29,119.118,1.0,MEDIUM,5.0,True,16,False,True,False,1.0,26.6,36.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,30,113.761,1.0,MEDIUM,6.0,True,671,False,False,True,1.0,26.6,36.4,True,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,31,90.17,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,26.5,36.4,True,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,32,90.211,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,26.5,36.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,33,110.583,2.0,HARD,1.0,True,16,False,False,False,1.0,26.4,36.4,True,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,34,98.046,2.0,HARD,2.0,True,671,False,False,False,1.0,26.3,35.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,35,89.822,2.0,HARD,3.0,True,1,True,False,False,1.0,26.2,36.1,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,36,90.201,2.0,HARD,4.0,True,1,True,False,False,1.0,26.1,35.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,37,90.07,2.0,HARD,5.0,True,1,True,False,False,1.0,26.1,35.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,38,90.167,2.0,HARD,6.0,True,1,True,False,False,1.0,26.1,35.7,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,39,90.194,2.0,HARD,7.0,True,1,True,False,False,1.0,26.2,36.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,40,90.236,2.0,HARD,8.0,True,1,True,False,False,1.0,26.2,35.7,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,41,90.37,2.0,HARD,9.0,True,1,True,False,False,1.0,26.2,35.5,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,42,90.307,2.0,HARD,10.0,True,1,True,False,False,1.0,26.2,35.1,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,43,90.413,2.0,HARD,11.0,True,1,True,False,False,1.0,26.1,34.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,44,90.137,2.0,HARD,12.0,True,1,True,False,False,1.0,26.0,35.2,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,45,90.589,2.0,HARD,13.0,True,1,True,False,False,1.0,26.0,35.6,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,46,90.653,2.0,HARD,14.0,True,1,True,False,False,1.0,26.0,35.8,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,47,90.372,2.0,HARD,15.0,True,1,True,False,False,1.0,26.0,35.4,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,48,90.559,2.0,HARD,16.0,True,1,True,False,False,1.0,26.1,35.3,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,49,89.992,2.0,HARD,17.0,True,1,True,False,False,1.0,26.0,35.3,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,50,90.136,2.0,HARD,18.0,True,1,True,False,False,1.0,26.1,35.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,51,90.103,2.0,HARD,19.0,True,1,True,False,False,1.0,26.0,35.1,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,52,90.245,2.0,HARD,20.0,True,1,True,False,False,1.0,26.0,35.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,53,90.658,2.0,HARD,21.0,True,1,True,False,False,1.0,25.9,34.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,54,90.269,2.0,HARD,22.0,True,1,True,False,False,1.0,26.0,35.0,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,55,90.761,2.0,HARD,23.0,True,1,True,False,False,1.0,25.9,34.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,56,90.579,2.0,HARD,24.0,True,1,True,False,False,1.0,25.9,34.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,PIA,McLaren,57,90.441,2.0,HARD,25.0,True,1,True,False,False,1.0,26.0,34.9,False,4.0,1.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,1,104.65,,nan,,True,12,False,False,False,16.0,26.3,39.7,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,2,124.627,,nan,,True,126,False,False,False,16.0,26.4,40.3,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,3,116.005,,nan,,True,671,False,False,False,16.0,26.7,39.8,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,4,93.844,,nan,,True,1,True,False,False,16.0,26.6,39.0,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,5,93.888,,nan,,True,1,True,False,False,16.0,26.4,38.5,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,6,93.489,,nan,,True,1,True,False,False,16.0,26.4,38.4,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,7,93.424,,nan,,True,1,True,False,False,16.0,26.6,38.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,8,93.55,,nan,,True,1,True,False,False,16.0,26.6,38.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,9,93.626,,nan,,True,1,True,False,False,16.0,26.7,38.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,10,93.757,,nan,,True,1,True,False,False,16.0,26.7,38.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,11,93.726,,nan,,True,1,True,False,False,16.0,26.6,38.5,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,12,93.36,,nan,,True,1,True,False,False,16.0,26.6,38.4,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,13,93.637,,nan,,True,1,True,False,False,16.0,26.8,38.2,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,14,94.268,,nan,,True,1,True,False,False,16.0,26.6,38.1,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,15,93.878,,nan,,True,1,True,False,False,16.0,26.6,37.6,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,16,93.584,,nan,,True,1,True,False,False,16.0,26.5,37.7,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,17,93.997,,nan,,True,1,True,False,False,16.0,26.5,37.6,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,18,93.693,,nan,,True,1,True,False,False,16.0,26.7,37.6,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,19,93.533,,nan,,True,1,True,False,False,15.0,26.8,38.0,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,20,93.613,,nan,,True,1,True,False,False,14.0,26.8,37.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,21,93.087,,nan,,True,1,True,False,False,14.0,26.5,37.6,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,22,92.971,,nan,,True,1,True,False,False,14.0,26.6,37.8,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,23,93.088,,nan,,True,1,True,False,False,13.0,26.8,37.8,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,24,92.68,1.0,HARD,1.0,True,1,True,False,False,12.0,26.8,37.9,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,25,93.054,1.0,HARD,2.0,True,1,True,False,False,12.0,26.8,37.7,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,26,94.14,1.0,HARD,3.0,True,1,True,False,False,12.0,26.8,37.5,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,27,93.604,1.0,HARD,4.0,True,1,True,False,False,13.0,26.6,37.2,False,19.0,19.0
+2025,6,Miami Grand Prix,Miami Gardens,57,BEA,Haas F1 Team,28,,1.0,HARD,5.0,True,16,False,False,False,,26.6,36.9,False,19.0,19.0

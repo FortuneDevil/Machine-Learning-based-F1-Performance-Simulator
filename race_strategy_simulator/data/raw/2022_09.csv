@@ -1,0 +1,1265 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,1,83.396,1.0,MEDIUM,1.0,True,1,False,False,False,1.0,20.2,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,2,78.96,1.0,MEDIUM,2.0,True,1,True,False,False,1.0,20.5,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,3,78.818,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,20.5,42.0,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,4,78.393,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,20.6,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,5,78.293,1.0,MEDIUM,5.0,True,1,True,False,False,1.0,20.7,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,6,78.275,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,20.6,41.3,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,7,77.828,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,20.7,41.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,8,77.757,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,20.6,41.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,9,112.842,1.0,MEDIUM,9.0,True,126,False,True,False,3.0,20.5,41.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,10,104.647,2.0,HARD,1.0,True,671,False,False,True,3.0,20.8,41.6,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,11,77.808,2.0,HARD,2.0,True,1,True,False,False,3.0,20.9,41.5,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,12,77.37,2.0,HARD,3.0,True,1,True,False,False,3.0,20.9,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,13,77.518,2.0,HARD,4.0,True,1,True,False,False,3.0,21.0,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,14,77.791,2.0,HARD,5.0,True,1,True,False,False,3.0,21.2,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,15,78.076,2.0,HARD,6.0,True,1,True,False,False,2.0,21.3,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,16,77.457,2.0,HARD,7.0,True,1,True,False,False,2.0,21.3,41.6,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,17,77.356,2.0,HARD,8.0,True,1,True,False,False,2.0,21.4,41.6,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,18,77.45,2.0,HARD,9.0,True,1,True,False,False,2.0,21.4,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,19,77.458,2.0,HARD,10.0,True,12,True,False,False,2.0,21.4,42.0,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,20,106.72,2.0,HARD,11.0,True,267,False,False,False,1.0,21.3,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,21,79.307,2.0,HARD,12.0,True,71,False,False,False,1.0,21.3,42.5,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,22,77.592,2.0,HARD,13.0,True,1,True,False,False,1.0,21.2,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,23,77.634,2.0,HARD,14.0,True,1,True,False,False,1.0,21.0,42.1,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,24,77.581,2.0,HARD,15.0,True,1,True,False,False,1.0,20.9,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,25,77.676,2.0,HARD,16.0,True,1,True,False,False,1.0,21.1,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,26,77.418,2.0,HARD,17.0,True,1,True,False,False,1.0,21.1,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,27,77.528,2.0,HARD,18.0,True,1,True,False,False,1.0,21.2,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,28,77.43,2.0,HARD,19.0,True,1,True,False,False,1.0,21.4,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,29,77.426,2.0,HARD,20.0,True,1,True,False,False,1.0,21.2,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,30,77.541,2.0,HARD,21.0,True,1,True,False,False,1.0,21.1,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,31,77.458,2.0,HARD,22.0,True,1,True,False,False,1.0,21.2,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,32,77.866,2.0,HARD,23.0,True,1,True,False,False,1.0,21.2,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,33,77.724,2.0,HARD,24.0,True,1,True,False,False,1.0,21.3,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,34,77.595,2.0,HARD,25.0,True,1,True,False,False,1.0,21.3,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,35,77.634,2.0,HARD,26.0,True,1,True,False,False,1.0,21.6,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,36,77.817,2.0,HARD,27.0,True,1,True,False,False,1.0,21.6,42.0,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,37,77.722,2.0,HARD,28.0,True,1,True,False,False,1.0,21.6,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,38,77.695,2.0,HARD,29.0,True,1,True,False,False,1.0,21.6,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,39,77.707,2.0,HARD,30.0,True,1,True,False,False,1.0,21.7,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,40,77.809,2.0,HARD,31.0,True,1,True,False,False,1.0,21.7,42.0,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,41,78.371,2.0,HARD,32.0,True,1,True,False,False,1.0,21.8,42.0,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,42,78.191,2.0,HARD,33.0,True,1,True,False,False,1.0,22.0,42.1,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,43,93.478,2.0,HARD,34.0,True,1,False,True,False,2.0,22.0,42.4,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,44,79.629,3.0,HARD,1.0,True,1,False,False,True,2.0,22.1,42.4,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,45,76.959,3.0,HARD,2.0,True,1,True,False,False,2.0,21.9,42.4,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,46,76.83,3.0,HARD,3.0,True,1,True,False,False,2.0,21.8,42.4,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,47,77.087,3.0,HARD,4.0,True,1,True,False,False,2.0,21.8,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,48,76.759,3.0,HARD,5.0,True,1,True,False,False,2.0,21.8,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,49,85.267,3.0,HARD,6.0,True,124,False,False,False,1.0,21.8,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,50,118.968,3.0,HARD,7.0,True,4,False,False,False,1.0,21.7,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,51,120.304,3.0,HARD,8.0,True,4,False,False,False,1.0,21.8,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,52,127.872,3.0,HARD,9.0,True,4,False,False,False,1.0,21.7,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,53,124.402,3.0,HARD,10.0,True,4,False,False,False,1.0,21.9,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,54,140.984,3.0,HARD,11.0,True,41,False,False,False,1.0,21.8,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,55,76.971,3.0,HARD,12.0,True,1,True,False,False,1.0,21.8,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,56,76.293,3.0,HARD,13.0,True,1,True,False,False,1.0,21.7,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,57,76.389,3.0,HARD,14.0,True,1,True,False,False,1.0,21.9,41.7,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,58,76.268,3.0,HARD,15.0,True,1,True,False,False,1.0,21.9,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,59,76.196,3.0,HARD,16.0,True,1,True,False,False,1.0,22.0,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,60,76.063,3.0,HARD,17.0,True,1,True,False,False,1.0,22.1,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,61,76.027,3.0,HARD,18.0,True,1,True,False,False,1.0,22.1,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,62,76.09,3.0,HARD,19.0,True,1,True,False,False,1.0,22.2,42.2,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,63,76.062,3.0,HARD,20.0,True,1,True,False,False,1.0,22.2,42.1,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,64,75.839,3.0,HARD,21.0,True,1,True,False,False,1.0,22.1,41.6,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,65,75.924,3.0,HARD,22.0,True,1,True,False,False,1.0,22.2,41.9,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,66,75.98,3.0,HARD,23.0,True,1,True,False,False,1.0,22.1,42.1,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,67,75.93,3.0,HARD,24.0,True,1,True,False,False,1.0,22.0,42.1,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,68,76.338,3.0,HARD,25.0,True,1,True,False,False,1.0,22.0,41.6,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,69,75.997,3.0,HARD,26.0,True,1,True,False,False,1.0,22.1,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,VER,Red Bull Racing,70,75.916,3.0,HARD,27.0,True,1,True,False,False,1.0,22.3,41.8,False,1.0,1.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,1,93.394,1.0,MEDIUM,1.0,True,1,False,False,False,17.0,20.2,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,2,83.231,1.0,MEDIUM,2.0,True,1,True,False,False,18.0,20.5,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,3,80.406,1.0,MEDIUM,3.0,True,1,True,False,False,18.0,20.5,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,4,80.01,1.0,MEDIUM,4.0,True,1,True,False,False,18.0,20.6,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,5,95.629,1.0,MEDIUM,5.0,True,1,False,True,False,20.0,20.6,41.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,6,81.958,2.0,HARD,1.0,True,1,False,False,True,20.0,20.6,41.3,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,7,78.941,2.0,HARD,2.0,True,1,True,False,False,19.0,20.7,41.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,8,85.744,2.0,HARD,3.0,True,126,False,False,False,18.0,20.5,41.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,9,108.3,2.0,HARD,4.0,True,6,False,False,False,17.0,20.7,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,10,93.442,2.0,HARD,5.0,True,671,False,False,False,17.0,20.9,41.5,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,11,78.739,2.0,HARD,6.0,True,1,True,False,False,17.0,20.9,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,12,78.675,2.0,HARD,7.0,True,1,True,False,False,17.0,20.9,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,13,78.549,2.0,HARD,8.0,True,1,True,False,False,17.0,21.0,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,14,79.232,2.0,HARD,9.0,True,1,True,False,False,17.0,21.3,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,15,78.631,2.0,HARD,10.0,True,1,True,False,False,17.0,21.2,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,16,78.645,2.0,HARD,11.0,True,1,True,False,False,17.0,21.3,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,17,78.677,2.0,HARD,12.0,True,1,True,False,False,17.0,21.4,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,18,78.993,2.0,HARD,13.0,True,1,True,False,False,16.0,21.4,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,19,93.085,2.0,HARD,14.0,True,126,False,False,False,13.0,21.3,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,20,93.501,2.0,HARD,15.0,True,671,False,False,False,13.0,21.3,42.5,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,21,78.792,2.0,HARD,16.0,True,1,True,False,False,13.0,21.3,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,22,79.086,2.0,HARD,17.0,True,1,True,False,False,13.0,21.0,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,23,79.153,2.0,HARD,18.0,True,1,True,False,False,13.0,20.9,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,24,79.21,2.0,HARD,19.0,True,1,True,False,False,13.0,21.0,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,25,79.227,2.0,HARD,20.0,True,1,True,False,False,13.0,21.1,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,26,78.764,2.0,HARD,21.0,True,1,True,False,False,13.0,21.2,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,27,79.171,2.0,HARD,22.0,True,1,True,False,False,13.0,21.4,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,28,79.315,2.0,HARD,23.0,True,1,True,False,False,13.0,21.4,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,29,79.405,2.0,HARD,24.0,True,1,True,False,False,13.0,21.1,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,30,80.179,2.0,HARD,25.0,True,1,True,False,False,14.0,21.2,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,31,80.584,2.0,HARD,26.0,True,1,True,False,False,14.0,21.2,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,32,80.165,2.0,HARD,27.0,True,1,True,False,False,14.0,21.3,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,33,79.604,2.0,HARD,28.0,True,1,True,False,False,14.0,21.3,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,34,79.559,2.0,HARD,29.0,True,1,True,False,False,14.0,21.5,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,35,79.375,2.0,HARD,30.0,True,1,True,False,False,14.0,21.6,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,36,95.091,2.0,HARD,31.0,True,1,False,True,False,17.0,21.6,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,37,82.058,3.0,HARD,1.0,True,1,False,False,True,17.0,21.6,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,38,78.945,3.0,HARD,2.0,True,1,True,False,False,17.0,21.7,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,39,78.835,3.0,HARD,3.0,True,1,True,False,False,17.0,21.7,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,40,79.632,3.0,HARD,4.0,True,1,True,False,False,17.0,21.9,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,41,79.827,3.0,HARD,5.0,True,1,True,False,False,17.0,22.0,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,42,78.491,3.0,HARD,6.0,True,1,True,False,False,16.0,22.0,42.4,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,43,78.904,3.0,HARD,7.0,True,1,True,False,False,16.0,22.1,42.4,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,44,78.733,3.0,HARD,8.0,True,1,True,False,False,16.0,21.9,42.4,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,45,78.667,3.0,HARD,9.0,True,1,True,False,False,16.0,21.8,42.4,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,46,78.194,3.0,HARD,10.0,True,1,True,False,False,16.0,21.9,42.0,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,47,78.275,3.0,HARD,11.0,True,1,True,False,False,16.0,21.8,42.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,48,90.372,3.0,HARD,12.0,True,124,False,False,False,14.0,21.8,42.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,49,108.323,3.0,HARD,13.0,True,4,False,False,False,14.0,21.7,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,50,121.761,3.0,HARD,14.0,True,4,False,False,False,14.0,21.8,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,51,126.133,3.0,HARD,15.0,True,4,False,False,False,14.0,21.7,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,52,91.945,3.0,HARD,16.0,True,4,False,False,False,14.0,21.9,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,53,80.377,3.0,HARD,17.0,True,4,False,False,False,14.0,21.9,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,54,95.5,3.0,HARD,18.0,True,41,False,False,False,14.0,21.8,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,55,80.36,3.0,HARD,19.0,True,1,True,False,False,14.0,21.8,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,56,79.669,3.0,HARD,20.0,True,1,True,False,False,14.0,21.7,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,57,80.988,3.0,HARD,21.0,True,1,True,False,False,15.0,21.9,41.7,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,58,77.913,3.0,HARD,22.0,True,1,True,False,False,14.0,21.9,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,59,78.065,3.0,HARD,23.0,True,1,True,False,False,14.0,22.0,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,60,77.81,3.0,HARD,24.0,True,1,True,False,False,14.0,22.1,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,61,78.198,3.0,HARD,25.0,True,1,True,False,False,14.0,22.1,42.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,62,78.094,3.0,HARD,26.0,True,1,True,False,False,14.0,22.2,42.2,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,63,78.081,3.0,HARD,27.0,True,1,True,False,False,14.0,22.1,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,64,77.938,3.0,HARD,28.0,True,1,True,False,False,14.0,22.1,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,65,78.114,3.0,HARD,29.0,True,1,True,False,False,14.0,22.2,41.9,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,66,78.521,3.0,HARD,30.0,True,1,True,False,False,14.0,22.1,42.1,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,67,78.806,3.0,HARD,31.0,True,1,True,False,False,14.0,22.0,41.6,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,68,78.64,3.0,HARD,32.0,True,1,True,False,False,14.0,22.1,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,69,78.07,3.0,HARD,33.0,True,1,True,False,False,14.0,22.1,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,GAS,AlphaTauri,70,78.239,3.0,HARD,34.0,True,1,True,False,False,14.0,22.3,41.8,False,15.0,14.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,1,91.21,1.0,HARD,1.0,True,1,False,False,False,11.0,20.2,41.7,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,2,81.239,1.0,HARD,2.0,True,1,True,False,False,11.0,20.5,41.7,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,3,79.654,1.0,HARD,3.0,True,1,True,False,False,11.0,20.5,42.0,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,4,79.428,1.0,HARD,4.0,True,1,True,False,False,11.0,20.6,41.8,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,5,79.787,1.0,HARD,5.0,True,1,True,False,False,11.0,20.7,41.8,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,6,79.4,1.0,HARD,6.0,True,1,True,False,False,11.0,20.6,41.3,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,7,78.844,1.0,HARD,7.0,True,1,True,False,False,10.0,20.7,41.2,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,PER,Red Bull Racing,8,,1.0,HARD,8.0,True,126,False,False,False,,20.6,41.2,False,13.0,20.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,1,84.435,1.0,MEDIUM,1.0,True,1,False,False,False,2.0,20.2,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,2,79.603,1.0,MEDIUM,2.0,True,1,True,False,False,2.0,20.5,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,3,80.136,1.0,MEDIUM,3.0,True,1,True,False,False,3.0,20.5,42.0,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,4,78.98,1.0,MEDIUM,4.0,True,1,True,False,False,3.0,20.6,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,5,78.455,1.0,MEDIUM,5.0,True,1,True,False,False,3.0,20.7,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,6,78.053,1.0,MEDIUM,6.0,True,1,True,False,False,3.0,20.6,41.3,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,7,77.868,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,20.7,41.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,8,78.387,1.0,MEDIUM,8.0,True,12,True,False,False,3.0,20.6,41.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,9,102.327,1.0,MEDIUM,9.0,True,26,False,False,False,2.0,20.7,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,10,105.992,1.0,MEDIUM,10.0,True,671,False,False,False,2.0,20.8,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,11,78.773,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,20.9,41.5,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,12,78.499,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,20.9,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,13,78.783,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,21.0,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,14,78.671,1.0,MEDIUM,14.0,True,1,True,False,False,2.0,21.2,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,15,79.534,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,21.3,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,16,78.973,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,21.3,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,17,78.975,1.0,MEDIUM,17.0,True,1,True,False,False,3.0,21.4,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,18,79.256,1.0,MEDIUM,18.0,True,1,True,False,False,3.0,21.4,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,19,79.279,1.0,MEDIUM,19.0,True,12,True,False,False,3.0,21.3,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,20,107.108,1.0,MEDIUM,20.0,True,2671,False,False,False,2.0,21.3,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,21,79.228,1.0,MEDIUM,21.0,True,1,True,False,False,2.0,21.3,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,22,79.991,1.0,MEDIUM,22.0,True,1,True,False,False,3.0,21.2,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,23,79.879,1.0,MEDIUM,23.0,True,1,True,False,False,4.0,21.0,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,24,79.672,1.0,MEDIUM,24.0,True,1,True,False,False,4.0,21.0,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,25,79.566,1.0,MEDIUM,25.0,True,1,True,False,False,4.0,21.1,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,26,79.759,1.0,MEDIUM,26.0,True,1,True,False,False,4.0,21.1,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,27,79.874,1.0,MEDIUM,27.0,True,1,True,False,False,4.0,21.4,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,28,95.395,1.0,MEDIUM,28.0,True,1,False,True,False,6.0,21.4,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,29,81.81,2.0,HARD,1.0,True,1,False,False,True,7.0,21.2,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,30,78.769,2.0,HARD,2.0,True,1,True,False,False,7.0,21.2,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,31,78.713,2.0,HARD,3.0,True,1,True,False,False,7.0,21.2,42.0,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,32,78.749,2.0,HARD,4.0,True,1,True,False,False,7.0,21.2,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,33,78.323,2.0,HARD,5.0,True,1,True,False,False,7.0,21.3,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,34,78.24,2.0,HARD,6.0,True,1,True,False,False,7.0,21.5,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,35,78.146,2.0,HARD,7.0,True,1,True,False,False,7.0,21.6,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,36,78.062,2.0,HARD,8.0,True,1,True,False,False,7.0,21.6,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,37,78.291,2.0,HARD,9.0,True,1,True,False,False,7.0,21.6,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,38,78.481,2.0,HARD,10.0,True,1,True,False,False,7.0,21.6,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,39,78.791,2.0,HARD,11.0,True,1,True,False,False,7.0,21.7,42.0,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,40,78.198,2.0,HARD,12.0,True,1,True,False,False,7.0,21.8,42.0,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,41,78.44,2.0,HARD,13.0,True,1,True,False,False,6.0,21.9,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,42,78.466,2.0,HARD,14.0,True,1,True,False,False,6.0,22.0,42.4,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,43,78.479,2.0,HARD,15.0,True,1,True,False,False,6.0,22.0,42.4,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,44,78.757,2.0,HARD,16.0,True,1,True,False,False,6.0,22.1,42.4,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,45,78.655,2.0,HARD,17.0,True,1,True,False,False,6.0,21.9,42.4,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,46,78.569,2.0,HARD,18.0,True,1,True,False,False,6.0,21.8,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,47,78.44,2.0,HARD,19.0,True,1,True,False,False,6.0,21.9,42.0,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,48,78.185,2.0,HARD,20.0,True,12,True,False,False,6.0,21.8,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,49,124.106,2.0,HARD,21.0,True,24,False,True,False,6.0,21.7,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,50,103.678,3.0,MEDIUM,1.0,True,4,False,False,True,6.0,21.8,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,51,90.076,3.0,MEDIUM,2.0,True,4,False,False,False,6.0,21.7,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,52,106.901,3.0,MEDIUM,3.0,True,4,False,False,False,6.0,21.7,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,53,114.518,3.0,MEDIUM,4.0,True,4,False,False,False,6.0,21.9,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,54,137.944,3.0,MEDIUM,5.0,True,41,False,False,False,6.0,21.8,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,55,79.472,3.0,MEDIUM,6.0,True,1,True,False,False,6.0,21.8,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,56,77.7,3.0,MEDIUM,7.0,True,1,True,False,False,6.0,21.7,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,57,77.221,3.0,MEDIUM,8.0,True,1,True,False,False,6.0,21.9,41.7,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,58,77.777,3.0,MEDIUM,9.0,True,1,True,False,False,7.0,21.9,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,59,78.184,3.0,MEDIUM,10.0,True,1,True,False,False,7.0,22.0,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,60,77.028,3.0,MEDIUM,11.0,True,1,True,False,False,7.0,22.1,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,61,77.382,3.0,MEDIUM,12.0,True,1,True,False,False,7.0,22.1,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,62,77.273,3.0,MEDIUM,13.0,True,1,True,False,False,7.0,22.2,42.2,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,63,77.156,3.0,MEDIUM,14.0,True,1,True,False,False,7.0,22.2,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,64,77.01,3.0,MEDIUM,15.0,True,1,True,False,False,7.0,22.1,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,65,77.272,3.0,MEDIUM,16.0,True,1,True,False,False,7.0,22.2,41.9,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,66,77.423,3.0,MEDIUM,17.0,True,1,True,False,False,7.0,22.1,42.1,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,67,77.644,3.0,MEDIUM,18.0,True,1,True,False,False,7.0,22.0,41.6,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,68,77.358,3.0,MEDIUM,19.0,True,1,True,False,False,7.0,22.1,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,69,77.407,3.0,MEDIUM,20.0,True,1,True,False,False,7.0,22.1,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,ALO,Alpine,70,78.157,3.0,MEDIUM,21.0,True,1,True,False,False,7.0,22.3,41.8,False,2.0,9.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,1,93.701,1.0,HARD,1.0,True,1,False,False,False,18.0,20.2,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,2,82.27,1.0,HARD,2.0,True,1,True,False,False,17.0,20.5,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,3,80.117,1.0,HARD,3.0,True,1,True,False,False,16.0,20.5,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,4,79.397,1.0,HARD,4.0,True,1,True,False,False,16.0,20.6,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,5,79.294,1.0,HARD,5.0,True,1,True,False,False,15.0,20.7,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,6,79.075,1.0,HARD,6.0,True,1,True,False,False,15.0,20.6,41.3,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,7,79.588,1.0,HARD,7.0,True,1,True,False,False,14.0,20.7,41.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,8,79.445,1.0,HARD,8.0,True,12,True,False,False,13.0,20.6,41.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,9,110.618,1.0,HARD,9.0,True,26,False,False,False,13.0,20.7,41.6,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,10,98.449,1.0,HARD,10.0,True,671,False,False,False,13.0,20.9,41.5,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,11,79.065,1.0,HARD,11.0,True,1,True,False,False,13.0,20.9,41.5,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,12,79.245,1.0,HARD,12.0,True,1,True,False,False,13.0,20.9,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,13,79.277,1.0,HARD,13.0,True,1,True,False,False,12.0,21.0,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,14,79.232,1.0,HARD,14.0,True,1,True,False,False,12.0,21.2,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,15,79.631,1.0,HARD,15.0,True,1,True,False,False,12.0,21.2,41.6,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,16,80.453,1.0,HARD,16.0,True,1,True,False,False,12.0,21.3,41.6,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,17,80.294,1.0,HARD,17.0,True,1,True,False,False,11.0,21.4,41.6,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,18,78.702,1.0,HARD,18.0,True,1,True,False,False,11.0,21.4,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,19,89.248,1.0,HARD,19.0,True,126,False,False,False,8.0,21.3,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,20,99.707,1.0,HARD,20.0,True,671,False,False,False,8.0,21.3,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,21,80.077,1.0,HARD,21.0,True,1,True,False,False,7.0,21.3,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,22,78.895,1.0,HARD,22.0,True,1,True,False,False,7.0,21.2,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,23,78.242,1.0,HARD,23.0,True,1,True,False,False,7.0,20.9,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,24,77.901,1.0,HARD,24.0,True,1,True,False,False,7.0,21.0,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,25,77.977,1.0,HARD,25.0,True,1,True,False,False,7.0,21.1,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,26,78.07,1.0,HARD,26.0,True,1,True,False,False,7.0,21.2,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,27,78.603,1.0,HARD,27.0,True,1,True,False,False,7.0,21.4,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,28,79.043,1.0,HARD,28.0,True,1,True,False,False,7.0,21.4,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,29,78.727,1.0,HARD,29.0,True,1,True,False,False,6.0,21.1,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,30,78.567,1.0,HARD,30.0,True,1,True,False,False,6.0,21.2,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,31,78.673,1.0,HARD,31.0,True,1,True,False,False,6.0,21.2,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,32,78.574,1.0,HARD,32.0,True,1,True,False,False,6.0,21.2,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,33,78.323,1.0,HARD,33.0,True,1,True,False,False,6.0,21.3,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,34,78.647,1.0,HARD,34.0,True,1,True,False,False,6.0,21.5,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,35,78.504,1.0,HARD,35.0,True,1,True,False,False,6.0,21.6,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,36,78.339,1.0,HARD,36.0,True,1,True,False,False,6.0,21.6,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,37,78.645,1.0,HARD,37.0,True,1,True,False,False,6.0,21.6,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,38,78.087,1.0,HARD,38.0,True,1,True,False,False,6.0,21.6,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,39,78.434,1.0,HARD,39.0,True,1,True,False,False,6.0,21.7,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,40,78.651,1.0,HARD,40.0,True,1,True,False,False,6.0,21.8,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,41,97.332,1.0,HARD,41.0,True,1,False,True,False,9.0,21.9,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,42,80.636,2.0,MEDIUM,1.0,True,1,False,False,True,12.0,22.0,42.4,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,43,79.4,2.0,MEDIUM,2.0,True,1,True,False,False,11.0,22.0,42.4,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,44,79.167,2.0,MEDIUM,3.0,True,1,True,False,False,10.0,22.1,42.4,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,45,77.854,2.0,MEDIUM,4.0,True,1,True,False,False,10.0,21.8,42.4,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,46,78.006,2.0,MEDIUM,5.0,True,1,True,False,False,10.0,21.8,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,47,78.2,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,21.9,42.0,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,48,77.187,2.0,MEDIUM,7.0,True,124,False,False,False,8.0,21.8,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,49,110.23,2.0,MEDIUM,8.0,True,4,False,False,False,7.0,21.7,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,50,109.927,2.0,MEDIUM,9.0,True,4,False,False,False,7.0,21.8,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,51,83.91,2.0,MEDIUM,10.0,True,4,False,False,False,7.0,21.7,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,52,105.88,2.0,MEDIUM,11.0,True,4,False,False,False,7.0,21.7,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,53,113.567,2.0,MEDIUM,12.0,True,4,False,False,False,7.0,21.9,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,54,136.735,2.0,MEDIUM,13.0,True,41,False,False,False,7.0,21.8,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,55,79.258,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,21.8,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,56,77.667,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,21.7,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,57,77.185,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,21.9,41.7,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,58,76.93,2.0,MEDIUM,17.0,True,1,True,False,False,6.0,21.9,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,59,77.795,2.0,MEDIUM,18.0,True,1,True,False,False,6.0,22.0,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,60,76.611,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,22.1,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,61,76.767,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,22.1,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,62,75.901,2.0,MEDIUM,21.0,True,1,True,False,False,5.0,22.2,42.2,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,63,76.189,2.0,MEDIUM,22.0,True,1,True,False,False,5.0,22.2,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,64,76.308,2.0,MEDIUM,23.0,True,1,True,False,False,5.0,22.1,41.6,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,65,76.482,2.0,MEDIUM,24.0,True,1,True,False,False,5.0,22.2,41.9,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,66,76.706,2.0,MEDIUM,25.0,True,1,True,False,False,5.0,22.1,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,67,76.784,2.0,MEDIUM,26.0,True,1,True,False,False,5.0,22.0,42.1,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,68,76.772,2.0,MEDIUM,27.0,True,1,True,False,False,5.0,22.1,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,69,76.708,2.0,MEDIUM,28.0,True,1,True,False,False,5.0,22.1,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,LEC,Ferrari,70,77.044,2.0,MEDIUM,29.0,True,1,True,False,False,5.0,22.3,41.8,False,19.0,5.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,1,93.179,1.0,HARD,1.0,True,1,False,False,False,16.0,20.2,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,2,82.423,1.0,HARD,2.0,True,1,True,False,False,16.0,20.5,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,3,80.762,1.0,HARD,3.0,True,1,True,False,False,17.0,20.5,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,4,80.067,1.0,HARD,4.0,True,1,True,False,False,17.0,20.6,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,5,79.595,1.0,HARD,5.0,True,1,True,False,False,16.0,20.6,41.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,6,79.951,1.0,HARD,6.0,True,1,True,False,False,16.0,20.6,41.3,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,7,79.559,1.0,HARD,7.0,True,1,True,False,False,15.0,20.7,41.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,8,79.659,1.0,HARD,8.0,True,12,True,False,False,14.0,20.5,41.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,9,109.067,1.0,HARD,9.0,True,26,False,False,False,14.0,20.7,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,10,99.17,1.0,HARD,10.0,True,671,False,False,False,14.0,20.9,41.5,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,11,79.571,1.0,HARD,11.0,True,1,True,False,False,14.0,20.9,41.5,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,12,79.815,1.0,HARD,12.0,True,1,True,False,False,14.0,20.9,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,13,79.372,1.0,HARD,13.0,True,1,True,False,False,14.0,21.0,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,14,79.444,1.0,HARD,14.0,True,1,True,False,False,14.0,21.2,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,15,79.575,1.0,HARD,15.0,True,1,True,False,False,14.0,21.2,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,16,79.939,1.0,HARD,16.0,True,1,True,False,False,14.0,21.3,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,17,79.825,1.0,HARD,17.0,True,1,True,False,False,14.0,21.4,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,18,79.94,1.0,HARD,18.0,True,1,True,False,False,13.0,21.4,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,19,90.523,1.0,HARD,19.0,True,126,False,False,False,9.0,21.3,42.1,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,20,97.629,1.0,HARD,20.0,True,671,False,False,False,9.0,21.3,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,21,79.445,1.0,HARD,21.0,True,1,True,False,False,9.0,21.3,42.1,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,22,79.85,1.0,HARD,22.0,True,1,True,False,False,9.0,21.2,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,23,79.447,1.0,HARD,23.0,True,1,True,False,False,9.0,20.9,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,24,79.259,1.0,HARD,24.0,True,1,True,False,False,9.0,21.0,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,25,78.908,1.0,HARD,25.0,True,1,True,False,False,9.0,21.1,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,26,79.022,1.0,HARD,26.0,True,1,True,False,False,9.0,21.2,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,27,79.302,1.0,HARD,27.0,True,1,True,False,False,9.0,21.4,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,28,79.547,1.0,HARD,28.0,True,1,True,False,False,9.0,21.4,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,29,79.708,1.0,HARD,29.0,True,1,True,False,False,9.0,21.1,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,30,79.805,1.0,HARD,30.0,True,1,True,False,False,9.0,21.2,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,31,79.27,1.0,HARD,31.0,True,1,True,False,False,9.0,21.2,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,32,79.083,1.0,HARD,32.0,True,1,True,False,False,9.0,21.3,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,33,78.916,1.0,HARD,33.0,True,1,True,False,False,9.0,21.3,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,34,79.412,1.0,HARD,34.0,True,1,True,False,False,9.0,21.5,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,35,79.254,1.0,HARD,35.0,True,1,True,False,False,9.0,21.6,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,36,79.47,1.0,HARD,36.0,True,1,True,False,False,9.0,21.6,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,37,79.513,1.0,HARD,37.0,True,1,True,False,False,9.0,21.6,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,38,79.294,1.0,HARD,38.0,True,1,True,False,False,9.0,21.7,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,39,79.042,1.0,HARD,39.0,True,1,True,False,False,9.0,21.7,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,40,78.911,1.0,HARD,40.0,True,1,True,False,False,9.0,21.8,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,41,79.057,1.0,HARD,41.0,True,1,True,False,False,8.0,22.0,42.1,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,42,79.097,1.0,HARD,42.0,True,1,True,False,False,8.0,22.0,42.4,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,43,79.152,1.0,HARD,43.0,True,1,True,False,False,8.0,22.0,42.4,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,44,78.707,1.0,HARD,44.0,True,1,True,False,False,8.0,22.1,42.4,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,45,79.0,1.0,HARD,45.0,True,1,True,False,False,8.0,21.8,42.4,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,46,78.911,1.0,HARD,46.0,True,1,True,False,False,8.0,21.8,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,47,96.353,1.0,HARD,47.0,True,1,False,True,False,13.0,21.9,42.0,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,48,92.19,2.0,MEDIUM,2.0,False,124,False,False,True,13.0,21.8,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,49,114.399,2.0,MEDIUM,3.0,False,4,False,False,False,13.0,21.7,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,50,121.614,2.0,MEDIUM,4.0,False,4,False,False,False,13.0,21.8,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,51,126.858,2.0,MEDIUM,5.0,False,4,False,False,False,13.0,21.7,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,52,90.504,2.0,MEDIUM,6.0,False,4,False,False,False,13.0,21.9,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,53,79.025,2.0,MEDIUM,7.0,False,4,False,False,False,13.0,21.9,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,54,98.688,2.0,MEDIUM,8.0,False,41,False,False,False,13.0,21.8,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,55,80.385,2.0,MEDIUM,9.0,False,1,True,False,False,13.0,21.8,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,56,79.748,2.0,MEDIUM,10.0,False,1,True,False,False,13.0,21.7,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,57,79.085,2.0,MEDIUM,11.0,False,1,True,False,False,12.0,21.9,41.7,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,58,77.871,2.0,MEDIUM,12.0,False,1,True,False,False,12.0,21.9,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,59,77.932,2.0,MEDIUM,13.0,False,1,True,False,False,12.0,22.0,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,60,77.689,2.0,MEDIUM,14.0,False,1,True,False,False,11.0,22.1,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,61,77.606,2.0,MEDIUM,15.0,False,1,True,False,False,11.0,22.1,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,62,77.427,2.0,MEDIUM,16.0,False,1,True,False,False,11.0,22.2,42.2,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,63,77.834,2.0,MEDIUM,17.0,False,1,True,False,False,10.0,22.1,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,64,77.421,2.0,MEDIUM,18.0,False,1,True,False,False,10.0,22.1,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,65,77.554,2.0,MEDIUM,19.0,False,1,True,False,False,10.0,22.2,41.9,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,66,77.725,2.0,MEDIUM,20.0,False,1,True,False,False,10.0,22.1,42.1,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,67,77.83,2.0,MEDIUM,21.0,False,1,True,False,False,10.0,22.0,41.6,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,68,78.052,2.0,MEDIUM,22.0,False,1,True,False,False,10.0,22.1,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,69,77.698,2.0,MEDIUM,23.0,False,1,True,False,False,10.0,22.1,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,STR,Aston Martin,70,79.044,2.0,MEDIUM,24.0,False,1,True,False,False,10.0,22.3,41.8,False,17.0,10.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,1,87.088,1.0,MEDIUM,1.0,True,1,False,False,False,5.0,20.2,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,2,80.105,1.0,MEDIUM,2.0,True,1,True,False,False,5.0,20.5,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,3,79.833,1.0,MEDIUM,3.0,True,1,True,False,False,5.0,20.5,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,4,79.729,1.0,MEDIUM,4.0,True,1,True,False,False,5.0,20.6,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,5,80.233,1.0,MEDIUM,5.0,True,1,True,False,False,6.0,20.7,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,6,79.808,1.0,MEDIUM,6.0,True,1,True,False,False,6.0,20.6,41.3,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,7,109.469,1.0,MEDIUM,7.0,True,1,False,True,False,20.0,20.7,41.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,8,91.282,2.0,HARD,1.0,True,126,False,False,True,19.0,20.5,41.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,9,109.87,2.0,HARD,2.0,True,6,False,False,False,19.0,20.7,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,10,90.606,2.0,HARD,3.0,True,671,False,False,False,19.0,20.9,41.5,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,11,78.046,2.0,HARD,4.0,True,1,True,False,False,19.0,20.9,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,12,78.458,2.0,HARD,5.0,True,1,True,False,False,19.0,20.9,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,13,78.461,2.0,HARD,6.0,True,1,True,False,False,19.0,21.0,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,14,79.056,2.0,HARD,7.0,True,1,True,False,False,19.0,21.3,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,15,79.404,2.0,HARD,8.0,True,1,True,False,False,18.0,21.2,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,16,79.171,2.0,HARD,9.0,True,1,True,False,False,18.0,21.3,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,17,78.908,2.0,HARD,10.0,True,1,True,False,False,18.0,21.4,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,18,78.641,2.0,HARD,11.0,True,1,True,False,False,18.0,21.4,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,19,95.118,2.0,HARD,12.0,True,126,False,False,False,15.0,21.3,42.1,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,20,91.98,2.0,HARD,13.0,True,671,False,False,False,15.0,21.3,42.5,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,21,78.58,2.0,HARD,14.0,True,1,True,False,False,15.0,21.3,42.1,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,22,78.717,2.0,HARD,15.0,True,1,True,False,False,15.0,21.0,42.1,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,23,78.753,2.0,HARD,16.0,True,1,True,False,False,15.0,20.9,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,24,78.954,2.0,HARD,17.0,True,1,True,False,False,15.0,21.0,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,25,78.864,2.0,HARD,18.0,True,1,True,False,False,15.0,21.1,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,26,78.814,2.0,HARD,19.0,True,1,True,False,False,15.0,21.2,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,27,79.108,2.0,HARD,20.0,True,1,True,False,False,15.0,21.4,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,28,78.973,2.0,HARD,21.0,True,1,True,False,False,15.0,21.2,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,29,79.099,2.0,HARD,22.0,True,1,True,False,False,15.0,21.1,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,30,79.055,2.0,HARD,23.0,True,1,True,False,False,15.0,21.2,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,31,79.569,2.0,HARD,24.0,True,1,True,False,False,15.0,21.2,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,32,79.516,2.0,HARD,25.0,True,1,True,False,False,15.0,21.3,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,33,79.208,2.0,HARD,26.0,True,1,True,False,False,15.0,21.3,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,34,79.222,2.0,HARD,27.0,True,1,True,False,False,15.0,21.5,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,35,79.263,2.0,HARD,28.0,True,1,True,False,False,15.0,21.6,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,36,79.632,2.0,HARD,29.0,True,1,True,False,False,14.0,21.6,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,37,78.8,2.0,HARD,30.0,True,1,True,False,False,14.0,21.6,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,38,78.931,2.0,HARD,31.0,True,1,True,False,False,14.0,21.7,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,39,78.858,2.0,HARD,32.0,True,1,True,False,False,14.0,21.7,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,40,81.211,2.0,HARD,33.0,True,1,True,False,False,14.0,21.8,42.0,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,41,79.371,2.0,HARD,34.0,True,1,True,False,False,14.0,22.0,42.1,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,42,79.488,2.0,HARD,35.0,True,1,True,False,False,14.0,22.0,42.4,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,43,79.91,2.0,HARD,36.0,True,1,True,False,False,14.0,22.0,42.4,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,44,79.791,2.0,HARD,37.0,True,1,True,False,False,14.0,21.9,42.4,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,45,79.042,2.0,HARD,38.0,True,1,True,False,False,14.0,21.8,42.4,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,46,79.139,2.0,HARD,39.0,True,1,True,False,False,14.0,21.8,42.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,47,79.869,2.0,HARD,40.0,True,1,True,False,False,12.0,21.8,42.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,48,90.4,2.0,HARD,41.0,True,124,False,False,False,12.0,21.8,42.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,49,115.894,2.0,HARD,42.0,True,4,False,False,False,12.0,21.7,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,50,121.129,2.0,HARD,43.0,True,4,False,False,False,12.0,21.8,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,51,127.02,2.0,HARD,44.0,True,4,False,False,False,12.0,21.7,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,52,87.571,2.0,HARD,45.0,True,4,False,False,False,12.0,21.9,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,53,78.842,2.0,HARD,46.0,True,4,False,False,False,12.0,21.9,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,54,102.521,2.0,HARD,47.0,True,41,False,False,False,12.0,21.8,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,55,80.909,2.0,HARD,48.0,True,1,True,False,False,12.0,21.8,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,56,79.853,2.0,HARD,49.0,True,1,True,False,False,12.0,21.7,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,57,81.192,2.0,HARD,50.0,True,1,True,False,False,14.0,21.9,41.7,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,58,81.014,2.0,HARD,51.0,True,1,True,False,False,16.0,21.9,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,59,80.279,2.0,HARD,52.0,True,1,True,False,False,17.0,22.0,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,60,79.601,2.0,HARD,53.0,True,1,True,False,False,17.0,22.1,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,61,79.468,2.0,HARD,54.0,True,1,True,False,False,17.0,22.1,42.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,62,79.687,2.0,HARD,55.0,True,1,True,False,False,17.0,22.2,42.2,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,63,79.498,2.0,HARD,56.0,True,1,True,False,False,17.0,22.1,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,64,79.474,2.0,HARD,57.0,True,1,True,False,False,17.0,22.1,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,65,79.792,2.0,HARD,58.0,True,1,True,False,False,17.0,22.2,41.9,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,66,79.974,2.0,HARD,59.0,True,1,True,False,False,17.0,22.0,42.1,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,67,80.193,2.0,HARD,60.0,True,1,True,False,False,17.0,22.0,41.6,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,68,79.929,2.0,HARD,61.0,True,1,True,False,False,17.0,22.1,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,69,80.177,2.0,HARD,62.0,True,1,True,False,False,17.0,22.3,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,MAG,Haas F1 Team,70,80.517,2.0,HARD,63.0,True,1,True,False,False,17.0,22.3,41.8,False,5.0,17.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,1,94.569,1.0,MEDIUM,1.0,True,1,False,False,False,19.0,20.2,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,2,82.382,1.0,MEDIUM,2.0,True,1,True,False,False,19.0,20.5,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,3,80.513,1.0,MEDIUM,3.0,True,1,True,False,False,19.0,20.5,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,4,80.11,1.0,MEDIUM,4.0,True,1,True,False,False,19.0,20.6,41.8,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,5,80.065,1.0,MEDIUM,5.0,True,1,True,False,False,17.0,20.6,41.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,6,78.981,1.0,MEDIUM,6.0,True,1,True,False,False,17.0,20.6,41.3,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,7,79.796,1.0,MEDIUM,7.0,True,1,True,False,False,16.0,20.7,41.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,8,79.348,1.0,MEDIUM,8.0,True,12,True,False,False,15.0,20.5,41.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,9,122.57,1.0,MEDIUM,9.0,True,26,False,True,False,15.0,20.7,41.6,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,10,96.651,2.0,HARD,1.0,True,671,False,False,True,15.0,20.9,41.5,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,11,79.884,2.0,HARD,2.0,True,1,True,False,False,15.0,20.9,41.5,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,12,78.532,2.0,HARD,3.0,True,1,True,False,False,15.0,20.9,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,13,78.608,2.0,HARD,4.0,True,1,True,False,False,15.0,21.0,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,14,78.66,2.0,HARD,5.0,True,1,True,False,False,15.0,21.2,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,15,78.309,2.0,HARD,6.0,True,1,True,False,False,15.0,21.2,41.6,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,16,78.549,2.0,HARD,7.0,True,1,True,False,False,15.0,21.3,41.6,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,17,78.493,2.0,HARD,8.0,True,1,True,False,False,15.0,21.4,41.6,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,18,78.721,2.0,HARD,9.0,True,1,True,False,False,14.0,21.4,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,19,90.601,2.0,HARD,10.0,True,126,False,False,False,11.0,21.3,42.1,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,20,96.253,2.0,HARD,11.0,True,671,False,False,False,11.0,21.3,42.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,21,78.444,2.0,HARD,12.0,True,1,True,False,False,11.0,21.3,42.1,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,22,79.235,2.0,HARD,13.0,True,1,True,False,False,11.0,21.2,42.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,23,79.431,2.0,HARD,14.0,True,1,True,False,False,11.0,20.9,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,24,79.238,2.0,HARD,15.0,True,1,True,False,False,11.0,21.0,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,25,79.611,2.0,HARD,16.0,True,1,True,False,False,11.0,21.1,41.8,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,26,78.892,2.0,HARD,17.0,True,1,True,False,False,11.0,21.2,41.8,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,27,79.003,2.0,HARD,18.0,True,1,True,False,False,11.0,21.4,41.7,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,28,79.287,2.0,HARD,19.0,True,1,True,False,False,11.0,21.4,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,29,79.506,2.0,HARD,20.0,True,1,True,False,False,11.0,21.1,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,30,79.804,2.0,HARD,21.0,True,1,True,False,False,11.0,21.2,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,31,79.535,2.0,HARD,22.0,True,1,True,False,False,11.0,21.2,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,32,79.37,2.0,HARD,23.0,True,1,True,False,False,11.0,21.3,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,33,78.96,2.0,HARD,24.0,True,1,True,False,False,11.0,21.3,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,34,79.07,2.0,HARD,25.0,True,1,True,False,False,11.0,21.5,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,35,79.179,2.0,HARD,26.0,True,1,True,False,False,11.0,21.6,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,36,79.489,2.0,HARD,27.0,True,1,True,False,False,11.0,21.6,41.8,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,37,79.434,2.0,HARD,28.0,True,1,True,False,False,11.0,21.6,41.8,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,38,79.517,2.0,HARD,29.0,True,1,True,False,False,11.0,21.7,41.9,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,39,79.505,2.0,HARD,30.0,True,1,True,False,False,11.0,21.7,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,40,78.766,2.0,HARD,31.0,True,1,True,False,False,11.0,21.8,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,41,79.139,2.0,HARD,32.0,True,1,True,False,False,11.0,22.0,42.1,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,42,79.311,2.0,HARD,33.0,True,1,True,False,False,10.0,22.0,42.4,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,43,79.608,2.0,HARD,34.0,True,1,True,False,False,10.0,22.0,42.4,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,44,79.788,2.0,HARD,35.0,True,1,True,False,False,11.0,22.1,42.4,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,45,79.423,2.0,HARD,36.0,True,1,True,False,False,11.0,21.8,42.4,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,46,79.656,2.0,HARD,37.0,True,1,True,False,False,12.0,21.8,42.2,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,TSU,AlphaTauri,47,95.346,2.0,HARD,38.0,True,1,False,True,False,15.0,21.9,42.0,False,20.0,18.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,1,91.675,1.0,MEDIUM,1.0,True,1,False,False,False,12.0,20.2,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,2,81.297,1.0,MEDIUM,2.0,True,1,True,False,False,12.0,20.5,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,3,80.304,1.0,MEDIUM,3.0,True,1,True,False,False,12.0,20.5,42.0,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,4,79.484,1.0,MEDIUM,4.0,True,1,True,False,False,12.0,20.6,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,5,79.69,1.0,MEDIUM,5.0,True,1,True,False,False,12.0,20.7,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,6,79.682,1.0,MEDIUM,6.0,True,1,True,False,False,12.0,20.6,41.3,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,7,79.727,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,20.7,41.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,8,79.811,1.0,MEDIUM,8.0,True,12,True,False,False,10.0,20.6,41.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,9,108.251,1.0,MEDIUM,9.0,True,26,False,False,False,10.0,20.7,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,10,100.051,1.0,MEDIUM,10.0,True,671,False,False,False,10.0,20.9,41.5,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,11,79.354,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,20.9,41.5,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,12,79.472,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,20.9,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,13,79.72,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,21.0,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,14,79.436,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,21.2,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,15,79.849,1.0,MEDIUM,15.0,True,1,True,False,False,10.0,21.2,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,16,80.496,1.0,MEDIUM,16.0,True,1,True,False,False,10.0,21.3,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,17,80.927,1.0,MEDIUM,17.0,True,1,True,False,False,12.0,21.4,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,18,96.605,1.0,MEDIUM,18.0,True,1,False,True,False,17.0,21.4,42.0,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,19,99.132,2.0,HARD,1.0,True,126,False,False,True,16.0,21.3,42.1,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,20,91.737,2.0,HARD,2.0,True,671,False,False,False,16.0,21.3,42.5,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,21,79.373,2.0,HARD,3.0,True,1,True,False,False,16.0,21.3,42.1,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,22,79.518,2.0,HARD,4.0,True,1,True,False,False,16.0,21.0,42.1,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,23,79.514,2.0,HARD,5.0,True,1,True,False,False,16.0,20.9,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,24,79.111,2.0,HARD,6.0,True,1,True,False,False,16.0,21.0,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,25,79.049,2.0,HARD,7.0,True,1,True,False,False,16.0,21.1,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,26,79.115,2.0,HARD,8.0,True,1,True,False,False,16.0,21.2,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,27,79.006,2.0,HARD,9.0,True,1,True,False,False,16.0,21.4,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,28,79.248,2.0,HARD,10.0,True,1,True,False,False,16.0,21.2,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,29,79.244,2.0,HARD,11.0,True,1,True,False,False,16.0,21.1,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,30,79.225,2.0,HARD,12.0,True,1,True,False,False,16.0,21.2,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,31,79.254,2.0,HARD,13.0,True,1,True,False,False,16.0,21.2,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,32,79.155,2.0,HARD,14.0,True,1,True,False,False,16.0,21.3,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,33,78.934,2.0,HARD,15.0,True,1,True,False,False,16.0,21.3,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,34,79.184,2.0,HARD,16.0,True,1,True,False,False,16.0,21.6,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,35,79.201,2.0,HARD,17.0,True,1,True,False,False,16.0,21.6,42.0,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,36,79.268,2.0,HARD,18.0,True,1,True,False,False,15.0,21.6,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,37,80.493,2.0,HARD,19.0,True,1,True,False,False,15.0,21.6,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,38,79.027,2.0,HARD,20.0,True,1,True,False,False,15.0,21.7,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,39,79.068,2.0,HARD,21.0,True,1,True,False,False,15.0,21.7,42.0,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,40,80.948,2.0,HARD,22.0,True,1,True,False,False,15.0,21.8,42.0,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,41,79.58,2.0,HARD,23.0,True,1,True,False,False,15.0,22.0,42.1,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,42,79.004,2.0,HARD,24.0,True,1,True,False,False,15.0,22.0,42.4,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,43,79.511,2.0,HARD,25.0,True,1,True,False,False,15.0,22.0,42.4,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,44,79.262,2.0,HARD,26.0,True,1,True,False,False,15.0,21.9,42.4,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,45,79.196,2.0,HARD,27.0,True,1,True,False,False,15.0,21.8,42.4,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,46,79.919,2.0,HARD,28.0,True,1,True,False,False,15.0,21.8,42.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,47,78.941,2.0,HARD,29.0,True,1,True,False,False,14.0,21.8,42.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,48,104.349,2.0,HARD,30.0,True,124,False,True,False,15.0,21.8,42.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,49,108.042,3.0,HARD,1.0,True,4,False,False,True,15.0,21.7,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,50,114.901,3.0,HARD,2.0,True,4,False,False,False,15.0,21.8,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,51,127.356,3.0,HARD,3.0,True,4,False,False,False,15.0,21.7,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,52,91.112,3.0,HARD,4.0,True,4,False,False,False,15.0,21.9,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,53,81.692,3.0,HARD,5.0,True,4,False,False,False,15.0,21.9,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,54,93.434,3.0,HARD,6.0,True,41,False,False,False,15.0,21.6,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,55,80.263,3.0,HARD,7.0,True,1,True,False,False,15.0,21.8,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,56,79.776,3.0,HARD,8.0,True,1,True,False,False,15.0,21.7,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,57,79.638,3.0,HARD,9.0,True,1,True,False,False,13.0,21.9,41.7,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,58,78.161,3.0,HARD,10.0,True,1,True,False,False,13.0,21.9,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,59,77.951,3.0,HARD,11.0,True,1,True,False,False,13.0,22.0,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,60,78.067,3.0,HARD,12.0,True,1,True,False,False,13.0,22.1,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,61,78.25,3.0,HARD,13.0,True,1,True,False,False,13.0,22.1,42.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,62,77.964,3.0,HARD,14.0,True,1,True,False,False,13.0,22.2,42.2,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,63,78.086,3.0,HARD,15.0,True,1,True,False,False,13.0,22.1,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,64,78.007,3.0,HARD,16.0,True,1,True,False,False,13.0,22.1,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,65,78.185,3.0,HARD,17.0,True,1,True,False,False,13.0,22.2,41.9,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,66,78.572,3.0,HARD,18.0,True,1,True,False,False,13.0,22.1,42.1,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,67,78.792,3.0,HARD,19.0,True,1,True,False,False,13.0,22.0,41.6,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,68,78.569,3.0,HARD,20.0,True,1,True,False,False,13.0,22.1,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,69,78.087,3.0,HARD,21.0,True,1,True,False,False,13.0,22.1,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ALB,Williams,70,78.348,3.0,HARD,22.0,True,1,True,False,False,13.0,22.3,41.8,False,12.0,13.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,1,90.286,1.0,MEDIUM,1.0,True,1,False,False,False,10.0,20.2,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,2,81.166,1.0,MEDIUM,2.0,True,1,True,False,False,10.0,20.5,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,3,79.583,1.0,MEDIUM,3.0,True,1,True,False,False,10.0,20.5,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,4,79.457,1.0,MEDIUM,4.0,True,1,True,False,False,9.0,20.6,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,5,79.573,1.0,MEDIUM,5.0,True,1,True,False,False,9.0,20.7,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,6,79.046,1.0,MEDIUM,6.0,True,1,True,False,False,9.0,20.6,41.3,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,7,78.943,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,20.7,41.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,8,79.358,1.0,MEDIUM,8.0,True,12,True,False,False,8.0,20.6,41.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,9,106.997,1.0,MEDIUM,9.0,True,26,False,False,False,8.0,20.7,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,10,102.772,1.0,MEDIUM,10.0,True,671,False,False,False,8.0,20.8,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,11,79.243,1.0,MEDIUM,11.0,True,1,True,False,False,8.0,20.9,41.5,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,12,79.642,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,20.9,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,13,79.012,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,21.0,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,14,78.923,1.0,MEDIUM,14.0,True,1,True,False,False,8.0,21.2,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,15,79.52,1.0,MEDIUM,15.0,True,1,True,False,False,8.0,21.3,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,16,79.506,1.0,MEDIUM,16.0,True,1,True,False,False,8.0,21.3,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,17,79.954,1.0,MEDIUM,17.0,True,1,True,False,False,8.0,21.4,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,18,79.23,1.0,MEDIUM,18.0,True,1,True,False,False,8.0,21.4,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,19,101.392,1.0,MEDIUM,19.0,True,126,False,True,False,10.0,21.3,42.1,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,20,97.141,2.0,HARD,1.0,True,671,False,False,True,10.0,21.3,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,21,78.683,2.0,HARD,2.0,True,1,True,False,False,10.0,21.3,42.1,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,22,79.1,2.0,HARD,3.0,True,1,True,False,False,10.0,21.2,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,23,79.468,2.0,HARD,4.0,True,1,True,False,False,10.0,20.9,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,24,79.461,2.0,HARD,5.0,True,1,True,False,False,10.0,21.0,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,25,78.884,2.0,HARD,6.0,True,1,True,False,False,10.0,21.1,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,26,79.11,2.0,HARD,7.0,True,1,True,False,False,10.0,21.2,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,27,79.283,2.0,HARD,8.0,True,1,True,False,False,10.0,21.4,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,28,79.354,2.0,HARD,9.0,True,1,True,False,False,10.0,21.4,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,29,79.724,2.0,HARD,10.0,True,1,True,False,False,10.0,21.1,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,30,79.828,2.0,HARD,11.0,True,1,True,False,False,10.0,21.2,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,31,79.458,2.0,HARD,12.0,True,1,True,False,False,10.0,21.2,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,32,79.188,2.0,HARD,13.0,True,1,True,False,False,10.0,21.3,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,33,78.881,2.0,HARD,14.0,True,1,True,False,False,10.0,21.3,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,34,79.286,2.0,HARD,15.0,True,1,True,False,False,10.0,21.5,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,35,79.244,2.0,HARD,16.0,True,1,True,False,False,10.0,21.6,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,36,79.494,2.0,HARD,17.0,True,1,True,False,False,10.0,21.6,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,37,79.432,2.0,HARD,18.0,True,1,True,False,False,10.0,21.6,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,38,79.501,2.0,HARD,19.0,True,1,True,False,False,10.0,21.7,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,39,79.295,2.0,HARD,20.0,True,1,True,False,False,10.0,21.7,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,40,78.638,2.0,HARD,21.0,True,1,True,False,False,10.0,21.8,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,41,79.101,2.0,HARD,22.0,True,1,True,False,False,10.0,22.0,42.1,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,42,78.909,2.0,HARD,23.0,True,1,True,False,False,9.0,22.0,42.4,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,43,79.308,2.0,HARD,24.0,True,1,True,False,False,9.0,22.0,42.4,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,44,78.976,2.0,HARD,25.0,True,1,True,False,False,9.0,22.1,42.4,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,45,78.675,2.0,HARD,26.0,True,1,True,False,False,9.0,21.8,42.4,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,46,79.041,2.0,HARD,27.0,True,1,True,False,False,9.0,21.8,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,47,79.967,2.0,HARD,28.0,True,1,True,False,False,9.0,21.9,42.0,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,48,79.721,2.0,HARD,29.0,True,124,False,False,False,9.0,21.8,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,49,123.273,2.0,HARD,30.0,True,4,False,True,False,10.0,21.7,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,50,109.531,3.0,HARD,1.0,True,4,False,False,True,10.0,21.8,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,51,89.885,3.0,HARD,2.0,True,4,False,False,False,10.0,21.7,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,52,94.51,3.0,HARD,3.0,True,4,False,False,False,10.0,21.7,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,53,106.885,3.0,HARD,4.0,True,4,False,False,False,10.0,21.9,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,54,133.502,3.0,HARD,5.0,True,41,False,False,False,10.0,21.8,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,55,79.918,3.0,HARD,6.0,True,1,True,False,False,10.0,21.8,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,56,79.061,3.0,HARD,7.0,True,1,True,False,False,10.0,21.7,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,57,78.05,3.0,HARD,8.0,True,1,True,False,False,9.0,21.9,41.7,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,58,76.757,3.0,HARD,9.0,True,1,True,False,False,9.0,21.9,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,59,76.799,3.0,HARD,10.0,True,1,True,False,False,9.0,22.0,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,60,77.087,3.0,HARD,11.0,True,1,True,False,False,9.0,22.1,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,61,77.15,3.0,HARD,12.0,True,1,True,False,False,9.0,22.1,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,62,77.049,3.0,HARD,13.0,True,1,True,False,False,9.0,22.2,42.2,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,63,76.578,3.0,HARD,14.0,True,1,True,False,False,9.0,22.2,42.1,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,64,76.947,3.0,HARD,15.0,True,1,True,False,False,9.0,22.1,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,65,77.24,3.0,HARD,16.0,True,1,True,False,False,9.0,22.2,41.9,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,66,77.436,3.0,HARD,17.0,True,1,True,False,False,9.0,22.1,42.1,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,67,77.604,3.0,HARD,18.0,True,1,True,False,False,9.0,22.0,41.6,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,68,78.456,3.0,HARD,19.0,True,1,True,False,False,9.0,22.1,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,69,77.634,3.0,HARD,20.0,True,1,True,False,False,9.0,22.1,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,ZHO,Alfa Romeo,70,77.603,3.0,HARD,21.0,True,1,True,False,False,9.0,22.3,41.8,False,10.0,8.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,1,89.928,1.0,MEDIUM,1.0,True,1,False,False,False,9.0,20.2,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,2,81.014,1.0,MEDIUM,2.0,True,1,True,False,False,9.0,20.5,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,3,79.773,1.0,MEDIUM,3.0,True,1,True,False,False,9.0,20.5,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,4,80.389,1.0,MEDIUM,4.0,True,1,True,False,False,10.0,20.6,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,5,79.655,1.0,MEDIUM,5.0,True,1,True,False,False,10.0,20.7,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,6,79.451,1.0,MEDIUM,6.0,True,1,True,False,False,10.0,20.6,41.3,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,7,78.931,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,20.7,41.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,8,79.154,1.0,MEDIUM,8.0,True,12,True,False,False,9.0,20.6,41.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,9,107.368,1.0,MEDIUM,9.0,True,26,False,False,False,9.0,20.7,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,10,101.988,1.0,MEDIUM,10.0,True,671,False,False,False,9.0,20.9,41.5,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,11,79.735,1.0,MEDIUM,11.0,True,1,True,False,False,9.0,20.9,41.5,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,12,79.601,1.0,MEDIUM,12.0,True,1,True,False,False,9.0,20.9,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,13,79.157,1.0,MEDIUM,13.0,True,1,True,False,False,9.0,21.0,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,14,79.523,1.0,MEDIUM,14.0,True,1,True,False,False,9.0,21.2,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,15,79.57,1.0,MEDIUM,15.0,True,1,True,False,False,9.0,21.2,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,16,79.509,1.0,MEDIUM,16.0,True,1,True,False,False,9.0,21.3,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,17,79.643,1.0,MEDIUM,17.0,True,1,True,False,False,9.0,21.4,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,18,79.444,1.0,MEDIUM,18.0,True,1,True,False,False,9.0,21.4,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,19,105.448,1.0,MEDIUM,19.0,True,126,False,True,False,12.0,21.3,42.1,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,20,94.705,2.0,HARD,1.0,True,671,False,False,True,12.0,21.3,42.5,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,21,79.162,2.0,HARD,2.0,True,1,True,False,False,12.0,21.3,42.1,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,22,79.312,2.0,HARD,3.0,True,1,True,False,False,12.0,21.2,42.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,23,79.076,2.0,HARD,4.0,True,1,True,False,False,12.0,20.9,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,24,79.235,2.0,HARD,5.0,True,1,True,False,False,12.0,21.0,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,25,79.091,2.0,HARD,6.0,True,1,True,False,False,12.0,21.1,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,26,79.014,2.0,HARD,7.0,True,1,True,False,False,12.0,21.2,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,27,79.018,2.0,HARD,8.0,True,1,True,False,False,12.0,21.4,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,28,78.86,2.0,HARD,9.0,True,1,True,False,False,12.0,21.4,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,29,79.023,2.0,HARD,10.0,True,1,True,False,False,12.0,21.1,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,30,79.524,2.0,HARD,11.0,True,1,True,False,False,12.0,21.2,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,31,79.13,2.0,HARD,12.0,True,1,True,False,False,12.0,21.2,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,32,79.329,2.0,HARD,13.0,True,1,True,False,False,12.0,21.3,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,33,79.019,2.0,HARD,14.0,True,1,True,False,False,12.0,21.3,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,34,79.159,2.0,HARD,15.0,True,1,True,False,False,12.0,21.5,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,35,79.082,2.0,HARD,16.0,True,1,True,False,False,12.0,21.6,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,36,79.278,2.0,HARD,17.0,True,1,True,False,False,12.0,21.6,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,37,79.225,2.0,HARD,18.0,True,1,True,False,False,12.0,21.6,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,38,79.538,2.0,HARD,19.0,True,1,True,False,False,12.0,21.7,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,39,79.526,2.0,HARD,20.0,True,1,True,False,False,12.0,21.7,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,40,78.978,2.0,HARD,21.0,True,1,True,False,False,12.0,21.8,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,41,78.932,2.0,HARD,22.0,True,1,True,False,False,12.0,22.0,42.1,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,42,79.011,2.0,HARD,23.0,True,1,True,False,False,11.0,22.0,42.4,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,43,80.593,2.0,HARD,24.0,True,1,True,False,False,12.0,22.0,42.4,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,44,79.004,2.0,HARD,25.0,True,1,True,False,False,12.0,21.9,42.4,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,45,79.432,2.0,HARD,26.0,True,1,True,False,False,12.0,21.8,42.4,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,46,78.918,2.0,HARD,27.0,True,1,True,False,False,11.0,21.8,42.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,47,79.314,2.0,HARD,28.0,True,1,True,False,False,10.0,21.9,42.0,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,48,84.258,2.0,HARD,29.0,True,124,False,False,False,10.0,21.8,42.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,49,121.58,2.0,HARD,30.0,True,4,False,True,False,11.0,21.7,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,50,109.016,3.0,HARD,1.0,True,4,False,False,True,11.0,21.8,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,51,88.673,3.0,HARD,2.0,True,4,False,False,False,11.0,21.7,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,52,93.488,3.0,HARD,3.0,True,4,False,False,False,11.0,21.8,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,53,106.972,3.0,HARD,4.0,True,4,False,False,False,11.0,21.9,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,54,131.316,3.0,HARD,5.0,True,41,False,False,False,11.0,21.8,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,55,79.745,3.0,HARD,6.0,True,1,True,False,False,11.0,21.8,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,56,79.482,3.0,HARD,7.0,True,1,True,False,False,11.0,21.7,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,57,78.661,3.0,HARD,8.0,True,1,True,False,False,10.0,21.9,41.7,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,58,78.074,3.0,HARD,9.0,True,1,True,False,False,10.0,21.9,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,59,77.932,3.0,HARD,10.0,True,1,True,False,False,10.0,22.0,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,60,78.153,3.0,HARD,11.0,True,1,True,False,False,10.0,22.1,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,61,78.121,3.0,HARD,12.0,True,1,True,False,False,10.0,22.1,42.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,62,78.155,3.0,HARD,13.0,True,1,True,False,False,10.0,22.2,42.2,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,63,78.926,3.0,HARD,14.0,True,1,True,False,False,11.0,22.1,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,64,78.39,3.0,HARD,15.0,True,1,True,False,False,11.0,22.1,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,65,78.183,3.0,HARD,16.0,True,1,True,False,False,11.0,22.2,41.9,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,66,78.495,3.0,HARD,17.0,True,1,True,False,False,11.0,22.1,42.1,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,67,78.624,3.0,HARD,18.0,True,1,True,False,False,11.0,22.0,41.6,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,68,78.503,3.0,HARD,19.0,True,1,True,False,False,11.0,22.1,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,69,78.427,3.0,HARD,20.0,True,1,True,False,False,11.0,22.1,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,RIC,McLaren,70,78.861,3.0,HARD,21.0,True,1,True,False,False,11.0,22.3,41.8,False,9.0,11.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,1,87.881,1.0,MEDIUM,1.0,True,1,False,False,False,6.0,20.2,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,2,80.334,1.0,MEDIUM,2.0,True,1,True,False,False,6.0,20.5,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,3,80.692,1.0,MEDIUM,3.0,True,1,True,False,False,7.0,20.5,42.0,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,4,79.474,1.0,MEDIUM,4.0,True,1,True,False,False,7.0,20.6,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,5,79.384,1.0,MEDIUM,5.0,True,1,True,False,False,7.0,20.7,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,6,79.383,1.0,MEDIUM,6.0,True,1,True,False,False,7.0,20.6,41.3,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,7,79.11,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,20.7,41.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,8,79.143,1.0,MEDIUM,8.0,True,12,True,False,False,6.0,20.6,41.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,9,106.385,1.0,MEDIUM,9.0,True,26,False,False,False,5.0,20.7,41.6,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,10,103.13,1.0,MEDIUM,10.0,True,671,False,False,False,5.0,20.8,41.6,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,11,79.457,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,20.9,41.5,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,12,79.847,1.0,MEDIUM,12.0,True,1,True,False,False,6.0,20.9,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,13,78.946,1.0,MEDIUM,13.0,True,1,True,False,False,6.0,21.0,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,14,78.808,1.0,MEDIUM,14.0,True,1,True,False,False,6.0,21.2,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,15,79.096,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,21.3,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,16,78.915,1.0,MEDIUM,16.0,True,1,True,False,False,6.0,21.3,41.6,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,17,78.902,1.0,MEDIUM,17.0,True,1,True,False,False,6.0,21.4,41.6,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,18,79.088,1.0,MEDIUM,18.0,True,1,True,False,False,6.0,21.4,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,19,98.624,1.0,MEDIUM,19.0,True,126,False,True,False,7.0,21.3,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,20,99.319,2.0,HARD,1.0,True,671,False,False,True,6.0,21.3,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,21,78.547,2.0,HARD,2.0,True,1,True,False,False,6.0,21.3,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,22,78.732,2.0,HARD,3.0,True,1,True,False,False,6.0,21.2,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,23,78.816,2.0,HARD,4.0,True,1,True,False,False,6.0,20.9,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,24,78.822,2.0,HARD,5.0,True,1,True,False,False,6.0,21.0,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,25,78.664,2.0,HARD,6.0,True,1,True,False,False,6.0,21.1,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,26,78.163,2.0,HARD,7.0,True,1,True,False,False,6.0,21.2,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,27,78.543,2.0,HARD,8.0,True,1,True,False,False,6.0,21.4,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,28,78.826,2.0,HARD,9.0,True,1,True,False,False,5.0,21.4,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,29,78.854,2.0,HARD,10.0,True,1,True,False,False,5.0,21.2,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,30,78.594,2.0,HARD,11.0,True,1,True,False,False,5.0,21.2,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,31,78.811,2.0,HARD,12.0,True,1,True,False,False,5.0,21.2,42.0,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,32,78.511,2.0,HARD,13.0,True,1,True,False,False,5.0,21.2,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,33,78.371,2.0,HARD,14.0,True,1,True,False,False,5.0,21.3,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,34,78.507,2.0,HARD,15.0,True,1,True,False,False,5.0,21.5,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,35,78.382,2.0,HARD,16.0,True,1,True,False,False,5.0,21.6,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,36,78.435,2.0,HARD,17.0,True,1,True,False,False,5.0,21.6,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,37,78.396,2.0,HARD,18.0,True,1,True,False,False,5.0,21.6,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,38,78.321,2.0,HARD,19.0,True,1,True,False,False,5.0,21.6,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,39,78.611,2.0,HARD,20.0,True,1,True,False,False,5.0,21.7,42.0,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,40,78.51,2.0,HARD,21.0,True,1,True,False,False,5.0,21.8,42.0,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,41,78.538,2.0,HARD,22.0,True,1,True,False,False,5.0,21.9,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,42,78.59,2.0,HARD,23.0,True,1,True,False,False,5.0,22.0,42.4,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,43,78.834,2.0,HARD,24.0,True,1,True,False,False,5.0,22.0,42.4,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,44,78.6,2.0,HARD,25.0,True,1,True,False,False,5.0,22.1,42.4,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,45,78.569,2.0,HARD,26.0,True,1,True,False,False,5.0,21.9,42.4,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,46,78.644,2.0,HARD,27.0,True,1,True,False,False,5.0,21.8,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,47,78.415,2.0,HARD,28.0,True,1,True,False,False,5.0,21.9,42.0,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,48,79.014,2.0,HARD,29.0,True,12,True,False,False,5.0,21.8,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,49,116.379,2.0,HARD,30.0,True,24,False,True,False,5.0,21.7,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,50,107.909,3.0,MEDIUM,1.0,True,4,False,False,True,5.0,21.8,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,51,83.144,3.0,MEDIUM,2.0,True,4,False,False,False,5.0,21.8,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,52,116.201,3.0,MEDIUM,3.0,True,4,False,False,False,5.0,21.7,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,53,116.168,3.0,MEDIUM,4.0,True,4,False,False,False,5.0,21.9,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,54,138.756,3.0,MEDIUM,5.0,True,41,False,False,False,5.0,21.8,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,55,78.947,3.0,MEDIUM,6.0,True,1,True,False,False,5.0,21.8,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,56,77.351,3.0,MEDIUM,7.0,True,1,True,False,False,5.0,21.7,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,57,77.671,3.0,MEDIUM,8.0,True,1,True,False,False,5.0,21.9,41.7,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,58,77.318,3.0,MEDIUM,9.0,True,1,True,False,False,5.0,21.9,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,59,77.602,3.0,MEDIUM,10.0,True,1,True,False,False,5.0,22.0,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,60,78.133,3.0,MEDIUM,11.0,True,1,True,False,False,6.0,22.1,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,61,77.481,3.0,MEDIUM,12.0,True,1,True,False,False,6.0,22.1,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,62,77.11,3.0,MEDIUM,13.0,True,1,True,False,False,6.0,22.2,42.2,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,63,77.147,3.0,MEDIUM,14.0,True,1,True,False,False,6.0,22.2,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,64,77.11,3.0,MEDIUM,15.0,True,1,True,False,False,6.0,22.1,41.6,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,65,77.342,3.0,MEDIUM,16.0,True,1,True,False,False,6.0,22.2,41.9,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,66,77.282,3.0,MEDIUM,17.0,True,1,True,False,False,6.0,22.1,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,67,77.559,3.0,MEDIUM,18.0,True,1,True,False,False,6.0,22.0,42.1,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,68,77.403,3.0,MEDIUM,19.0,True,1,True,False,False,6.0,22.1,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,69,77.586,3.0,MEDIUM,20.0,True,1,True,False,False,6.0,22.1,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,OCO,Alpine,70,77.51,3.0,MEDIUM,21.0,True,1,True,False,False,6.0,22.3,41.8,False,7.0,6.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,1,92.333,1.0,HARD,1.0,True,1,False,False,False,14.0,20.2,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,2,82.278,1.0,HARD,2.0,True,1,True,False,False,14.0,20.5,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,3,79.98,1.0,HARD,3.0,True,1,True,False,False,14.0,20.5,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,4,79.663,1.0,HARD,4.0,True,1,True,False,False,14.0,20.6,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,5,79.602,1.0,HARD,5.0,True,1,True,False,False,14.0,20.7,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,6,79.644,1.0,HARD,6.0,True,1,True,False,False,14.0,20.6,41.3,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,7,79.603,1.0,HARD,7.0,True,1,True,False,False,13.0,20.7,41.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,8,79.428,1.0,HARD,8.0,True,12,True,False,False,12.0,20.6,41.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,9,110.613,1.0,HARD,9.0,True,26,False,False,False,12.0,20.7,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,10,97.801,1.0,HARD,10.0,True,671,False,False,False,12.0,20.9,41.5,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,11,79.648,1.0,HARD,11.0,True,1,True,False,False,12.0,20.9,41.5,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,12,79.465,1.0,HARD,12.0,True,1,True,False,False,12.0,20.9,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,13,79.973,1.0,HARD,13.0,True,1,True,False,False,13.0,21.0,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,14,79.826,1.0,HARD,14.0,True,1,True,False,False,13.0,21.2,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,15,79.787,1.0,HARD,15.0,True,1,True,False,False,13.0,21.2,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,16,80.241,1.0,HARD,16.0,True,1,True,False,False,13.0,21.3,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,17,79.862,1.0,HARD,17.0,True,1,True,False,False,13.0,21.4,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,18,80.362,1.0,HARD,18.0,True,1,True,False,False,12.0,21.4,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,19,122.715,1.0,HARD,19.0,True,126,False,True,False,18.0,21.3,42.1,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,20,87.203,2.0,HARD,1.0,True,671,False,False,True,18.0,21.3,42.5,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,21,79.373,2.0,HARD,2.0,True,1,True,False,False,17.0,21.3,42.1,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,22,79.317,2.0,HARD,3.0,True,1,True,False,False,17.0,21.0,42.1,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,23,78.699,2.0,HARD,4.0,True,1,True,False,False,17.0,20.9,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,24,78.71,2.0,HARD,5.0,True,1,True,False,False,17.0,21.0,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,25,78.643,2.0,HARD,6.0,True,1,True,False,False,17.0,21.1,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,26,78.861,2.0,HARD,7.0,True,1,True,False,False,17.0,21.2,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,27,78.342,2.0,HARD,8.0,True,1,True,False,False,17.0,21.4,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,28,79.123,2.0,HARD,9.0,True,1,True,False,False,17.0,21.2,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,29,79.166,2.0,HARD,10.0,True,1,True,False,False,17.0,21.1,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,30,79.378,2.0,HARD,11.0,True,1,True,False,False,17.0,21.2,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,31,79.268,2.0,HARD,12.0,True,1,True,False,False,17.0,21.2,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,32,79.271,2.0,HARD,13.0,True,1,True,False,False,17.0,21.3,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,33,78.962,2.0,HARD,14.0,True,1,True,False,False,17.0,21.3,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,34,79.025,2.0,HARD,15.0,True,1,True,False,False,17.0,21.6,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,35,79.276,2.0,HARD,16.0,True,1,True,False,False,17.0,21.6,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,36,80.554,2.0,HARD,17.0,True,1,True,False,False,16.0,21.6,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,37,79.134,2.0,HARD,18.0,True,1,True,False,False,16.0,21.6,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,38,79.187,2.0,HARD,19.0,True,1,True,False,False,16.0,21.7,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,39,79.202,2.0,HARD,20.0,True,1,True,False,False,16.0,21.7,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,40,80.548,2.0,HARD,21.0,True,1,True,False,False,16.0,21.8,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,41,79.875,2.0,HARD,22.0,True,1,True,False,False,16.0,22.0,42.1,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,42,96.06,2.0,HARD,23.0,True,1,False,True,False,17.0,22.0,42.4,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,43,80.745,3.0,MEDIUM,1.0,True,1,False,False,True,17.0,22.1,42.4,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,44,78.114,3.0,MEDIUM,2.0,True,1,True,False,False,17.0,21.9,42.4,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,45,77.726,3.0,MEDIUM,3.0,True,1,True,False,False,17.0,21.8,42.4,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,46,77.968,3.0,MEDIUM,4.0,True,1,True,False,False,17.0,21.9,42.0,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,47,78.084,3.0,MEDIUM,5.0,True,12,True,False,False,17.0,21.8,42.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,48,93.78,3.0,MEDIUM,6.0,True,24,False,False,False,16.0,21.8,42.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,49,107.356,3.0,MEDIUM,7.0,True,4,False,False,False,16.0,21.7,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,50,114.791,3.0,MEDIUM,8.0,True,4,False,False,False,16.0,21.8,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,51,127.138,3.0,MEDIUM,9.0,True,4,False,False,False,16.0,21.7,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,52,89.875,3.0,MEDIUM,10.0,True,4,False,False,False,16.0,21.9,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,53,81.664,3.0,MEDIUM,11.0,True,4,False,False,False,16.0,21.9,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,54,93.047,3.0,MEDIUM,12.0,True,41,False,False,False,16.0,21.6,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,55,80.262,3.0,MEDIUM,13.0,True,1,True,False,False,16.0,21.8,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,56,80.08,3.0,MEDIUM,14.0,True,1,True,False,False,16.0,21.7,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,57,80.316,3.0,MEDIUM,15.0,True,1,True,False,False,16.0,21.9,41.7,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,58,79.486,3.0,MEDIUM,16.0,True,1,True,False,False,15.0,21.9,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,59,77.89,3.0,MEDIUM,17.0,True,1,True,False,False,15.0,22.0,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,60,78.148,3.0,MEDIUM,18.0,True,1,True,False,False,15.0,22.1,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,61,77.78,3.0,MEDIUM,19.0,True,1,True,False,False,15.0,22.1,42.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,62,77.613,3.0,MEDIUM,20.0,True,1,True,False,False,15.0,22.2,42.2,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,63,77.495,3.0,MEDIUM,21.0,True,1,True,False,False,15.0,22.1,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,64,77.896,3.0,MEDIUM,22.0,True,1,True,False,False,15.0,22.1,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,65,78.081,3.0,MEDIUM,23.0,True,1,True,False,False,15.0,22.2,41.9,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,66,78.439,3.0,MEDIUM,24.0,True,1,True,False,False,15.0,22.1,42.1,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,67,79.134,3.0,MEDIUM,25.0,True,1,True,False,False,15.0,22.0,41.6,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,68,78.432,3.0,MEDIUM,26.0,True,1,True,False,False,15.0,22.1,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,69,78.601,3.0,MEDIUM,27.0,True,1,True,False,False,15.0,22.1,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,NOR,McLaren,70,78.96,3.0,MEDIUM,28.0,True,1,True,False,False,15.0,22.3,41.8,False,14.0,15.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,1,86.209,1.0,MEDIUM,1.0,True,1,False,False,False,4.0,20.2,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,2,79.549,1.0,MEDIUM,2.0,True,1,True,False,False,4.0,20.5,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,3,79.013,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,20.5,42.0,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,4,79.158,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,20.6,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,5,78.66,1.0,MEDIUM,5.0,True,1,True,False,False,4.0,20.7,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,6,78.591,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,20.6,41.3,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,7,78.386,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,20.7,41.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,8,78.163,1.0,MEDIUM,8.0,True,12,True,False,False,4.0,20.6,41.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,9,115.793,1.0,MEDIUM,9.0,True,26,False,True,False,6.0,20.7,41.6,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,10,102.149,2.0,HARD,1.0,True,671,False,False,True,6.0,20.8,41.6,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,11,78.734,2.0,HARD,2.0,True,1,True,False,False,6.0,20.9,41.5,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,12,78.187,2.0,HARD,3.0,True,1,True,False,False,5.0,20.9,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,13,77.973,2.0,HARD,4.0,True,1,True,False,False,5.0,21.0,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,14,77.726,2.0,HARD,5.0,True,1,True,False,False,5.0,21.2,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,15,77.82,2.0,HARD,6.0,True,1,True,False,False,5.0,21.3,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,16,77.904,2.0,HARD,7.0,True,1,True,False,False,5.0,21.3,41.6,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,17,78.019,2.0,HARD,8.0,True,1,True,False,False,5.0,21.4,41.6,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,18,77.855,2.0,HARD,9.0,True,1,True,False,False,5.0,21.4,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,19,77.926,2.0,HARD,10.0,True,126,False,False,False,4.0,21.3,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,20,106.918,2.0,HARD,11.0,True,671,False,False,False,4.0,21.3,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,21,78.711,2.0,HARD,12.0,True,1,True,False,False,4.0,21.3,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,22,78.438,2.0,HARD,13.0,True,1,True,False,False,4.0,21.2,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,23,78.758,2.0,HARD,14.0,True,1,True,False,False,3.0,21.0,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,24,78.099,2.0,HARD,15.0,True,1,True,False,False,3.0,21.0,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,25,77.996,2.0,HARD,16.0,True,1,True,False,False,3.0,21.1,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,26,77.793,2.0,HARD,17.0,True,1,True,False,False,3.0,21.1,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,27,78.03,2.0,HARD,18.0,True,1,True,False,False,3.0,21.2,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,28,77.885,2.0,HARD,19.0,True,1,True,False,False,3.0,21.4,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,29,77.739,2.0,HARD,20.0,True,1,True,False,False,3.0,21.2,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,30,77.811,2.0,HARD,21.0,True,1,True,False,False,3.0,21.1,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,31,78.137,2.0,HARD,22.0,True,1,True,False,False,3.0,21.2,42.0,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,32,78.299,2.0,HARD,23.0,True,1,True,False,False,3.0,21.2,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,33,78.104,2.0,HARD,24.0,True,1,True,False,False,3.0,21.3,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,34,77.793,2.0,HARD,25.0,True,1,True,False,False,3.0,21.5,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,35,77.923,2.0,HARD,26.0,True,1,True,False,False,3.0,21.6,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,36,78.092,2.0,HARD,27.0,True,1,True,False,False,3.0,21.6,42.0,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,37,78.179,2.0,HARD,28.0,True,1,True,False,False,3.0,21.6,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,38,77.695,2.0,HARD,29.0,True,1,True,False,False,3.0,21.6,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,39,77.878,2.0,HARD,30.0,True,1,True,False,False,3.0,21.7,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,40,77.605,2.0,HARD,31.0,True,1,True,False,False,3.0,21.7,42.0,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,41,78.16,2.0,HARD,32.0,True,1,True,False,False,3.0,21.9,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,42,77.949,2.0,HARD,33.0,True,1,True,False,False,3.0,22.0,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,43,78.25,2.0,HARD,34.0,True,1,True,False,False,3.0,22.0,42.4,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,44,95.224,2.0,HARD,35.0,True,1,False,True,False,4.0,22.1,42.4,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,45,79.878,3.0,HARD,1.0,True,1,False,False,True,3.0,21.9,42.4,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,46,76.769,3.0,HARD,2.0,True,1,True,False,False,3.0,21.8,42.4,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,47,76.891,3.0,HARD,3.0,True,1,True,False,False,3.0,21.9,42.0,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,48,76.549,3.0,HARD,4.0,True,12,True,False,False,3.0,21.8,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,49,92.952,3.0,HARD,5.0,True,24,False,False,False,3.0,21.8,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,50,108.856,3.0,HARD,6.0,True,4,False,False,False,3.0,21.7,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,51,112.627,3.0,HARD,7.0,True,4,False,False,False,3.0,21.8,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,52,127.201,3.0,HARD,8.0,True,4,False,False,False,3.0,21.7,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,53,116.938,3.0,HARD,9.0,True,4,False,False,False,3.0,21.9,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,54,140.31,3.0,HARD,10.0,True,41,False,False,False,3.0,21.8,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,55,77.885,3.0,HARD,11.0,True,1,True,False,False,3.0,21.8,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,56,76.784,3.0,HARD,12.0,True,1,True,False,False,3.0,21.7,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,57,76.272,3.0,HARD,13.0,True,1,True,False,False,3.0,21.9,41.7,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,58,76.291,3.0,HARD,14.0,True,1,True,False,False,3.0,21.9,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,59,76.231,3.0,HARD,15.0,True,1,True,False,False,3.0,22.0,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,60,76.394,3.0,HARD,16.0,True,1,True,False,False,3.0,22.1,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,61,76.316,3.0,HARD,17.0,True,1,True,False,False,3.0,22.1,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,62,76.23,3.0,HARD,18.0,True,1,True,False,False,3.0,22.2,42.2,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,63,76.468,3.0,HARD,19.0,True,1,True,False,False,3.0,22.2,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,64,76.283,3.0,HARD,20.0,True,1,True,False,False,3.0,22.1,41.6,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,65,76.333,3.0,HARD,21.0,True,1,True,False,False,3.0,22.2,41.9,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,66,76.716,3.0,HARD,22.0,True,1,True,False,False,3.0,22.1,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,67,76.625,3.0,HARD,23.0,True,1,True,False,False,3.0,22.0,42.1,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,68,76.937,3.0,HARD,24.0,True,1,True,False,False,3.0,22.1,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,69,76.167,3.0,HARD,25.0,True,1,True,False,False,3.0,22.1,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,HAM,Mercedes,70,76.579,3.0,HARD,26.0,True,1,True,False,False,3.0,22.3,41.8,False,4.0,3.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,1,89.342,1.0,MEDIUM,1.0,True,1,False,False,False,8.0,20.2,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,2,80.785,1.0,MEDIUM,2.0,True,1,True,False,False,8.0,20.5,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,3,79.589,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,20.5,42.0,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,4,79.195,1.0,MEDIUM,4.0,True,1,True,False,False,8.0,20.6,41.8,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,5,80.064,1.0,MEDIUM,5.0,True,1,True,False,False,8.0,20.7,41.8,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,6,79.502,1.0,MEDIUM,6.0,True,1,True,False,False,8.0,20.6,41.3,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,7,79.213,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,20.7,41.2,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,8,79.247,1.0,MEDIUM,8.0,True,12,True,False,False,7.0,20.6,41.2,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,9,106.691,1.0,MEDIUM,9.0,True,26,False,False,False,7.0,20.7,41.6,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,10,102.964,1.0,MEDIUM,10.0,True,671,False,False,False,7.0,20.8,41.6,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,11,79.589,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,20.9,41.5,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,12,79.402,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,20.9,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,13,78.967,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,21.0,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,14,79.238,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,21.2,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,15,79.252,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,21.3,41.7,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,16,79.83,1.0,MEDIUM,16.0,True,1,True,False,False,7.0,21.3,41.6,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,17,79.598,1.0,MEDIUM,17.0,True,1,True,False,False,7.0,21.4,41.6,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,18,79.142,1.0,MEDIUM,18.0,True,1,True,False,False,7.0,21.4,41.9,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,MSC,Haas F1 Team,19,,1.0,MEDIUM,19.0,True,126,False,False,False,,21.3,42.1,False,6.0,19.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,1,92.647,1.0,MEDIUM,2.0,False,1,False,False,False,15.0,20.2,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,2,82.343,1.0,MEDIUM,3.0,False,1,True,False,False,15.0,20.5,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,3,80.173,1.0,MEDIUM,4.0,False,1,True,False,False,15.0,20.5,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,4,79.529,1.0,MEDIUM,5.0,False,1,True,False,False,15.0,20.6,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,5,95.658,1.0,MEDIUM,6.0,False,1,False,True,False,19.0,20.7,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,6,81.159,2.0,HARD,1.0,False,1,False,False,True,19.0,20.6,41.3,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,7,78.429,2.0,HARD,2.0,False,1,True,False,False,18.0,20.7,41.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,8,85.031,2.0,HARD,3.0,False,126,False,False,False,17.0,20.5,41.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,9,107.867,2.0,HARD,4.0,False,6,False,False,False,16.0,20.7,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,10,94.32,2.0,HARD,5.0,False,671,False,False,False,16.0,20.9,41.5,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,11,79.033,2.0,HARD,6.0,False,1,True,False,False,16.0,20.9,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,12,78.691,2.0,HARD,7.0,False,1,True,False,False,16.0,20.9,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,13,78.991,2.0,HARD,8.0,False,1,True,False,False,16.0,21.0,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,14,78.87,2.0,HARD,9.0,False,1,True,False,False,16.0,21.2,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,15,78.654,2.0,HARD,10.0,False,1,True,False,False,16.0,21.2,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,16,78.642,2.0,HARD,11.0,False,1,True,False,False,16.0,21.3,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,17,78.859,2.0,HARD,12.0,False,1,True,False,False,16.0,21.4,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,18,78.975,2.0,HARD,13.0,False,1,True,False,False,15.0,21.4,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,19,105.322,2.0,HARD,14.0,False,126,False,True,False,14.0,21.3,42.1,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,20,89.725,3.0,HARD,1.0,False,671,False,False,True,14.0,21.3,42.5,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,21,78.31,3.0,HARD,2.0,False,1,True,False,False,14.0,21.3,42.1,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,22,78.498,3.0,HARD,3.0,False,1,True,False,False,14.0,21.0,42.1,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,23,78.501,3.0,HARD,4.0,False,1,True,False,False,14.0,20.9,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,24,78.483,3.0,HARD,5.0,False,1,True,False,False,14.0,21.0,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,25,78.744,3.0,HARD,6.0,False,1,True,False,False,14.0,21.1,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,26,78.651,3.0,HARD,7.0,False,1,True,False,False,14.0,21.2,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,27,78.745,3.0,HARD,8.0,False,1,True,False,False,14.0,21.4,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,28,78.908,3.0,HARD,9.0,False,1,True,False,False,14.0,21.4,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,29,78.571,3.0,HARD,10.0,False,1,True,False,False,14.0,21.1,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,30,79.567,3.0,HARD,11.0,False,1,True,False,False,13.0,21.2,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,31,79.036,3.0,HARD,12.0,False,1,True,False,False,13.0,21.2,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,32,78.728,3.0,HARD,13.0,False,1,True,False,False,13.0,21.3,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,33,78.638,3.0,HARD,14.0,False,1,True,False,False,13.0,21.3,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,34,79.035,3.0,HARD,15.0,False,1,True,False,False,13.0,21.5,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,35,78.662,3.0,HARD,16.0,False,1,True,False,False,13.0,21.6,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,36,78.815,3.0,HARD,17.0,False,1,True,False,False,13.0,21.6,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,37,79.053,3.0,HARD,18.0,False,1,True,False,False,13.0,21.6,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,38,79.088,3.0,HARD,19.0,False,1,True,False,False,13.0,21.7,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,39,79.072,3.0,HARD,20.0,False,1,True,False,False,13.0,21.7,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,40,79.175,3.0,HARD,21.0,False,1,True,False,False,13.0,21.8,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,41,79.109,3.0,HARD,22.0,False,1,True,False,False,13.0,22.0,42.1,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,42,79.1,3.0,HARD,23.0,False,1,True,False,False,13.0,22.0,42.4,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,43,79.289,3.0,HARD,24.0,False,1,True,False,False,13.0,22.0,42.4,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,44,79.156,3.0,HARD,25.0,False,1,True,False,False,13.0,21.9,42.4,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,45,79.363,3.0,HARD,26.0,False,1,True,False,False,13.0,21.8,42.4,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,46,79.214,3.0,HARD,27.0,False,1,True,False,False,13.0,21.8,42.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,47,79.482,3.0,HARD,28.0,False,1,True,False,False,11.0,21.9,42.0,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,48,85.022,3.0,HARD,29.0,False,124,False,False,False,11.0,21.8,42.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,49,106.954,3.0,HARD,30.0,False,4,False,False,False,9.0,21.7,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,50,109.605,3.0,HARD,31.0,False,4,False,False,False,9.0,21.8,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,51,94.383,3.0,HARD,32.0,False,4,False,False,False,9.0,21.7,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,52,95.858,3.0,HARD,33.0,False,4,False,False,False,9.0,21.7,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,53,106.965,3.0,HARD,34.0,False,4,False,False,False,9.0,21.9,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,54,134.159,3.0,HARD,35.0,False,41,False,False,False,9.0,21.8,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,55,80.244,3.0,HARD,36.0,False,1,True,False,False,9.0,21.8,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,56,79.176,3.0,HARD,37.0,False,1,True,False,False,9.0,21.7,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,57,80.045,3.0,HARD,38.0,False,1,True,False,False,11.0,21.9,41.7,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,58,78.757,3.0,HARD,39.0,False,1,True,False,False,11.0,21.9,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,59,78.143,3.0,HARD,40.0,False,1,True,False,False,11.0,22.0,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,60,79.322,3.0,HARD,41.0,False,1,True,False,False,12.0,22.1,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,61,78.412,3.0,HARD,42.0,False,1,True,False,False,12.0,22.1,42.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,62,78.203,3.0,HARD,43.0,False,1,True,False,False,12.0,22.2,42.2,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,63,77.956,3.0,HARD,44.0,False,1,True,False,False,12.0,22.1,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,64,78.074,3.0,HARD,45.0,False,1,True,False,False,12.0,22.1,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,65,78.322,3.0,HARD,46.0,False,1,True,False,False,12.0,22.2,41.9,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,66,78.482,3.0,HARD,47.0,False,1,True,False,False,12.0,22.1,42.1,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,67,78.511,3.0,HARD,48.0,False,1,True,False,False,12.0,22.0,41.6,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,68,78.463,3.0,HARD,49.0,False,1,True,False,False,12.0,22.1,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,69,78.301,3.0,HARD,50.0,False,1,True,False,False,12.0,22.1,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,VET,Aston Martin,70,78.734,3.0,HARD,51.0,False,1,True,False,False,12.0,22.3,41.8,False,16.0,12.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,1,85.16,1.0,MEDIUM,1.0,True,1,False,False,False,3.0,20.2,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,2,79.339,1.0,MEDIUM,2.0,True,1,True,False,False,3.0,20.5,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,3,79.147,1.0,MEDIUM,3.0,True,1,True,False,False,2.0,20.5,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,4,79.086,1.0,MEDIUM,4.0,True,1,True,False,False,2.0,20.6,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,5,78.214,1.0,MEDIUM,5.0,True,1,True,False,False,2.0,20.7,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,6,77.974,1.0,MEDIUM,6.0,True,1,True,False,False,2.0,20.6,41.3,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,7,77.963,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,20.7,41.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,8,77.466,1.0,MEDIUM,8.0,True,12,True,False,False,2.0,20.6,41.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,9,102.472,1.0,MEDIUM,9.0,True,26,False,False,False,1.0,20.5,41.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,10,105.981,1.0,MEDIUM,10.0,True,671,False,False,False,1.0,20.8,41.6,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,11,77.654,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,20.9,41.5,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,12,77.48,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,20.9,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,13,77.675,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,21.0,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,14,78.361,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,21.2,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,15,78.073,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,21.3,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,16,77.764,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,21.2,41.6,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,17,77.706,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,21.4,41.6,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,18,77.851,1.0,MEDIUM,18.0,True,1,True,False,False,1.0,21.4,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,19,77.765,1.0,MEDIUM,19.0,True,12,True,False,False,1.0,21.4,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,20,119.333,1.0,MEDIUM,20.0,True,2671,False,True,False,3.0,21.3,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,21,80.548,2.0,HARD,1.0,True,1,False,False,True,3.0,21.3,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,22,77.533,2.0,HARD,2.0,True,1,True,False,False,2.0,21.2,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,23,77.564,2.0,HARD,3.0,True,1,True,False,False,2.0,21.0,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,24,77.534,2.0,HARD,4.0,True,1,True,False,False,2.0,21.0,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,25,77.458,2.0,HARD,5.0,True,1,True,False,False,2.0,21.1,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,26,77.21,2.0,HARD,6.0,True,1,True,False,False,2.0,21.1,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,27,77.351,2.0,HARD,7.0,True,1,True,False,False,2.0,21.2,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,28,77.258,2.0,HARD,8.0,True,1,True,False,False,2.0,21.4,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,29,77.343,2.0,HARD,9.0,True,1,True,False,False,2.0,21.2,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,30,77.311,2.0,HARD,10.0,True,1,True,False,False,2.0,21.1,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,31,77.533,2.0,HARD,11.0,True,1,True,False,False,2.0,21.2,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,32,77.675,2.0,HARD,12.0,True,1,True,False,False,2.0,21.2,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,33,77.666,2.0,HARD,13.0,True,1,True,False,False,2.0,21.3,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,34,77.707,2.0,HARD,14.0,True,1,True,False,False,2.0,21.3,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,35,77.474,2.0,HARD,15.0,True,1,True,False,False,2.0,21.6,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,36,77.298,2.0,HARD,16.0,True,1,True,False,False,2.0,21.6,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,37,77.673,2.0,HARD,17.0,True,1,True,False,False,2.0,21.6,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,38,77.38,2.0,HARD,18.0,True,1,True,False,False,2.0,21.6,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,39,77.5,2.0,HARD,19.0,True,1,True,False,False,2.0,21.7,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,40,77.362,2.0,HARD,20.0,True,1,True,False,False,2.0,21.7,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,41,77.847,2.0,HARD,21.0,True,1,True,False,False,2.0,21.8,42.0,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,42,78.352,2.0,HARD,22.0,True,1,True,False,False,2.0,22.0,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,43,77.972,2.0,HARD,23.0,True,1,True,False,False,1.0,22.0,42.4,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,44,78.224,2.0,HARD,24.0,True,1,True,False,False,1.0,22.0,42.4,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,45,77.892,2.0,HARD,25.0,True,1,True,False,False,1.0,21.9,42.4,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,46,77.832,2.0,HARD,26.0,True,1,True,False,False,1.0,21.8,42.4,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,47,77.451,2.0,HARD,27.0,True,1,True,False,False,1.0,21.8,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,48,77.508,2.0,HARD,28.0,True,1,True,False,False,1.0,21.8,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,49,96.178,2.0,HARD,29.0,True,124,False,True,False,2.0,21.8,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,50,116.554,3.0,HARD,1.0,True,4,False,False,True,2.0,21.7,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,51,120.701,3.0,HARD,2.0,True,4,False,False,False,2.0,21.8,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,52,127.534,3.0,HARD,3.0,True,4,False,False,False,2.0,21.7,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,53,124.253,3.0,HARD,4.0,True,4,False,False,False,2.0,21.9,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,54,140.583,3.0,HARD,5.0,True,41,False,False,False,2.0,21.8,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,55,77.59,3.0,HARD,6.0,True,1,True,False,False,2.0,21.8,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,56,76.287,3.0,HARD,7.0,True,1,True,False,False,2.0,21.7,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,57,75.897,3.0,HARD,8.0,True,1,True,False,False,2.0,21.9,41.7,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,58,76.422,3.0,HARD,9.0,True,1,True,False,False,2.0,21.9,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,59,75.998,3.0,HARD,10.0,True,1,True,False,False,2.0,22.0,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,60,76.159,3.0,HARD,11.0,True,1,True,False,False,2.0,22.1,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,61,76.033,3.0,HARD,12.0,True,1,True,False,False,2.0,22.1,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,62,76.397,3.0,HARD,13.0,True,1,True,False,False,2.0,22.2,42.2,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,63,75.749,3.0,HARD,14.0,True,1,True,False,False,2.0,22.2,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,64,75.94,3.0,HARD,15.0,True,1,True,False,False,2.0,22.1,41.6,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,65,75.962,3.0,HARD,16.0,True,1,True,False,False,2.0,22.2,41.9,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,66,75.992,3.0,HARD,17.0,True,1,True,False,False,2.0,22.1,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,67,76.051,3.0,HARD,18.0,True,1,True,False,False,2.0,22.0,42.1,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,68,76.268,3.0,HARD,19.0,True,1,True,False,False,2.0,22.0,41.6,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,69,75.84,3.0,HARD,20.0,True,1,True,False,False,2.0,22.1,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,SAI,Ferrari,70,76.442,3.0,HARD,21.0,True,1,True,False,False,2.0,22.3,41.8,False,3.0,2.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,1,95.457,1.0,MEDIUM,1.0,True,1,False,False,False,20.0,20.2,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,2,82.432,1.0,MEDIUM,2.0,True,1,True,False,False,20.0,20.5,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,3,81.123,1.0,MEDIUM,3.0,True,1,True,False,False,20.0,20.5,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,4,80.61,1.0,MEDIUM,4.0,True,1,True,False,False,20.0,20.6,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,5,80.483,1.0,MEDIUM,5.0,True,1,True,False,False,18.0,20.6,41.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,6,80.257,1.0,MEDIUM,6.0,True,1,True,False,False,18.0,20.6,41.3,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,7,81.099,1.0,MEDIUM,7.0,True,1,True,False,False,17.0,20.7,41.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,8,85.144,1.0,MEDIUM,8.0,True,126,False,False,False,16.0,20.5,41.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,9,121.354,1.0,MEDIUM,9.0,True,6,False,True,False,18.0,20.7,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,10,93.955,2.0,HARD,1.0,True,671,False,False,True,18.0,20.9,41.5,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,11,80.548,2.0,HARD,2.0,True,1,True,False,False,18.0,20.9,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,12,79.765,2.0,HARD,3.0,True,1,True,False,False,18.0,20.9,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,13,79.429,2.0,HARD,4.0,True,1,True,False,False,18.0,21.0,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,14,79.934,2.0,HARD,5.0,True,1,True,False,False,18.0,21.3,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,15,80.591,2.0,HARD,6.0,True,1,True,False,False,19.0,21.2,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,16,80.172,2.0,HARD,7.0,True,1,True,False,False,19.0,21.3,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,17,79.952,2.0,HARD,8.0,True,1,True,False,False,19.0,21.4,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,18,79.869,2.0,HARD,9.0,True,1,True,False,False,19.0,21.4,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,19,98.027,2.0,HARD,10.0,True,126,False,False,False,17.0,21.3,42.1,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,20,89.388,2.0,HARD,11.0,True,671,False,False,False,17.0,21.3,42.5,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,21,80.283,2.0,HARD,12.0,True,1,True,False,False,18.0,21.3,42.1,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,22,80.347,2.0,HARD,13.0,True,1,True,False,False,18.0,21.0,42.1,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,23,79.941,2.0,HARD,14.0,True,1,True,False,False,18.0,20.9,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,24,79.553,2.0,HARD,15.0,True,1,True,False,False,18.0,21.0,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,25,79.629,2.0,HARD,16.0,True,1,True,False,False,18.0,21.1,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,26,79.806,2.0,HARD,17.0,True,1,True,False,False,18.0,21.2,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,27,79.796,2.0,HARD,18.0,True,1,True,False,False,18.0,21.4,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,28,79.897,2.0,HARD,19.0,True,1,True,False,False,18.0,21.2,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,29,80.247,2.0,HARD,20.0,True,1,True,False,False,18.0,21.1,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,30,81.537,2.0,HARD,21.0,True,1,True,False,False,18.0,21.2,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,31,80.673,2.0,HARD,22.0,True,1,True,False,False,18.0,21.2,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,32,80.264,2.0,HARD,23.0,True,1,True,False,False,18.0,21.3,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,33,81.802,2.0,HARD,24.0,True,1,True,False,False,18.0,21.3,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,34,80.124,2.0,HARD,25.0,True,1,True,False,False,18.0,21.6,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,35,82.06,2.0,HARD,26.0,True,1,True,False,False,18.0,21.6,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,36,80.185,2.0,HARD,27.0,True,1,True,False,False,18.0,21.6,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,37,101.659,2.0,HARD,28.0,True,1,False,True,False,18.0,21.6,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,38,86.728,3.0,HARD,1.0,True,1,False,False,True,18.0,21.7,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,39,79.052,3.0,HARD,2.0,True,1,True,False,False,18.0,21.8,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,40,78.779,3.0,HARD,3.0,True,1,True,False,False,18.0,21.9,42.1,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,41,78.738,3.0,HARD,4.0,True,1,True,False,False,18.0,22.0,42.4,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,42,79.142,3.0,HARD,5.0,True,1,True,False,False,18.0,22.0,42.4,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,43,79.242,3.0,HARD,6.0,True,1,True,False,False,18.0,22.1,42.4,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,44,78.899,3.0,HARD,7.0,True,1,True,False,False,18.0,21.8,42.4,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,45,79.122,3.0,HARD,8.0,True,1,True,False,False,18.0,21.8,42.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,46,78.928,3.0,HARD,9.0,True,1,True,False,False,18.0,21.9,42.0,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,47,81.585,3.0,HARD,10.0,True,12,True,False,False,18.0,21.8,42.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,48,107.404,3.0,HARD,11.0,True,24,False,False,False,17.0,21.7,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,49,108.482,3.0,HARD,12.0,True,4,False,False,False,17.0,21.8,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,50,84.575,3.0,HARD,13.0,True,4,False,False,False,17.0,21.8,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,51,113.29,3.0,HARD,14.0,True,4,False,False,False,17.0,21.7,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,52,86.995,3.0,HARD,15.0,True,4,False,False,False,17.0,21.9,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,53,80.65,3.0,HARD,16.0,True,4,False,False,False,17.0,21.9,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,54,91.819,3.0,HARD,17.0,True,41,False,False,False,17.0,21.6,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,55,80.631,3.0,HARD,18.0,True,1,True,False,False,17.0,21.8,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,56,80.07,3.0,HARD,19.0,True,1,True,False,False,17.0,21.7,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,57,80.057,3.0,HARD,20.0,True,1,True,False,False,17.0,21.9,41.7,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,58,79.926,3.0,HARD,21.0,True,1,True,False,False,17.0,21.9,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,59,79.477,3.0,HARD,22.0,True,1,True,False,False,16.0,22.0,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,60,79.514,3.0,HARD,23.0,True,1,True,False,False,16.0,22.1,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,61,78.54,3.0,HARD,24.0,True,1,True,False,False,16.0,22.1,42.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,62,79.143,3.0,HARD,25.0,True,1,True,False,False,16.0,22.2,42.2,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,63,79.066,3.0,HARD,26.0,True,1,True,False,False,16.0,22.1,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,64,78.823,3.0,HARD,27.0,True,1,True,False,False,16.0,22.1,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,65,79.143,3.0,HARD,28.0,True,1,True,False,False,16.0,22.2,41.9,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,66,79.156,3.0,HARD,29.0,True,1,True,False,False,16.0,22.0,42.1,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,67,79.159,3.0,HARD,30.0,True,1,True,False,False,16.0,22.0,41.6,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,68,79.249,3.0,HARD,31.0,True,1,True,False,False,16.0,22.1,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,69,79.483,3.0,HARD,32.0,True,1,True,False,False,16.0,22.3,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,LAT,Williams,70,79.476,3.0,HARD,33.0,True,1,True,False,False,16.0,22.3,41.8,False,18.0,16.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,1,88.761,1.0,MEDIUM,1.0,True,1,False,False,False,7.0,20.2,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,2,80.352,1.0,MEDIUM,2.0,True,1,True,False,False,7.0,20.5,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,3,79.238,1.0,MEDIUM,3.0,True,1,True,False,False,6.0,20.5,42.0,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,4,79.154,1.0,MEDIUM,4.0,True,1,True,False,False,6.0,20.6,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,5,78.867,1.0,MEDIUM,5.0,True,1,True,False,False,5.0,20.7,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,6,79.419,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,20.6,41.3,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,7,78.53,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,20.7,41.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,8,78.987,1.0,MEDIUM,8.0,True,12,True,False,False,5.0,20.6,41.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,9,104.714,1.0,MEDIUM,9.0,True,26,False,False,False,4.0,20.7,41.6,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,10,104.903,1.0,MEDIUM,10.0,True,671,False,False,False,4.0,20.8,41.6,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,11,78.951,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,20.9,41.5,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,12,78.261,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,20.9,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,13,78.052,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,21.0,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,14,77.773,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,21.2,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,15,78.125,1.0,MEDIUM,15.0,True,1,True,False,False,4.0,21.3,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,16,78.019,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,21.3,41.6,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,17,78.152,1.0,MEDIUM,17.0,True,1,True,False,False,4.0,21.4,41.6,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,18,77.873,1.0,MEDIUM,18.0,True,1,True,False,False,4.0,21.4,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,19,94.337,1.0,MEDIUM,19.0,True,126,False,True,False,5.0,21.3,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,20,102.984,2.0,HARD,1.0,True,671,False,False,True,5.0,21.3,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,21,78.708,2.0,HARD,2.0,True,1,True,False,False,5.0,21.3,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,22,78.52,2.0,HARD,3.0,True,1,True,False,False,5.0,21.2,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,23,78.129,2.0,HARD,4.0,True,1,True,False,False,5.0,21.0,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,24,77.735,2.0,HARD,5.0,True,1,True,False,False,5.0,21.0,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,25,77.795,2.0,HARD,6.0,True,1,True,False,False,5.0,21.1,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,26,77.895,2.0,HARD,7.0,True,1,True,False,False,5.0,21.1,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,27,78.234,2.0,HARD,8.0,True,1,True,False,False,5.0,21.4,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,28,78.137,2.0,HARD,9.0,True,1,True,False,False,4.0,21.4,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,29,77.955,2.0,HARD,10.0,True,1,True,False,False,4.0,21.2,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,30,77.955,2.0,HARD,11.0,True,1,True,False,False,4.0,21.2,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,31,78.398,2.0,HARD,12.0,True,1,True,False,False,4.0,21.2,42.0,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,32,77.915,2.0,HARD,13.0,True,1,True,False,False,4.0,21.2,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,33,77.891,2.0,HARD,14.0,True,1,True,False,False,4.0,21.3,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,34,77.945,2.0,HARD,15.0,True,1,True,False,False,4.0,21.5,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,35,77.836,2.0,HARD,16.0,True,1,True,False,False,4.0,21.6,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,36,77.671,2.0,HARD,17.0,True,1,True,False,False,4.0,21.6,42.0,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,37,77.649,2.0,HARD,18.0,True,1,True,False,False,4.0,21.6,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,38,77.565,2.0,HARD,19.0,True,1,True,False,False,4.0,21.6,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,39,77.786,2.0,HARD,20.0,True,1,True,False,False,4.0,21.7,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,40,77.4,2.0,HARD,21.0,True,1,True,False,False,4.0,21.8,42.0,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,41,77.389,2.0,HARD,22.0,True,1,True,False,False,4.0,21.9,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,42,77.968,2.0,HARD,23.0,True,1,True,False,False,4.0,22.0,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,43,77.676,2.0,HARD,24.0,True,1,True,False,False,4.0,22.0,42.4,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,44,77.709,2.0,HARD,25.0,True,1,True,False,False,3.0,22.1,42.4,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,45,93.94,2.0,HARD,26.0,True,1,False,True,False,4.0,21.9,42.4,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,46,80.579,3.0,HARD,1.0,True,1,False,False,True,4.0,21.8,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,47,77.284,3.0,HARD,2.0,True,1,True,False,False,4.0,21.9,42.0,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,48,77.056,3.0,HARD,3.0,True,12,True,False,False,4.0,21.8,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,49,96.724,3.0,HARD,4.0,True,24,False,False,False,4.0,21.8,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,50,109.147,3.0,HARD,5.0,True,4,False,False,False,4.0,21.7,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,51,102.764,3.0,HARD,6.0,True,4,False,False,False,4.0,21.8,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,52,125.748,3.0,HARD,7.0,True,4,False,False,False,4.0,21.7,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,53,116.346,3.0,HARD,8.0,True,4,False,False,False,4.0,21.9,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,54,139.907,3.0,HARD,9.0,True,41,False,False,False,4.0,21.8,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,55,78.629,3.0,HARD,10.0,True,1,True,False,False,4.0,21.8,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,56,76.899,3.0,HARD,11.0,True,1,True,False,False,4.0,21.7,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,57,76.793,3.0,HARD,12.0,True,1,True,False,False,4.0,21.9,41.7,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,58,76.854,3.0,HARD,13.0,True,1,True,False,False,4.0,21.9,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,59,76.882,3.0,HARD,14.0,True,1,True,False,False,4.0,22.0,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,60,76.655,3.0,HARD,15.0,True,1,True,False,False,4.0,22.1,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,61,76.672,3.0,HARD,16.0,True,1,True,False,False,4.0,22.1,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,62,76.865,3.0,HARD,17.0,True,1,True,False,False,4.0,22.2,42.2,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,63,76.418,3.0,HARD,18.0,True,1,True,False,False,4.0,22.2,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,64,76.468,3.0,HARD,19.0,True,1,True,False,False,4.0,22.1,41.6,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,65,76.487,3.0,HARD,20.0,True,1,True,False,False,4.0,22.2,41.9,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,66,76.648,3.0,HARD,21.0,True,1,True,False,False,4.0,22.1,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,67,76.578,3.0,HARD,22.0,True,1,True,False,False,4.0,22.0,42.1,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,68,76.88,3.0,HARD,23.0,True,1,True,False,False,4.0,22.1,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,69,76.749,3.0,HARD,24.0,True,1,True,False,False,4.0,22.1,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,RUS,Mercedes,70,76.785,3.0,HARD,25.0,True,1,True,False,False,4.0,22.3,41.8,False,8.0,4.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,1,91.719,1.0,HARD,1.0,True,1,False,False,False,13.0,20.2,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,2,81.92,1.0,HARD,2.0,True,1,True,False,False,13.0,20.5,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,3,80.082,1.0,HARD,3.0,True,1,True,False,False,13.0,20.5,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,4,79.433,1.0,HARD,4.0,True,1,True,False,False,13.0,20.6,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,5,79.942,1.0,HARD,5.0,True,1,True,False,False,13.0,20.7,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,6,79.262,1.0,HARD,6.0,True,1,True,False,False,13.0,20.6,41.3,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,7,79.998,1.0,HARD,7.0,True,1,True,False,False,12.0,20.7,41.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,8,79.512,1.0,HARD,8.0,True,12,True,False,False,11.0,20.6,41.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,9,108.885,1.0,HARD,9.0,True,26,False,False,False,11.0,20.7,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,10,99.626,1.0,HARD,10.0,True,671,False,False,False,11.0,20.9,41.5,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,11,79.51,1.0,HARD,11.0,True,1,True,False,False,11.0,20.9,41.5,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,12,79.355,1.0,HARD,12.0,True,1,True,False,False,11.0,20.9,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,13,79.584,1.0,HARD,13.0,True,1,True,False,False,11.0,21.0,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,14,79.661,1.0,HARD,14.0,True,1,True,False,False,11.0,21.2,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,15,79.506,1.0,HARD,15.0,True,1,True,False,False,11.0,21.2,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,16,80.545,1.0,HARD,16.0,True,1,True,False,False,11.0,21.3,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,17,79.765,1.0,HARD,17.0,True,1,True,False,False,10.0,21.4,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,18,79.258,1.0,HARD,18.0,True,1,True,False,False,10.0,21.4,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,19,88.829,1.0,HARD,19.0,True,126,False,False,False,6.0,21.3,42.1,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,20,100.06,1.0,HARD,20.0,True,671,False,False,False,7.0,21.3,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,21,80.584,1.0,HARD,21.0,True,1,True,False,False,8.0,21.3,42.1,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,22,80.11,1.0,HARD,22.0,True,1,True,False,False,8.0,21.2,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,23,79.214,1.0,HARD,23.0,True,1,True,False,False,8.0,20.9,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,24,78.935,1.0,HARD,24.0,True,1,True,False,False,8.0,21.0,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,25,78.67,1.0,HARD,25.0,True,1,True,False,False,8.0,21.1,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,26,78.744,1.0,HARD,26.0,True,1,True,False,False,8.0,21.2,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,27,78.902,1.0,HARD,27.0,True,1,True,False,False,8.0,21.4,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,28,78.831,1.0,HARD,28.0,True,1,True,False,False,8.0,21.4,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,29,78.921,1.0,HARD,29.0,True,1,True,False,False,8.0,21.1,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,30,79.042,1.0,HARD,30.0,True,1,True,False,False,8.0,21.2,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,31,78.948,1.0,HARD,31.0,True,1,True,False,False,8.0,21.2,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,32,78.992,1.0,HARD,32.0,True,1,True,False,False,8.0,21.3,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,33,78.725,1.0,HARD,33.0,True,1,True,False,False,8.0,21.3,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,34,78.86,1.0,HARD,34.0,True,1,True,False,False,8.0,21.5,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,35,78.793,1.0,HARD,35.0,True,1,True,False,False,8.0,21.6,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,36,79.016,1.0,HARD,36.0,True,1,True,False,False,8.0,21.6,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,37,78.861,1.0,HARD,37.0,True,1,True,False,False,8.0,21.6,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,38,78.732,1.0,HARD,38.0,True,1,True,False,False,8.0,21.6,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,39,78.75,1.0,HARD,39.0,True,1,True,False,False,8.0,21.7,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,40,78.503,1.0,HARD,40.0,True,1,True,False,False,8.0,21.8,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,41,78.691,1.0,HARD,41.0,True,1,True,False,False,7.0,21.9,42.1,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,42,78.815,1.0,HARD,42.0,True,1,True,False,False,7.0,22.0,42.4,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,43,78.749,1.0,HARD,43.0,True,1,True,False,False,7.0,22.0,42.4,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,44,78.668,1.0,HARD,44.0,True,1,True,False,False,7.0,22.1,42.4,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,45,78.828,1.0,HARD,45.0,True,1,True,False,False,7.0,21.8,42.4,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,46,78.489,1.0,HARD,46.0,True,1,True,False,False,7.0,21.8,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,47,78.796,1.0,HARD,47.0,True,1,True,False,False,7.0,21.9,42.0,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,48,79.152,1.0,HARD,48.0,True,12,True,False,False,7.0,21.8,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,49,124.303,1.0,HARD,49.0,True,24,False,True,False,8.0,21.7,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,50,109.499,2.0,MEDIUM,1.0,True,4,False,False,True,8.0,21.8,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,51,89.565,2.0,MEDIUM,2.0,True,4,False,False,False,8.0,21.7,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,52,96.8,2.0,MEDIUM,3.0,True,4,False,False,False,8.0,21.7,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,53,113.577,2.0,MEDIUM,4.0,True,4,False,False,False,8.0,21.9,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,54,135.927,2.0,MEDIUM,5.0,True,41,False,False,False,8.0,21.8,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,55,79.561,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,21.8,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,56,78.145,2.0,MEDIUM,7.0,True,1,True,False,False,8.0,21.7,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,57,77.783,2.0,MEDIUM,8.0,True,1,True,False,False,8.0,21.9,41.7,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,58,77.359,2.0,MEDIUM,9.0,True,1,True,False,False,8.0,21.9,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,59,77.069,2.0,MEDIUM,10.0,True,1,True,False,False,8.0,22.0,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,60,76.927,2.0,MEDIUM,11.0,True,1,True,False,False,8.0,22.1,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,61,77.349,2.0,MEDIUM,12.0,True,1,True,False,False,8.0,22.1,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,62,77.431,2.0,MEDIUM,13.0,True,1,True,False,False,8.0,22.2,42.2,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,63,76.986,2.0,MEDIUM,14.0,True,1,True,False,False,8.0,22.2,42.1,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,64,77.054,2.0,MEDIUM,15.0,True,1,True,False,False,8.0,22.1,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,65,77.257,2.0,MEDIUM,16.0,True,1,True,False,False,8.0,22.2,41.9,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,66,77.246,2.0,MEDIUM,17.0,True,1,True,False,False,8.0,22.1,42.1,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,67,77.57,2.0,MEDIUM,18.0,True,1,True,False,False,8.0,22.0,41.6,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,68,77.557,2.0,MEDIUM,19.0,True,1,True,False,False,8.0,22.1,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,69,77.289,2.0,MEDIUM,20.0,True,1,True,False,False,8.0,22.1,41.8,False,11.0,7.0
+2022,9,Canadian Grand Prix,Montréal,70,BOT,Alfa Romeo,70,77.977,2.0,MEDIUM,21.0,True,1,True,False,False,8.0,22.3,41.8,False,11.0,7.0

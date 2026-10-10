@@ -1,0 +1,5 @@
+target,closed_loop_rmse,open_loop_rmse,reference_loo_rmse
+cl_total,0.017613504,0.0176070333,0.0114477835
+cd_total,0.0,0.0,0.0
+cop_shift,0.0003690339,0.0003690339,0.0014064888
+energy_drain_kw,1.1645873405,1.1548355401,0.6064659084

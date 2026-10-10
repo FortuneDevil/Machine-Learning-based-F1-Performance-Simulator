@@ -1,0 +1,880 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,1,185.558,1.0,INTERMEDIATE,1.0,True,14,False,False,True,2.0,17.5,26.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,2.0,17.7,24.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,2.0,17.6,24.9,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,2.0,17.4,24.4,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,5,119.092,1.0,INTERMEDIATE,5.0,True,1,True,False,False,1.0,17.4,24.9,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,6,119.215,1.0,INTERMEDIATE,6.0,True,1,True,False,False,1.0,17.4,25.6,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,7,119.768,1.0,INTERMEDIATE,7.0,True,1,True,False,False,1.0,17.4,25.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,8,120.611,1.0,INTERMEDIATE,8.0,True,1,True,False,False,1.0,17.5,25.5,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,9,121.409,1.0,INTERMEDIATE,9.0,True,1,True,False,False,1.0,17.5,25.5,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,10,122.104,1.0,INTERMEDIATE,10.0,True,1,True,False,False,1.0,17.5,25.9,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,11,121.466,1.0,INTERMEDIATE,11.0,True,1,True,False,False,1.0,17.5,25.9,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,12,126.019,1.0,INTERMEDIATE,12.0,True,1,False,True,False,2.0,17.6,25.4,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,13,130.324,2.0,MEDIUM,1.0,True,1,False,False,True,2.0,17.6,25.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,14,110.884,2.0,MEDIUM,2.0,True,1,True,False,False,1.0,17.5,26.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,15,109.089,2.0,MEDIUM,3.0,True,1,True,False,False,1.0,17.4,26.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,16,107.694,2.0,MEDIUM,4.0,True,1,True,False,False,1.0,17.5,25.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,17,107.251,2.0,MEDIUM,5.0,True,1,True,False,False,1.0,17.6,26.3,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,18,107.032,2.0,MEDIUM,6.0,True,1,True,False,False,1.0,17.8,26.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,19,106.762,2.0,MEDIUM,7.0,True,1,True,False,False,1.0,17.9,26.2,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,20,106.79,2.0,MEDIUM,8.0,True,1,True,False,False,1.0,17.9,26.2,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,21,106.486,2.0,MEDIUM,9.0,True,1,True,False,False,1.0,17.8,26.4,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,22,106.3,2.0,MEDIUM,10.0,True,1,True,False,False,1.0,17.9,25.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,23,106.433,2.0,MEDIUM,11.0,True,1,True,False,False,1.0,18.0,26.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,24,106.474,2.0,MEDIUM,12.0,True,1,True,False,False,1.0,18.0,25.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,25,106.415,2.0,MEDIUM,13.0,True,1,True,False,False,1.0,18.0,24.7,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,26,106.407,2.0,MEDIUM,14.0,True,1,True,False,False,1.0,17.7,24.5,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,27,106.243,2.0,MEDIUM,15.0,True,1,True,False,False,1.0,17.5,24.2,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,28,106.462,2.0,MEDIUM,16.0,True,1,True,False,False,1.0,17.5,24.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,29,106.171,2.0,MEDIUM,17.0,True,1,True,False,False,1.0,17.5,24.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,30,106.205,2.0,MEDIUM,18.0,True,1,True,False,False,1.0,17.5,24.7,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,31,106.242,2.0,MEDIUM,19.0,True,1,True,False,False,1.0,17.6,24.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,32,106.358,2.0,MEDIUM,20.0,True,1,True,False,False,1.0,17.5,24.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,33,106.663,2.0,MEDIUM,21.0,True,1,True,False,False,1.0,17.5,23.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,34,106.358,2.0,MEDIUM,22.0,True,1,True,False,False,1.0,17.5,23.8,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,35,106.444,2.0,MEDIUM,23.0,True,1,True,False,False,1.0,17.5,23.5,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,36,106.577,2.0,MEDIUM,24.0,True,1,True,False,False,1.0,17.4,23.6,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,37,106.483,2.0,MEDIUM,25.0,True,1,True,False,False,1.0,17.3,23.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,38,106.347,2.0,MEDIUM,26.0,True,1,True,False,False,1.0,17.2,23.1,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,39,106.498,2.0,MEDIUM,27.0,True,1,True,False,False,1.0,17.1,23.0,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,40,106.326,2.0,MEDIUM,28.0,True,1,True,False,False,1.0,17.1,22.9,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,41,106.144,2.0,MEDIUM,29.0,True,1,True,False,False,1.0,17.1,22.4,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,42,105.933,2.0,MEDIUM,30.0,True,1,True,False,False,1.0,17.1,22.4,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,43,105.706,2.0,MEDIUM,31.0,True,1,True,False,False,1.0,17.0,22.5,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,PIA,McLaren,44,107.821,2.0,MEDIUM,32.0,True,1,True,False,False,1.0,16.9,22.3,False,2.0,1.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,1,184.619,1.0,INTERMEDIATE,1.0,True,14,False,False,True,1.0,17.5,26.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,1.0,17.6,25.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,1.0,17.6,24.9,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,1.0,17.4,24.4,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,5,120.568,1.0,INTERMEDIATE,5.0,True,1,True,False,False,2.0,17.4,24.9,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,6,119.136,1.0,INTERMEDIATE,6.0,True,1,True,False,False,2.0,17.4,25.6,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,7,119.859,1.0,INTERMEDIATE,7.0,True,1,True,False,False,2.0,17.4,25.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,8,120.747,1.0,INTERMEDIATE,8.0,True,1,True,False,False,2.0,17.5,25.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,9,121.841,1.0,INTERMEDIATE,9.0,True,1,True,False,False,2.0,17.5,25.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,10,122.285,1.0,INTERMEDIATE,10.0,True,1,True,False,False,2.0,17.5,25.9,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,11,121.576,1.0,INTERMEDIATE,11.0,True,1,True,False,False,2.0,17.5,25.9,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,12,120.458,1.0,INTERMEDIATE,12.0,True,1,True,False,False,1.0,17.6,25.4,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,13,122.962,1.0,INTERMEDIATE,13.0,True,1,False,True,False,1.0,17.6,25.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,14,130.916,2.0,HARD,1.0,True,1,False,False,True,2.0,17.5,25.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,15,108.961,2.0,HARD,2.0,True,1,True,False,False,2.0,17.5,25.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,16,107.849,2.0,HARD,3.0,True,1,True,False,False,2.0,17.5,25.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,17,106.917,2.0,HARD,4.0,True,1,True,False,False,2.0,17.6,26.3,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,18,106.865,2.0,HARD,5.0,True,1,True,False,False,2.0,17.8,26.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,19,106.344,2.0,HARD,6.0,True,1,True,False,False,2.0,17.9,26.2,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,20,106.664,2.0,HARD,7.0,True,1,True,False,False,2.0,17.9,26.3,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,21,106.544,2.0,HARD,8.0,True,1,True,False,False,2.0,17.8,26.4,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,22,106.44,2.0,HARD,9.0,True,1,True,False,False,2.0,17.9,25.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,23,106.534,2.0,HARD,10.0,True,1,True,False,False,2.0,18.0,26.0,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,24,106.193,2.0,HARD,11.0,True,1,True,False,False,2.0,18.0,25.0,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,25,106.199,2.0,HARD,12.0,True,1,True,False,False,2.0,18.0,24.7,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,26,107.66,2.0,HARD,13.0,True,1,True,False,False,2.0,17.7,24.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,27,106.389,2.0,HARD,14.0,True,1,True,False,False,2.0,17.5,24.2,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,28,105.965,2.0,HARD,15.0,True,1,True,False,False,2.0,17.5,24.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,29,106.0,2.0,HARD,16.0,True,1,True,False,False,2.0,17.5,24.2,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,30,105.889,2.0,HARD,17.0,True,1,True,False,False,2.0,17.5,24.7,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,31,106.131,2.0,HARD,18.0,True,1,True,False,False,2.0,17.6,24.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,32,105.964,2.0,HARD,19.0,True,1,True,False,False,2.0,17.5,24.0,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,33,106.097,2.0,HARD,20.0,True,1,True,False,False,2.0,17.5,23.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,34,107.12,2.0,HARD,21.0,True,1,True,False,False,2.0,17.5,23.8,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,35,105.975,2.0,HARD,22.0,True,1,True,False,False,2.0,17.5,23.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,36,105.974,2.0,HARD,23.0,True,1,True,False,False,2.0,17.4,23.6,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,37,105.789,2.0,HARD,24.0,True,1,True,False,False,2.0,17.3,23.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,38,105.686,2.0,HARD,25.0,True,1,True,False,False,2.0,17.2,23.1,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,39,105.674,2.0,HARD,26.0,True,1,True,False,False,2.0,17.1,23.0,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,40,105.988,2.0,HARD,27.0,True,1,True,False,False,2.0,17.1,22.9,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,41,105.544,2.0,HARD,28.0,True,1,True,False,False,2.0,17.1,22.4,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,42,105.257,2.0,HARD,29.0,True,1,True,False,False,2.0,17.1,22.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,43,107.721,2.0,HARD,30.0,True,1,True,False,False,2.0,17.0,22.5,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,NOR,McLaren,44,106.09,2.0,HARD,31.0,True,1,True,False,False,2.0,16.9,22.3,False,1.0,2.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,1,188.456,1.0,INTERMEDIATE,1.0,True,14,False,False,True,3.0,17.5,26.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,3.0,17.7,24.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,3.0,17.6,24.9,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,3.0,17.4,24.4,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,5,120.463,1.0,INTERMEDIATE,5.0,True,1,True,False,False,3.0,17.4,24.9,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,6,120.142,1.0,INTERMEDIATE,6.0,True,1,True,False,False,3.0,17.4,25.6,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,7,120.554,1.0,INTERMEDIATE,7.0,True,1,True,False,False,3.0,17.4,25.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,8,121.82,1.0,INTERMEDIATE,8.0,True,1,True,False,False,3.0,17.5,25.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,9,123.71,1.0,INTERMEDIATE,9.0,True,1,True,False,False,3.0,17.5,25.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,10,124.208,1.0,INTERMEDIATE,10.0,True,1,True,False,False,3.0,17.5,25.9,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,11,122.478,1.0,INTERMEDIATE,11.0,True,1,True,False,False,3.0,17.5,25.9,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,12,125.855,1.0,INTERMEDIATE,12.0,True,1,False,True,False,3.0,17.6,25.3,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,13,136.663,2.0,MEDIUM,1.0,True,1,False,False,True,5.0,17.5,25.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,14,109.97,2.0,MEDIUM,2.0,True,1,True,False,False,3.0,17.5,26.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,15,108.193,2.0,MEDIUM,3.0,True,1,True,False,False,3.0,17.5,25.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,16,107.507,2.0,MEDIUM,4.0,True,1,True,False,False,3.0,17.5,26.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,17,107.211,2.0,MEDIUM,5.0,True,1,True,False,False,3.0,17.6,26.3,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,18,106.965,2.0,MEDIUM,6.0,True,1,True,False,False,3.0,17.8,26.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,19,106.786,2.0,MEDIUM,7.0,True,1,True,False,False,3.0,17.9,26.2,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,20,107.112,2.0,MEDIUM,8.0,True,1,True,False,False,3.0,17.9,26.3,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,21,106.995,2.0,MEDIUM,9.0,True,1,True,False,False,3.0,17.8,26.4,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,22,107.197,2.0,MEDIUM,10.0,True,1,True,False,False,3.0,17.9,25.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,23,106.662,2.0,MEDIUM,11.0,True,1,True,False,False,3.0,18.0,26.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,24,106.729,2.0,MEDIUM,12.0,True,1,True,False,False,3.0,18.0,25.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,25,106.853,2.0,MEDIUM,13.0,True,1,True,False,False,3.0,17.8,24.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,26,106.71,2.0,MEDIUM,14.0,True,1,True,False,False,3.0,17.7,24.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,27,106.591,2.0,MEDIUM,15.0,True,1,True,False,False,3.0,17.5,24.2,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,28,106.59,2.0,MEDIUM,16.0,True,1,True,False,False,3.0,17.5,24.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,29,106.657,2.0,MEDIUM,17.0,True,1,True,False,False,3.0,17.5,24.2,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,30,106.438,2.0,MEDIUM,18.0,True,1,True,False,False,3.0,17.5,24.7,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,31,106.419,2.0,MEDIUM,19.0,True,1,True,False,False,3.0,17.6,24.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,32,106.466,2.0,MEDIUM,20.0,True,1,True,False,False,3.0,17.5,24.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,33,106.531,2.0,MEDIUM,21.0,True,1,True,False,False,3.0,17.5,23.8,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,34,106.546,2.0,MEDIUM,22.0,True,1,True,False,False,3.0,17.5,23.7,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,35,106.491,2.0,MEDIUM,23.0,True,1,True,False,False,3.0,17.5,23.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,36,107.297,2.0,MEDIUM,24.0,True,1,True,False,False,3.0,17.4,23.6,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,37,106.765,2.0,MEDIUM,25.0,True,1,True,False,False,3.0,17.3,23.1,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,38,106.347,2.0,MEDIUM,26.0,True,1,True,False,False,3.0,17.1,23.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,39,106.194,2.0,MEDIUM,27.0,True,1,True,False,False,3.0,17.1,23.0,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,40,106.174,2.0,MEDIUM,28.0,True,1,True,False,False,3.0,17.1,22.9,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,41,106.184,2.0,MEDIUM,29.0,True,1,True,False,False,3.0,17.1,22.4,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,42,106.315,2.0,MEDIUM,30.0,True,1,True,False,False,3.0,17.1,22.5,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,43,106.58,2.0,MEDIUM,31.0,True,1,True,False,False,3.0,17.0,22.3,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LEC,Ferrari,44,107.204,2.0,MEDIUM,32.0,True,1,True,False,False,3.0,16.9,22.3,False,3.0,3.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,1,190.061,1.0,INTERMEDIATE,1.0,True,14,False,False,True,4.0,17.5,26.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,4.0,17.7,24.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,4.0,17.6,24.9,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,4.0,17.4,24.4,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,5,120.696,1.0,INTERMEDIATE,5.0,True,1,True,False,False,4.0,17.4,24.9,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,6,120.19,1.0,INTERMEDIATE,6.0,True,1,True,False,False,4.0,17.4,25.6,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,7,120.542,1.0,INTERMEDIATE,7.0,True,1,True,False,False,4.0,17.4,25.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,8,121.993,1.0,INTERMEDIATE,8.0,True,1,True,False,False,4.0,17.5,25.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,9,123.462,1.0,INTERMEDIATE,9.0,True,1,True,False,False,4.0,17.5,25.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,10,123.978,1.0,INTERMEDIATE,10.0,True,1,True,False,False,4.0,17.5,25.9,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,11,122.968,1.0,INTERMEDIATE,11.0,True,1,True,False,False,4.0,17.5,25.9,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,12,125.626,1.0,INTERMEDIATE,12.0,True,1,False,True,False,4.0,17.6,25.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,13,136.999,2.0,MEDIUM,1.0,True,1,False,False,True,6.0,17.5,25.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,14,110.286,2.0,MEDIUM,2.0,True,1,True,False,False,4.0,17.5,26.0,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,15,108.161,2.0,MEDIUM,3.0,True,1,True,False,False,4.0,17.5,25.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,16,107.574,2.0,MEDIUM,4.0,True,1,True,False,False,4.0,17.5,26.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,17,107.146,2.0,MEDIUM,5.0,True,1,True,False,False,4.0,17.6,26.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,18,107.868,2.0,MEDIUM,6.0,True,1,True,False,False,4.0,17.8,26.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,19,107.175,2.0,MEDIUM,7.0,True,1,True,False,False,4.0,17.9,26.2,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,20,106.868,2.0,MEDIUM,8.0,True,1,True,False,False,4.0,17.9,26.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,21,107.072,2.0,MEDIUM,9.0,True,1,True,False,False,4.0,17.9,26.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,22,107.124,2.0,MEDIUM,10.0,True,1,True,False,False,4.0,17.9,25.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,23,106.867,2.0,MEDIUM,11.0,True,1,True,False,False,4.0,18.0,26.0,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,24,106.823,2.0,MEDIUM,12.0,True,1,True,False,False,4.0,18.0,25.0,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,25,106.648,2.0,MEDIUM,13.0,True,1,True,False,False,4.0,17.8,24.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,26,106.713,2.0,MEDIUM,14.0,True,1,True,False,False,4.0,17.7,24.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,27,106.523,2.0,MEDIUM,15.0,True,1,True,False,False,4.0,17.5,24.2,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,28,106.644,2.0,MEDIUM,16.0,True,1,True,False,False,4.0,17.5,24.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,29,106.55,2.0,MEDIUM,17.0,True,1,True,False,False,4.0,17.5,24.2,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,30,106.328,2.0,MEDIUM,18.0,True,1,True,False,False,4.0,17.5,24.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,31,106.484,2.0,MEDIUM,19.0,True,1,True,False,False,4.0,17.6,24.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,32,106.631,2.0,MEDIUM,20.0,True,1,True,False,False,4.0,17.5,24.0,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,33,106.648,2.0,MEDIUM,21.0,True,1,True,False,False,4.0,17.5,23.8,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,34,106.346,2.0,MEDIUM,22.0,True,1,True,False,False,4.0,17.5,23.7,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,35,106.617,2.0,MEDIUM,23.0,True,1,True,False,False,4.0,17.5,23.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,36,106.582,2.0,MEDIUM,24.0,True,1,True,False,False,4.0,17.4,23.6,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,37,106.342,2.0,MEDIUM,25.0,True,1,True,False,False,4.0,17.3,23.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,38,106.388,2.0,MEDIUM,26.0,True,1,True,False,False,4.0,17.1,23.0,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,39,106.163,2.0,MEDIUM,27.0,True,1,True,False,False,4.0,17.1,23.1,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,40,106.096,2.0,MEDIUM,28.0,True,1,True,False,False,4.0,17.1,22.9,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,41,106.218,2.0,MEDIUM,29.0,True,1,True,False,False,4.0,17.1,22.4,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,42,106.692,2.0,MEDIUM,30.0,True,1,True,False,False,4.0,17.1,22.5,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,43,106.576,2.0,MEDIUM,31.0,True,1,True,False,False,4.0,17.0,22.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,VER,Red Bull Racing,44,107.201,2.0,MEDIUM,32.0,True,1,True,False,False,4.0,16.9,22.3,False,4.0,4.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,1,193.707,1.0,INTERMEDIATE,1.0,True,14,False,False,True,6.0,17.5,26.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,6.0,17.7,24.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,6.0,17.6,25.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,6.0,17.4,24.4,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,5,121.47,1.0,INTERMEDIATE,5.0,True,1,True,False,False,6.0,17.4,24.9,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,6,119.891,1.0,INTERMEDIATE,6.0,True,1,True,False,False,5.0,17.4,25.6,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,7,120.418,1.0,INTERMEDIATE,7.0,True,1,True,False,False,5.0,17.4,25.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,8,122.472,1.0,INTERMEDIATE,8.0,True,1,True,False,False,5.0,17.5,25.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,9,123.892,1.0,INTERMEDIATE,9.0,True,1,True,False,False,5.0,17.5,25.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,10,124.205,1.0,INTERMEDIATE,10.0,True,1,True,False,False,5.0,17.5,25.9,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,11,123.386,1.0,INTERMEDIATE,11.0,True,1,True,False,False,5.0,17.5,25.9,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,12,126.737,1.0,INTERMEDIATE,12.0,True,1,False,True,False,5.0,17.6,25.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,13,133.416,2.0,MEDIUM,1.0,True,1,False,False,True,7.0,17.5,25.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,14,110.359,2.0,MEDIUM,2.0,True,1,True,False,False,5.0,17.5,26.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,15,108.518,2.0,MEDIUM,3.0,True,1,True,False,False,5.0,17.5,25.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,16,107.719,2.0,MEDIUM,4.0,True,1,True,False,False,5.0,17.5,26.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,17,107.761,2.0,MEDIUM,5.0,True,1,True,False,False,5.0,17.6,26.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,18,107.698,2.0,MEDIUM,6.0,True,1,True,False,False,5.0,17.8,26.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,19,107.246,2.0,MEDIUM,7.0,True,1,True,False,False,5.0,17.9,26.2,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,20,107.45,2.0,MEDIUM,8.0,True,1,True,False,False,5.0,17.9,26.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,21,107.543,2.0,MEDIUM,9.0,True,1,True,False,False,5.0,17.9,26.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,22,107.522,2.0,MEDIUM,10.0,True,1,True,False,False,5.0,17.9,25.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,23,107.222,2.0,MEDIUM,11.0,True,1,True,False,False,5.0,18.0,26.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,24,107.402,2.0,MEDIUM,12.0,True,1,True,False,False,5.0,18.0,25.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,25,107.177,2.0,MEDIUM,13.0,True,1,True,False,False,5.0,17.8,24.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,26,107.02,2.0,MEDIUM,14.0,True,1,True,False,False,5.0,17.7,24.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,27,107.143,2.0,MEDIUM,15.0,True,1,True,False,False,5.0,17.5,24.2,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,28,107.109,2.0,MEDIUM,16.0,True,1,True,False,False,5.0,17.5,24.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,29,107.204,2.0,MEDIUM,17.0,True,1,True,False,False,5.0,17.5,24.2,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,30,107.187,2.0,MEDIUM,18.0,True,1,True,False,False,5.0,17.5,24.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,31,107.268,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,17.6,24.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,32,107.34,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,17.5,24.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,33,107.18,2.0,MEDIUM,21.0,True,1,True,False,False,5.0,17.5,23.8,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,34,107.059,2.0,MEDIUM,22.0,True,1,True,False,False,5.0,17.5,23.7,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,35,106.848,2.0,MEDIUM,23.0,True,1,True,False,False,5.0,17.5,23.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,36,107.142,2.0,MEDIUM,24.0,True,1,True,False,False,5.0,17.4,23.6,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,37,106.637,2.0,MEDIUM,25.0,True,1,True,False,False,5.0,17.3,23.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,38,106.814,2.0,MEDIUM,26.0,True,1,True,False,False,5.0,17.1,23.0,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,39,106.613,2.0,MEDIUM,27.0,True,1,True,False,False,5.0,17.1,23.1,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,40,106.918,2.0,MEDIUM,28.0,True,1,True,False,False,5.0,17.1,22.9,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,41,106.601,2.0,MEDIUM,29.0,True,1,True,False,False,5.0,17.1,22.4,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,42,106.73,2.0,MEDIUM,30.0,True,1,True,False,False,5.0,17.1,22.5,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,43,106.566,2.0,MEDIUM,31.0,True,1,True,False,False,5.0,17.0,22.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,RUS,Mercedes,44,106.969,2.0,MEDIUM,32.0,True,1,True,False,False,5.0,16.9,22.3,False,6.0,5.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,1,191.296,1.0,INTERMEDIATE,1.0,True,14,False,False,True,5.0,17.5,26.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,5.0,17.7,24.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,5.0,17.6,25.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,5.0,17.4,24.4,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,5,121.343,1.0,INTERMEDIATE,5.0,True,1,True,False,False,5.0,17.4,24.9,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,6,121.752,1.0,INTERMEDIATE,6.0,True,1,True,False,False,6.0,17.4,25.6,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,7,121.326,1.0,INTERMEDIATE,7.0,True,1,True,False,False,6.0,17.4,25.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,8,122.471,1.0,INTERMEDIATE,8.0,True,1,True,False,False,6.0,17.5,25.5,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,9,123.577,1.0,INTERMEDIATE,9.0,True,1,True,False,False,6.0,17.5,25.5,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,10,124.104,1.0,INTERMEDIATE,10.0,True,1,True,False,False,6.0,17.5,25.9,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,11,123.439,1.0,INTERMEDIATE,11.0,True,1,True,False,False,6.0,17.5,25.9,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,12,126.684,1.0,INTERMEDIATE,12.0,True,1,False,True,False,7.0,17.6,25.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,13,133.243,2.0,MEDIUM,1.0,True,1,False,False,True,8.0,17.5,25.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,14,110.222,2.0,MEDIUM,2.0,True,1,True,False,False,6.0,17.5,26.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,15,108.611,2.0,MEDIUM,3.0,True,1,True,False,False,6.0,17.5,25.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,16,107.973,2.0,MEDIUM,4.0,True,1,True,False,False,6.0,17.5,26.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,17,107.705,2.0,MEDIUM,5.0,True,1,True,False,False,6.0,17.6,26.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,18,107.684,2.0,MEDIUM,6.0,True,1,True,False,False,6.0,17.8,26.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,19,107.657,2.0,MEDIUM,7.0,True,1,True,False,False,6.0,17.9,26.2,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,20,107.351,2.0,MEDIUM,8.0,True,1,True,False,False,6.0,17.9,26.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,21,107.431,2.0,MEDIUM,9.0,True,1,True,False,False,6.0,17.9,26.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,22,107.63,2.0,MEDIUM,10.0,True,1,True,False,False,6.0,17.9,25.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,23,107.515,2.0,MEDIUM,11.0,True,1,True,False,False,6.0,18.0,26.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,24,107.512,2.0,MEDIUM,12.0,True,1,True,False,False,6.0,18.0,25.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,25,107.374,2.0,MEDIUM,13.0,True,1,True,False,False,6.0,17.8,24.5,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,26,107.538,2.0,MEDIUM,14.0,True,1,True,False,False,6.0,17.5,24.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,27,107.162,2.0,MEDIUM,15.0,True,1,True,False,False,6.0,17.5,24.2,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,28,107.19,2.0,MEDIUM,16.0,True,1,True,False,False,6.0,17.5,24.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,29,107.372,2.0,MEDIUM,17.0,True,1,True,False,False,6.0,17.5,24.2,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,30,107.153,2.0,MEDIUM,18.0,True,1,True,False,False,6.0,17.5,24.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,31,107.077,2.0,MEDIUM,19.0,True,1,True,False,False,6.0,17.6,24.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,32,107.129,2.0,MEDIUM,20.0,True,1,True,False,False,6.0,17.5,24.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,33,107.211,2.0,MEDIUM,21.0,True,1,True,False,False,6.0,17.5,23.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,34,107.36,2.0,MEDIUM,22.0,True,1,True,False,False,6.0,17.5,23.7,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,35,107.049,2.0,MEDIUM,23.0,True,1,True,False,False,6.0,17.5,23.5,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,36,106.901,2.0,MEDIUM,24.0,True,1,True,False,False,6.0,17.4,23.6,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,37,107.214,2.0,MEDIUM,25.0,True,1,True,False,False,6.0,17.3,23.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,38,106.813,2.0,MEDIUM,26.0,True,1,True,False,False,6.0,17.1,23.0,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,39,106.848,2.0,MEDIUM,27.0,True,1,True,False,False,6.0,17.1,23.1,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,40,106.815,2.0,MEDIUM,28.0,True,1,True,False,False,6.0,17.1,22.8,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,41,107.03,2.0,MEDIUM,29.0,True,1,True,False,False,6.0,17.1,22.4,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,42,106.887,2.0,MEDIUM,30.0,True,1,True,False,False,6.0,17.1,22.5,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,43,106.883,2.0,MEDIUM,31.0,True,1,True,False,False,6.0,17.0,22.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALB,Williams,44,107.252,2.0,MEDIUM,32.0,True,1,True,False,False,6.0,16.9,22.3,False,5.0,6.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,1,213.712,1.0,INTERMEDIATE,1.0,True,14,False,False,True,18.0,17.5,26.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,18.0,17.7,24.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,18.0,17.6,25.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,18.0,17.3,24.5,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,5,123.577,1.0,INTERMEDIATE,5.0,True,1,True,False,False,18.0,17.4,24.9,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,6,122.152,1.0,INTERMEDIATE,6.0,True,1,True,False,False,17.0,17.4,25.7,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,7,122.51,1.0,INTERMEDIATE,7.0,True,1,True,False,False,16.0,17.5,25.9,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,8,121.599,1.0,INTERMEDIATE,8.0,True,1,True,False,False,14.0,17.5,25.5,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,9,124.389,1.0,INTERMEDIATE,9.0,True,1,True,False,False,13.0,17.6,25.9,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,10,123.457,1.0,INTERMEDIATE,10.0,True,1,True,False,False,13.0,17.5,25.9,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,11,130.597,1.0,INTERMEDIATE,11.0,True,1,False,True,False,14.0,17.5,25.9,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,12,132.214,2.0,MEDIUM,1.0,True,1,False,False,True,17.0,17.6,25.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,13,111.05,2.0,MEDIUM,2.0,True,1,True,False,False,9.0,17.5,25.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,14,109.564,2.0,MEDIUM,3.0,True,1,True,False,False,7.0,17.5,26.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,15,108.587,2.0,MEDIUM,4.0,True,1,True,False,False,7.0,17.5,25.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,16,107.992,2.0,MEDIUM,5.0,True,1,True,False,False,7.0,17.5,26.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,17,107.844,2.0,MEDIUM,6.0,True,1,True,False,False,7.0,17.6,26.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,18,107.648,2.0,MEDIUM,7.0,True,1,True,False,False,7.0,17.8,26.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,19,107.995,2.0,MEDIUM,8.0,True,1,True,False,False,7.0,17.9,26.2,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,20,108.049,2.0,MEDIUM,9.0,True,1,True,False,False,7.0,17.9,26.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,21,107.895,2.0,MEDIUM,10.0,True,1,True,False,False,7.0,17.9,26.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,22,107.707,2.0,MEDIUM,11.0,True,1,True,False,False,7.0,17.9,25.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,23,107.354,2.0,MEDIUM,12.0,True,1,True,False,False,7.0,18.0,26.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,24,107.036,2.0,MEDIUM,13.0,True,1,True,False,False,7.0,18.0,25.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,25,107.402,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,17.8,24.5,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,26,107.09,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,17.5,24.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,27,106.929,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,17.5,24.2,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,28,107.152,2.0,MEDIUM,17.0,True,1,True,False,False,7.0,17.5,24.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,29,106.954,2.0,MEDIUM,18.0,True,1,True,False,False,7.0,17.5,24.2,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,30,107.036,2.0,MEDIUM,19.0,True,1,True,False,False,7.0,17.5,24.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,31,107.117,2.0,MEDIUM,20.0,True,1,True,False,False,7.0,17.6,24.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,32,106.98,2.0,MEDIUM,21.0,True,1,True,False,False,7.0,17.5,24.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,33,107.341,2.0,MEDIUM,22.0,True,1,True,False,False,7.0,17.5,23.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,34,107.49,2.0,MEDIUM,23.0,True,1,True,False,False,7.0,17.5,23.7,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,35,107.014,2.0,MEDIUM,24.0,True,1,True,False,False,7.0,17.5,23.5,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,36,107.09,2.0,MEDIUM,25.0,True,1,True,False,False,7.0,17.4,23.6,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,37,107.133,2.0,MEDIUM,26.0,True,1,True,False,False,7.0,17.3,23.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,38,107.175,2.0,MEDIUM,27.0,True,1,True,False,False,7.0,17.1,23.0,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,39,106.79,2.0,MEDIUM,28.0,True,1,True,False,False,7.0,17.1,23.1,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,40,107.026,2.0,MEDIUM,29.0,True,1,True,False,False,7.0,17.1,22.8,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,41,106.876,2.0,MEDIUM,30.0,True,1,True,False,False,7.0,17.1,22.4,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,42,106.961,2.0,MEDIUM,31.0,True,1,True,False,False,7.0,17.1,22.5,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,43,106.534,2.0,MEDIUM,32.0,True,1,True,False,False,7.0,17.0,22.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAM,Ferrari,44,106.96,2.0,MEDIUM,33.0,True,1,True,False,False,7.0,16.9,22.3,False,18.0,7.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,1,198.369,1.0,INTERMEDIATE,1.0,True,14,False,False,True,9.0,17.5,26.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,9.0,17.7,24.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,9.0,17.6,25.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,9.0,17.4,24.4,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,5,122.728,1.0,INTERMEDIATE,5.0,True,1,True,False,False,9.0,17.4,24.9,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,6,121.212,1.0,INTERMEDIATE,6.0,True,1,True,False,False,9.0,17.4,25.6,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,7,121.796,1.0,INTERMEDIATE,7.0,True,1,True,False,False,9.0,17.4,25.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,8,122.746,1.0,INTERMEDIATE,8.0,True,1,True,False,False,9.0,17.5,25.5,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,9,124.162,1.0,INTERMEDIATE,9.0,True,1,True,False,False,9.0,17.6,25.9,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,10,124.537,1.0,INTERMEDIATE,10.0,True,1,True,False,False,9.0,17.5,25.9,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,11,124.295,1.0,INTERMEDIATE,11.0,True,1,True,False,False,9.0,17.5,25.9,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,12,127.696,1.0,INTERMEDIATE,12.0,True,1,False,True,False,9.0,17.6,25.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,13,133.813,2.0,MEDIUM,1.0,True,1,False,False,True,11.0,17.5,25.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,14,110.724,2.0,MEDIUM,2.0,True,1,True,False,False,8.0,17.5,26.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,15,108.668,2.0,MEDIUM,3.0,True,1,True,False,False,8.0,17.5,25.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,16,108.569,2.0,MEDIUM,4.0,True,1,True,False,False,8.0,17.5,26.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,17,108.403,2.0,MEDIUM,5.0,True,1,True,False,False,8.0,17.6,26.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,18,108.235,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,17.8,26.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,19,107.969,2.0,MEDIUM,7.0,True,1,True,False,False,8.0,17.9,26.2,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,20,108.364,2.0,MEDIUM,8.0,True,1,True,False,False,8.0,17.9,26.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,21,108.108,2.0,MEDIUM,9.0,True,1,True,False,False,8.0,17.9,26.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,22,107.703,2.0,MEDIUM,10.0,True,1,True,False,False,8.0,17.9,25.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,23,107.592,2.0,MEDIUM,11.0,True,1,True,False,False,8.0,18.0,26.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,24,107.506,2.0,MEDIUM,12.0,True,1,True,False,False,8.0,18.0,25.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,25,107.29,2.0,MEDIUM,13.0,True,1,True,False,False,8.0,17.8,24.5,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,26,107.422,2.0,MEDIUM,14.0,True,1,True,False,False,8.0,17.5,24.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,27,107.432,2.0,MEDIUM,15.0,True,1,True,False,False,8.0,17.5,24.2,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,28,107.595,2.0,MEDIUM,16.0,True,1,True,False,False,8.0,17.5,24.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,29,107.354,2.0,MEDIUM,17.0,True,1,True,False,False,8.0,17.5,24.2,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,30,107.112,2.0,MEDIUM,18.0,True,1,True,False,False,8.0,17.5,24.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,31,107.183,2.0,MEDIUM,19.0,True,1,True,False,False,8.0,17.5,24.7,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,32,107.232,2.0,MEDIUM,20.0,True,1,True,False,False,8.0,17.5,24.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,33,107.112,2.0,MEDIUM,21.0,True,1,True,False,False,8.0,17.5,23.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,34,106.912,2.0,MEDIUM,22.0,True,1,True,False,False,8.0,17.5,23.7,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,35,107.025,2.0,MEDIUM,23.0,True,1,True,False,False,8.0,17.5,23.5,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,36,106.837,2.0,MEDIUM,24.0,True,1,True,False,False,8.0,17.4,23.6,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,37,106.81,2.0,MEDIUM,25.0,True,1,True,False,False,8.0,17.3,23.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,38,106.649,2.0,MEDIUM,26.0,True,1,True,False,False,8.0,17.1,23.0,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,39,107.03,2.0,MEDIUM,27.0,True,1,True,False,False,8.0,17.1,23.1,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,40,106.761,2.0,MEDIUM,28.0,True,1,True,False,False,8.0,17.1,22.8,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,41,106.787,2.0,MEDIUM,29.0,True,1,True,False,False,8.0,17.1,22.4,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,42,108.182,2.0,MEDIUM,30.0,True,1,True,False,False,8.0,17.1,22.5,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,43,106.728,2.0,MEDIUM,31.0,True,1,True,False,False,8.0,17.0,22.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,LAW,Racing Bulls,44,107.142,2.0,MEDIUM,32.0,True,1,True,False,False,8.0,16.9,22.3,False,9.0,8.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,1,199.512,1.0,INTERMEDIATE,1.0,True,14,False,False,True,10.0,17.5,26.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,10.0,17.7,24.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,10.0,17.6,25.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,10.0,17.4,24.4,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,5,123.632,1.0,INTERMEDIATE,5.0,True,1,True,False,False,10.0,17.4,24.9,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,6,121.165,1.0,INTERMEDIATE,6.0,True,1,True,False,False,10.0,17.4,25.6,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,7,121.461,1.0,INTERMEDIATE,7.0,True,1,True,False,False,10.0,17.4,25.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,8,122.601,1.0,INTERMEDIATE,8.0,True,1,True,False,False,10.0,17.5,25.5,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,9,123.996,1.0,INTERMEDIATE,9.0,True,1,True,False,False,10.0,17.6,25.9,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,10,124.833,1.0,INTERMEDIATE,10.0,True,1,True,False,False,10.0,17.5,25.9,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,11,124.626,1.0,INTERMEDIATE,11.0,True,1,True,False,False,10.0,17.5,25.9,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,12,127.969,1.0,INTERMEDIATE,12.0,True,1,False,True,False,10.0,17.6,25.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,13,132.477,2.0,MEDIUM,1.0,True,1,False,False,True,12.0,17.5,25.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,14,111.961,2.0,MEDIUM,2.0,True,1,True,False,False,10.0,17.5,26.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,15,108.368,2.0,MEDIUM,3.0,True,1,True,False,False,10.0,17.5,25.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,16,108.832,2.0,MEDIUM,4.0,True,1,True,False,False,10.0,17.5,26.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,17,108.38,2.0,MEDIUM,5.0,True,1,True,False,False,10.0,17.6,26.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,18,108.196,2.0,MEDIUM,6.0,True,1,True,False,False,10.0,17.8,26.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,19,108.393,2.0,MEDIUM,7.0,True,1,True,False,False,10.0,17.9,26.2,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,20,107.923,2.0,MEDIUM,8.0,True,1,True,False,False,9.0,17.9,26.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,21,107.735,2.0,MEDIUM,9.0,True,1,True,False,False,9.0,17.9,26.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,22,107.648,2.0,MEDIUM,10.0,True,1,True,False,False,9.0,17.9,25.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,23,107.439,2.0,MEDIUM,11.0,True,1,True,False,False,9.0,18.0,26.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,24,107.542,2.0,MEDIUM,12.0,True,1,True,False,False,9.0,18.0,25.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,25,107.509,2.0,MEDIUM,13.0,True,1,True,False,False,9.0,17.8,24.5,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,26,107.371,2.0,MEDIUM,14.0,True,1,True,False,False,9.0,17.5,24.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,27,107.524,2.0,MEDIUM,15.0,True,1,True,False,False,9.0,17.5,24.2,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,28,107.493,2.0,MEDIUM,16.0,True,1,True,False,False,9.0,17.5,24.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,29,107.593,2.0,MEDIUM,17.0,True,1,True,False,False,9.0,17.5,24.2,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,30,107.536,2.0,MEDIUM,18.0,True,1,True,False,False,9.0,17.5,24.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,31,107.823,2.0,MEDIUM,19.0,True,1,True,False,False,9.0,17.5,24.7,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,32,107.05,2.0,MEDIUM,20.0,True,1,True,False,False,9.0,17.5,24.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,33,107.265,2.0,MEDIUM,21.0,True,1,True,False,False,9.0,17.5,23.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,34,107.208,2.0,MEDIUM,22.0,True,1,True,False,False,9.0,17.5,23.7,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,35,107.247,2.0,MEDIUM,23.0,True,1,True,False,False,9.0,17.5,23.5,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,36,107.189,2.0,MEDIUM,24.0,True,1,True,False,False,9.0,17.4,23.6,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,37,107.26,2.0,MEDIUM,25.0,True,1,True,False,False,9.0,17.3,23.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,38,107.147,2.0,MEDIUM,26.0,True,1,True,False,False,9.0,17.1,23.0,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,39,107.214,2.0,MEDIUM,27.0,True,1,True,False,False,9.0,17.1,23.1,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,40,106.979,2.0,MEDIUM,28.0,True,1,True,False,False,9.0,17.1,22.8,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,41,106.966,2.0,MEDIUM,29.0,True,1,True,False,False,9.0,17.1,22.4,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,42,107.18,2.0,MEDIUM,30.0,True,1,True,False,False,9.0,17.1,22.5,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,43,106.988,2.0,MEDIUM,31.0,True,1,True,False,False,9.0,17.0,22.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BOR,Kick Sauber,44,107.072,2.0,MEDIUM,32.0,True,1,True,False,False,9.0,16.9,22.3,False,10.0,9.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,1,204.447,1.0,INTERMEDIATE,1.0,True,14,False,False,True,13.0,17.5,26.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,13.0,17.7,24.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,13.0,17.6,25.0,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,13.0,17.3,24.5,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,5,123.809,1.0,INTERMEDIATE,5.0,True,1,True,False,False,13.0,17.4,24.9,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,6,122.097,1.0,INTERMEDIATE,6.0,True,1,True,False,False,13.0,17.4,25.6,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,7,122.794,1.0,INTERMEDIATE,7.0,True,1,True,False,False,13.0,17.5,25.9,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,8,123.228,1.0,INTERMEDIATE,8.0,True,1,True,False,False,13.0,17.5,25.5,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,9,126.857,1.0,INTERMEDIATE,9.0,True,1,True,False,False,14.0,17.6,25.9,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,10,125.517,1.0,INTERMEDIATE,10.0,True,1,True,False,False,14.0,17.5,25.9,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,11,130.058,1.0,INTERMEDIATE,11.0,True,1,False,True,False,18.0,17.5,25.9,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,12,135.495,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,17.6,25.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,13,112.956,2.0,MEDIUM,2.0,True,1,True,False,False,14.0,17.5,25.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,14,110.871,2.0,MEDIUM,3.0,True,1,True,False,False,11.0,17.5,26.0,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,15,110.22,2.0,MEDIUM,4.0,True,1,True,False,False,11.0,17.5,25.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,16,109.962,2.0,MEDIUM,5.0,True,1,True,False,False,11.0,17.5,26.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,17,109.167,2.0,MEDIUM,6.0,True,1,True,False,False,11.0,17.6,26.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,18,108.756,2.0,MEDIUM,7.0,True,1,True,False,False,11.0,17.8,26.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,19,108.781,2.0,MEDIUM,8.0,True,1,True,False,False,11.0,17.9,26.2,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,20,108.514,2.0,MEDIUM,9.0,True,1,True,False,False,11.0,17.9,26.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,21,108.696,2.0,MEDIUM,10.0,True,1,True,False,False,11.0,17.9,26.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,22,108.803,2.0,MEDIUM,11.0,True,1,True,False,False,11.0,17.9,25.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,23,108.261,2.0,MEDIUM,12.0,True,1,True,False,False,11.0,18.1,25.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,24,108.144,2.0,MEDIUM,13.0,True,1,True,False,False,11.0,18.0,25.0,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,25,107.993,2.0,MEDIUM,14.0,True,1,True,False,False,11.0,17.8,24.5,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,26,107.786,2.0,MEDIUM,15.0,True,1,True,False,False,11.0,17.5,24.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,27,107.922,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,17.5,24.2,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,28,108.056,2.0,MEDIUM,17.0,True,1,True,False,False,11.0,17.5,24.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,29,107.999,2.0,MEDIUM,18.0,True,1,True,False,False,11.0,17.5,24.2,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,30,107.819,2.0,MEDIUM,19.0,True,1,True,False,False,11.0,17.5,24.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,31,107.674,2.0,MEDIUM,20.0,True,1,True,False,False,11.0,17.5,24.7,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,32,107.645,2.0,MEDIUM,21.0,True,1,True,False,False,11.0,17.5,24.0,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,33,107.614,2.0,MEDIUM,22.0,True,1,True,False,False,10.0,17.5,23.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,34,107.517,2.0,MEDIUM,23.0,True,1,True,False,False,10.0,17.5,23.7,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,35,107.6,2.0,MEDIUM,24.0,True,1,True,False,False,10.0,17.5,23.5,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,36,107.517,2.0,MEDIUM,25.0,True,1,True,False,False,10.0,17.4,23.6,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,37,107.857,2.0,MEDIUM,26.0,True,1,True,False,False,10.0,17.2,23.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,38,107.336,2.0,MEDIUM,27.0,True,1,True,False,False,10.0,17.1,23.0,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,39,107.273,2.0,MEDIUM,28.0,True,1,True,False,False,10.0,17.1,23.1,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,40,107.434,2.0,MEDIUM,29.0,True,1,True,False,False,10.0,17.1,22.8,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,41,107.253,2.0,MEDIUM,30.0,True,1,True,False,False,10.0,17.1,22.4,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,42,107.177,2.0,MEDIUM,31.0,True,1,True,False,False,10.0,17.0,22.5,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,43,107.531,2.0,MEDIUM,32.0,True,1,True,False,False,10.0,17.0,22.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,GAS,Alpine,44,107.363,2.0,MEDIUM,33.0,True,1,True,False,False,10.0,16.9,22.3,False,13.0,10.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,1,201.972,1.0,INTERMEDIATE,1.0,True,14,False,False,True,12.0,17.5,26.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,12.0,17.7,24.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,12.0,17.6,25.0,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,12.0,17.3,24.5,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,5,124.052,1.0,INTERMEDIATE,5.0,True,1,True,False,False,12.0,17.4,24.9,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,6,121.873,1.0,INTERMEDIATE,6.0,True,1,True,False,False,12.0,17.4,25.6,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,7,121.707,1.0,INTERMEDIATE,7.0,True,1,True,False,False,12.0,17.5,25.9,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,8,123.403,1.0,INTERMEDIATE,8.0,True,1,True,False,False,12.0,17.5,25.5,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,9,124.288,1.0,INTERMEDIATE,9.0,True,1,True,False,False,12.0,17.6,25.9,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,10,124.996,1.0,INTERMEDIATE,10.0,True,1,True,False,False,12.0,17.5,25.9,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,11,122.741,1.0,INTERMEDIATE,11.0,True,1,True,False,False,11.0,17.5,25.9,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,12,127.261,1.0,INTERMEDIATE,12.0,True,1,False,True,False,12.0,17.6,25.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,13,133.833,2.0,MEDIUM,1.0,True,1,False,False,True,15.0,17.5,25.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,14,115.086,2.0,MEDIUM,2.0,True,1,True,False,False,14.0,17.5,26.0,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,15,110.255,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,17.5,25.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,16,109.864,2.0,MEDIUM,4.0,True,1,True,False,False,14.0,17.5,26.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,17,108.194,2.0,MEDIUM,5.0,True,1,True,False,False,13.0,17.6,26.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,18,107.878,2.0,MEDIUM,6.0,True,1,True,False,False,13.0,17.8,26.2,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,19,108.097,2.0,MEDIUM,7.0,True,1,True,False,False,13.0,17.9,26.2,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,20,108.002,2.0,MEDIUM,8.0,True,1,True,False,False,13.0,17.9,26.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,21,108.423,2.0,MEDIUM,9.0,True,1,True,False,False,13.0,17.9,26.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,22,108.734,2.0,MEDIUM,10.0,True,1,True,False,False,13.0,17.9,25.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,23,108.513,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,18.1,25.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,24,107.926,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,18.0,25.0,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,25,108.022,2.0,MEDIUM,13.0,True,1,True,False,False,13.0,17.8,24.5,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,26,107.879,2.0,MEDIUM,14.0,True,1,True,False,False,13.0,17.5,24.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,27,107.74,2.0,MEDIUM,15.0,True,1,True,False,False,13.0,17.5,24.2,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,28,107.979,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,17.5,24.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,29,108.07,2.0,MEDIUM,17.0,True,1,True,False,False,13.0,17.5,24.2,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,30,107.755,2.0,MEDIUM,18.0,True,1,True,False,False,13.0,17.5,24.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,31,107.86,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,17.5,24.7,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,32,107.639,2.0,MEDIUM,20.0,True,1,True,False,False,13.0,17.5,24.0,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,33,108.091,2.0,MEDIUM,21.0,True,1,True,False,False,12.0,17.5,23.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,34,107.588,2.0,MEDIUM,22.0,True,1,True,False,False,12.0,17.5,23.7,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,35,107.135,2.0,MEDIUM,23.0,True,1,True,False,False,12.0,17.5,23.5,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,36,107.417,2.0,MEDIUM,24.0,True,1,True,False,False,12.0,17.4,23.6,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,37,107.581,2.0,MEDIUM,25.0,True,1,True,False,False,12.0,17.2,23.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,38,107.531,2.0,MEDIUM,26.0,True,1,True,False,False,12.0,17.1,23.0,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,39,107.432,2.0,MEDIUM,27.0,True,1,True,False,False,12.0,17.1,23.1,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,40,107.391,2.0,MEDIUM,28.0,True,1,True,False,False,12.0,17.1,22.8,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,41,107.514,2.0,MEDIUM,29.0,True,1,True,False,False,12.0,17.1,22.4,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,42,106.984,2.0,MEDIUM,30.0,True,1,True,False,False,12.0,17.0,22.5,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,43,106.709,2.0,MEDIUM,31.0,True,1,True,False,False,11.0,17.0,22.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,BEA,Haas F1 Team,44,107.114,2.0,MEDIUM,32.0,True,1,True,False,False,11.0,16.9,22.3,False,12.0,11.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,1,206.488,1.0,INTERMEDIATE,1.0,True,14,False,False,True,14.0,17.5,26.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,14.0,17.7,24.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,14.0,17.6,25.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,14.0,17.3,24.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,5,123.799,1.0,INTERMEDIATE,5.0,True,1,True,False,False,14.0,17.4,24.9,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,6,122.049,1.0,INTERMEDIATE,6.0,True,1,True,False,False,14.0,17.4,25.6,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,7,122.875,1.0,INTERMEDIATE,7.0,True,1,True,False,False,14.0,17.5,25.9,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,8,123.968,1.0,INTERMEDIATE,8.0,True,1,True,False,False,15.0,17.5,25.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,9,125.89,1.0,INTERMEDIATE,9.0,True,1,True,False,False,15.0,17.6,25.9,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,10,126.075,1.0,INTERMEDIATE,10.0,True,1,True,False,False,15.0,17.5,25.9,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,11,129.695,1.0,INTERMEDIATE,11.0,True,1,False,True,False,19.0,17.5,25.9,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,12,131.678,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,17.6,25.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,13,114.954,2.0,MEDIUM,2.0,True,1,True,False,False,13.0,17.5,25.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,14,110.286,2.0,MEDIUM,3.0,True,1,True,False,False,9.0,17.5,26.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,15,108.769,2.0,MEDIUM,4.0,True,1,True,False,False,9.0,17.5,25.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,16,108.542,2.0,MEDIUM,5.0,True,1,True,False,False,9.0,17.5,26.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,17,108.464,2.0,MEDIUM,6.0,True,1,True,False,False,9.0,17.6,26.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,18,108.446,2.0,MEDIUM,7.0,True,1,True,False,False,9.0,17.8,26.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,19,108.491,2.0,MEDIUM,8.0,True,1,True,False,False,9.0,17.9,26.2,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,20,110.047,2.0,MEDIUM,9.0,True,1,True,False,False,10.0,17.9,26.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,21,108.525,2.0,MEDIUM,10.0,True,1,True,False,False,10.0,17.9,26.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,22,108.172,2.0,MEDIUM,11.0,True,1,True,False,False,10.0,17.9,25.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,23,108.005,2.0,MEDIUM,12.0,True,1,True,False,False,10.0,18.0,26.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,24,107.727,2.0,MEDIUM,13.0,True,1,True,False,False,10.0,18.0,25.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,25,107.946,2.0,MEDIUM,14.0,True,1,True,False,False,10.0,17.8,24.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,26,107.656,2.0,MEDIUM,15.0,True,1,True,False,False,10.0,17.5,24.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,27,107.927,2.0,MEDIUM,16.0,True,1,True,False,False,10.0,17.5,24.2,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,28,107.998,2.0,MEDIUM,17.0,True,1,True,False,False,10.0,17.5,24.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,29,108.068,2.0,MEDIUM,18.0,True,1,True,False,False,10.0,17.5,24.2,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,30,108.188,2.0,MEDIUM,19.0,True,1,True,False,False,10.0,17.5,24.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,31,108.416,2.0,MEDIUM,20.0,True,1,True,False,False,10.0,17.5,24.7,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,32,112.356,2.0,MEDIUM,21.0,True,1,False,True,False,10.0,17.5,24.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,33,123.242,3.0,None,,False,1,False,False,True,15.0,17.5,23.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,34,105.077,3.0,None,,False,1,True,False,False,14.0,17.5,23.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,35,105.725,3.0,None,,False,1,True,False,False,14.0,17.5,23.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,36,105.868,3.0,None,,False,1,True,False,False,14.0,17.4,23.6,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,37,106.431,3.0,None,,False,1,True,False,False,14.0,17.2,23.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,38,106.408,3.0,None,,False,1,True,False,False,14.0,17.1,23.0,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,39,105.068,3.0,None,,False,1,True,False,False,13.0,17.1,23.1,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,40,106.093,3.0,None,,False,1,True,False,False,13.0,17.1,22.8,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,41,106.282,3.0,None,,False,1,True,False,False,13.0,17.1,22.4,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,42,106.778,3.0,None,,False,1,True,False,False,13.0,17.0,22.5,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,43,107.604,3.0,None,,False,1,True,False,False,13.0,17.0,22.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HUL,Kick Sauber,44,106.061,3.0,None,,False,1,True,False,False,12.0,16.9,22.3,False,14.0,12.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,1,195.676,1.0,INTERMEDIATE,1.0,True,14,False,False,True,7.0,17.5,26.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,7.0,17.7,24.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,7.0,17.6,25.0,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,7.0,17.4,24.4,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,5,122.398,1.0,INTERMEDIATE,5.0,True,1,True,False,False,7.0,17.4,24.9,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,6,120.831,1.0,INTERMEDIATE,6.0,True,1,True,False,False,7.0,17.4,25.6,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,7,121.258,1.0,INTERMEDIATE,7.0,True,1,True,False,False,7.0,17.4,25.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,8,122.33,1.0,INTERMEDIATE,8.0,True,1,True,False,False,7.0,17.5,25.5,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,9,123.48,1.0,INTERMEDIATE,9.0,True,1,True,False,False,7.0,17.5,25.5,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,10,124.98,1.0,INTERMEDIATE,10.0,True,1,True,False,False,7.0,17.5,25.9,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,11,124.137,1.0,INTERMEDIATE,11.0,True,1,True,False,False,7.0,17.5,25.9,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,12,123.373,1.0,INTERMEDIATE,12.0,True,1,True,False,False,6.0,17.6,25.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,13,127.153,1.0,INTERMEDIATE,13.0,True,1,False,True,False,3.0,17.5,25.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,14,131.357,2.0,MEDIUM,1.0,True,1,False,False,True,12.0,17.5,26.0,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,15,109.875,2.0,MEDIUM,2.0,True,1,True,False,False,12.0,17.5,25.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,16,109.865,2.0,MEDIUM,3.0,True,1,True,False,False,12.0,17.5,26.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,17,108.733,2.0,MEDIUM,4.0,True,1,True,False,False,12.0,17.6,26.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,18,107.823,2.0,MEDIUM,5.0,True,1,True,False,False,12.0,17.8,26.2,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,19,108.118,2.0,MEDIUM,6.0,True,1,True,False,False,12.0,17.9,26.2,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,20,108.05,2.0,MEDIUM,7.0,True,1,True,False,False,12.0,17.9,26.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,21,108.434,2.0,MEDIUM,8.0,True,1,True,False,False,12.0,17.9,26.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,22,108.742,2.0,MEDIUM,9.0,True,1,True,False,False,12.0,17.9,25.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,23,108.373,2.0,MEDIUM,10.0,True,1,True,False,False,12.0,18.1,25.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,24,107.931,2.0,MEDIUM,11.0,True,1,True,False,False,12.0,18.0,25.0,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,25,108.234,2.0,MEDIUM,12.0,True,1,True,False,False,12.0,17.8,24.5,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,26,107.673,2.0,MEDIUM,13.0,True,1,True,False,False,12.0,17.5,24.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,27,108.004,2.0,MEDIUM,14.0,True,1,True,False,False,12.0,17.5,24.2,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,28,108.12,2.0,MEDIUM,15.0,True,1,True,False,False,12.0,17.5,24.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,29,107.974,2.0,MEDIUM,16.0,True,1,True,False,False,12.0,17.5,24.2,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,30,107.761,2.0,MEDIUM,17.0,True,1,True,False,False,12.0,17.5,24.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,31,107.786,2.0,MEDIUM,18.0,True,1,True,False,False,12.0,17.5,24.7,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,32,107.69,2.0,MEDIUM,19.0,True,1,True,False,False,12.0,17.5,24.0,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,33,107.593,2.0,MEDIUM,20.0,True,1,True,False,False,11.0,17.5,23.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,34,107.507,2.0,MEDIUM,21.0,True,1,True,False,False,11.0,17.5,23.7,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,35,107.53,2.0,MEDIUM,22.0,True,1,True,False,False,11.0,17.5,23.5,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,36,107.652,2.0,MEDIUM,23.0,True,1,True,False,False,11.0,17.4,23.6,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,37,107.662,2.0,MEDIUM,24.0,True,1,True,False,False,11.0,17.2,23.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,38,107.504,2.0,MEDIUM,25.0,True,1,True,False,False,11.0,17.1,23.0,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,39,107.37,2.0,MEDIUM,26.0,True,1,True,False,False,11.0,17.1,23.1,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,40,107.26,2.0,MEDIUM,27.0,True,1,True,False,False,11.0,17.1,22.8,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,41,107.259,2.0,MEDIUM,28.0,True,1,True,False,False,11.0,17.1,22.4,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,42,107.241,2.0,MEDIUM,29.0,True,1,True,False,False,11.0,17.0,22.5,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,43,108.348,2.0,MEDIUM,30.0,True,1,True,False,False,12.0,17.0,22.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,TSU,Red Bull Racing,44,108.375,2.0,MEDIUM,31.0,True,1,True,False,False,13.0,16.9,22.3,False,7.0,13.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,1,209.116,1.0,INTERMEDIATE,1.0,True,14,False,False,True,16.0,17.5,26.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,16.0,17.7,24.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,16.0,17.6,25.0,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,16.0,17.3,24.5,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,5,124.228,1.0,INTERMEDIATE,5.0,True,1,True,False,False,17.0,17.4,24.9,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,6,123.162,1.0,INTERMEDIATE,6.0,True,1,True,False,False,18.0,17.4,25.7,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,7,123.682,1.0,INTERMEDIATE,7.0,True,1,True,False,False,19.0,17.5,25.9,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,8,123.866,1.0,INTERMEDIATE,8.0,True,1,True,False,False,19.0,17.5,25.5,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,9,125.241,1.0,INTERMEDIATE,9.0,True,1,True,False,False,19.0,17.6,25.9,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,10,126.686,1.0,INTERMEDIATE,10.0,True,1,True,False,False,20.0,17.5,25.9,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,11,125.288,1.0,INTERMEDIATE,11.0,True,1,True,False,False,17.0,17.5,25.9,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,12,127.592,1.0,INTERMEDIATE,12.0,True,1,False,True,False,16.0,17.6,25.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,13,130.73,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,17.5,25.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,14,110.331,2.0,MEDIUM,2.0,True,1,True,False,False,18.0,17.5,26.0,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,15,109.237,2.0,MEDIUM,3.0,True,1,True,False,False,18.0,17.5,25.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,16,109.318,2.0,MEDIUM,4.0,True,1,True,False,False,18.0,17.5,26.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,17,109.25,2.0,MEDIUM,5.0,True,1,True,False,False,18.0,17.6,26.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,18,108.376,2.0,MEDIUM,6.0,True,1,True,False,False,17.0,17.8,26.2,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,19,108.7,2.0,MEDIUM,7.0,True,1,True,False,False,17.0,17.9,26.2,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,20,108.784,2.0,MEDIUM,8.0,True,1,True,False,False,17.0,17.9,26.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,21,109.092,2.0,MEDIUM,9.0,True,1,True,False,False,17.0,17.9,26.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,22,108.093,2.0,MEDIUM,10.0,True,1,True,False,False,16.0,17.9,25.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,23,108.235,2.0,MEDIUM,11.0,True,1,True,False,False,16.0,18.1,25.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,24,108.003,2.0,MEDIUM,12.0,True,1,True,False,False,16.0,18.0,25.0,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,25,107.878,2.0,MEDIUM,13.0,True,1,True,False,False,16.0,17.8,24.5,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,26,107.85,2.0,MEDIUM,14.0,True,1,True,False,False,16.0,17.5,24.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,27,107.877,2.0,MEDIUM,15.0,True,1,True,False,False,16.0,17.5,24.2,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,28,108.346,2.0,MEDIUM,16.0,True,1,True,False,False,16.0,17.5,24.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,29,108.004,2.0,MEDIUM,17.0,True,1,True,False,False,15.0,17.5,24.2,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,30,107.629,2.0,MEDIUM,18.0,True,1,True,False,False,15.0,17.5,24.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,31,108.149,2.0,MEDIUM,19.0,True,1,True,False,False,14.0,17.5,24.7,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,32,107.59,2.0,MEDIUM,20.0,True,1,True,False,False,14.0,17.5,24.0,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,33,107.495,2.0,MEDIUM,21.0,True,1,True,False,False,13.0,17.5,23.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,34,107.462,2.0,MEDIUM,22.0,True,1,True,False,False,13.0,17.5,23.7,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,35,107.406,2.0,MEDIUM,23.0,True,1,True,False,False,13.0,17.5,23.5,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,36,107.471,2.0,MEDIUM,24.0,True,1,True,False,False,13.0,17.4,23.6,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,37,107.45,2.0,MEDIUM,25.0,True,1,True,False,False,13.0,17.2,23.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,38,107.212,2.0,MEDIUM,26.0,True,1,True,False,False,13.0,17.1,23.0,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,39,107.874,2.0,MEDIUM,27.0,True,1,True,False,False,14.0,17.1,23.1,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,40,107.241,2.0,MEDIUM,28.0,True,1,True,False,False,14.0,17.1,22.8,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,41,107.3,2.0,MEDIUM,29.0,True,1,True,False,False,14.0,17.1,22.4,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,42,107.338,2.0,MEDIUM,30.0,True,1,True,False,False,14.0,17.0,22.5,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,43,107.588,2.0,MEDIUM,31.0,True,1,True,False,False,14.0,16.9,22.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,STR,Aston Martin,44,107.294,2.0,MEDIUM,32.0,True,1,True,False,False,14.0,16.9,22.3,False,16.0,14.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,1,201.517,1.0,INTERMEDIATE,1.0,True,14,False,False,True,11.0,17.5,26.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,11.0,17.7,24.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,11.0,17.6,25.0,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,11.0,17.3,24.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,5,124.024,1.0,INTERMEDIATE,5.0,True,1,True,False,False,11.0,17.4,24.9,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,6,121.578,1.0,INTERMEDIATE,6.0,True,1,True,False,False,11.0,17.4,25.6,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,7,121.831,1.0,INTERMEDIATE,7.0,True,1,True,False,False,11.0,17.4,25.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,8,123.179,1.0,INTERMEDIATE,8.0,True,1,True,False,False,11.0,17.5,25.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,9,124.581,1.0,INTERMEDIATE,9.0,True,1,True,False,False,11.0,17.6,25.9,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,10,125.31,1.0,INTERMEDIATE,10.0,True,1,True,False,False,11.0,17.5,25.9,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,11,125.656,1.0,INTERMEDIATE,11.0,True,1,True,False,False,12.0,17.5,25.9,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,12,124.249,1.0,INTERMEDIATE,12.0,True,1,True,False,False,11.0,17.6,25.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,13,129.199,1.0,INTERMEDIATE,13.0,True,1,False,True,False,10.0,17.5,25.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,14,132.478,2.0,MEDIUM,8.0,False,1,False,False,True,20.0,17.5,26.0,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,15,111.387,2.0,MEDIUM,9.0,False,1,True,False,False,20.0,17.5,25.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,16,109.369,2.0,MEDIUM,10.0,False,1,True,False,False,20.0,17.5,26.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,17,108.933,2.0,MEDIUM,11.0,False,1,True,False,False,20.0,17.6,26.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,18,108.599,2.0,MEDIUM,12.0,False,1,True,False,False,20.0,17.8,26.2,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,19,108.864,2.0,MEDIUM,13.0,False,1,True,False,False,20.0,17.9,26.2,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,20,108.791,2.0,MEDIUM,14.0,False,1,True,False,False,20.0,17.9,26.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,21,108.314,2.0,MEDIUM,15.0,False,1,True,False,False,19.0,17.9,26.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,22,108.378,2.0,MEDIUM,16.0,False,1,True,False,False,19.0,17.9,25.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,23,108.11,2.0,MEDIUM,17.0,False,1,True,False,False,19.0,18.1,25.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,24,108.346,2.0,MEDIUM,18.0,False,1,True,False,False,19.0,18.0,24.7,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,25,107.958,2.0,MEDIUM,19.0,False,1,True,False,False,19.0,17.8,24.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,26,107.679,2.0,MEDIUM,20.0,False,1,True,False,False,19.0,17.5,24.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,27,107.945,2.0,MEDIUM,21.0,False,1,True,False,False,18.0,17.5,24.2,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,28,107.751,2.0,MEDIUM,22.0,False,1,True,False,False,17.0,17.5,24.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,29,107.698,2.0,MEDIUM,23.0,False,1,True,False,False,17.0,17.5,24.7,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,30,107.523,2.0,MEDIUM,24.0,False,1,True,False,False,16.0,17.5,24.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,31,107.607,2.0,MEDIUM,25.0,False,1,True,False,False,15.0,17.5,24.7,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,32,107.513,2.0,MEDIUM,26.0,False,1,True,False,False,15.0,17.5,24.0,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,33,106.822,2.0,MEDIUM,27.0,False,1,True,False,False,14.0,17.5,23.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,34,108.466,2.0,MEDIUM,28.0,False,1,True,False,False,15.0,17.5,23.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,35,107.938,2.0,MEDIUM,29.0,False,1,True,False,False,15.0,17.5,23.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,36,107.349,2.0,MEDIUM,30.0,False,1,True,False,False,15.0,17.4,23.6,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,37,107.14,2.0,MEDIUM,31.0,False,1,True,False,False,15.0,17.2,23.1,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,38,107.158,2.0,MEDIUM,32.0,False,1,True,False,False,15.0,17.1,23.0,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,39,107.233,2.0,MEDIUM,33.0,False,1,True,False,False,15.0,17.1,22.9,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,40,107.143,2.0,MEDIUM,34.0,False,1,True,False,False,15.0,17.1,22.8,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,41,107.129,2.0,MEDIUM,35.0,False,1,True,False,False,15.0,17.1,22.4,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,42,106.969,2.0,MEDIUM,36.0,False,1,True,False,False,15.0,17.0,22.5,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,43,106.923,2.0,MEDIUM,37.0,False,1,True,False,False,15.0,16.9,22.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,OCO,Haas F1 Team,44,106.744,2.0,MEDIUM,38.0,False,1,True,False,False,15.0,16.9,22.3,False,11.0,15.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,1,216.399,1.0,INTERMEDIATE,1.0,True,14,False,False,True,19.0,17.5,26.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,19.0,17.7,24.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,19.0,17.6,25.0,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,19.0,17.3,24.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,5,123.291,1.0,INTERMEDIATE,5.0,True,1,True,False,False,19.0,17.4,24.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,6,122.847,1.0,INTERMEDIATE,6.0,True,1,True,False,False,19.0,17.4,25.7,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,7,122.188,1.0,INTERMEDIATE,7.0,True,1,True,False,False,18.0,17.5,25.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,8,124.219,1.0,INTERMEDIATE,8.0,True,1,True,False,False,18.0,17.5,25.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,9,125.404,1.0,INTERMEDIATE,9.0,True,1,True,False,False,18.0,17.6,25.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,10,125.624,1.0,INTERMEDIATE,10.0,True,1,True,False,False,18.0,17.5,25.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,11,125.433,1.0,INTERMEDIATE,11.0,True,1,True,False,False,16.0,17.5,25.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,12,128.264,1.0,INTERMEDIATE,12.0,True,1,False,True,False,15.0,17.6,25.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,13,130.637,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,17.5,25.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,14,110.31,2.0,MEDIUM,2.0,True,1,True,False,False,17.0,17.5,26.0,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,15,108.819,2.0,MEDIUM,3.0,True,1,True,False,False,17.0,17.5,25.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,16,109.928,2.0,MEDIUM,4.0,True,1,True,False,False,17.0,17.5,26.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,17,108.729,2.0,MEDIUM,5.0,True,1,True,False,False,16.0,17.6,26.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,18,108.697,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,17.8,26.2,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,19,108.785,2.0,MEDIUM,7.0,True,1,True,False,False,16.0,17.9,26.2,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,20,107.152,2.0,MEDIUM,8.0,True,1,True,False,False,15.0,17.9,26.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,21,107.765,2.0,MEDIUM,9.0,True,1,True,False,False,15.0,17.9,26.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,22,107.487,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,17.9,25.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,23,108.414,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,18.1,25.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,24,107.931,2.0,MEDIUM,12.0,True,1,True,False,False,15.0,18.0,25.0,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,25,108.001,2.0,MEDIUM,13.0,True,1,True,False,False,15.0,17.8,24.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,26,107.83,2.0,MEDIUM,14.0,True,1,True,False,False,15.0,17.5,24.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,27,107.002,2.0,MEDIUM,15.0,True,1,True,False,False,14.0,17.5,24.2,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,28,107.952,2.0,MEDIUM,16.0,True,1,True,False,False,14.0,17.5,24.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,29,108.05,2.0,MEDIUM,17.0,True,1,True,False,False,14.0,17.5,24.2,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,30,112.443,2.0,MEDIUM,18.0,True,1,False,True,False,14.0,17.5,24.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,31,120.749,3.0,None,,False,1,False,False,True,16.0,17.5,24.7,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,32,104.861,3.0,None,,False,1,True,False,False,16.0,17.5,24.0,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,33,106.738,3.0,None,,False,1,True,False,False,16.0,17.5,23.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,34,108.012,3.0,None,,False,1,True,False,False,16.0,17.5,23.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,35,108.287,3.0,None,,False,1,True,False,False,16.0,17.5,23.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,36,107.236,3.0,None,,False,1,True,False,False,16.0,17.4,23.6,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,37,107.167,3.0,None,,False,1,True,False,False,16.0,17.2,23.1,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,38,106.998,3.0,None,,False,1,True,False,False,16.0,17.1,23.0,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,39,107.319,3.0,None,,False,1,True,False,False,16.0,17.1,22.9,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,40,107.066,3.0,None,,False,1,True,False,False,16.0,17.1,22.8,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,41,107.08,3.0,None,,False,1,True,False,False,16.0,17.1,22.4,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,42,107.13,3.0,None,,False,1,True,False,False,16.0,17.0,22.5,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,43,106.845,3.0,None,,False,1,True,False,False,16.0,16.9,22.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ANT,Mercedes,44,106.911,3.0,None,,False,1,True,False,False,16.0,16.9,22.3,False,19.0,16.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,1,218.679,1.0,INTERMEDIATE,1.0,True,14,False,False,True,20.0,17.5,26.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,20.0,17.7,24.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,20.0,17.6,25.0,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,20.0,17.3,24.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,5,122.826,1.0,INTERMEDIATE,5.0,True,1,True,False,False,20.0,17.4,24.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,6,122.757,1.0,INTERMEDIATE,6.0,True,1,True,False,False,20.0,17.4,25.7,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,7,123.279,1.0,INTERMEDIATE,7.0,True,1,True,False,False,20.0,17.5,25.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,8,123.891,1.0,INTERMEDIATE,8.0,True,1,True,False,False,20.0,17.5,25.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,9,125.329,1.0,INTERMEDIATE,9.0,True,1,True,False,False,20.0,17.6,25.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,10,125.6,1.0,INTERMEDIATE,10.0,True,1,True,False,False,19.0,17.5,25.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,11,129.812,1.0,INTERMEDIATE,11.0,True,1,False,True,False,20.0,17.5,25.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,12,133.186,2.0,MEDIUM,1.0,True,1,False,False,True,20.0,17.6,25.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,13,112.275,2.0,MEDIUM,2.0,True,1,True,False,False,16.0,17.5,25.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,14,114.222,2.0,MEDIUM,3.0,True,1,True,False,False,13.0,17.5,26.0,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,15,110.223,2.0,MEDIUM,4.0,True,1,True,False,False,13.0,17.5,25.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,16,109.87,2.0,MEDIUM,5.0,True,1,True,False,False,13.0,17.5,26.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,17,109.651,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,17.6,26.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,18,107.878,2.0,MEDIUM,7.0,True,1,True,False,False,14.0,17.8,26.2,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,19,107.996,2.0,MEDIUM,8.0,True,1,True,False,False,14.0,17.9,26.2,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,20,108.199,2.0,MEDIUM,9.0,True,1,True,False,False,14.0,17.9,26.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,21,108.244,2.0,MEDIUM,10.0,True,1,True,False,False,14.0,17.9,26.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,22,108.629,2.0,MEDIUM,11.0,True,1,True,False,False,14.0,17.9,25.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,23,108.491,2.0,MEDIUM,12.0,True,1,True,False,False,14.0,18.1,25.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,24,107.872,2.0,MEDIUM,13.0,True,1,True,False,False,14.0,18.0,25.0,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,25,108.036,2.0,MEDIUM,14.0,True,1,True,False,False,14.0,17.8,24.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,26,107.91,2.0,MEDIUM,15.0,True,1,True,False,False,14.0,17.5,24.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,27,108.484,2.0,MEDIUM,16.0,True,1,True,False,False,15.0,17.5,24.2,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,28,108.72,2.0,MEDIUM,17.0,True,1,True,False,False,15.0,17.5,24.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,29,112.557,2.0,MEDIUM,18.0,True,1,False,True,False,16.0,17.5,24.2,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,30,121.996,3.0,None,,False,1,False,False,True,17.0,17.5,24.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,31,106.059,3.0,None,,False,1,True,False,False,17.0,17.5,24.7,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,32,105.849,3.0,None,,False,1,True,False,False,17.0,17.5,24.0,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,33,106.388,3.0,None,,False,1,True,False,False,17.0,17.5,23.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,34,106.95,3.0,None,,False,1,True,False,False,17.0,17.5,23.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,35,107.951,3.0,None,,False,1,True,False,False,17.0,17.5,23.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,36,107.669,3.0,None,,False,1,True,False,False,17.0,17.4,23.6,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,37,107.114,3.0,None,,False,1,True,False,False,17.0,17.2,23.1,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,38,106.841,3.0,None,,False,1,True,False,False,17.0,17.1,23.0,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,39,107.225,3.0,None,,False,1,True,False,False,17.0,17.1,22.9,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,40,107.149,3.0,None,,False,1,True,False,False,17.0,17.1,22.8,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,41,107.298,3.0,None,,False,1,True,False,False,17.0,17.1,22.4,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,42,107.268,3.0,None,,False,1,True,False,False,17.0,17.0,22.5,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,43,106.733,3.0,None,,False,1,True,False,False,17.0,16.9,22.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,ALO,Aston Martin,44,107.306,3.0,None,,False,1,True,False,False,17.0,16.9,22.3,False,20.0,17.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,1,211.318,1.0,INTERMEDIATE,1.0,True,14,False,False,True,17.0,17.5,26.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,17.0,17.7,24.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,17.0,17.6,25.0,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,17.0,17.3,24.5,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,5,123.311,1.0,INTERMEDIATE,5.0,True,1,True,False,False,16.0,17.4,24.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,6,122.267,1.0,INTERMEDIATE,6.0,True,1,True,False,False,16.0,17.4,25.7,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,7,123.356,1.0,INTERMEDIATE,7.0,True,1,True,False,False,17.0,17.5,25.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,8,124.324,1.0,INTERMEDIATE,8.0,True,1,True,False,False,17.0,17.5,25.5,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,9,125.122,1.0,INTERMEDIATE,9.0,True,1,True,False,False,17.0,17.6,25.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,10,125.764,1.0,INTERMEDIATE,10.0,True,1,True,False,False,17.0,17.5,25.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,11,124.978,1.0,INTERMEDIATE,11.0,True,1,True,False,False,15.0,17.5,25.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,12,127.24,1.0,INTERMEDIATE,12.0,True,1,False,True,False,14.0,17.6,25.3,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,13,134.944,2.0,MEDIUM,1.0,True,1,False,False,True,20.0,17.5,25.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,14,109.827,2.0,MEDIUM,2.0,True,1,True,False,False,19.0,17.5,26.0,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,15,109.04,2.0,MEDIUM,3.0,True,1,True,False,False,19.0,17.5,25.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,16,109.141,2.0,MEDIUM,4.0,True,1,True,False,False,19.0,17.5,26.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,17,109.536,2.0,MEDIUM,5.0,True,1,True,False,False,19.0,17.6,26.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,18,109.281,2.0,MEDIUM,6.0,True,1,True,False,False,19.0,17.8,26.2,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,19,108.431,2.0,MEDIUM,7.0,True,1,True,False,False,18.0,17.9,26.2,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,20,108.683,2.0,MEDIUM,8.0,True,1,True,False,False,18.0,17.9,26.3,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,21,108.688,2.0,MEDIUM,9.0,True,1,True,False,False,18.0,17.9,26.3,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,22,109.473,2.0,MEDIUM,10.0,True,1,True,False,False,18.0,17.9,25.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,23,108.981,2.0,MEDIUM,11.0,True,1,True,False,False,18.0,18.1,25.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,24,108.692,2.0,MEDIUM,12.0,True,1,True,False,False,18.0,18.0,25.0,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,25,108.596,2.0,MEDIUM,13.0,True,1,True,False,False,18.0,17.8,24.5,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,26,113.275,2.0,MEDIUM,14.0,True,1,False,True,False,18.0,17.5,24.3,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,27,124.265,3.0,HARD,,False,1,False,False,True,19.0,17.5,24.2,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,28,106.425,3.0,HARD,,False,1,True,False,False,19.0,17.5,24.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,29,106.613,3.0,HARD,,False,1,True,False,False,18.0,17.5,24.7,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,30,106.073,3.0,HARD,,False,1,True,False,False,18.0,17.6,24.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,31,106.8,3.0,HARD,,False,1,True,False,False,18.0,17.5,24.7,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,32,106.487,3.0,HARD,,False,1,True,False,False,18.0,17.5,24.0,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,33,106.501,3.0,HARD,,False,1,True,False,False,18.0,17.5,23.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,34,107.018,3.0,HARD,,False,1,True,False,False,18.0,17.5,23.5,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,35,106.954,3.0,HARD,,False,1,True,False,False,18.0,17.4,23.6,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,36,107.075,3.0,HARD,,False,1,True,False,False,18.0,17.4,23.6,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,37,106.744,3.0,HARD,,False,1,True,False,False,18.0,17.2,23.1,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,38,106.803,3.0,HARD,,False,1,True,False,False,18.0,17.1,23.0,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,39,106.672,3.0,HARD,,False,1,True,False,False,18.0,17.1,22.9,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,40,107.123,3.0,HARD,,False,1,True,False,False,18.0,17.1,22.8,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,41,107.108,3.0,HARD,,False,1,True,False,False,18.0,17.1,22.4,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,42,107.125,3.0,HARD,,False,1,True,False,False,18.0,17.0,22.5,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,43,106.894,3.0,HARD,,False,1,True,False,False,18.0,16.9,22.3,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,SAI,Williams,44,106.423,3.0,HARD,,False,1,True,False,False,18.0,16.9,22.4,False,17.0,18.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,1,207.44,1.0,INTERMEDIATE,1.0,True,14,False,False,True,15.0,17.5,26.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,15.0,17.7,24.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,15.0,17.6,25.0,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,15.0,17.3,24.5,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,5,124.273,1.0,INTERMEDIATE,5.0,True,1,True,False,False,15.0,17.4,24.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,6,122.275,1.0,INTERMEDIATE,6.0,True,1,True,False,False,15.0,17.4,25.7,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,7,123.101,1.0,INTERMEDIATE,7.0,True,1,True,False,False,15.0,17.5,25.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,8,124.446,1.0,INTERMEDIATE,8.0,True,1,True,False,False,16.0,17.5,25.5,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,9,125.097,1.0,INTERMEDIATE,9.0,True,1,True,False,False,16.0,17.6,25.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,10,125.749,1.0,INTERMEDIATE,10.0,True,1,True,False,False,16.0,17.5,25.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,11,124.737,1.0,INTERMEDIATE,11.0,True,1,True,False,False,13.0,17.5,25.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,12,127.109,1.0,INTERMEDIATE,12.0,True,1,False,True,False,13.0,17.6,25.3,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,13,130.177,2.0,MEDIUM,1.0,True,1,False,False,True,17.0,17.5,25.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,14,111.412,2.0,MEDIUM,2.0,True,1,True,False,False,15.0,17.5,26.0,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,15,109.709,2.0,MEDIUM,3.0,True,1,True,False,False,15.0,17.5,25.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,16,110.201,2.0,MEDIUM,4.0,True,1,True,False,False,15.0,17.5,26.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,17,109.645,2.0,MEDIUM,5.0,True,1,True,False,False,15.0,17.6,26.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,18,108.601,2.0,MEDIUM,6.0,True,1,True,False,False,15.0,17.8,26.2,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,19,108.833,2.0,MEDIUM,7.0,True,1,True,False,False,15.0,17.9,26.2,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,20,109.547,2.0,MEDIUM,8.0,True,1,True,False,False,16.0,17.9,26.3,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,21,109.21,2.0,MEDIUM,9.0,True,1,True,False,False,16.0,17.9,26.3,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,22,109.969,2.0,MEDIUM,10.0,True,1,True,False,False,17.0,17.9,25.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,23,108.901,2.0,MEDIUM,11.0,True,1,True,False,False,17.0,18.1,25.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,24,108.876,2.0,MEDIUM,12.0,True,1,True,False,False,17.0,18.0,25.0,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,25,108.423,2.0,MEDIUM,13.0,True,1,True,False,False,17.0,17.8,24.5,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,26,108.515,2.0,MEDIUM,14.0,True,1,True,False,False,17.0,17.5,24.3,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,27,108.807,2.0,MEDIUM,15.0,True,1,True,False,False,17.0,17.5,24.2,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,28,112.935,2.0,MEDIUM,16.0,True,1,False,True,False,18.0,17.5,24.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,29,122.751,3.0,None,,False,1,False,False,True,19.0,17.5,24.7,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,30,106.104,3.0,None,,False,1,True,False,False,19.0,17.6,24.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,31,106.44,3.0,None,,False,1,True,False,False,19.0,17.5,24.7,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,32,106.555,3.0,None,,False,1,True,False,False,19.0,17.5,24.0,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,33,106.804,3.0,None,,False,1,True,False,False,19.0,17.5,23.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,34,106.749,3.0,None,,False,1,True,False,False,19.0,17.5,23.5,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,35,107.33,3.0,None,,False,1,True,False,False,19.0,17.4,23.6,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,36,107.399,3.0,None,,False,1,True,False,False,19.0,17.4,23.6,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,37,106.88,3.0,None,,False,1,True,False,False,19.0,17.2,23.1,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,38,107.252,3.0,None,,False,1,True,False,False,19.0,17.1,23.0,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,39,107.091,3.0,None,,False,1,True,False,False,19.0,17.1,22.9,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,40,107.235,3.0,None,,False,1,True,False,False,19.0,17.1,22.8,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,41,107.158,3.0,None,,False,1,True,False,False,19.0,17.1,22.4,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,42,107.11,3.0,None,,False,1,True,False,False,19.0,17.0,22.5,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,43,106.878,3.0,None,,False,1,True,False,False,19.0,16.9,22.3,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,COL,Alpine,44,106.488,3.0,None,,False,1,True,False,False,19.0,16.9,22.4,False,15.0,19.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,1,196.869,1.0,INTERMEDIATE,1.0,True,14,False,False,True,8.0,17.5,26.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,2,,1.0,INTERMEDIATE,2.0,True,4,False,False,False,8.0,17.7,24.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,3,,1.0,INTERMEDIATE,3.0,True,4,False,False,False,8.0,17.6,25.0,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,4,,1.0,INTERMEDIATE,4.0,True,41,False,False,False,8.0,17.4,24.4,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,5,122.531,1.0,INTERMEDIATE,5.0,True,1,True,False,False,8.0,17.4,24.9,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,6,121.255,1.0,INTERMEDIATE,6.0,True,1,True,False,False,8.0,17.4,25.6,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,7,121.677,1.0,INTERMEDIATE,7.0,True,1,True,False,False,8.0,17.4,25.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,8,122.837,1.0,INTERMEDIATE,8.0,True,1,True,False,False,8.0,17.5,25.5,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,9,123.822,1.0,INTERMEDIATE,9.0,True,1,True,False,False,8.0,17.6,25.9,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,10,124.736,1.0,INTERMEDIATE,10.0,True,1,True,False,False,8.0,17.5,25.9,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,11,124.304,1.0,INTERMEDIATE,11.0,True,1,True,False,False,8.0,17.5,25.9,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,12,124.24,1.0,INTERMEDIATE,12.0,True,1,True,False,False,8.0,17.6,25.3,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,13,125.678,1.0,INTERMEDIATE,13.0,True,1,False,True,False,4.0,17.5,25.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,14,132.38,2.0,MEDIUM,4.0,False,1,False,False,True,16.0,17.5,26.0,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,15,110.02,2.0,MEDIUM,5.0,False,1,True,False,False,16.0,17.5,25.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,16,110.008,2.0,MEDIUM,6.0,False,1,True,False,False,16.0,17.5,26.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,17,110.02,2.0,MEDIUM,7.0,False,1,True,False,False,17.0,17.6,26.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,18,110.018,2.0,MEDIUM,8.0,False,1,True,False,False,18.0,17.8,26.2,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,19,110.271,2.0,MEDIUM,9.0,False,1,True,False,False,19.0,17.9,26.2,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,20,114.281,2.0,MEDIUM,10.0,False,1,False,True,False,19.0,17.9,26.3,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,21,126.369,3.0,HARD,1.0,True,1,False,False,True,20.0,17.9,26.3,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,22,108.7,3.0,HARD,2.0,True,1,True,False,False,20.0,17.9,25.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,23,108.18,3.0,HARD,3.0,True,1,True,False,False,20.0,18.1,25.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,24,108.089,3.0,HARD,4.0,True,1,True,False,False,20.0,18.0,24.7,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,25,108.402,3.0,HARD,5.0,True,1,True,False,False,20.0,17.7,24.5,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,26,108.252,3.0,HARD,6.0,True,1,True,False,False,20.0,17.5,24.3,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,27,108.684,3.0,HARD,7.0,True,1,True,False,False,20.0,17.5,24.2,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,28,108.075,3.0,HARD,8.0,True,1,True,False,False,20.0,17.5,24.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,29,108.126,3.0,HARD,9.0,True,1,True,False,False,20.0,17.5,24.7,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,30,108.127,3.0,HARD,10.0,True,1,True,False,False,20.0,17.6,24.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,31,108.157,3.0,HARD,11.0,True,1,True,False,False,20.0,17.5,24.0,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,32,107.868,3.0,HARD,12.0,True,1,True,False,False,20.0,17.5,24.0,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,33,107.807,3.0,HARD,13.0,True,1,True,False,False,20.0,17.5,23.8,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,34,108.21,3.0,HARD,14.0,True,1,True,False,False,20.0,17.5,23.5,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,35,108.129,3.0,HARD,15.0,True,1,True,False,False,20.0,17.4,23.6,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,36,108.127,3.0,HARD,16.0,True,1,True,False,False,20.0,17.3,23.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,37,108.096,3.0,HARD,17.0,True,1,True,False,False,20.0,17.2,23.1,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,38,110.358,3.0,HARD,18.0,True,1,True,False,False,20.0,17.1,23.0,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,39,109.662,3.0,HARD,19.0,True,1,True,False,False,20.0,17.1,22.9,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,40,108.196,3.0,HARD,20.0,True,1,True,False,False,20.0,17.1,22.4,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,41,109.323,3.0,HARD,21.0,True,1,True,False,False,20.0,17.1,22.5,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,42,108.079,3.0,HARD,22.0,True,1,True,False,False,20.0,17.0,22.5,False,8.0,20.0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,44,HAD,Racing Bulls,43,107.667,3.0,HARD,23.0,True,1,True,False,False,20.0,16.9,22.3,False,8.0,20.0

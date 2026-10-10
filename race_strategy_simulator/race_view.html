@@ -1,0 +1,629 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #0f1113;
+    --panel: #181b1f;
+    --panel-2: #1f2328;
+    --line: rgba(255, 255, 255, 0.09);
+    --text: #f4f4f1;
+    --muted: #9c9b94;
+    --asphalt: #3b3f45;
+    --edge: #e8e7e1;
+    --soft: #ff3b4e;
+    --medium: #ffd12e;
+    --hard: #f3f3f0;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: transparent; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--text);
+  }
+  .stage {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+  .main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 330px;
+  }
+  .track-wrap {
+    position: relative;
+    background:
+      radial-gradient(ellipse at 50% 45%, #1b2a22 0%, #131a17 55%, #0f1113 100%);
+    min-height: 500px;
+  }
+  .track-wrap svg { display: block; width: 100%; height: 100%; }
+  .hud {
+    position: absolute; left: 18px; top: 14px;
+    pointer-events: none;
+  }
+  .hud .lap {
+    font-size: 30px; font-weight: 700; letter-spacing: 0.01em;
+    font-variant-numeric: tabular-nums; line-height: 1.05;
+  }
+  .hud .lap small { font-size: 16px; font-weight: 500; color: var(--muted); }
+  .hud .title { margin-top: 4px; font-size: 13px; color: var(--muted); }
+  .note {
+    position: absolute; left: 18px; bottom: 12px;
+    font-size: 11px; color: var(--muted);
+  }
+  .side {
+    background: var(--panel);
+    border-left: 1px solid var(--line);
+    padding: 14px 14px 10px;
+    display: flex; flex-direction: column; gap: 14px;
+  }
+  .side h3 {
+    margin: 0 0 8px; font-size: 11px; font-weight: 600;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted);
+  }
+  .tower { position: relative; }
+  .row {
+    position: absolute; left: 0; right: 0; height: 48px;
+    display: grid; grid-template-columns: 22px 5px minmax(0, 1fr) auto;
+    align-items: center; column-gap: 9px;
+    padding: 0 10px 0 8px;
+    background: var(--panel-2);
+    border: 1px solid var(--line); border-radius: 9px;
+    transition: transform 0.45s cubic-bezier(.2, .8, .2, 1);
+  }
+  .row .pos { font-weight: 700; font-size: 15px; text-align: center; }
+  .row .bar { width: 5px; height: 28px; border-radius: 3px; }
+  .row .who { min-width: 0; }
+  .row .name { font-size: 14px; font-weight: 600; white-space: nowrap; }
+  .row .tyre {
+    margin-top: 2px; font-size: 11.5px; color: var(--muted);
+    display: flex; align-items: center; gap: 6px;
+    font-variant-numeric: tabular-nums;
+  }
+  .badge {
+    width: 15px; height: 15px; border-radius: 50%;
+    border: 2.5px solid var(--muted); background: #17191c;
+    font-size: 8.5px; font-weight: 700; color: var(--text);
+    display: inline-flex; align-items: center; justify-content: center;
+  }
+  .row .gap {
+    font-size: 14px; font-weight: 600; text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .row .gap .state {
+    display: block; font-size: 10px; font-weight: 700;
+    letter-spacing: 0.08em; color: var(--medium);
+  }
+  .result {
+    min-height: 20px; font-size: 13px; font-weight: 600;
+  }
+  .chart svg { display: block; width: 100%; height: auto; }
+  .chart .hint { margin-top: 4px; font-size: 11px; color: var(--muted); }
+  .controls {
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 14px;
+    background: var(--panel);
+    border-top: 1px solid var(--line);
+  }
+  button {
+    font: inherit; font-size: 13px; font-weight: 600; color: var(--text);
+    background: var(--panel-2); border: 1px solid var(--line);
+    border-radius: 8px; padding: 7px 12px; cursor: pointer;
+  }
+  button:hover { background: #2a2f36; }
+  button.primary { min-width: 84px; background: #2a78d6; border-color: #2a78d6; }
+  button.primary:hover { background: #3987e5; }
+  .speeds { display: flex; }
+  .speeds button { border-radius: 0; margin-left: -1px; padding: 7px 10px; }
+  .speeds button:first-child { border-radius: 8px 0 0 8px; margin-left: 0; }
+  .speeds button:last-child { border-radius: 0 8px 8px 0; }
+  .speeds button.on { background: #f4f4f1; color: #0f1113; }
+  input[type=range] { flex: 1; min-width: 80px; accent-color: #3987e5; }
+  .clock {
+    font-size: 12px; color: var(--muted); min-width: 64px; text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  @media (max-width: 780px) {
+    .main { grid-template-columns: 1fr; }
+    .side { border-left: 0; border-top: 1px solid var(--line); }
+    .track-wrap { min-height: 360px; }
+    .controls { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="main">
+    <div class="track-wrap">
+      <svg id="track" viewBox="0 0 1000 700" preserveAspectRatio="xMidYMid meet"
+           role="img" aria-label="Cars racing around the circuit"></svg>
+      <div class="hud">
+        <div class="lap">LAP <span id="lapNow">–</span><small> / <span id="lapTotal">–</span></small></div>
+        <div class="title" id="raceTitle"></div>
+      </div>
+      <div class="note" id="trackNote"></div>
+    </div>
+    <div class="side">
+      <div>
+        <h3>Running order</h3>
+        <div class="tower" id="tower"></div>
+      </div>
+      <div class="result" id="result"></div>
+      <div class="chart">
+        <h3 id="chartTitle">Gap</h3>
+        <svg id="chart" viewBox="0 0 300 170" role="img"
+             aria-label="Gap to the first car, lap by lap"></svg>
+        <div class="hint">Above the zero line means ahead.</div>
+      </div>
+    </div>
+  </div>
+  <div class="controls">
+    <button class="primary" id="play">▶ Play</button>
+    <button id="restart">↺ Restart</button>
+    <div class="speeds" id="speeds"></div>
+    <input type="range" id="scrub" min="0" max="1000" value="0"
+           aria-label="Race progress">
+    <div class="clock" id="clock"></div>
+  </div>
+</div>
+
+<script>
+const RACE = __RACE_DATA__;
+
+const SVG_NS = "http://www.w3.org/2000/svg";
+const COMPOUND = {
+  SOFT: { color: "var(--soft)", letter: "S" },
+  MEDIUM: { color: "var(--medium)", letter: "M" },
+  HARD: { color: "var(--hard)", letter: "H" },
+};
+// On-screen seconds for one racing lap at each speed setting.
+const SPEEDS = [
+  { label: "Slow", secondsPerLap: 6 },
+  { label: "Normal", secondsPerLap: 3 },
+  { label: "Fast", secondsPerLap: 1.2 },
+  { label: "Very fast", secondsPerLap: 0.4 },
+];
+const CAR_SCALE = 1.15;
+const CAR_SPACING = 46;    // closest two cars are drawn, in track pixels
+const TAG_OFFSET = 36;     // distance of a car's name tag from the car
+const ROW_HEIGHT = 54;
+
+function el(name, attrs = {}, parent) {
+  const node = document.createElementNS(SVG_NS, name);
+  for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+  if (parent) parent.appendChild(node);
+  return node;
+}
+
+// ---------------------------------------------------------------- track ---
+
+function fitTrack(points) {
+  const xs = points.map(p => p[0]), ys = points.map(p => p[1]);
+  const minX = Math.min(...xs), maxX = Math.max(...xs);
+  const minY = Math.min(...ys), maxY = Math.max(...ys);
+  const margin = 95;
+  const scale = Math.min((1000 - 2 * margin) / (maxX - minX),
+                         (700 - 2 * margin) / (maxY - minY));
+  const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
+  return points.map(p => [500 + (p[0] - cx) * scale, 362 + (p[1] - cy) * scale]);
+}
+
+// Closed Catmull-Rom spline through the outline points, as cubic Béziers.
+function smoothClosedPath(points) {
+  const n = points.length;
+  let d = `M${points[0][0].toFixed(1)},${points[0][1].toFixed(1)}`;
+  for (let i = 0; i < n; i++) {
+    const p0 = points[(i - 1 + n) % n], p1 = points[i];
+    const p2 = points[(i + 1) % n], p3 = points[(i + 2) % n];
+    const c1 = [p1[0] + (p2[0] - p0[0]) / 6, p1[1] + (p2[1] - p0[1]) / 6];
+    const c2 = [p2[0] - (p3[0] - p1[0]) / 6, p2[1] - (p3[1] - p1[1]) / 6];
+    d += ` C${c1[0].toFixed(1)},${c1[1].toFixed(1)} ${c2[0].toFixed(1)},${c2[1].toFixed(1)} ${p2[0].toFixed(1)},${p2[1].toFixed(1)}`;
+  }
+  return d + " Z";
+}
+
+const svg = document.getElementById("track");
+let outline = RACE.track.slice();
+const first = outline[0], last = outline[outline.length - 1];
+if (Math.hypot(first[0] - last[0], first[1] - last[1]) < 1e-6) outline.pop();
+
+const pathData = smoothClosedPath(fitTrack(outline));
+
+el("path", { d: pathData, fill: "none", stroke: "rgba(0,0,0,0.45)",
+             "stroke-width": 44, "stroke-linejoin": "round" }, svg);
+el("path", { d: pathData, fill: "none", stroke: "var(--edge)",
+             "stroke-width": 36, "stroke-linejoin": "round" }, svg);
+const road = el("path", { d: pathData, fill: "none", stroke: "var(--asphalt)",
+                          "stroke-width": 31, "stroke-linejoin": "round" }, svg);
+el("path", { d: pathData, fill: "none", stroke: "rgba(255,255,255,0.16)",
+             "stroke-width": 1.2, "stroke-dasharray": "9 13" }, svg);
+
+const trackLength = road.getTotalLength();
+
+function trackPoint(lapFraction) {
+  const frac = ((lapFraction % 1) + 1) % 1;
+  const here = road.getPointAtLength(frac * trackLength);
+  const ahead = road.getPointAtLength(((frac * trackLength) + 3) % trackLength);
+  const angle = Math.atan2(ahead.y - here.y, ahead.x - here.x);
+  return { x: here.x, y: here.y, angle };
+}
+
+// Start line, and a pit box on the infield side of it.
+const startPoint = trackPoint(0);
+const centroid = fitTrack(outline).reduce(
+  (acc, p) => [acc[0] + p[0] / outline.length, acc[1] + p[1] / outline.length], [0, 0]);
+const normal = { x: -Math.sin(startPoint.angle), y: Math.cos(startPoint.angle) };
+const inward = ((centroid[0] - startPoint.x) * normal.x +
+                (centroid[1] - startPoint.y) * normal.y) >= 0 ? 1 : -1;
+const pitCentre = {
+  x: startPoint.x + normal.x * inward * 58,
+  y: startPoint.y + normal.y * inward * 58,
+};
+const degrees = startPoint.angle * 180 / Math.PI;
+
+const pitGroup = el("g", {
+  transform: `translate(${pitCentre.x},${pitCentre.y}) rotate(${degrees})` }, svg);
+el("rect", { x: -70, y: -16, width: 140, height: 32, rx: 7,
+             fill: "rgba(20,22,25,0.92)", stroke: "rgba(255,255,255,0.28)",
+             "stroke-width": 1.2 }, pitGroup);
+const pitLabel = el("text", { x: 0, y: -22, "text-anchor": "middle",
+                              fill: "var(--muted)", "font-size": 11,
+                              "font-weight": 600, "letter-spacing": "0.1em" }, pitGroup);
+pitLabel.textContent = "PIT";
+
+// Chequered start/finish line across the road.
+const lineGroup = el("g", {
+  transform: `translate(${startPoint.x},${startPoint.y}) rotate(${degrees})` }, svg);
+for (let i = 0; i < 8; i++) {
+  for (let j = 0; j < 2; j++) {
+    el("rect", { x: -4 + j * 4, y: -15.5 + i * 3.875, width: 4, height: 3.875,
+                 fill: (i + j) % 2 ? "#111" : "#fff" }, lineGroup);
+  }
+}
+
+// ----------------------------------------------------------------- cars ---
+
+function buildCar(car, index) {
+  const group = el("g", {}, svg);
+  el("ellipse", { cx: 0, cy: 0, rx: 21, ry: 10, fill: "rgba(0,0,0,0.35)" }, group);
+
+  const wheels = [];
+  for (const [x, y, w, h] of [[-13.5, -8.6, 7.5, 4], [-13.5, 4.6, 7.5, 4],
+                              [7.5, -8.2, 6.5, 3.6], [7.5, 4.6, 6.5, 3.6]]) {
+    wheels.push(el("rect", { x, y, width: w, height: h, rx: 1.4,
+                             fill: "#0b0c0d", "stroke-width": 1.5 }, group));
+  }
+  el("rect", { x: -18.5, y: -7, width: 4, height: 14, rx: 1,
+               fill: car.color, stroke: "rgba(0,0,0,0.5)", "stroke-width": 0.6 }, group);
+  el("path", { d: "M-15,-2.6 L-6,-5 L3,-4.4 L9,-1.9 L18,-1.3 L18,1.3 L9,1.9 L3,4.4 L-6,5 L-15,2.6 Z",
+               fill: car.color, stroke: "rgba(255,255,255,0.85)",
+               "stroke-width": 0.8, "stroke-linejoin": "round" }, group);
+  el("rect", { x: 15.5, y: -7.4, width: 3.6, height: 14.8, rx: 1,
+               fill: car.color, stroke: "rgba(0,0,0,0.5)", "stroke-width": 0.6 }, group);
+  el("ellipse", { cx: -1.5, cy: 0, rx: 3.6, ry: 2.1, fill: "#0b0c0d" }, group);
+
+  const tag = el("g", {}, svg);
+  const tagWidth = 12 + car.short.length * 6.6;
+  el("rect", { x: -tagWidth / 2, y: -8, width: tagWidth, height: 16, rx: 8,
+               fill: car.color, stroke: "rgba(0,0,0,0.45)", "stroke-width": 0.8 }, tag);
+  const text = el("text", { x: 0, y: 3.8, "text-anchor": "middle", fill: "#fff",
+                            "font-size": 10.5, "font-weight": 700,
+                            "letter-spacing": "0.05em" }, tag);
+  text.textContent = car.short;
+
+  return { group, wheels, tag };
+}
+
+// ------------------------------------------------------------ race maths ---
+
+function interpolate(xs, ys, x) {
+  if (x <= xs[0]) return ys[0];
+  const n = xs.length;
+  if (x >= xs[n - 1]) return ys[n - 1];
+  let lo = 0, hi = n - 1;
+  while (hi - lo > 1) {
+    const mid = (lo + hi) >> 1;
+    if (xs[mid] <= x) lo = mid; else hi = mid;
+  }
+  const span = xs[hi] - xs[lo];
+  return span === 0 ? ys[hi] : ys[lo] + (ys[hi] - ys[lo]) * (x - xs[lo]) / span;
+}
+
+function progressAt(car, time) {
+  return interpolate(car.knotT, car.knotP, time);
+}
+
+// First moment a car reaches a given distance (laps completed).
+function timeAtProgress(car, progress) {
+  const p = car.knotP, t = car.knotT;
+  if (progress <= p[0]) return t[0];
+  for (let i = 1; i < p.length; i++) {
+    if (p[i] >= progress) {
+      const span = p[i] - p[i - 1];
+      return span === 0 ? t[i - 1]
+        : t[i - 1] + (t[i] - t[i - 1]) * (progress - p[i - 1]) / span;
+    }
+  }
+  return t[t.length - 1];
+}
+
+function pitWindow(car, time) {
+  for (const [from, to] of car.pits) {
+    if (time >= from && time < to) return [from, to];
+  }
+  return null;
+}
+
+function lapIndex(car, progress) {
+  const index = Math.floor(progress + 1e-9) - (RACE.startLap - 1);
+  return Math.max(0, Math.min(car.compound.length - 1, index));
+}
+
+const smooth = x => x * x * (3 - 2 * x);
+
+// ---------------------------------------------------------------- tower ---
+
+const tower = document.getElementById("tower");
+tower.style.height = `${RACE.cars.length * ROW_HEIGHT - 6}px`;
+
+const rows = RACE.cars.map(car => {
+  const row = document.createElement("div");
+  row.className = "row";
+  row.innerHTML = `
+    <div class="pos"></div>
+    <div class="bar" style="background:${car.color}"></div>
+    <div class="who">
+      <div class="name">${car.name}</div>
+      <div class="tyre"><span class="badge"></span><span class="age"></span></div>
+    </div>
+    <div class="gap"><span class="value"></span><span class="state"></span></div>`;
+  tower.appendChild(row);
+  return {
+    row,
+    pos: row.querySelector(".pos"),
+    badge: row.querySelector(".badge"),
+    age: row.querySelector(".age"),
+    value: row.querySelector(".value"),
+    state: row.querySelector(".state"),
+  };
+});
+
+// ------------------------------------------------------------ gap chart ---
+
+const chart = document.getElementById("chart");
+const reference = RACE.cars[0];
+document.getElementById("chartTitle").textContent =
+  `Lead over ${reference.name} (seconds)`;
+
+// Positive = ahead of the reference car, so the leader is the top line.
+const gapSeries = RACE.cars.map(car =>
+  car.lapEnd.map((time, i) => reference.lapEnd[i] - time));
+const allGaps = gapSeries.flat();
+let gapMin = Math.min(-1, ...allGaps), gapMax = Math.max(1, ...allGaps);
+const gapPad = 0.1 * (gapMax - gapMin);
+gapMin -= gapPad; gapMax += gapPad;
+
+const plot = { left: 34, right: 292, top: 8, bottom: 146 };
+const lapX = lap => plot.left + (plot.right - plot.left) *
+  (lap - RACE.startLap) / Math.max(1, RACE.totalLaps - RACE.startLap);
+// Larger values are drawn higher up.
+const gapY = gap => plot.bottom - (plot.bottom - plot.top) *
+  (gap - gapMin) / (gapMax - gapMin);
+
+for (const value of [gapMin + gapPad, 0, gapMax - gapPad]) {
+  if (value !== 0 && Math.abs(value) < 0.5) continue;
+  el("line", { x1: plot.left, x2: plot.right, y1: gapY(value), y2: gapY(value),
+               stroke: value === 0 ? "rgba(255,255,255,0.4)" : "rgba(255,255,255,0.09)",
+               "stroke-width": 1 }, chart);
+  const label = el("text", { x: plot.left - 6, y: gapY(value) + 3.5,
+                             "text-anchor": "end", fill: "#9c9b94",
+                             "font-size": 10 }, chart);
+  label.textContent = (value > 0 ? "+" : "") + value.toFixed(0);
+}
+for (const lap of [RACE.startLap, RACE.totalLaps]) {
+  const label = el("text", { x: lapX(lap), y: 162, fill: "#9c9b94", "font-size": 10,
+                             "text-anchor": lap === RACE.startLap ? "start" : "end" }, chart);
+  label.textContent = `lap ${lap}`;
+}
+const gapLines = RACE.cars.map(car => el("polyline", {
+  fill: "none", stroke: car.color, "stroke-width": 2,
+  "stroke-linejoin": "round", "stroke-linecap": "round" }, chart));
+const gapDots = RACE.cars.map(car => el("circle", {
+  r: 3.2, fill: car.color, stroke: "#181b1f", "stroke-width": 1.5,
+  visibility: "hidden" }, chart));
+
+// ----------------------------------------------------------------- draw ---
+
+const carNodes = RACE.cars.map(buildCar);
+const raceEnd = Math.max(...RACE.cars.map(car => car.finish));
+
+document.getElementById("lapTotal").textContent = RACE.totalLaps;
+document.getElementById("raceTitle").textContent = RACE.title;
+document.getElementById("trackNote").textContent = RACE.trackNote;
+
+function draw(time) {
+  const states = RACE.cars.map((car, i) => {
+    const finished = time >= car.finish;
+    const progress = finished ? RACE.totalLaps : progressAt(car, time);
+    const index = lapIndex(car, progress);
+    const pit = finished ? null : pitWindow(car, time);
+    return { car, i, finished, progress, index, pit };
+  });
+
+  // Running order: distance covered, then who got there first.
+  const order = states.slice().sort((a, b) =>
+    (b.progress - a.progress) ||
+    (timeAtProgress(a.car, a.progress) - timeAtProgress(b.car, b.progress)));
+  const leader = order[0];
+
+  // Where to draw each car. Cars closer than a car length would overprint,
+  // so a following car is held one car length back; real gaps larger than
+  // that are drawn exactly. The timing tower always shows the true gap.
+  const spacing = CAR_SPACING / trackLength;
+  let ahead = Infinity;
+  for (const state of order) {
+    if (state.finished || state.pit) continue;
+    state.shown = Math.min(state.progress, ahead - spacing);
+    ahead = state.shown;
+  }
+  // Finished cars park just past the line in finishing order.
+  const finishers = states.filter(state => state.finished)
+    .sort((a, b) => a.car.finish - b.car.finish);
+  finishers.forEach((state, rank) => {
+    state.shown = spacing * (finishers.length - rank);
+  });
+
+  for (const state of states) {
+    const { car, i, pit } = state;
+    let point = pit ? startPoint : trackPoint(state.shown);
+    let x = point.x, y = point.y;
+
+    if (pit) {
+      // Drive from the line into the pit box, wait, then drive back out.
+      const [from, to] = pit;
+      const travel = Math.min(0.2 * (to - from), 5);
+      const into = Math.min(1, (time - from) / travel);
+      const out = Math.min(1, (to - time) / travel);
+      const amount = smooth(Math.min(into, out));
+      const slot = (i - (RACE.cars.length - 1) / 2) * 44;
+      const boxX = pitCentre.x + Math.cos(startPoint.angle) * slot;
+      const boxY = pitCentre.y + Math.sin(startPoint.angle) * slot;
+      x = startPoint.x + (boxX - startPoint.x) * amount;
+      y = startPoint.y + (boxY - startPoint.y) * amount;
+    }
+
+    const nodes = carNodes[i];
+    nodes.group.setAttribute("transform",
+      `translate(${x.toFixed(1)},${y.toFixed(1)}) rotate(${(point.angle * 180 / Math.PI).toFixed(1)}) scale(${CAR_SCALE})`);
+    // The name tag sits beside the car, off the track, so it never covers
+    // a car running just ahead or behind.
+    const tagX = x + Math.sin(point.angle) * TAG_OFFSET;
+    const tagY = y - Math.cos(point.angle) * TAG_OFFSET;
+    nodes.tag.setAttribute("transform",
+      `translate(${tagX.toFixed(1)},${tagY.toFixed(1)})`);
+
+    // After the stop the next lap's tyre is fitted.
+    const tyreIndex = pit ? Math.min(car.compound.length - 1, state.index + 1) : state.index;
+    const compound = COMPOUND[car.compound[tyreIndex]] || COMPOUND.HARD;
+    for (const wheel of nodes.wheels) wheel.setAttribute("stroke", compound.color);
+
+    const row = rows[i];
+    const rank = order.indexOf(state);
+    row.row.style.transform = `translateY(${rank * ROW_HEIGHT}px)`;
+    row.pos.textContent = rank + 1;
+    row.badge.textContent = compound.letter;
+    row.badge.style.borderColor = compound.color;
+    row.age.textContent = pit ? "new tyres"
+      : `${car.compound[tyreIndex].toLowerCase()}, ${Math.round(car.tyreAge[tyreIndex])} laps old`;
+
+    let gap = 0;
+    if (state !== leader) {
+      gap = (state.finished && leader.finished)
+        ? car.finish - leader.car.finish
+        : Math.max(0, time - timeAtProgress(leader.car, state.progress));
+    }
+    row.value.textContent = state === leader ? "Leader" : `+${gap.toFixed(1)} s`;
+    row.state.textContent = state.finished ? "FINISHED" : (pit ? "IN PIT" : "");
+  }
+
+  const lapNow = Math.min(RACE.totalLaps,
+    Math.floor(leader.progress + 1e-9) + (leader.finished ? 0 : 1));
+  document.getElementById("lapNow").textContent = lapNow;
+
+  // Gap chart: reveal each lap once both cars have completed it.
+  RACE.cars.forEach((car, i) => {
+    const points = [];
+    for (let k = 0; k < car.lapEnd.length; k++) {
+      if (car.lapEnd[k] > time || reference.lapEnd[k] > time) break;
+      points.push(`${lapX(car.lapNumbers[k]).toFixed(1)},${gapY(gapSeries[i][k]).toFixed(1)}`);
+    }
+    gapLines[i].setAttribute("points", points.join(" "));
+    if (points.length) {
+      const [px, py] = points[points.length - 1].split(",");
+      gapDots[i].setAttribute("cx", px);
+      gapDots[i].setAttribute("cy", py);
+      gapDots[i].setAttribute("visibility", "visible");
+    } else {
+      gapDots[i].setAttribute("visibility", "hidden");
+    }
+  });
+
+  const result = document.getElementById("result");
+  if (states.every(state => state.finished)) {
+    const final = RACE.cars.slice().sort((a, b) => a.finish - b.finish);
+    result.textContent = final.length > 1
+      ? `🏁 ${final[0].name} wins by ${(final[1].finish - final[0].finish).toFixed(1)} s`
+      : `🏁 ${final[0].name} finishes`;
+  } else {
+    result.textContent = "";
+  }
+
+  document.getElementById("scrub").value = Math.round(1000 * time / raceEnd);
+  const minutes = Math.floor(time / 60);
+  document.getElementById("clock").textContent =
+    `${minutes}:${String(Math.floor(time % 60)).padStart(2, "0")} race time`;
+}
+
+// ------------------------------------------------------------- playback ---
+
+let raceTime = 0, playing = false, lastFrame = null, speed = SPEEDS[1];
+const playButton = document.getElementById("play");
+
+function setPlaying(value) {
+  playing = value;
+  playButton.textContent = playing ? "⏸ Pause" : "▶ Play";
+  lastFrame = null;
+  if (playing) requestAnimationFrame(tick);
+}
+
+function tick(now) {
+  if (!playing) return;
+  if (lastFrame !== null) {
+    const elapsed = Math.min(0.1, (now - lastFrame) / 1000);
+    raceTime += elapsed * RACE.averageLap / speed.secondsPerLap;
+  }
+  lastFrame = now;
+  if (raceTime >= raceEnd) {
+    raceTime = raceEnd;
+    draw(raceTime);
+    setPlaying(false);
+    return;
+  }
+  draw(raceTime);
+  requestAnimationFrame(tick);
+}
+
+playButton.addEventListener("click", () => {
+  if (!playing && raceTime >= raceEnd) raceTime = 0;
+  setPlaying(!playing);
+});
+document.getElementById("restart").addEventListener("click", () => {
+  raceTime = 0;
+  draw(0);
+  setPlaying(true);
+});
+document.getElementById("scrub").addEventListener("input", event => {
+  raceTime = raceEnd * event.target.value / 1000;
+  draw(raceTime);
+});
+
+const speedBox = document.getElementById("speeds");
+SPEEDS.forEach(option => {
+  const button = document.createElement("button");
+  button.textContent = option.label;
+  if (option === speed) button.className = "on";
+  button.addEventListener("click", () => {
+    speed = option;
+    for (const other of speedBox.children) other.className = "";
+    button.className = "on";
+  });
+  speedBox.appendChild(button);
+});
+
+draw(0);
+</script>
+</body>
+</html>

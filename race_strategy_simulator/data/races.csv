@@ -1,0 +1,93 @@
+Year,Round,EventName,Circuit,Split,TotalLaps,wet_share,green_share,is_dry,n_model_laps
+2022,1,Bahrain Grand Prix,Sakhir,train,57,0.0,0.8515555555555555,True,698
+2022,2,Saudi Arabian Grand Prix,Jeddah,train,50,0.0,0.7670731707317073,True,456
+2022,3,Australian Grand Prix,Melbourne,train,58,0.0,0.8047846889952153,True,635
+2022,4,Emilia Romagna Grand Prix,Imola,train,63,0.29063604240282687,0.8931095406360424,False,0
+2022,5,Miami Grand Prix,Miami,train,57,0.0,0.8107852412488175,True,647
+2022,6,Spanish Grand Prix,Barcelona,train,66,0.0,0.9479674796747968,True,814
+2022,7,Monaco Grand Prix,Monaco,train,64,0.3375742154368109,0.7718405428329093,False,0
+2022,8,Azerbaijan Grand Prix,Baku,train,51,0.0,0.8731762065095399,True,556
+2022,9,Canadian Grand Prix,Montréal,train,70,0.0,0.8306962025316456,True,765
+2022,10,British Grand Prix,Silverstone,train,52,0.0,0.8723926380368098,True,0
+2022,11,Austrian Grand Prix,Spielberg,train,71,0.0,0.9350453172205438,True,650
+2022,12,French Grand Prix,Le Castellet,train,53,0.0,0.8413361169102297,True,633
+2022,13,Hungarian Grand Prix,Budapest,train,70,0.0,0.871294287780188,True,614
+2022,14,Belgian Grand Prix,Spa-Francorchamps,train,44,0.0,0.88510101010101,True,446
+2022,15,Dutch Grand Prix,Zandvoort,train,72,0.0,0.8139367816091954,True,891
+2022,16,Italian Grand Prix,Monza,train,53,0.0,0.8341915550978373,True,593
+2022,17,Singapore Grand Prix,Marina Bay,train,59,0.6222222222222222,0.6772486772486772,False,0
+2022,18,Japanese Grand Prix,Suzuka,train,29,1.0,0.9250493096646942,False,0
+2022,19,United States Grand Prix,Austin,train,56,0.0,0.8286290322580645,True,625
+2022,20,Mexico City Grand Prix,Mexico City,train,71,0.0,0.9753444525018129,True,1114
+2022,21,São Paulo Grand Prix,São Paulo,train,71,0.0,0.7807783955520254,True,682
+2022,22,Abu Dhabi Grand Prix,Yas Island,train,58,0.0,0.982094897045658,True,855
+2023,1,Bahrain Grand Prix,Sakhir,train,57,0.0,0.9270833333333334,True,733
+2023,2,Saudi Arabian Grand Prix,Jeddah,train,50,0.0,0.9183457051961824,True,593
+2023,3,Australian Grand Prix,Melbourne,train,58,0.0,0.8035892323030908,True,482
+2023,4,Azerbaijan Grand Prix,Baku,train,51,0.0,0.8607068607068608,True,655
+2023,5,Miami Grand Prix,Miami,train,57,0.0,1.0,True,832
+2023,6,Monaco Grand Prix,Monaco,train,78,0.29306930693069305,0.8587458745874588,False,0
+2023,7,Spanish Grand Prix,Barcelona,train,66,0.0,1.0,True,1004
+2023,8,Canadian Grand Prix,Montréal,train,70,0.0,0.8587699316628702,True,871
+2023,9,Austrian Grand Prix,Spielberg,train,71,0.0,0.9047267355982275,True,0
+2023,10,British Grand Prix,Silverstone,train,52,0.0,0.8712667353244078,True,646
+2023,11,Hungarian Grand Prix,Budapest,train,70,0.0,0.9688498402555911,True,999
+2023,12,Belgian Grand Prix,Spa-Francorchamps,train,44,0.0,0.9325980392156863,True,337
+2023,13,Dutch Grand Prix,Zandvoort,train,72,0.24422933730454208,0.8466120625465376,False,0
+2023,14,Italian Grand Prix,Monza,train,51,0.0,1.0,True,724
+2023,15,Singapore Grand Prix,Marina Bay,train,62,0.0,0.7766544117647058,True,651
+2023,16,Japanese Grand Prix,Suzuka,train,53,0.0,0.8534090909090909,True,475
+2023,17,Qatar Grand Prix,Lusail,train,57,0.0,0.8906560636182903,True,402
+2023,18,United States Grand Prix,Austin,train,56,0.0,0.9930966469428008,True,755
+2023,19,Mexico City Grand Prix,Mexico City,train,71,0.0,0.8634945397815913,True,908
+2023,20,São Paulo Grand Prix,São Paulo,train,71,0.0,0.9693140794223827,True,0
+2023,21,Las Vegas Grand Prix,Las Vegas,train,50,0.0,0.7124735729386892,True,387
+2023,22,Abu Dhabi Grand Prix,Yas Island,train,58,0.0,1.0,True,911
+2024,1,Bahrain Grand Prix,Sakhir,validation,57,0.0,0.9627989371124889,True,808
+2024,2,Saudi Arabian Grand Prix,Jeddah,validation,50,0.0,0.9234184239733629,True,700
+2024,3,Australian Grand Prix,Melbourne,validation,58,0.0,0.938877755511022,True,734
+2024,4,Japanese Grand Prix,Suzuka,validation,53,0.0,0.9536934950385888,True,0
+2024,5,Chinese Grand Prix,Shanghai,validation,56,0.0,0.7839147286821705,True,595
+2024,6,Miami Grand Prix,Miami,validation,57,0.0,0.882988298829883,True,773
+2024,7,Emilia Romagna Grand Prix,Imola,validation,63,0.0,1.0,True,1007
+2024,8,Monaco Grand Prix,Monaco,validation,78,0.0,0.9563459983831851,True,0
+2024,9,Canadian Grand Prix,Montréal,validation,70,0.6650943396226415,0.7507861635220126,False,0
+2024,10,Spanish Grand Prix,Barcelona,validation,66,0.0,1.0,True,1030
+2024,11,Austrian Grand Prix,Spielberg,validation,71,0.0,0.9651245551601424,True,982
+2024,12,British Grand Prix,Silverstone,validation,52,0.24375,1.0,False,0
+2024,13,Hungarian Grand Prix,Budapest,validation,70,0.0,0.9845018450184502,True,1037
+2024,14,Belgian Grand Prix,Spa-Francorchamps,validation,44,0.0,0.9774078478002378,True,590
+2024,15,Dutch Grand Prix,Zandvoort,validation,72,0.0,1.0,True,1189
+2024,16,Italian Grand Prix,Monza,validation,53,0.0,1.0,True,775
+2024,17,Azerbaijan Grand Prix,Baku,validation,51,0.0,0.935251798561151,True,660
+2024,18,Singapore Grand Prix,Marina Bay,validation,62,0.0,1.0,True,947
+2024,19,United States Grand Prix,Austin,validation,56,0.0,0.874409820585458,True,724
+2024,20,Mexico City Grand Prix,Mexico City,validation,71,0.0,0.9094650205761317,True,950
+2024,21,São Paulo Grand Prix,São Paulo,validation,69,1.0,0.7107583774250441,False,0
+2024,22,Las Vegas Grand Prix,Las Vegas,validation,50,0.0,1.0,True,629
+2024,23,Qatar Grand Prix,Lusail,validation,57,0.0,0.7391304347826086,True,540
+2024,24,Abu Dhabi Grand Prix,Yas Island,validation,58,0.0,0.9014492753623189,True,662
+2025,1,Australian Grand Prix,Melbourne,test,57,0.8090614886731392,0.598705501618123,False,0
+2025,2,Chinese Grand Prix,Shanghai,test,56,0.0,0.9333333333333333,True,761
+2025,3,Japanese Grand Prix,Suzuka,test,53,0.0,1.0,True,836
+2025,4,Bahrain Grand Prix,Sakhir,test,57,0.0,0.9290780141843972,True,803
+2025,5,Saudi Arabian Grand Prix,Jeddah,test,50,0.0,0.9376391982182628,True,553
+2025,6,Miami Grand Prix,Miami,test,57,0.0,0.8766169154228856,True,130
+2025,7,Emilia Romagna Grand Prix,Imola,test,63,0.0,0.8169014084507042,True,766
+2025,8,Monaco Grand Prix,Monaco,test,78,0.0,0.8764912280701754,True,352
+2025,9,Spanish Grand Prix,Barcelona,test,66,0.0,0.9044056525353283,True,846
+2025,10,Canadian Grand Prix,Montréal,test,70,0.0,0.9199406968124537,True,1000
+2025,11,Austrian Grand Prix,Spielberg,test,70,0.0,0.9387211367673179,True,804
+2025,12,British Grand Prix,Silverstone,test,52,0.7369696969696969,0.5878787878787879,False,0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,test,44,0.27303754266211605,0.9089874857792947,False,0
+2025,14,Hungarian Grand Prix,Budapest,test,70,0.0,1.0,True,1132
+2025,15,Dutch Grand Prix,Zandvoort,test,72,0.0,0.7683284457478006,True,847
+2025,16,Italian Grand Prix,Monza,test,53,0.0,0.9804928131416838,True,745
+2025,17,Azerbaijan Grand Prix,Baku,test,51,0.0,0.8553719008264463,True,591
+2025,18,Singapore Grand Prix,Marina Bay,test,62,0.0,0.967453213995118,True,956
+2025,19,United States Grand Prix,Austin,test,56,0.0,0.9034676663542643,True,779
+2025,20,Mexico City Grand Prix,Mexico City,test,71,0.0,0.9350752177355502,True,950
+2025,21,São Paulo Grand Prix,São Paulo,test,71,0.0,0.8792965627498002,True,774
+2025,22,Las Vegas Grand Prix,Las Vegas,test,50,0.0,0.8950338600451467,True,472
+2025,23,Qatar Grand Prix,Lusail,test,57,0.0,0.9278350515463918,True,818
+2025,24,Abu Dhabi Grand Prix,Yas Island,test,58,0.0,1.0,True,929

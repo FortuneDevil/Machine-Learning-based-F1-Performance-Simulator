@@ -1,0 +1,959 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,1,104.415,1.0,MEDIUM,1.0,True,12,False,False,False,2.0,30.3,51.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,2,98.33,1.0,MEDIUM,2.0,True,1,True,False,False,2.0,30.5,52.3,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,3,98.117,1.0,MEDIUM,3.0,True,1,True,False,False,2.0,30.3,52.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,4,98.39,1.0,MEDIUM,4.0,True,1,True,False,False,2.0,30.3,52.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,5,98.72,1.0,MEDIUM,5.0,True,1,True,False,False,2.0,30.3,52.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,6,98.634,1.0,MEDIUM,6.0,True,1,True,False,False,2.0,30.4,54.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,7,99.219,1.0,MEDIUM,7.0,True,1,True,False,False,2.0,30.4,54.4,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,8,99.159,1.0,MEDIUM,8.0,True,1,True,False,False,2.0,30.3,54.0,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,9,99.13,1.0,MEDIUM,9.0,True,1,True,False,False,2.0,30.6,54.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,10,99.043,1.0,MEDIUM,10.0,True,1,True,False,False,2.0,30.6,54.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,11,99.285,1.0,MEDIUM,11.0,True,1,True,False,False,2.0,30.5,53.8,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,12,99.109,1.0,MEDIUM,12.0,True,1,True,False,False,2.0,30.3,54.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,13,99.026,1.0,MEDIUM,13.0,True,1,True,False,False,2.0,30.3,55.5,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,14,99.276,1.0,MEDIUM,14.0,True,1,True,False,False,2.0,30.1,54.8,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,15,99.102,1.0,MEDIUM,15.0,True,1,True,False,False,2.0,30.2,55.0,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,16,117.773,1.0,MEDIUM,16.0,True,1,False,True,False,5.0,30.3,55.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,17,105.628,2.0,HARD,1.0,True,1,False,False,True,6.0,30.4,55.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,18,112.41,2.0,HARD,2.0,True,124,False,False,False,2.0,30.3,54.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,19,,2.0,HARD,3.0,True,4,False,False,False,1.0,30.1,55.4,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,20,,2.0,HARD,4.0,True,41,False,False,False,1.0,30.2,55.5,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,21,97.701,2.0,HARD,5.0,True,1,True,False,False,1.0,30.3,55.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,22,97.774,2.0,HARD,6.0,True,12,True,False,False,1.0,30.5,55.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,23,98.273,2.0,HARD,7.0,True,21,True,False,False,1.0,30.5,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,24,98.009,2.0,HARD,8.0,True,1,True,False,False,1.0,30.4,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,25,98.344,2.0,HARD,9.0,True,1,True,False,False,1.0,30.6,56.5,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,26,97.95,2.0,HARD,10.0,True,1,True,False,False,1.0,30.4,56.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,27,97.967,2.0,HARD,11.0,True,1,True,False,False,1.0,30.4,55.8,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,28,97.696,2.0,HARD,12.0,True,1,True,False,False,1.0,30.2,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,29,97.695,2.0,HARD,13.0,True,1,True,False,False,1.0,30.1,55.4,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,30,97.491,2.0,HARD,14.0,True,1,True,False,False,1.0,29.9,55.8,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,31,97.786,2.0,HARD,15.0,True,1,True,False,False,1.0,29.9,56.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,32,97.804,2.0,HARD,16.0,True,1,True,False,False,1.0,29.9,57.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,33,97.9,2.0,HARD,17.0,True,1,True,False,False,1.0,30.1,57.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,34,97.911,2.0,HARD,18.0,True,1,True,False,False,1.0,30.1,56.3,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,35,98.301,2.0,HARD,19.0,True,1,True,False,False,1.0,30.4,55.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,36,98.053,2.0,HARD,20.0,True,1,True,False,False,1.0,30.4,56.3,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,37,98.27,2.0,HARD,21.0,True,1,True,False,False,1.0,30.3,56.7,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,38,97.683,2.0,HARD,22.0,True,12,True,False,False,1.0,30.2,56.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,39,98.027,2.0,HARD,23.0,True,1,True,False,False,1.0,30.1,56.0,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,40,97.838,2.0,HARD,24.0,True,1,True,False,False,1.0,30.0,55.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,41,97.736,2.0,HARD,25.0,True,1,True,False,False,1.0,30.1,55.0,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,42,97.836,2.0,HARD,26.0,True,1,True,False,False,1.0,30.0,55.0,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,43,97.642,2.0,HARD,27.0,True,1,True,False,False,1.0,29.9,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,44,98.019,2.0,HARD,28.0,True,1,True,False,False,1.0,29.9,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,45,97.856,2.0,HARD,29.0,True,1,True,False,False,1.0,29.8,56.4,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,46,98.242,2.0,HARD,30.0,True,1,True,False,False,1.0,29.6,56.1,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,47,98.073,2.0,HARD,31.0,True,1,True,False,False,1.0,29.5,55.7,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,48,97.945,2.0,HARD,32.0,True,1,True,False,False,1.0,29.9,55.6,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,49,98.732,2.0,HARD,33.0,True,12,True,False,False,1.0,29.9,56.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,50,132.092,2.0,HARD,34.0,True,2671,False,False,False,1.0,29.8,56.3,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,51,99.093,2.0,HARD,35.0,True,1,True,False,False,1.0,29.7,55.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,52,98.288,2.0,HARD,36.0,True,1,True,False,False,1.0,29.6,55.9,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,VER,Red Bull Racing,53,98.442,2.0,HARD,37.0,True,1,True,False,False,1.0,29.5,55.2,False,2.0,1.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,1,114.14,1.0,HARD,1.0,True,12,False,False,False,15.0,30.3,51.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,2,102.174,1.0,HARD,2.0,True,1,True,False,False,15.0,30.5,52.3,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,3,101.845,1.0,HARD,3.0,True,1,True,False,False,16.0,30.3,52.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,4,100.767,1.0,HARD,4.0,True,1,True,False,False,16.0,30.3,52.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,5,100.789,1.0,HARD,5.0,True,1,True,False,False,16.0,30.3,52.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,6,100.801,1.0,HARD,6.0,True,1,True,False,False,16.0,30.4,54.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,7,101.08,1.0,HARD,7.0,True,1,True,False,False,16.0,30.3,54.0,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,8,100.618,1.0,HARD,8.0,True,1,True,False,False,15.0,30.3,54.0,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,9,100.73,1.0,HARD,9.0,True,1,True,False,False,14.0,30.6,54.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,10,101.208,1.0,HARD,10.0,True,1,True,False,False,14.0,30.6,54.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,11,101.047,1.0,HARD,11.0,True,1,True,False,False,14.0,30.5,53.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,12,100.82,1.0,HARD,12.0,True,1,True,False,False,14.0,30.3,54.6,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,13,101.156,1.0,HARD,13.0,True,1,True,False,False,14.0,30.1,55.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,14,101.254,1.0,HARD,14.0,True,1,True,False,False,14.0,30.1,54.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,15,100.823,1.0,HARD,15.0,True,1,True,False,False,14.0,30.2,55.0,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,16,100.825,1.0,HARD,16.0,True,1,True,False,False,14.0,30.4,55.3,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,17,100.799,1.0,HARD,17.0,True,1,True,False,False,14.0,30.4,54.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,18,135.607,1.0,HARD,18.0,True,124,False,True,False,14.0,30.3,54.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,19,141.175,2.0,MEDIUM,1.0,True,4,False,False,True,13.0,30.1,55.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,20,133.091,2.0,MEDIUM,2.0,True,41,False,False,False,12.0,30.2,55.5,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,21,100.786,2.0,MEDIUM,3.0,True,1,True,False,False,12.0,30.3,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,22,101.251,2.0,MEDIUM,4.0,True,12,True,False,False,12.0,30.5,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,23,100.304,2.0,MEDIUM,5.0,True,1,True,False,False,12.0,30.5,55.6,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,24,99.951,2.0,MEDIUM,6.0,True,1,True,False,False,12.0,30.4,55.6,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,25,99.719,2.0,MEDIUM,7.0,True,1,True,False,False,12.0,30.6,56.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,26,99.877,2.0,MEDIUM,8.0,True,1,True,False,False,12.0,30.4,56.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,27,99.801,2.0,MEDIUM,9.0,True,1,True,False,False,12.0,30.4,55.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,28,102.426,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,30.1,55.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,29,99.806,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,30.1,55.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,30,100.05,2.0,MEDIUM,12.0,True,1,True,False,False,15.0,29.9,55.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,31,100.149,2.0,MEDIUM,13.0,True,1,True,False,False,15.0,29.9,56.7,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,32,99.989,2.0,MEDIUM,14.0,True,1,True,False,False,15.0,29.9,57.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,33,100.157,2.0,MEDIUM,15.0,True,1,True,False,False,15.0,30.1,57.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,34,100.181,2.0,MEDIUM,16.0,True,1,True,False,False,15.0,30.2,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,35,100.289,2.0,MEDIUM,17.0,True,1,True,False,False,15.0,30.4,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,36,100.173,2.0,MEDIUM,18.0,True,1,True,False,False,13.0,30.3,56.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,37,99.425,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,30.1,56.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,38,99.234,2.0,MEDIUM,20.0,True,12,True,False,False,13.0,30.2,56.2,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,39,99.446,2.0,MEDIUM,21.0,True,1,True,False,False,13.0,30.0,56.0,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,40,99.573,2.0,MEDIUM,22.0,True,1,True,False,False,13.0,30.0,55.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,41,99.663,2.0,MEDIUM,23.0,True,1,True,False,False,13.0,30.1,55.0,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,42,100.041,2.0,MEDIUM,24.0,True,1,True,False,False,13.0,29.9,55.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,43,99.558,2.0,MEDIUM,25.0,True,1,True,False,False,13.0,29.9,55.6,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,44,99.541,2.0,MEDIUM,26.0,True,1,True,False,False,13.0,29.8,56.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,45,99.586,2.0,MEDIUM,27.0,True,1,True,False,False,13.0,29.7,56.4,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,46,99.561,2.0,MEDIUM,28.0,True,1,True,False,False,13.0,29.5,55.7,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,47,99.981,2.0,MEDIUM,29.0,True,1,True,False,False,12.0,29.6,55.6,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,48,99.117,2.0,MEDIUM,30.0,True,1,True,False,False,12.0,29.9,56.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,49,118.696,2.0,MEDIUM,31.0,True,1267,False,False,False,12.0,29.8,56.3,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,50,111.92,2.0,MEDIUM,32.0,True,71,False,False,False,12.0,29.7,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,51,98.833,2.0,MEDIUM,33.0,True,1,True,False,False,12.0,29.6,55.9,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,52,98.941,2.0,MEDIUM,34.0,True,1,True,False,False,12.0,29.6,56.1,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,GAS,AlphaTauri,53,98.786,2.0,MEDIUM,35.0,True,1,True,False,False,12.0,29.4,55.8,False,14.0,12.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,1,106.399,1.0,MEDIUM,1.0,True,12,False,False,False,4.0,30.3,51.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,2,99.289,1.0,MEDIUM,2.0,True,1,True,False,False,4.0,30.5,52.3,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,3,99.427,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,30.3,52.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,4,98.92,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,30.3,52.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,5,99.683,1.0,MEDIUM,5.0,True,1,True,False,False,4.0,30.3,52.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,6,99.774,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,30.4,54.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,7,99.715,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,30.4,54.4,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,8,99.188,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,30.3,54.0,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,9,99.681,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,30.6,54.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,10,99.639,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,30.6,54.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,11,99.644,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,30.5,53.8,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,12,99.434,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,30.3,54.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,13,99.343,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,30.3,55.5,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,14,99.451,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,30.1,54.8,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,15,99.462,1.0,MEDIUM,15.0,True,1,True,False,False,4.0,30.2,55.0,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,16,99.513,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,30.3,55.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,17,99.755,1.0,MEDIUM,17.0,True,1,True,False,False,3.0,30.4,55.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,18,127.468,1.0,MEDIUM,18.0,True,124,False,True,False,3.0,30.3,54.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,19,,2.0,HARD,1.0,True,4,False,False,True,3.0,30.1,55.4,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,20,148.786,2.0,HARD,2.0,True,41,False,False,False,3.0,30.2,55.5,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,21,98.575,2.0,HARD,3.0,True,1,True,False,False,3.0,30.3,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,22,98.161,2.0,HARD,4.0,True,12,True,False,False,3.0,30.5,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,23,98.793,2.0,HARD,5.0,True,21,True,False,False,3.0,30.5,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,24,98.423,2.0,HARD,6.0,True,1,True,False,False,3.0,30.4,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,25,98.605,2.0,HARD,7.0,True,1,True,False,False,3.0,30.6,56.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,26,98.368,2.0,HARD,8.0,True,1,True,False,False,3.0,30.4,56.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,27,98.175,2.0,HARD,9.0,True,1,True,False,False,3.0,30.4,55.8,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,28,98.006,2.0,HARD,10.0,True,1,True,False,False,3.0,30.2,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,29,98.117,2.0,HARD,11.0,True,1,True,False,False,3.0,30.1,55.4,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,30,98.021,2.0,HARD,12.0,True,1,True,False,False,3.0,29.9,55.8,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,31,98.24,2.0,HARD,13.0,True,1,True,False,False,3.0,29.9,56.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,32,98.363,2.0,HARD,14.0,True,1,True,False,False,3.0,29.9,57.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,33,98.284,2.0,HARD,15.0,True,1,True,False,False,3.0,30.1,57.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,34,98.525,2.0,HARD,16.0,True,1,True,False,False,3.0,30.1,56.3,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,35,98.671,2.0,HARD,17.0,True,1,True,False,False,3.0,30.4,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,36,98.995,2.0,HARD,18.0,True,1,True,False,False,3.0,30.3,56.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,37,98.446,2.0,HARD,19.0,True,1,True,False,False,3.0,30.3,56.7,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,38,98.271,2.0,HARD,20.0,True,12,True,False,False,3.0,30.2,56.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,39,98.663,2.0,HARD,21.0,True,1,True,False,False,3.0,30.1,56.0,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,40,98.41,2.0,HARD,22.0,True,1,True,False,False,3.0,30.0,55.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,41,99.672,2.0,HARD,23.0,True,1,True,False,False,4.0,30.1,55.0,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,42,100.737,2.0,HARD,24.0,True,1,True,False,False,3.0,30.0,55.0,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,43,98.448,2.0,HARD,25.0,True,1,True,False,False,3.0,29.9,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,44,98.31,2.0,HARD,26.0,True,1,True,False,False,3.0,29.8,56.4,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,45,97.78,2.0,HARD,27.0,True,1,True,False,False,3.0,29.8,56.4,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,46,97.977,2.0,HARD,28.0,True,1,True,False,False,3.0,29.6,56.1,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,47,98.067,2.0,HARD,29.0,True,1,True,False,False,3.0,29.6,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,48,98.507,2.0,HARD,30.0,True,1,True,False,False,3.0,29.9,55.6,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,49,98.791,2.0,HARD,31.0,True,126,False,False,False,3.0,29.9,56.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,50,133.384,2.0,HARD,32.0,True,671,False,False,False,4.0,29.8,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,51,97.964,2.0,HARD,33.0,True,1,True,False,False,4.0,29.7,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,52,97.952,2.0,HARD,34.0,True,1,True,False,False,4.0,29.6,55.9,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,PER,Red Bull Racing,53,98.306,2.0,HARD,35.0,True,1,True,False,False,4.0,29.5,55.2,False,3.0,4.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,1,107.416,1.0,MEDIUM,1.0,True,12,False,False,False,5.0,30.3,51.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,2,99.9,1.0,MEDIUM,2.0,True,1,True,False,False,5.0,30.5,52.3,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,3,100.53,1.0,MEDIUM,3.0,True,1,True,False,False,6.0,30.3,52.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,4,99.156,1.0,MEDIUM,4.0,True,1,True,False,False,6.0,30.3,52.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,5,100.243,1.0,MEDIUM,5.0,True,1,True,False,False,6.0,30.3,52.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,6,100.069,1.0,MEDIUM,6.0,True,1,True,False,False,6.0,30.4,54.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,7,100.261,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,30.4,54.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,8,100.034,1.0,MEDIUM,8.0,True,1,True,False,False,6.0,30.3,54.0,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,9,99.926,1.0,MEDIUM,9.0,True,1,True,False,False,6.0,30.6,54.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,10,100.067,1.0,MEDIUM,10.0,True,1,True,False,False,6.0,30.6,54.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,11,100.393,1.0,MEDIUM,11.0,True,1,True,False,False,6.0,30.5,53.8,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,12,100.206,1.0,MEDIUM,12.0,True,1,True,False,False,6.0,30.3,54.6,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,13,100.174,1.0,MEDIUM,13.0,True,1,True,False,False,6.0,30.1,55.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,14,100.067,1.0,MEDIUM,14.0,True,1,True,False,False,6.0,30.1,54.8,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,15,99.83,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,30.2,55.0,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,16,100.212,1.0,MEDIUM,16.0,True,1,True,False,False,6.0,30.4,55.3,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,17,100.167,1.0,MEDIUM,17.0,True,1,True,False,False,5.0,30.4,55.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,18,128.758,1.0,MEDIUM,18.0,True,124,False,True,False,5.0,30.3,54.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,19,,2.0,HARD,1.0,True,4,False,False,True,5.0,30.1,55.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,20,145.921,2.0,HARD,2.0,True,41,False,False,False,5.0,30.2,55.5,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,21,99.971,2.0,HARD,3.0,True,1,True,False,False,5.0,30.3,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,22,100.452,2.0,HARD,4.0,True,12,True,False,False,6.0,30.5,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,23,99.78,2.0,HARD,5.0,True,1,True,False,False,6.0,30.5,55.6,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,24,99.396,2.0,HARD,6.0,True,1,True,False,False,6.0,30.4,55.6,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,25,99.294,2.0,HARD,7.0,True,1,True,False,False,6.0,30.6,56.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,26,99.531,2.0,HARD,8.0,True,1,True,False,False,6.0,30.4,56.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,27,99.326,2.0,HARD,9.0,True,1,True,False,False,6.0,30.4,55.8,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,28,98.948,2.0,HARD,10.0,True,1,True,False,False,6.0,30.1,55.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,29,98.957,2.0,HARD,11.0,True,1,True,False,False,6.0,30.1,55.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,30,99.551,2.0,HARD,12.0,True,1,True,False,False,6.0,29.9,55.8,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,31,99.323,2.0,HARD,13.0,True,1,True,False,False,6.0,29.9,56.7,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,32,99.307,2.0,HARD,14.0,True,1,True,False,False,6.0,29.9,57.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,33,99.313,2.0,HARD,15.0,True,1,True,False,False,6.0,30.1,57.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,34,99.742,2.0,HARD,16.0,True,1,True,False,False,6.0,30.2,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,35,99.887,2.0,HARD,17.0,True,1,True,False,False,6.0,30.4,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,36,99.674,2.0,HARD,18.0,True,1,True,False,False,6.0,30.3,56.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,37,99.555,2.0,HARD,19.0,True,1,True,False,False,6.0,30.1,56.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,38,99.958,2.0,HARD,20.0,True,12,True,False,False,6.0,30.2,56.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,39,99.306,2.0,HARD,21.0,True,1,True,False,False,6.0,30.0,56.0,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,40,98.95,2.0,HARD,22.0,True,1,True,False,False,6.0,30.0,55.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,41,98.752,2.0,HARD,23.0,True,1,True,False,False,6.0,30.1,55.0,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,42,98.917,2.0,HARD,24.0,True,1,True,False,False,5.0,29.9,55.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,43,98.851,2.0,HARD,25.0,True,1,True,False,False,5.0,29.9,55.6,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,44,98.774,2.0,HARD,26.0,True,1,True,False,False,5.0,29.8,56.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,45,98.715,2.0,HARD,27.0,True,1,True,False,False,5.0,29.7,56.4,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,46,98.289,2.0,HARD,28.0,True,1,True,False,False,5.0,29.6,56.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,47,99.492,2.0,HARD,29.0,True,1,True,False,False,6.0,29.6,55.6,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,48,98.931,2.0,HARD,30.0,True,1,True,False,False,6.0,29.9,56.8,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,49,112.086,2.0,HARD,31.0,True,126,False,False,False,6.0,29.9,56.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,50,119.741,2.0,HARD,32.0,True,671,False,False,False,6.0,29.8,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,51,98.37,2.0,HARD,33.0,True,1,True,False,False,6.0,29.7,55.9,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,52,98.636,2.0,HARD,34.0,True,1,True,False,False,6.0,29.6,56.1,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,ALO,Alpine,53,98.16,2.0,HARD,35.0,True,1,True,False,False,6.0,29.5,55.2,False,7.0,6.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,1,103.351,1.0,MEDIUM,1.0,True,12,False,False,False,1.0,30.3,51.1,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,2,98.127,1.0,MEDIUM,2.0,True,1,True,False,False,1.0,30.5,52.3,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,3,98.699,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,30.3,52.2,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,4,98.088,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,30.3,52.2,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,5,99.097,1.0,MEDIUM,5.0,True,1,True,False,False,1.0,30.3,52.2,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,6,98.61,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,30.4,54.1,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,7,99.288,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,30.4,54.4,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,8,98.964,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,30.3,54.0,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,9,99.141,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,30.6,54.1,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,10,98.855,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,30.6,54.1,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,11,99.344,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,30.5,53.8,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,12,99.046,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,30.3,54.6,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,13,98.658,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,30.3,55.5,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,14,99.012,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,30.1,54.8,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,15,98.844,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,30.2,55.0,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,16,98.855,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,30.3,55.1,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,17,98.963,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,30.4,55.2,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,LEC,Ferrari,18,,1.0,MEDIUM,18.0,True,124,False,False,False,,30.4,54.9,False,1.0,19.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,1,111.666,1.0,MEDIUM,3.0,False,12,False,False,False,10.0,30.3,51.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,2,100.753,1.0,MEDIUM,4.0,False,1,True,False,False,10.0,30.5,52.3,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,3,100.451,1.0,MEDIUM,5.0,False,1,True,False,False,10.0,30.3,52.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,4,100.102,1.0,MEDIUM,6.0,False,1,True,False,False,10.0,30.3,52.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,5,100.139,1.0,MEDIUM,7.0,False,1,True,False,False,10.0,30.3,52.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,6,100.43,1.0,MEDIUM,8.0,False,1,True,False,False,10.0,30.4,54.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,7,100.753,1.0,MEDIUM,9.0,False,1,True,False,False,10.0,30.3,54.0,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,8,100.691,1.0,MEDIUM,10.0,False,1,True,False,False,10.0,30.3,54.0,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,9,100.599,1.0,MEDIUM,11.0,False,1,True,False,False,10.0,30.6,54.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,10,100.772,1.0,MEDIUM,12.0,False,1,True,False,False,10.0,30.6,54.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,11,100.739,1.0,MEDIUM,13.0,False,1,True,False,False,10.0,30.5,53.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,12,100.789,1.0,MEDIUM,14.0,False,1,True,False,False,10.0,30.3,54.6,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,13,102.019,1.0,MEDIUM,15.0,False,1,True,False,False,11.0,30.1,55.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,14,100.823,1.0,MEDIUM,16.0,False,1,True,False,False,11.0,30.1,54.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,15,100.593,1.0,MEDIUM,17.0,False,1,True,False,False,11.0,30.2,55.0,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,16,100.675,1.0,MEDIUM,18.0,False,1,True,False,False,11.0,30.4,55.3,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,17,100.736,1.0,MEDIUM,19.0,False,1,True,False,False,11.0,30.4,55.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,18,138.213,1.0,MEDIUM,20.0,False,124,False,True,False,12.0,30.3,54.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,19,138.541,2.0,HARD,2.0,False,4,False,False,True,10.0,30.1,55.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,20,140.153,2.0,HARD,3.0,False,41,False,False,False,10.0,30.2,55.5,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,21,101.049,2.0,HARD,4.0,False,1,True,False,False,10.0,30.3,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,22,100.435,2.0,HARD,5.0,False,12,True,False,False,10.0,30.5,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,23,99.849,2.0,HARD,6.0,False,1,True,False,False,10.0,30.5,55.6,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,24,99.759,2.0,HARD,7.0,False,1,True,False,False,10.0,30.4,55.6,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,25,99.738,2.0,HARD,8.0,False,1,True,False,False,10.0,30.6,56.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,26,99.647,2.0,HARD,9.0,False,1,True,False,False,10.0,30.4,56.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,27,99.705,2.0,HARD,10.0,False,1,True,False,False,10.0,30.4,55.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,28,99.511,2.0,HARD,11.0,False,1,True,False,False,10.0,30.1,55.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,29,99.524,2.0,HARD,12.0,False,1,True,False,False,10.0,30.1,55.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,30,99.77,2.0,HARD,13.0,False,1,True,False,False,10.0,29.9,55.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,31,100.177,2.0,HARD,14.0,False,1,True,False,False,10.0,29.9,56.7,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,32,99.695,2.0,HARD,15.0,False,1,True,False,False,10.0,29.9,57.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,33,99.796,2.0,HARD,16.0,False,1,True,False,False,10.0,30.1,57.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,34,99.905,2.0,HARD,17.0,False,1,True,False,False,10.0,30.2,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,35,100.215,2.0,HARD,18.0,False,1,True,False,False,10.0,30.4,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,36,99.978,2.0,HARD,19.0,False,1,True,False,False,10.0,30.3,56.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,37,99.947,2.0,HARD,20.0,False,1,True,False,False,10.0,30.1,56.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,38,100.066,2.0,HARD,21.0,False,12,True,False,False,10.0,30.2,56.2,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,39,99.739,2.0,HARD,22.0,False,1,True,False,False,10.0,30.0,56.0,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,40,99.556,2.0,HARD,23.0,False,1,True,False,False,10.0,30.0,55.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,41,99.449,2.0,HARD,24.0,False,1,True,False,False,10.0,30.1,55.0,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,42,99.375,2.0,HARD,25.0,False,1,True,False,False,10.0,29.9,55.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,43,99.44,2.0,HARD,26.0,False,1,True,False,False,10.0,29.9,55.6,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,44,99.566,2.0,HARD,27.0,False,1,True,False,False,10.0,29.8,56.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,45,99.766,2.0,HARD,28.0,False,1,True,False,False,10.0,29.7,56.4,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,46,99.358,2.0,HARD,29.0,False,1,True,False,False,10.0,29.5,55.7,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,47,99.285,2.0,HARD,30.0,False,1,True,False,False,10.0,29.6,55.6,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,48,99.467,2.0,HARD,31.0,False,1,True,False,False,10.0,29.9,56.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,49,118.265,2.0,HARD,32.0,False,1267,False,False,False,10.0,29.8,56.3,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,50,113.791,2.0,HARD,33.0,False,71,False,False,False,10.0,29.7,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,51,99.411,2.0,HARD,34.0,False,1,True,False,False,10.0,29.7,55.9,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,52,99.185,2.0,HARD,35.0,False,1,True,False,False,10.0,29.6,56.1,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,STR,Aston Martin,53,100.605,2.0,HARD,36.0,False,1,True,False,False,10.0,29.4,55.8,False,15.0,10.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,1,113.204,1.0,MEDIUM,1.0,True,12,False,False,False,13.0,30.3,51.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,2,101.11,1.0,MEDIUM,2.0,True,1,True,False,False,12.0,30.5,52.3,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,3,100.01,1.0,MEDIUM,3.0,True,1,True,False,False,12.0,30.3,52.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,4,100.145,1.0,MEDIUM,4.0,True,1,True,False,False,12.0,30.3,52.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,5,100.336,1.0,MEDIUM,5.0,True,1,True,False,False,12.0,30.3,52.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,6,100.326,1.0,MEDIUM,6.0,True,1,True,False,False,12.0,30.4,54.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,7,100.799,1.0,MEDIUM,7.0,True,1,True,False,False,12.0,30.3,54.0,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,8,121.961,1.0,MEDIUM,8.0,True,1,False,True,False,20.0,30.3,54.0,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,9,107.36,2.0,HARD,1.0,True,1,False,False,True,19.0,30.6,54.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,10,100.029,2.0,HARD,2.0,True,1,True,False,False,18.0,30.6,54.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,11,99.265,2.0,HARD,3.0,True,1,True,False,False,17.0,30.4,54.6,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,12,99.581,2.0,HARD,4.0,True,1,True,False,False,17.0,30.3,54.6,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,13,99.978,2.0,HARD,5.0,True,1,True,False,False,17.0,30.1,55.4,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,14,100.156,2.0,HARD,6.0,True,1,True,False,False,17.0,30.1,55.0,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,15,100.534,2.0,HARD,7.0,True,1,True,False,False,17.0,30.2,55.0,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,16,100.459,2.0,HARD,8.0,True,1,True,False,False,17.0,30.4,55.3,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,17,100.722,2.0,HARD,9.0,True,1,True,False,False,17.0,30.4,54.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,18,141.666,2.0,HARD,10.0,True,124,False,True,False,17.0,30.3,54.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,19,140.952,3.0,HARD,1.0,True,4,False,False,True,17.0,30.1,55.7,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,20,115.315,3.0,HARD,2.0,True,41,False,False,False,17.0,30.2,55.5,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,21,100.549,3.0,HARD,3.0,True,1,True,False,False,17.0,30.3,55.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,22,100.355,3.0,HARD,4.0,True,12,True,False,False,16.0,30.5,55.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,23,100.42,3.0,HARD,5.0,True,1,True,False,False,15.0,30.5,55.6,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,24,99.671,3.0,HARD,6.0,True,1,True,False,False,15.0,30.4,55.6,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,25,99.807,3.0,HARD,7.0,True,1,True,False,False,15.0,30.6,56.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,26,99.79,3.0,HARD,8.0,True,1,True,False,False,15.0,30.4,56.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,27,99.882,3.0,HARD,9.0,True,1,True,False,False,15.0,30.4,55.8,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,28,99.99,3.0,HARD,10.0,True,1,True,False,False,14.0,30.1,55.4,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,29,99.793,3.0,HARD,11.0,True,1,True,False,False,14.0,30.1,55.4,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,30,100.098,3.0,HARD,12.0,True,1,True,False,False,14.0,29.9,55.8,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,31,100.177,3.0,HARD,13.0,True,1,True,False,False,14.0,29.9,56.7,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,32,99.781,3.0,HARD,14.0,True,1,True,False,False,14.0,29.9,57.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,33,100.405,3.0,HARD,15.0,True,1,True,False,False,14.0,30.1,57.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,34,100.029,3.0,HARD,16.0,True,1,True,False,False,14.0,30.2,55.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,35,100.373,3.0,HARD,17.0,True,1,True,False,False,14.0,30.4,55.9,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,36,101.523,3.0,HARD,18.0,True,1,True,False,False,14.0,30.3,56.1,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,37,100.667,3.0,HARD,19.0,True,1,True,False,False,14.0,30.1,56.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,MAG,Haas F1 Team,38,,3.0,HARD,20.0,True,12,False,True,False,14.0,30.2,56.2,False,20.0,18.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,1,122.423,1.0,MEDIUM,1.0,True,12,False,False,False,20.0,30.3,51.1,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,2,100.24,1.0,MEDIUM,2.0,True,1,True,False,False,20.0,30.5,52.3,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,3,100.619,1.0,MEDIUM,3.0,True,1,True,False,False,20.0,30.3,52.2,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,4,100.216,1.0,MEDIUM,4.0,True,1,True,False,False,20.0,30.3,52.2,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,5,100.672,1.0,MEDIUM,5.0,True,1,True,False,False,20.0,30.3,52.2,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,6,100.944,1.0,MEDIUM,6.0,True,1,True,False,False,20.0,30.4,54.1,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,7,101.138,1.0,MEDIUM,7.0,True,1,True,False,False,20.0,30.3,54.0,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,8,100.735,1.0,MEDIUM,8.0,True,1,True,False,False,19.0,30.3,54.0,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,9,101.117,1.0,MEDIUM,9.0,True,1,True,False,False,17.0,30.6,54.1,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,10,102.007,1.0,MEDIUM,10.0,True,1,True,False,False,17.0,30.6,54.1,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,11,124.195,1.0,MEDIUM,11.0,True,1,False,True,False,19.0,30.4,54.6,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,12,110.63,2.0,HARD,1.0,True,1,False,False,True,20.0,30.3,55.5,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,13,101.601,2.0,HARD,2.0,True,1,True,False,False,20.0,30.1,55.4,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,14,101.728,2.0,HARD,3.0,True,1,True,False,False,20.0,30.1,55.0,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,15,101.886,2.0,HARD,4.0,True,1,True,False,False,20.0,30.3,55.1,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,16,102.279,2.0,HARD,5.0,True,1,True,False,False,20.0,30.4,55.2,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,17,102.297,2.0,HARD,6.0,True,12,True,False,False,20.0,30.4,54.9,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,TSU,AlphaTauri,18,,2.0,HARD,7.0,True,24,False,True,False,18.0,30.2,54.9,False,8.0,20.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,1,112.802,1.0,MEDIUM,1.0,True,12,False,False,False,12.0,30.3,51.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,2,102.001,1.0,MEDIUM,2.0,True,1,True,False,False,13.0,30.5,52.3,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,3,100.395,1.0,MEDIUM,3.0,True,1,True,False,False,13.0,30.3,52.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,4,100.423,1.0,MEDIUM,4.0,True,1,True,False,False,13.0,30.3,52.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,5,101.576,1.0,MEDIUM,5.0,True,1,True,False,False,14.0,30.3,52.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,6,100.279,1.0,MEDIUM,6.0,True,1,True,False,False,14.0,30.4,54.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,7,100.884,1.0,MEDIUM,7.0,True,1,True,False,False,14.0,30.3,54.0,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,8,100.379,1.0,MEDIUM,8.0,True,1,True,False,False,13.0,30.3,54.0,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,9,100.265,1.0,MEDIUM,9.0,True,1,True,False,False,13.0,30.6,54.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,10,100.865,1.0,MEDIUM,10.0,True,1,True,False,False,13.0,30.6,54.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,11,101.072,1.0,MEDIUM,11.0,True,1,True,False,False,13.0,30.5,53.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,12,100.702,1.0,MEDIUM,12.0,True,1,True,False,False,13.0,30.3,54.6,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,13,101.235,1.0,MEDIUM,13.0,True,1,True,False,False,13.0,30.1,55.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,14,101.371,1.0,MEDIUM,14.0,True,1,True,False,False,13.0,30.1,54.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,15,100.944,1.0,MEDIUM,15.0,True,1,True,False,False,13.0,30.2,55.0,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,16,101.056,1.0,MEDIUM,16.0,True,1,True,False,False,13.0,30.4,55.3,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,17,101.107,1.0,MEDIUM,17.0,True,1,True,False,False,13.0,30.4,55.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,18,136.977,1.0,MEDIUM,18.0,True,124,False,True,False,13.0,30.3,54.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,19,139.154,2.0,HARD,1.0,True,4,False,False,True,11.0,30.1,55.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,20,136.812,2.0,HARD,2.0,True,41,False,False,False,11.0,30.2,55.5,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,21,100.853,2.0,HARD,3.0,True,1,True,False,False,11.0,30.3,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,22,101.067,2.0,HARD,4.0,True,12,True,False,False,11.0,30.5,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,23,100.35,2.0,HARD,5.0,True,1,True,False,False,11.0,30.5,55.6,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,24,99.92,2.0,HARD,6.0,True,1,True,False,False,11.0,30.4,55.6,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,25,99.779,2.0,HARD,7.0,True,1,True,False,False,11.0,30.6,56.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,26,99.804,2.0,HARD,8.0,True,1,True,False,False,11.0,30.4,56.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,27,99.819,2.0,HARD,9.0,True,1,True,False,False,11.0,30.4,55.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,28,100.117,2.0,HARD,10.0,True,1,True,False,False,11.0,30.1,55.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,29,99.762,2.0,HARD,11.0,True,1,True,False,False,11.0,30.1,55.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,30,99.656,2.0,HARD,12.0,True,1,True,False,False,11.0,29.9,55.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,31,99.839,2.0,HARD,13.0,True,1,True,False,False,11.0,29.9,56.7,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,32,99.551,2.0,HARD,14.0,True,1,True,False,False,11.0,29.9,57.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,33,100.0,2.0,HARD,15.0,True,1,True,False,False,11.0,30.1,57.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,34,99.729,2.0,HARD,16.0,True,1,True,False,False,11.0,30.2,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,35,100.042,2.0,HARD,17.0,True,1,True,False,False,11.0,30.4,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,36,100.095,2.0,HARD,18.0,True,1,True,False,False,11.0,30.3,56.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,37,99.875,2.0,HARD,19.0,True,1,True,False,False,11.0,30.1,56.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,38,100.713,2.0,HARD,20.0,True,12,True,False,False,11.0,30.2,56.2,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,39,101.366,2.0,HARD,21.0,True,1,True,False,False,12.0,30.0,56.0,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,40,100.09,2.0,HARD,22.0,True,1,True,False,False,12.0,30.0,55.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,41,99.854,2.0,HARD,23.0,True,1,True,False,False,12.0,30.1,55.0,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,42,99.853,2.0,HARD,24.0,True,1,True,False,False,12.0,29.9,55.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,43,99.551,2.0,HARD,25.0,True,1,True,False,False,12.0,29.9,55.6,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,44,99.638,2.0,HARD,26.0,True,1,True,False,False,12.0,29.8,56.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,45,99.449,2.0,HARD,27.0,True,1,True,False,False,12.0,29.7,56.4,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,46,99.857,2.0,HARD,28.0,True,1,True,False,False,12.0,29.5,55.7,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,47,101.357,2.0,HARD,29.0,True,1,True,False,False,13.0,29.6,55.6,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,48,99.495,2.0,HARD,30.0,True,1,True,False,False,13.0,29.9,56.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,49,119.985,2.0,HARD,31.0,True,1267,False,False,False,13.0,29.8,56.3,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,50,110.932,2.0,HARD,32.0,True,71,False,False,False,13.0,29.7,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,51,99.475,2.0,HARD,33.0,True,1,True,False,False,13.0,29.6,55.9,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,52,99.306,2.0,HARD,34.0,True,1,True,False,False,13.0,29.6,56.1,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ALB,Williams,53,99.199,2.0,HARD,35.0,True,1,True,False,False,13.0,29.4,55.8,False,13.0,13.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,1,115.29,1.0,MEDIUM,1.0,True,12,False,False,False,19.0,30.3,51.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,2,103.13,1.0,MEDIUM,2.0,True,1,True,False,False,19.0,30.5,52.3,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,3,101.256,1.0,MEDIUM,3.0,True,1,True,False,False,19.0,30.3,52.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,4,101.111,1.0,MEDIUM,4.0,True,1,True,False,False,19.0,30.3,52.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,5,100.779,1.0,MEDIUM,5.0,True,1,True,False,False,19.0,30.3,52.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,6,100.816,1.0,MEDIUM,6.0,True,1,True,False,False,19.0,30.4,54.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,7,101.176,1.0,MEDIUM,7.0,True,1,True,False,False,19.0,30.3,54.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,8,100.806,1.0,MEDIUM,8.0,True,1,True,False,False,18.0,30.3,54.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,9,121.165,1.0,MEDIUM,9.0,True,1,False,True,False,20.0,30.6,54.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,10,108.448,2.0,HARD,1.0,True,1,False,False,True,20.0,30.6,54.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,11,100.822,2.0,HARD,2.0,True,1,True,False,False,20.0,30.4,54.6,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,12,100.129,2.0,HARD,3.0,True,1,True,False,False,19.0,30.3,55.5,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,13,100.408,2.0,HARD,4.0,True,1,True,False,False,19.0,30.1,55.4,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,14,100.391,2.0,HARD,5.0,True,1,True,False,False,19.0,30.1,55.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,15,100.232,2.0,HARD,6.0,True,1,True,False,False,19.0,30.3,55.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,16,100.37,2.0,HARD,7.0,True,1,True,False,False,19.0,30.4,55.3,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,17,100.327,2.0,HARD,8.0,True,12,True,False,False,19.0,30.4,54.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,18,130.145,2.0,HARD,9.0,True,24,False,False,False,16.0,30.2,54.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,19,132.365,2.0,HARD,10.0,True,4,False,False,False,16.0,30.1,55.7,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,20,124.356,2.0,HARD,11.0,True,41,False,False,False,16.0,30.2,55.5,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,21,100.864,2.0,HARD,12.0,True,1,True,False,False,16.0,30.3,55.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,22,144.607,2.0,HARD,13.0,True,12,False,True,False,18.0,30.5,55.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,23,108.747,3.0,HARD,1.0,True,1,False,False,True,18.0,30.5,55.6,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,24,99.75,3.0,HARD,2.0,True,1,True,False,False,18.0,30.6,56.5,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,25,99.368,3.0,HARD,3.0,True,1,True,False,False,18.0,30.4,56.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,26,99.449,3.0,HARD,4.0,True,1,True,False,False,18.0,30.5,55.8,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,27,99.833,3.0,HARD,5.0,True,1,True,False,False,18.0,30.2,55.6,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,28,99.483,3.0,HARD,6.0,True,1,True,False,False,18.0,30.1,55.4,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,29,99.369,3.0,HARD,7.0,True,1,True,False,False,18.0,30.0,55.7,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,30,99.988,3.0,HARD,8.0,True,1,True,False,False,18.0,29.9,56.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,31,99.868,3.0,HARD,9.0,True,1,True,False,False,18.0,29.9,57.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,32,100.349,3.0,HARD,10.0,True,1,True,False,False,18.0,30.1,57.5,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,33,99.877,3.0,HARD,11.0,True,1,True,False,False,18.0,30.1,56.3,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,34,100.229,3.0,HARD,12.0,True,1,True,False,False,18.0,30.4,55.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,35,100.235,3.0,HARD,13.0,True,1,True,False,False,18.0,30.4,56.3,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,36,100.366,3.0,HARD,14.0,True,1,True,False,False,18.0,30.3,56.7,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,37,102.069,3.0,HARD,15.0,True,12,True,False,False,18.0,30.2,56.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,38,100.839,3.0,HARD,16.0,True,1,True,False,False,18.0,30.1,56.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,39,100.223,3.0,HARD,17.0,True,1,True,False,False,17.0,30.0,55.2,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,40,102.354,3.0,HARD,18.0,True,1,True,False,False,17.0,30.1,55.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,41,105.418,3.0,HARD,19.0,True,1,True,False,False,17.0,30.0,55.0,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,42,100.119,3.0,HARD,20.0,True,1,True,False,False,16.0,29.9,55.6,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,43,99.877,3.0,HARD,21.0,True,1,True,False,False,16.0,29.8,56.4,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,44,101.794,3.0,HARD,22.0,True,1,True,False,False,16.0,29.8,56.4,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,45,100.046,3.0,HARD,23.0,True,1,True,False,False,16.0,29.6,56.1,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,46,100.027,3.0,HARD,24.0,True,1,True,False,False,16.0,29.6,55.6,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,47,102.395,3.0,HARD,25.0,True,1,True,False,False,16.0,29.9,56.8,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,ZHO,Alfa Romeo,48,,3.0,HARD,26.0,True,1267,False,False,False,,29.9,56.9,False,16.0,16.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,1,109.249,1.0,MEDIUM,1.0,True,12,False,False,False,8.0,30.3,51.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,2,100.948,1.0,MEDIUM,2.0,True,1,True,False,False,8.0,30.5,52.3,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,3,100.796,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,30.3,52.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,4,100.293,1.0,MEDIUM,4.0,True,1,True,False,False,8.0,30.3,52.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,5,100.235,1.0,MEDIUM,5.0,True,1,True,False,False,8.0,30.3,52.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,6,100.36,1.0,MEDIUM,6.0,True,1,True,False,False,8.0,30.4,54.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,7,101.733,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,30.3,54.0,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,8,100.842,1.0,MEDIUM,8.0,True,1,True,False,False,9.0,30.3,54.0,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,9,100.415,1.0,MEDIUM,9.0,True,1,True,False,False,9.0,30.6,54.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,10,100.627,1.0,MEDIUM,10.0,True,1,True,False,False,9.0,30.6,54.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,11,100.771,1.0,MEDIUM,11.0,True,1,True,False,False,9.0,30.5,53.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,12,100.474,1.0,MEDIUM,12.0,True,1,True,False,False,9.0,30.3,54.6,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,13,100.786,1.0,MEDIUM,13.0,True,1,True,False,False,9.0,30.1,55.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,14,100.905,1.0,MEDIUM,14.0,True,1,True,False,False,9.0,30.1,54.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,15,100.456,1.0,MEDIUM,15.0,True,1,True,False,False,9.0,30.2,55.0,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,16,100.747,1.0,MEDIUM,16.0,True,1,True,False,False,9.0,30.4,55.3,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,17,101.543,1.0,MEDIUM,17.0,True,1,True,False,False,10.0,30.4,55.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,18,134.243,1.0,MEDIUM,18.0,True,124,False,True,False,9.0,30.3,54.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,19,139.588,2.0,HARD,1.0,True,4,False,False,True,7.0,30.1,55.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,20,143.386,2.0,HARD,2.0,True,41,False,False,False,7.0,30.2,55.5,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,21,100.922,2.0,HARD,3.0,True,1,True,False,False,8.0,30.3,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,22,99.796,2.0,HARD,4.0,True,12,True,False,False,8.0,30.5,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,23,99.815,2.0,HARD,5.0,True,1,True,False,False,8.0,30.5,55.6,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,24,99.694,2.0,HARD,6.0,True,1,True,False,False,8.0,30.4,55.6,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,25,99.427,2.0,HARD,7.0,True,1,True,False,False,8.0,30.6,56.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,26,99.506,2.0,HARD,8.0,True,1,True,False,False,8.0,30.4,56.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,27,99.133,2.0,HARD,9.0,True,1,True,False,False,8.0,30.4,55.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,28,99.462,2.0,HARD,10.0,True,1,True,False,False,8.0,30.1,55.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,29,99.791,2.0,HARD,11.0,True,1,True,False,False,8.0,30.1,55.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,30,99.724,2.0,HARD,12.0,True,1,True,False,False,8.0,29.9,55.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,31,99.675,2.0,HARD,13.0,True,1,True,False,False,8.0,29.9,56.7,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,32,99.368,2.0,HARD,14.0,True,1,True,False,False,8.0,29.9,57.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,33,99.943,2.0,HARD,15.0,True,1,True,False,False,8.0,30.1,57.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,34,99.863,2.0,HARD,16.0,True,1,True,False,False,8.0,30.2,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,35,100.27,2.0,HARD,17.0,True,1,True,False,False,8.0,30.4,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,36,99.806,2.0,HARD,18.0,True,1,True,False,False,8.0,30.3,56.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,37,99.808,2.0,HARD,19.0,True,1,True,False,False,8.0,30.1,56.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,38,99.767,2.0,HARD,20.0,True,12,True,False,False,8.0,30.2,56.2,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,39,99.675,2.0,HARD,21.0,True,1,True,False,False,8.0,30.0,56.0,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,40,99.584,2.0,HARD,22.0,True,1,True,False,False,8.0,30.0,55.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,41,99.928,2.0,HARD,23.0,True,1,True,False,False,8.0,30.1,55.0,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,42,99.675,2.0,HARD,24.0,True,1,True,False,False,8.0,29.9,55.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,43,99.708,2.0,HARD,25.0,True,1,True,False,False,7.0,29.9,55.6,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,44,100.312,2.0,HARD,26.0,True,1,True,False,False,8.0,29.8,56.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,45,101.069,2.0,HARD,27.0,True,1,True,False,False,9.0,29.7,56.4,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,46,99.739,2.0,HARD,28.0,True,1,True,False,False,9.0,29.5,55.7,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,47,99.339,2.0,HARD,29.0,True,1,True,False,False,9.0,29.6,55.6,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,48,99.389,2.0,HARD,30.0,True,1,True,False,False,9.0,29.9,56.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,49,118.346,2.0,HARD,31.0,True,1267,False,False,False,9.0,29.8,56.3,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,50,113.693,2.0,HARD,32.0,True,71,False,False,False,9.0,29.7,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,51,99.363,2.0,HARD,33.0,True,1,True,False,False,9.0,29.7,55.9,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,52,99.207,2.0,HARD,34.0,True,1,True,False,False,9.0,29.6,56.1,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,RIC,McLaren,53,99.29,2.0,HARD,35.0,True,1,True,False,False,9.0,29.4,55.8,False,9.0,9.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,1,110.622,1.0,MEDIUM,1.0,True,12,False,False,False,9.0,30.3,51.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,2,100.899,1.0,MEDIUM,2.0,True,1,True,False,False,9.0,30.5,52.3,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,3,100.621,1.0,MEDIUM,3.0,True,1,True,False,False,9.0,30.3,52.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,4,99.948,1.0,MEDIUM,4.0,True,1,True,False,False,9.0,30.3,52.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,5,100.066,1.0,MEDIUM,5.0,True,1,True,False,False,9.0,30.3,52.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,6,100.285,1.0,MEDIUM,6.0,True,1,True,False,False,9.0,30.4,54.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,7,100.327,1.0,MEDIUM,7.0,True,1,True,False,False,8.0,30.3,54.0,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,8,100.502,1.0,MEDIUM,8.0,True,1,True,False,False,8.0,30.3,54.0,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,9,100.671,1.0,MEDIUM,9.0,True,1,True,False,False,8.0,30.6,54.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,10,100.327,1.0,MEDIUM,10.0,True,1,True,False,False,8.0,30.6,54.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,11,100.641,1.0,MEDIUM,11.0,True,1,True,False,False,8.0,30.5,53.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,12,100.318,1.0,MEDIUM,12.0,True,1,True,False,False,8.0,30.3,54.6,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,13,100.528,1.0,MEDIUM,13.0,True,1,True,False,False,8.0,30.1,55.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,14,100.746,1.0,MEDIUM,14.0,True,1,True,False,False,8.0,30.1,54.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,15,100.252,1.0,MEDIUM,15.0,True,1,True,False,False,8.0,30.2,55.0,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,16,100.608,1.0,MEDIUM,16.0,True,1,True,False,False,8.0,30.4,55.3,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,17,100.527,1.0,MEDIUM,17.0,True,1,True,False,False,8.0,30.4,55.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,18,141.24,1.0,MEDIUM,18.0,True,124,False,True,False,11.0,30.3,54.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,19,139.208,2.0,HARD,1.0,True,4,False,False,True,9.0,30.1,55.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,20,140.902,2.0,HARD,2.0,True,41,False,False,False,9.0,30.2,55.5,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,21,100.602,2.0,HARD,3.0,True,1,True,False,False,9.0,30.3,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,22,100.339,2.0,HARD,4.0,True,12,True,False,False,9.0,30.5,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,23,99.788,2.0,HARD,5.0,True,1,True,False,False,9.0,30.5,55.6,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,24,99.619,2.0,HARD,6.0,True,1,True,False,False,9.0,30.4,55.6,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,25,99.662,2.0,HARD,7.0,True,1,True,False,False,9.0,30.6,56.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,26,99.689,2.0,HARD,8.0,True,1,True,False,False,9.0,30.4,56.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,27,99.271,2.0,HARD,9.0,True,1,True,False,False,9.0,30.4,55.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,28,99.361,2.0,HARD,10.0,True,1,True,False,False,9.0,30.1,55.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,29,99.532,2.0,HARD,11.0,True,1,True,False,False,9.0,30.1,55.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,30,99.587,2.0,HARD,12.0,True,1,True,False,False,9.0,29.9,55.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,31,99.801,2.0,HARD,13.0,True,1,True,False,False,9.0,29.9,56.7,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,32,99.551,2.0,HARD,14.0,True,1,True,False,False,9.0,29.9,57.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,33,99.636,2.0,HARD,15.0,True,1,True,False,False,9.0,30.1,57.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,34,99.374,2.0,HARD,16.0,True,1,True,False,False,9.0,30.2,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,35,100.255,2.0,HARD,17.0,True,1,True,False,False,9.0,30.4,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,36,99.914,2.0,HARD,18.0,True,1,True,False,False,9.0,30.3,56.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,37,99.773,2.0,HARD,19.0,True,1,True,False,False,9.0,30.1,56.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,38,99.822,2.0,HARD,20.0,True,12,True,False,False,9.0,30.2,56.2,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,39,99.725,2.0,HARD,21.0,True,1,True,False,False,9.0,30.0,56.0,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,40,99.58,2.0,HARD,22.0,True,1,True,False,False,9.0,30.0,55.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,41,99.777,2.0,HARD,23.0,True,1,True,False,False,9.0,30.1,55.0,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,42,99.76,2.0,HARD,24.0,True,1,True,False,False,9.0,29.9,55.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,43,99.992,2.0,HARD,25.0,True,1,True,False,False,9.0,29.9,55.6,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,44,99.711,2.0,HARD,26.0,True,1,True,False,False,9.0,29.8,56.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,45,100.077,2.0,HARD,27.0,True,1,True,False,False,8.0,29.7,56.4,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,46,99.428,2.0,HARD,28.0,True,1,True,False,False,8.0,29.5,55.7,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,47,98.962,2.0,HARD,29.0,True,1,True,False,False,8.0,29.6,55.6,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,48,99.063,2.0,HARD,30.0,True,1,True,False,False,8.0,29.9,56.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,49,117.115,2.0,HARD,31.0,True,1267,False,False,False,8.0,29.8,56.3,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,50,114.785,2.0,HARD,32.0,True,71,False,False,False,8.0,29.8,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,51,98.801,2.0,HARD,33.0,True,1,True,False,False,8.0,29.7,55.9,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,52,98.797,2.0,HARD,34.0,True,1,True,False,False,8.0,29.6,56.1,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,OCO,Alpine,53,98.684,2.0,HARD,35.0,True,1,True,False,False,8.0,29.4,55.8,False,10.0,8.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,1,108.54,1.0,MEDIUM,1.0,True,12,False,False,False,7.0,30.3,51.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,2,100.479,1.0,MEDIUM,2.0,True,1,True,False,False,7.0,30.5,52.3,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,3,100.356,1.0,MEDIUM,3.0,True,1,True,False,False,7.0,30.3,52.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,4,100.078,1.0,MEDIUM,4.0,True,1,True,False,False,7.0,30.3,52.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,5,100.05,1.0,MEDIUM,5.0,True,1,True,False,False,7.0,30.3,52.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,6,100.496,1.0,MEDIUM,6.0,True,1,True,False,False,7.0,30.4,54.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,7,100.4,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,30.3,54.0,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,8,100.212,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,30.3,54.0,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,9,100.026,1.0,MEDIUM,9.0,True,1,True,False,False,7.0,30.6,54.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,10,100.143,1.0,MEDIUM,10.0,True,1,True,False,False,7.0,30.6,54.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,11,100.488,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,30.5,53.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,12,100.035,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,30.3,54.6,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,13,100.267,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,30.1,55.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,14,100.369,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,30.1,54.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,15,100.144,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,30.2,55.0,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,16,100.411,1.0,MEDIUM,16.0,True,1,True,False,False,7.0,30.4,55.3,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,17,101.207,1.0,MEDIUM,17.0,True,1,True,False,False,7.0,30.4,55.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,18,133.216,1.0,MEDIUM,18.0,True,124,False,True,False,7.0,30.3,54.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,19,146.803,2.0,HARD,1.0,True,4,False,False,True,6.0,30.1,55.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,20,144.189,2.0,HARD,2.0,True,41,False,False,False,6.0,30.2,55.5,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,21,100.661,2.0,HARD,3.0,True,1,True,False,False,7.0,30.3,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,22,99.708,2.0,HARD,4.0,True,12,True,False,False,7.0,30.5,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,23,99.75,2.0,HARD,5.0,True,1,True,False,False,7.0,30.5,55.6,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,24,99.56,2.0,HARD,6.0,True,1,True,False,False,7.0,30.4,55.6,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,25,99.618,2.0,HARD,7.0,True,1,True,False,False,7.0,30.6,56.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,26,99.354,2.0,HARD,8.0,True,1,True,False,False,7.0,30.4,56.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,27,99.082,2.0,HARD,9.0,True,1,True,False,False,7.0,30.4,55.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,28,98.985,2.0,HARD,10.0,True,1,True,False,False,7.0,30.1,55.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,29,99.536,2.0,HARD,11.0,True,1,True,False,False,7.0,30.1,55.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,30,99.489,2.0,HARD,12.0,True,1,True,False,False,7.0,29.9,55.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,31,99.695,2.0,HARD,13.0,True,1,True,False,False,7.0,29.9,56.7,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,32,99.519,2.0,HARD,14.0,True,1,True,False,False,7.0,29.9,57.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,33,99.636,2.0,HARD,15.0,True,1,True,False,False,7.0,30.1,57.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,34,100.323,2.0,HARD,16.0,True,1,True,False,False,7.0,30.2,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,35,99.814,2.0,HARD,17.0,True,1,True,False,False,7.0,30.4,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,36,99.597,2.0,HARD,18.0,True,1,True,False,False,7.0,30.3,56.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,37,99.493,2.0,HARD,19.0,True,1,True,False,False,7.0,30.1,56.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,38,99.47,2.0,HARD,20.0,True,12,True,False,False,7.0,30.2,56.2,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,39,99.409,2.0,HARD,21.0,True,1,True,False,False,7.0,30.0,56.0,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,40,99.131,2.0,HARD,22.0,True,1,True,False,False,7.0,30.0,55.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,41,99.125,2.0,HARD,23.0,True,1,True,False,False,7.0,30.1,55.0,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,42,99.389,2.0,HARD,24.0,True,1,True,False,False,6.0,29.9,55.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,43,99.037,2.0,HARD,25.0,True,1,True,False,False,6.0,29.9,55.6,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,44,99.296,2.0,HARD,26.0,True,1,True,False,False,6.0,29.8,56.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,45,99.897,2.0,HARD,27.0,True,1,True,False,False,7.0,29.7,56.4,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,46,99.321,2.0,HARD,28.0,True,1,True,False,False,7.0,29.6,56.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,47,99.161,2.0,HARD,29.0,True,1,True,False,False,7.0,29.6,55.6,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,48,99.038,2.0,HARD,30.0,True,1,True,False,False,7.0,29.9,56.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,49,115.189,2.0,HARD,31.0,True,126,False,False,False,7.0,29.9,56.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,50,115.83,2.0,HARD,32.0,True,671,False,False,False,7.0,29.8,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,51,99.475,2.0,HARD,33.0,True,1,True,False,False,7.0,29.7,55.9,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,52,99.509,2.0,HARD,34.0,True,1,True,False,False,7.0,29.6,56.1,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,NOR,McLaren,53,100.132,2.0,HARD,35.0,True,1,True,False,False,7.0,29.4,55.8,False,5.0,7.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,1,105.421,1.0,MEDIUM,1.0,True,12,False,False,False,3.0,30.3,51.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,2,99.316,1.0,MEDIUM,2.0,True,1,True,False,False,3.0,30.5,52.3,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,3,99.62,1.0,MEDIUM,3.0,True,1,True,False,False,3.0,30.3,52.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,4,99.066,1.0,MEDIUM,4.0,True,1,True,False,False,3.0,30.3,52.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,5,99.608,1.0,MEDIUM,5.0,True,1,True,False,False,3.0,30.3,52.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,6,99.779,1.0,MEDIUM,6.0,True,1,True,False,False,3.0,30.4,54.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,7,99.135,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,30.4,54.4,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,8,98.9,1.0,MEDIUM,8.0,True,1,True,False,False,3.0,30.3,54.0,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,9,99.031,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,30.6,54.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,10,99.201,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,30.6,54.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,11,99.499,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,30.5,53.8,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,12,99.246,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,30.3,54.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,13,99.373,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,30.3,55.5,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,14,99.469,1.0,MEDIUM,14.0,True,1,True,False,False,3.0,30.1,54.8,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,15,99.335,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,30.2,55.0,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,16,99.428,1.0,MEDIUM,16.0,True,1,True,False,False,2.0,30.3,55.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,17,99.772,1.0,MEDIUM,17.0,True,1,True,False,False,2.0,30.4,55.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,18,124.746,1.0,MEDIUM,18.0,True,124,False,True,False,1.0,30.3,54.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,19,,2.0,HARD,1.0,True,4,False,False,True,2.0,30.1,55.4,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,20,149.797,2.0,HARD,2.0,True,41,False,False,False,2.0,30.2,55.5,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,21,98.102,2.0,HARD,3.0,True,1,True,False,False,2.0,30.3,55.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,22,98.431,2.0,HARD,4.0,True,12,True,False,False,2.0,30.5,55.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,23,98.892,2.0,HARD,5.0,True,21,True,False,False,2.0,30.5,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,24,98.487,2.0,HARD,6.0,True,1,True,False,False,2.0,30.4,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,25,98.256,2.0,HARD,7.0,True,1,True,False,False,2.0,30.6,56.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,26,98.37,2.0,HARD,8.0,True,1,True,False,False,2.0,30.4,56.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,27,98.044,2.0,HARD,9.0,True,1,True,False,False,2.0,30.4,55.8,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,28,97.81,2.0,HARD,10.0,True,1,True,False,False,2.0,30.2,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,29,97.961,2.0,HARD,11.0,True,1,True,False,False,2.0,30.1,55.4,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,30,97.668,2.0,HARD,12.0,True,1,True,False,False,2.0,29.9,55.8,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,31,98.109,2.0,HARD,13.0,True,1,True,False,False,2.0,29.9,56.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,32,99.196,2.0,HARD,14.0,True,1,True,False,False,2.0,29.9,57.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,33,98.485,2.0,HARD,15.0,True,1,True,False,False,2.0,30.1,57.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,34,98.145,2.0,HARD,16.0,True,1,True,False,False,2.0,30.1,56.3,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,35,98.282,2.0,HARD,17.0,True,1,True,False,False,2.0,30.4,55.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,36,98.689,2.0,HARD,18.0,True,1,True,False,False,2.0,30.3,56.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,37,98.034,2.0,HARD,19.0,True,1,True,False,False,2.0,30.3,56.7,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,38,98.235,2.0,HARD,20.0,True,12,True,False,False,2.0,30.2,56.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,39,98.612,2.0,HARD,21.0,True,1,True,False,False,2.0,30.1,56.0,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,40,98.126,2.0,HARD,22.0,True,1,True,False,False,2.0,30.0,55.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,41,97.815,2.0,HARD,23.0,True,1,True,False,False,2.0,30.1,55.0,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,42,98.279,2.0,HARD,24.0,True,1,True,False,False,2.0,30.0,55.0,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,43,98.257,2.0,HARD,25.0,True,1,True,False,False,2.0,29.9,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,44,98.123,2.0,HARD,26.0,True,1,True,False,False,2.0,29.8,56.4,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,45,97.89,2.0,HARD,27.0,True,1,True,False,False,2.0,29.8,56.4,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,46,98.248,2.0,HARD,28.0,True,1,True,False,False,2.0,29.6,56.1,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,47,98.589,2.0,HARD,29.0,True,1,True,False,False,2.0,29.6,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,48,98.31,2.0,HARD,30.0,True,1,True,False,False,2.0,29.9,55.6,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,49,98.748,2.0,HARD,31.0,True,12,True,False,False,2.0,29.9,56.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,50,131.309,2.0,HARD,32.0,True,2671,False,False,False,2.0,29.8,56.3,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,51,98.712,2.0,HARD,33.0,True,1,True,False,False,2.0,29.7,55.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,52,98.805,2.0,HARD,34.0,True,1,True,False,False,2.0,29.6,55.9,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,HAM,Mercedes,53,99.119,2.0,HARD,35.0,True,1,True,False,False,2.0,29.5,55.2,False,4.0,2.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,1,113.429,1.0,MEDIUM,1.0,True,12,False,False,False,14.0,30.3,51.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,2,101.579,1.0,MEDIUM,2.0,True,1,True,False,False,14.0,30.5,52.3,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,3,100.774,1.0,MEDIUM,3.0,True,1,True,False,False,14.0,30.3,52.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,4,101.312,1.0,MEDIUM,4.0,True,1,True,False,False,15.0,30.3,52.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,5,100.644,1.0,MEDIUM,5.0,True,1,True,False,False,15.0,30.3,52.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,6,100.224,1.0,MEDIUM,6.0,True,1,True,False,False,15.0,30.4,54.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,7,101.206,1.0,MEDIUM,7.0,True,1,True,False,False,15.0,30.3,54.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,8,100.519,1.0,MEDIUM,8.0,True,1,True,False,False,14.0,30.3,54.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,9,120.834,1.0,MEDIUM,9.0,True,1,False,True,False,18.0,30.6,54.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,10,108.551,2.0,HARD,1.0,True,1,False,False,True,19.0,30.6,54.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,11,99.986,2.0,HARD,2.0,True,1,True,False,False,18.0,30.4,54.6,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,12,99.941,2.0,HARD,3.0,True,1,True,False,False,18.0,30.3,55.5,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,13,100.407,2.0,HARD,4.0,True,1,True,False,False,18.0,30.1,55.4,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,14,100.695,2.0,HARD,5.0,True,1,True,False,False,18.0,30.1,55.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,15,100.351,2.0,HARD,6.0,True,1,True,False,False,18.0,30.3,55.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,16,100.979,2.0,HARD,7.0,True,1,True,False,False,18.0,30.4,55.3,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,17,100.962,2.0,HARD,8.0,True,1,True,False,False,18.0,30.4,54.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,18,146.111,2.0,HARD,9.0,True,124,False,True,False,19.0,30.2,54.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,19,138.311,3.0,HARD,1.0,True,4,False,False,True,18.0,30.1,55.7,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,20,107.304,3.0,HARD,2.0,True,41,False,False,False,18.0,30.2,55.5,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,21,101.63,3.0,HARD,3.0,True,1,True,False,False,18.0,30.3,55.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,22,109.668,3.0,HARD,4.0,True,12,True,False,False,17.0,30.5,55.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,23,100.02,3.0,HARD,5.0,True,1,True,False,False,17.0,30.5,55.6,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,24,100.509,3.0,HARD,6.0,True,1,True,False,False,17.0,30.4,55.6,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,25,100.046,3.0,HARD,7.0,True,1,True,False,False,17.0,30.6,56.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,26,100.177,3.0,HARD,8.0,True,1,True,False,False,17.0,30.5,55.8,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,27,99.592,3.0,HARD,9.0,True,1,True,False,False,17.0,30.4,55.8,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,28,99.43,3.0,HARD,10.0,True,1,True,False,False,17.0,30.1,55.4,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,29,100.105,3.0,HARD,11.0,True,1,True,False,False,17.0,30.0,55.7,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,30,99.9,3.0,HARD,12.0,True,1,True,False,False,17.0,29.9,55.8,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,31,99.69,3.0,HARD,13.0,True,1,True,False,False,17.0,29.9,56.7,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,32,99.671,3.0,HARD,14.0,True,1,True,False,False,17.0,30.1,57.5,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,33,100.692,3.0,HARD,15.0,True,1,True,False,False,17.0,30.1,57.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,34,99.887,3.0,HARD,16.0,True,1,True,False,False,17.0,30.2,55.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,35,100.185,3.0,HARD,17.0,True,1,True,False,False,17.0,30.4,56.3,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,36,99.918,3.0,HARD,18.0,True,1,True,False,False,16.0,30.3,56.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,37,99.702,3.0,HARD,19.0,True,1,True,False,False,16.0,30.1,56.2,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,38,101.154,3.0,HARD,20.0,True,12,True,False,False,15.0,30.1,56.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,39,99.648,3.0,HARD,21.0,True,1,True,False,False,14.0,30.0,56.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,40,99.8,3.0,HARD,22.0,True,1,True,False,False,14.0,30.0,55.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,41,99.519,3.0,HARD,23.0,True,1,True,False,False,14.0,30.0,55.0,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,42,99.663,3.0,HARD,24.0,True,1,True,False,False,14.0,29.9,55.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,43,99.318,3.0,HARD,25.0,True,1,True,False,False,14.0,29.9,55.6,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,44,99.404,3.0,HARD,26.0,True,1,True,False,False,14.0,29.8,56.4,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,45,99.42,3.0,HARD,27.0,True,1,True,False,False,14.0,29.7,56.4,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,46,99.422,3.0,HARD,28.0,True,1,True,False,False,14.0,29.5,55.7,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,47,99.327,3.0,HARD,29.0,True,1,True,False,False,14.0,29.9,55.6,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,48,99.068,3.0,HARD,30.0,True,12,True,False,False,14.0,29.9,56.8,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,49,123.921,3.0,HARD,31.0,True,267,False,False,False,14.0,29.8,56.3,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,50,107.596,3.0,HARD,32.0,True,71,False,False,False,14.0,29.7,55.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,51,100.135,3.0,HARD,33.0,True,1,True,False,False,14.0,29.6,55.9,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,52,100.139,3.0,HARD,34.0,True,1,True,False,False,15.0,29.6,56.1,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,MSC,Haas F1 Team,53,100.031,3.0,HARD,35.0,True,1,True,False,False,15.0,29.4,55.8,False,17.0,15.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,1,112.214,1.0,MEDIUM,3.0,False,12,False,False,False,11.0,30.3,51.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,2,101.161,1.0,MEDIUM,4.0,False,1,True,False,False,11.0,30.5,52.3,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,3,100.34,1.0,MEDIUM,5.0,False,1,True,False,False,11.0,30.3,52.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,4,100.078,1.0,MEDIUM,6.0,False,1,True,False,False,11.0,30.3,52.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,5,100.216,1.0,MEDIUM,7.0,False,1,True,False,False,11.0,30.3,52.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,6,100.344,1.0,MEDIUM,8.0,False,1,True,False,False,11.0,30.4,54.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,7,100.71,1.0,MEDIUM,9.0,False,1,True,False,False,11.0,30.3,54.0,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,8,100.834,1.0,MEDIUM,10.0,False,1,True,False,False,11.0,30.3,54.0,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,9,100.562,1.0,MEDIUM,11.0,False,1,True,False,False,11.0,30.6,54.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,10,100.724,1.0,MEDIUM,12.0,False,1,True,False,False,11.0,30.6,54.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,11,100.883,1.0,MEDIUM,13.0,False,1,True,False,False,11.0,30.5,53.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,12,101.964,1.0,MEDIUM,14.0,False,1,True,False,False,12.0,30.3,54.6,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,13,101.066,1.0,MEDIUM,15.0,False,1,True,False,False,12.0,30.1,55.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,14,101.077,1.0,MEDIUM,16.0,False,1,True,False,False,12.0,30.1,54.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,15,100.752,1.0,MEDIUM,17.0,False,1,True,False,False,12.0,30.2,55.0,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,16,100.726,1.0,MEDIUM,18.0,False,1,True,False,False,12.0,30.4,55.3,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,17,100.875,1.0,MEDIUM,19.0,False,1,True,False,False,12.0,30.4,55.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,18,119.46,1.0,MEDIUM,20.0,False,124,False,False,False,6.0,30.3,54.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,19,,1.0,MEDIUM,21.0,False,4,False,True,False,12.0,30.1,55.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,20,136.561,2.0,HARD,2.0,False,41,False,False,True,13.0,30.2,55.5,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,21,100.675,2.0,HARD,3.0,False,1,True,False,False,13.0,30.3,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,22,101.011,2.0,HARD,4.0,False,12,True,False,False,13.0,30.5,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,23,100.563,2.0,HARD,5.0,False,1,True,False,False,13.0,30.5,55.6,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,24,100.06,2.0,HARD,6.0,False,1,True,False,False,13.0,30.4,55.6,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,25,99.748,2.0,HARD,7.0,False,1,True,False,False,13.0,30.6,56.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,26,99.736,2.0,HARD,8.0,False,1,True,False,False,13.0,30.4,56.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,27,99.91,2.0,HARD,9.0,False,1,True,False,False,13.0,30.4,55.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,28,99.586,2.0,HARD,10.0,False,1,True,False,False,12.0,30.1,55.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,29,99.594,2.0,HARD,11.0,False,1,True,False,False,12.0,30.1,55.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,30,99.718,2.0,HARD,12.0,False,1,True,False,False,12.0,29.9,55.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,31,99.876,2.0,HARD,13.0,False,1,True,False,False,12.0,29.9,56.7,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,32,99.767,2.0,HARD,14.0,False,1,True,False,False,12.0,29.9,57.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,33,99.822,2.0,HARD,15.0,False,1,True,False,False,12.0,30.1,57.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,34,99.788,2.0,HARD,16.0,False,1,True,False,False,12.0,30.2,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,35,100.025,2.0,HARD,17.0,False,1,True,False,False,12.0,30.4,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,36,99.917,2.0,HARD,18.0,False,1,True,False,False,12.0,30.3,56.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,37,99.869,2.0,HARD,19.0,False,1,True,False,False,12.0,30.1,56.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,38,100.554,2.0,HARD,20.0,False,12,True,False,False,12.0,30.2,56.2,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,39,99.392,2.0,HARD,21.0,False,1,True,False,False,11.0,30.0,56.0,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,40,99.507,2.0,HARD,22.0,False,1,True,False,False,11.0,30.0,55.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,41,99.415,2.0,HARD,23.0,False,1,True,False,False,11.0,30.1,55.0,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,42,99.124,2.0,HARD,24.0,False,1,True,False,False,11.0,29.9,55.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,43,99.044,2.0,HARD,25.0,False,1,True,False,False,11.0,29.9,55.6,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,44,99.259,2.0,HARD,26.0,False,1,True,False,False,11.0,29.8,56.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,45,99.26,2.0,HARD,27.0,False,1,True,False,False,11.0,29.7,56.4,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,46,99.239,2.0,HARD,28.0,False,1,True,False,False,11.0,29.5,55.7,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,47,99.157,2.0,HARD,29.0,False,1,True,False,False,11.0,29.6,55.6,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,48,99.083,2.0,HARD,30.0,False,1,True,False,False,11.0,29.9,56.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,49,118.515,2.0,HARD,31.0,False,1267,False,False,False,11.0,29.8,56.3,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,50,113.434,2.0,HARD,32.0,False,71,False,False,False,11.0,29.7,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,51,99.437,2.0,HARD,33.0,False,1,True,False,False,11.0,29.7,55.9,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,52,99.218,2.0,HARD,34.0,False,1,True,False,False,11.0,29.6,56.1,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,VET,Aston Martin,53,101.872,2.0,HARD,35.0,False,1,True,False,False,11.0,29.4,55.8,False,12.0,11.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,1,115.014,1.0,HARD,1.0,True,12,False,False,False,18.0,30.3,51.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,2,101.355,1.0,HARD,2.0,True,1,True,False,False,16.0,30.5,52.3,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,3,99.779,1.0,HARD,3.0,True,1,True,False,False,15.0,30.3,52.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,4,100.095,1.0,HARD,4.0,True,1,True,False,False,14.0,30.3,52.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,5,100.063,1.0,HARD,5.0,True,1,True,False,False,13.0,30.3,52.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,6,99.942,1.0,HARD,6.0,True,1,True,False,False,13.0,30.4,54.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,7,100.38,1.0,HARD,7.0,True,1,True,False,False,13.0,30.3,54.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,8,100.042,1.0,HARD,8.0,True,1,True,False,False,12.0,30.3,54.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,9,100.24,1.0,HARD,9.0,True,1,True,False,False,12.0,30.6,54.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,10,100.712,1.0,HARD,10.0,True,1,True,False,False,12.0,30.6,54.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,11,100.664,1.0,HARD,11.0,True,1,True,False,False,12.0,30.5,53.8,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,12,100.397,1.0,HARD,12.0,True,1,True,False,False,11.0,30.3,54.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,13,100.468,1.0,HARD,13.0,True,1,True,False,False,10.0,30.1,55.4,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,14,100.435,1.0,HARD,14.0,True,1,True,False,False,10.0,30.1,54.8,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,15,100.116,1.0,HARD,15.0,True,1,True,False,False,10.0,30.2,55.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,16,100.359,1.0,HARD,16.0,True,1,True,False,False,10.0,30.4,55.3,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,17,100.049,1.0,HARD,17.0,True,1,True,False,False,9.0,30.4,55.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,18,137.57,1.0,HARD,18.0,True,124,False,True,False,10.0,30.3,54.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,19,140.344,2.0,MEDIUM,1.0,True,4,False,False,True,8.0,30.1,55.4,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,20,140.535,2.0,MEDIUM,2.0,True,41,False,False,False,8.0,30.2,55.5,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,21,98.725,2.0,MEDIUM,3.0,True,1,True,False,False,6.0,30.3,55.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,22,98.744,2.0,MEDIUM,4.0,True,12,True,False,False,5.0,30.5,55.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,23,98.393,2.0,MEDIUM,5.0,True,21,True,False,False,5.0,30.5,55.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,24,97.941,2.0,MEDIUM,6.0,True,1,True,False,False,5.0,30.4,55.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,25,98.128,2.0,MEDIUM,7.0,True,1,True,False,False,5.0,30.6,56.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,26,97.889,2.0,MEDIUM,8.0,True,1,True,False,False,5.0,30.4,56.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,27,98.043,2.0,MEDIUM,9.0,True,1,True,False,False,5.0,30.4,55.8,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,28,98.32,2.0,MEDIUM,10.0,True,1,True,False,False,5.0,30.2,55.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,29,98.257,2.0,MEDIUM,11.0,True,1,True,False,False,5.0,30.1,55.4,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,30,98.211,2.0,MEDIUM,12.0,True,1,True,False,False,4.0,29.9,55.8,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,31,98.513,2.0,MEDIUM,13.0,True,1,True,False,False,4.0,29.9,56.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,32,97.963,2.0,MEDIUM,14.0,True,1,True,False,False,4.0,29.9,57.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,33,97.975,2.0,MEDIUM,15.0,True,1,True,False,False,4.0,30.1,57.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,34,98.081,2.0,MEDIUM,16.0,True,1,True,False,False,4.0,30.1,56.3,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,35,98.172,2.0,MEDIUM,17.0,True,1,True,False,False,4.0,30.4,55.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,36,98.599,2.0,MEDIUM,18.0,True,1,True,False,False,4.0,30.3,56.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,37,98.416,2.0,MEDIUM,19.0,True,1,True,False,False,4.0,30.3,56.7,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,38,98.31,2.0,MEDIUM,20.0,True,12,True,False,False,4.0,30.2,56.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,39,98.703,2.0,MEDIUM,21.0,True,1,True,False,False,4.0,30.1,56.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,40,98.348,2.0,MEDIUM,22.0,True,1,True,False,False,4.0,30.0,55.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,41,98.857,2.0,MEDIUM,23.0,True,1,True,False,False,3.0,30.1,55.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,42,125.219,2.0,MEDIUM,24.0,True,1,False,True,False,7.0,30.0,55.0,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,43,104.372,3.0,MEDIUM,1.0,True,1,False,False,True,8.0,29.9,55.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,44,96.242,3.0,MEDIUM,2.0,True,1,True,False,False,7.0,29.8,56.4,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,45,96.208,3.0,MEDIUM,3.0,True,1,True,False,False,6.0,29.7,56.4,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,46,96.243,3.0,MEDIUM,4.0,True,1,True,False,False,6.0,29.6,56.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,47,95.852,3.0,MEDIUM,5.0,True,1,True,False,False,5.0,29.6,55.6,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,48,96.611,3.0,MEDIUM,6.0,True,1,True,False,False,5.0,29.9,56.8,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,49,107.636,3.0,MEDIUM,7.0,True,126,False,False,False,5.0,29.9,56.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,50,120.875,3.0,MEDIUM,8.0,True,671,False,False,False,5.0,29.8,55.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,51,95.781,3.0,MEDIUM,9.0,True,1,True,False,False,5.0,29.7,55.9,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,52,96.352,3.0,MEDIUM,10.0,True,1,True,False,False,5.0,29.6,56.1,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,SAI,Ferrari,53,96.446,3.0,MEDIUM,11.0,True,1,True,False,False,5.0,29.5,55.2,False,19.0,5.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,1,114.94,1.0,MEDIUM,1.0,True,12,False,False,False,17.0,30.3,51.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,2,102.934,1.0,MEDIUM,2.0,True,1,True,False,False,18.0,30.5,52.3,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,3,101.281,1.0,MEDIUM,3.0,True,1,True,False,False,18.0,30.3,52.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,4,101.089,1.0,MEDIUM,4.0,True,1,True,False,False,18.0,30.3,52.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,5,100.706,1.0,MEDIUM,5.0,True,1,True,False,False,18.0,30.3,52.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,6,100.983,1.0,MEDIUM,6.0,True,1,True,False,False,18.0,30.4,54.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,7,101.028,1.0,MEDIUM,7.0,True,1,True,False,False,18.0,30.3,54.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,8,100.612,1.0,MEDIUM,8.0,True,1,True,False,False,17.0,30.3,54.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,9,100.936,1.0,MEDIUM,9.0,True,1,True,False,False,16.0,30.6,54.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,10,101.188,1.0,MEDIUM,10.0,True,1,True,False,False,16.0,30.6,54.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,11,101.054,1.0,MEDIUM,11.0,True,1,True,False,False,16.0,30.5,53.8,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,12,100.856,1.0,MEDIUM,12.0,True,1,True,False,False,16.0,30.3,54.6,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,13,101.145,1.0,MEDIUM,13.0,True,1,True,False,False,16.0,30.1,55.4,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,14,101.857,1.0,MEDIUM,14.0,True,1,True,False,False,15.0,30.1,55.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,15,101.032,1.0,MEDIUM,15.0,True,1,True,False,False,15.0,30.2,55.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,16,100.754,1.0,MEDIUM,16.0,True,1,True,False,False,15.0,30.4,55.3,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,17,101.068,1.0,MEDIUM,17.0,True,1,True,False,False,15.0,30.4,54.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,18,121.742,1.0,MEDIUM,18.0,True,124,False,False,False,8.0,30.3,54.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,19,,1.0,MEDIUM,19.0,True,4,False,True,False,14.0,30.1,55.4,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,20,132.9,2.0,HARD,1.0,True,41,False,False,True,15.0,30.2,55.5,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,21,100.946,2.0,HARD,2.0,True,1,True,False,False,15.0,30.3,55.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,22,100.616,2.0,HARD,3.0,True,12,True,False,False,15.0,30.5,55.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,23,101.341,2.0,HARD,4.0,True,1,True,False,False,16.0,30.5,55.6,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,24,100.347,2.0,HARD,5.0,True,1,True,False,False,16.0,30.4,55.6,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,25,100.336,2.0,HARD,6.0,True,1,True,False,False,16.0,30.6,56.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,26,99.85,2.0,HARD,7.0,True,1,True,False,False,16.0,30.4,56.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,27,99.82,2.0,HARD,8.0,True,1,True,False,False,16.0,30.4,55.8,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,28,99.909,2.0,HARD,9.0,True,1,True,False,False,16.0,30.1,55.4,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,29,99.904,2.0,HARD,10.0,True,1,True,False,False,16.0,30.1,55.4,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,30,99.725,2.0,HARD,11.0,True,1,True,False,False,16.0,29.9,55.8,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,31,100.163,2.0,HARD,12.0,True,1,True,False,False,16.0,29.9,56.7,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,32,99.923,2.0,HARD,13.0,True,1,True,False,False,16.0,29.9,57.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,33,100.008,2.0,HARD,14.0,True,1,True,False,False,16.0,30.1,57.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,34,100.148,2.0,HARD,15.0,True,1,True,False,False,16.0,30.2,55.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,35,100.502,2.0,HARD,16.0,True,1,True,False,False,16.0,30.4,55.9,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,36,100.768,2.0,HARD,17.0,True,1,True,False,False,15.0,30.3,56.1,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,37,100.621,2.0,HARD,18.0,True,1,True,False,False,15.0,30.1,56.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,38,140.387,2.0,HARD,19.0,True,12,False,True,False,17.0,30.2,56.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,39,107.723,3.0,MEDIUM,1.0,True,1,False,False,True,16.0,30.0,55.2,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,40,99.65,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,30.1,55.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,LAT,Williams,41,,3.0,MEDIUM,3.0,True,1,False,True,False,16.0,30.0,55.0,False,18.0,17.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,1,107.996,1.0,MEDIUM,1.0,True,12,False,False,False,6.0,30.3,51.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,2,99.807,1.0,MEDIUM,2.0,True,1,True,False,False,6.0,30.5,52.3,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,3,99.389,1.0,MEDIUM,3.0,True,1,True,False,False,5.0,30.3,52.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,4,98.837,1.0,MEDIUM,4.0,True,1,True,False,False,5.0,30.3,52.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,5,99.6,1.0,MEDIUM,5.0,True,1,True,False,False,5.0,30.3,52.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,6,99.927,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,30.4,54.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,7,99.79,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,30.4,54.4,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,8,99.014,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,30.3,54.0,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,9,99.212,1.0,MEDIUM,9.0,True,1,True,False,False,5.0,30.6,54.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,10,99.527,1.0,MEDIUM,10.0,True,1,True,False,False,5.0,30.6,54.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,11,99.588,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,30.5,53.8,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,12,99.353,1.0,MEDIUM,12.0,True,1,True,False,False,5.0,30.3,54.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,13,99.273,1.0,MEDIUM,13.0,True,1,True,False,False,5.0,30.3,55.5,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,14,99.807,1.0,MEDIUM,14.0,True,1,True,False,False,5.0,30.1,54.8,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,15,99.543,1.0,MEDIUM,15.0,True,1,True,False,False,5.0,30.2,55.0,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,16,99.345,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,30.3,55.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,17,99.733,1.0,MEDIUM,17.0,True,1,True,False,False,4.0,30.4,55.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,18,127.168,1.0,MEDIUM,18.0,True,124,False,True,False,4.0,30.3,54.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,19,,2.0,HARD,2.0,False,4,False,False,True,4.0,30.1,55.4,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,20,146.413,2.0,HARD,3.0,False,41,False,False,False,4.0,30.2,55.5,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,21,99.469,2.0,HARD,4.0,False,1,True,False,False,4.0,30.3,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,22,98.344,2.0,HARD,5.0,False,12,True,False,False,4.0,30.5,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,23,98.234,2.0,HARD,6.0,False,21,True,False,False,4.0,30.5,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,24,98.502,2.0,HARD,7.0,False,1,True,False,False,4.0,30.4,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,25,99.024,2.0,HARD,8.0,False,1,True,False,False,4.0,30.6,56.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,26,98.476,2.0,HARD,9.0,False,1,True,False,False,4.0,30.4,56.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,27,97.95,2.0,HARD,10.0,False,1,True,False,False,4.0,30.4,55.8,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,28,98.185,2.0,HARD,11.0,False,1,True,False,False,4.0,30.2,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,29,98.45,2.0,HARD,12.0,False,1,True,False,False,4.0,30.1,55.4,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,30,100.105,2.0,HARD,13.0,False,1,True,False,False,5.0,29.9,55.8,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,31,98.725,2.0,HARD,14.0,False,1,True,False,False,5.0,29.9,56.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,32,98.591,2.0,HARD,15.0,False,1,True,False,False,5.0,29.9,57.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,33,98.604,2.0,HARD,16.0,False,1,True,False,False,5.0,30.1,57.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,34,98.326,2.0,HARD,17.0,False,1,True,False,False,5.0,30.1,56.3,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,35,98.34,2.0,HARD,18.0,False,1,True,False,False,5.0,30.4,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,36,98.746,2.0,HARD,19.0,False,1,True,False,False,5.0,30.3,56.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,37,98.225,2.0,HARD,20.0,False,1,True,False,False,5.0,30.3,56.7,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,38,98.289,2.0,HARD,21.0,False,12,True,False,False,5.0,30.2,56.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,39,98.368,2.0,HARD,22.0,False,1,True,False,False,5.0,30.0,56.0,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,40,98.025,2.0,HARD,23.0,False,1,True,False,False,5.0,30.0,55.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,41,98.252,2.0,HARD,24.0,False,1,True,False,False,5.0,30.1,55.0,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,42,99.349,2.0,HARD,25.0,False,1,True,False,False,4.0,30.0,55.0,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,43,98.415,2.0,HARD,26.0,False,1,True,False,False,4.0,29.9,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,44,98.438,2.0,HARD,27.0,False,1,True,False,False,4.0,29.8,56.4,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,45,98.084,2.0,HARD,28.0,False,1,True,False,False,4.0,29.8,56.4,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,46,97.627,2.0,HARD,29.0,False,1,True,False,False,4.0,29.6,56.1,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,47,98.097,2.0,HARD,30.0,False,1,True,False,False,4.0,29.6,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,48,98.49,2.0,HARD,31.0,False,1,True,False,False,4.0,29.9,55.6,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,49,101.792,2.0,HARD,32.0,False,126,False,False,False,4.0,29.9,56.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,50,129.363,2.0,HARD,33.0,False,671,False,False,False,3.0,29.8,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,51,97.548,2.0,HARD,34.0,False,1,True,False,False,3.0,29.7,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,52,98.349,2.0,HARD,35.0,False,1,True,False,False,3.0,29.6,55.9,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,RUS,Mercedes,53,98.013,2.0,HARD,36.0,False,1,True,False,False,3.0,29.5,55.2,False,6.0,3.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,1,114.308,1.0,HARD,1.0,True,12,False,False,False,16.0,30.3,51.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,2,102.929,1.0,HARD,2.0,True,1,True,False,False,17.0,30.5,52.3,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,3,101.529,1.0,HARD,3.0,True,1,True,False,False,17.0,30.3,52.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,4,100.929,1.0,HARD,4.0,True,1,True,False,False,17.0,30.3,52.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,5,100.601,1.0,HARD,5.0,True,1,True,False,False,17.0,30.3,52.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,6,100.803,1.0,HARD,6.0,True,1,True,False,False,17.0,30.4,54.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,7,101.332,1.0,HARD,7.0,True,1,True,False,False,17.0,30.3,54.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,8,100.537,1.0,HARD,8.0,True,1,True,False,False,16.0,30.3,54.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,9,100.952,1.0,HARD,9.0,True,1,True,False,False,15.0,30.6,54.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,10,101.033,1.0,HARD,10.0,True,1,True,False,False,15.0,30.6,54.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,11,101.085,1.0,HARD,11.0,True,1,True,False,False,15.0,30.5,53.8,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,12,100.894,1.0,HARD,12.0,True,1,True,False,False,15.0,30.3,54.6,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,13,101.512,1.0,HARD,13.0,True,1,True,False,False,15.0,30.1,55.4,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,14,103.243,1.0,HARD,14.0,True,1,True,False,False,16.0,30.1,55.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,15,101.408,1.0,HARD,15.0,True,1,True,False,False,16.0,30.2,55.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,16,101.794,1.0,HARD,16.0,True,1,True,False,False,16.0,30.4,55.3,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,17,101.699,1.0,HARD,17.0,True,1,True,False,False,16.0,30.4,54.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,18,140.005,1.0,HARD,18.0,True,124,False,True,False,15.0,30.3,54.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,19,137.767,2.0,HARD,1.0,True,4,False,False,True,15.0,30.1,55.7,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,20,127.65,2.0,HARD,2.0,True,41,False,False,False,14.0,30.2,55.5,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,21,100.735,2.0,HARD,3.0,True,1,True,False,False,14.0,30.3,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,22,100.867,2.0,HARD,4.0,True,12,True,False,False,14.0,30.5,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,23,100.795,2.0,HARD,5.0,True,1,True,False,False,14.0,30.5,55.6,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,24,99.883,2.0,HARD,6.0,True,1,True,False,False,14.0,30.4,55.6,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,25,99.738,2.0,HARD,7.0,True,1,True,False,False,14.0,30.6,56.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,26,99.784,2.0,HARD,8.0,True,1,True,False,False,14.0,30.4,56.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,27,99.976,2.0,HARD,9.0,True,1,True,False,False,14.0,30.4,55.8,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,28,99.682,2.0,HARD,10.0,True,1,True,False,False,13.0,30.1,55.4,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,29,99.826,2.0,HARD,11.0,True,1,True,False,False,13.0,30.1,55.4,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,30,99.953,2.0,HARD,12.0,True,1,True,False,False,13.0,29.9,55.8,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,31,100.014,2.0,HARD,13.0,True,1,True,False,False,13.0,29.9,56.7,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,32,99.723,2.0,HARD,14.0,True,1,True,False,False,13.0,29.9,57.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,33,99.928,2.0,HARD,15.0,True,1,True,False,False,13.0,30.1,57.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,34,99.913,2.0,HARD,16.0,True,1,True,False,False,13.0,30.2,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,35,100.283,2.0,HARD,17.0,True,1,True,False,False,13.0,30.4,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,36,120.346,2.0,HARD,18.0,True,1,False,True,False,17.0,30.3,56.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,37,105.625,3.0,MEDIUM,1.0,True,12,False,False,True,17.0,30.1,56.2,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,38,98.219,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,30.1,56.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,39,98.218,3.0,MEDIUM,3.0,True,1,True,False,False,15.0,30.0,56.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,40,98.312,3.0,MEDIUM,4.0,True,1,True,False,False,15.0,30.0,55.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,41,98.254,3.0,MEDIUM,5.0,True,1,True,False,False,15.0,30.0,55.0,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,42,99.036,3.0,MEDIUM,6.0,True,1,True,False,False,15.0,29.9,55.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,43,98.631,3.0,MEDIUM,7.0,True,1,True,False,False,15.0,29.9,55.6,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,44,98.662,3.0,MEDIUM,8.0,True,1,True,False,False,15.0,29.8,56.4,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,45,98.466,3.0,MEDIUM,9.0,True,1,True,False,False,15.0,29.7,56.4,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,46,98.682,3.0,MEDIUM,10.0,True,1,True,False,False,15.0,29.5,55.7,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,47,98.376,3.0,MEDIUM,11.0,True,1,True,False,False,15.0,29.9,55.6,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,48,98.524,3.0,MEDIUM,12.0,True,12,True,False,False,15.0,29.9,56.8,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,49,123.277,3.0,MEDIUM,13.0,True,267,False,False,False,15.0,29.8,56.3,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,50,106.728,3.0,MEDIUM,14.0,True,71,False,False,False,15.0,29.7,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,51,99.991,3.0,MEDIUM,15.0,True,1,True,False,False,15.0,29.6,55.9,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,52,97.963,3.0,MEDIUM,16.0,True,1,True,False,False,14.0,29.6,56.1,False,11.0,14.0
+2022,12,French Grand Prix,Le Castellet,53,BOT,Alfa Romeo,53,98.358,3.0,MEDIUM,17.0,True,1,True,False,False,14.0,29.4,55.8,False,11.0,14.0

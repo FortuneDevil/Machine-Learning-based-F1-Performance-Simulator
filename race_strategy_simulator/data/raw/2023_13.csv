@@ -1,0 +1,1344 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,1,91.585,1.0,SOFT,1.0,True,1,False,False,False,1.0,17.6,29.5,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,2,109.972,1.0,SOFT,2.0,True,1,False,True,False,2.0,17.5,28.6,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,3,108.658,2.0,INTERMEDIATE,1.0,True,1,False,False,True,5.0,17.2,27.3,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,4,85.251,2.0,INTERMEDIATE,2.0,True,1,True,False,False,4.0,16.7,26.2,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,5,83.461,2.0,INTERMEDIATE,3.0,True,1,True,False,False,4.0,16.4,24.8,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,6,82.503,2.0,INTERMEDIATE,4.0,True,1,True,False,False,3.0,16.2,24.6,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,7,82.116,2.0,INTERMEDIATE,5.0,True,1,True,False,False,2.0,16.3,24.3,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,8,83.232,2.0,INTERMEDIATE,6.0,True,1,True,False,False,2.0,16.5,24.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,9,83.313,2.0,INTERMEDIATE,7.0,True,1,True,False,False,2.0,16.5,24.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,10,83.698,2.0,INTERMEDIATE,8.0,True,1,True,False,False,2.0,16.5,24.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,11,87.017,2.0,INTERMEDIATE,9.0,True,1,False,True,False,2.0,16.5,24.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,12,98.034,3.0,SOFT,1.0,True,1,False,False,True,2.0,16.5,24.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,13,78.775,3.0,SOFT,2.0,True,1,True,False,False,1.0,16.5,24.6,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,14,77.55,3.0,SOFT,3.0,True,1,True,False,False,1.0,16.5,24.6,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,15,76.93,3.0,SOFT,4.0,True,1,True,False,False,1.0,16.5,24.7,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,16,86.915,3.0,SOFT,5.0,True,124,False,False,False,1.0,16.8,25.5,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,17,122.217,3.0,SOFT,6.0,True,4,False,False,False,1.0,16.8,25.9,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,18,128.315,3.0,SOFT,7.0,True,4,False,False,False,1.0,17.0,26.3,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,19,119.845,3.0,SOFT,8.0,True,4,False,False,False,1.0,17.1,27.5,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,20,115.257,3.0,SOFT,9.0,True,4,False,False,False,1.0,17.1,28.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,21,127.622,3.0,SOFT,10.0,True,41,False,False,False,1.0,17.2,29.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,22,76.305,3.0,SOFT,11.0,True,1,True,False,False,1.0,17.4,29.5,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,23,76.085,3.0,SOFT,12.0,True,1,True,False,False,1.0,17.3,29.7,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,24,75.783,3.0,SOFT,13.0,True,1,True,False,False,1.0,17.3,29.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,25,75.664,3.0,SOFT,14.0,True,1,True,False,False,1.0,17.3,29.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,26,75.659,3.0,SOFT,15.0,True,1,True,False,False,1.0,17.3,29.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,27,75.681,3.0,SOFT,16.0,True,1,True,False,False,1.0,17.3,29.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,28,75.499,3.0,SOFT,17.0,True,1,True,False,False,1.0,17.2,28.5,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,29,75.374,3.0,SOFT,18.0,True,1,True,False,False,1.0,17.1,28.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,30,75.51,3.0,SOFT,19.0,True,1,True,False,False,1.0,17.1,27.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,31,75.561,3.0,SOFT,20.0,True,1,True,False,False,1.0,17.0,27.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,32,75.414,3.0,SOFT,21.0,True,1,True,False,False,1.0,17.0,26.8,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,33,75.342,3.0,SOFT,22.0,True,1,True,False,False,1.0,16.9,26.8,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,34,75.272,3.0,SOFT,23.0,True,1,True,False,False,1.0,16.8,26.3,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,35,75.275,3.0,SOFT,24.0,True,1,True,False,False,1.0,16.8,25.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,36,75.221,3.0,SOFT,25.0,True,1,True,False,False,1.0,16.8,25.6,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,37,75.167,3.0,SOFT,26.0,True,1,True,False,False,1.0,16.9,25.5,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,38,75.071,3.0,SOFT,27.0,True,1,True,False,False,1.0,16.9,25.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,39,75.193,3.0,SOFT,28.0,True,1,True,False,False,1.0,16.9,25.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,40,75.132,3.0,SOFT,29.0,True,1,True,False,False,1.0,16.8,24.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,41,75.306,3.0,SOFT,30.0,True,1,True,False,False,1.0,16.9,24.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,42,75.333,3.0,SOFT,31.0,True,1,True,False,False,1.0,16.9,25.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,43,75.366,3.0,SOFT,32.0,True,1,True,False,False,1.0,17.0,24.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,44,75.593,3.0,SOFT,33.0,True,1,True,False,False,1.0,17.1,25.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,45,75.559,3.0,SOFT,34.0,True,1,True,False,False,1.0,17.3,25.1,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,46,75.51,3.0,SOFT,35.0,True,1,True,False,False,1.0,17.3,26.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,47,75.575,3.0,SOFT,36.0,True,1,True,False,False,1.0,17.6,28.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,48,75.408,3.0,SOFT,37.0,True,1,True,False,False,1.0,17.7,28.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,49,78.531,3.0,SOFT,38.0,True,1,False,True,False,1.0,17.8,28.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,50,92.004,4.0,SOFT,2.0,False,1,False,False,True,1.0,17.7,27.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,51,73.941,4.0,SOFT,3.0,False,1,True,False,False,1.0,17.6,26.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,52,74.282,4.0,SOFT,4.0,False,1,True,False,False,1.0,17.5,26.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,53,74.272,4.0,SOFT,5.0,False,1,True,False,False,1.0,17.3,25.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,54,74.256,4.0,SOFT,6.0,False,1,True,False,False,1.0,17.3,25.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,55,74.415,4.0,SOFT,7.0,False,1,True,False,False,1.0,17.3,25.6,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,56,74.41,4.0,SOFT,8.0,False,1,True,False,False,1.0,17.2,25.6,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,57,74.096,4.0,SOFT,9.0,False,1,True,False,False,1.0,17.1,25.2,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,58,73.889,4.0,SOFT,10.0,False,1,True,False,False,1.0,17.1,25.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,59,73.943,4.0,SOFT,11.0,False,1,True,False,False,1.0,17.1,25.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,60,74.502,4.0,SOFT,12.0,False,1,True,False,False,1.0,17.1,24.8,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,61,84.682,4.0,SOFT,13.0,False,1,False,True,False,1.0,17.1,24.8,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,62,102.95,5.0,INTERMEDIATE,13.0,False,1,False,False,True,1.0,17.1,24.7,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,63,92.568,5.0,INTERMEDIATE,14.0,False,12,False,True,False,1.0,17.1,24.3,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,64,145.016,6.0,WET,1.0,True,265,False,True,True,1.0,17.1,24.1,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,65,,7.0,INTERMEDIATE,5.0,False,14,False,False,True,1.0,15.9,19.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,66,138.023,7.0,INTERMEDIATE,6.0,False,41,False,False,False,1.0,16.1,19.9,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,67,85.536,7.0,INTERMEDIATE,7.0,False,1,True,False,False,1.0,15.9,19.6,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,68,82.867,7.0,INTERMEDIATE,8.0,False,1,True,False,False,1.0,15.8,19.4,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,69,81.759,7.0,INTERMEDIATE,9.0,False,1,True,False,False,1.0,15.8,19.3,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,70,80.865,7.0,INTERMEDIATE,10.0,False,1,True,False,False,1.0,15.8,19.0,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,71,81.024,7.0,INTERMEDIATE,11.0,False,1,True,False,False,1.0,15.7,19.0,False,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,VER,Red Bull Racing,72,80.915,7.0,INTERMEDIATE,12.0,False,1,True,False,False,1.0,15.7,19.0,True,1.0,1.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,1,103.893,1.0,SOFT,1.0,True,1,False,True,False,16.0,17.6,29.5,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,2,114.457,2.0,INTERMEDIATE,7.0,False,1,False,False,True,16.0,17.4,28.5,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,3,91.466,2.0,INTERMEDIATE,8.0,False,1,True,False,False,4.0,17.2,27.3,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,4,85.008,2.0,INTERMEDIATE,9.0,False,1,True,False,False,3.0,16.7,26.2,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,5,83.834,2.0,INTERMEDIATE,10.0,False,1,True,False,False,3.0,16.4,24.8,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,6,84.92,2.0,INTERMEDIATE,11.0,False,1,True,False,False,4.0,16.2,24.6,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,7,83.89,2.0,INTERMEDIATE,12.0,False,1,True,False,False,4.0,16.3,24.3,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,8,84.345,2.0,INTERMEDIATE,13.0,False,1,True,False,False,4.0,16.5,24.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,9,85.018,2.0,INTERMEDIATE,14.0,False,1,True,False,False,4.0,16.5,24.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,10,85.224,2.0,INTERMEDIATE,15.0,False,1,True,False,False,3.0,16.5,24.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,11,88.328,2.0,INTERMEDIATE,16.0,False,1,False,True,False,3.0,16.5,24.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,12,98.136,3.0,SOFT,1.0,True,1,False,False,True,4.0,16.5,24.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,13,77.151,3.0,SOFT,2.0,True,1,True,False,False,4.0,16.5,24.6,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,14,77.201,3.0,SOFT,3.0,True,1,True,False,False,4.0,16.5,24.6,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,15,76.987,3.0,SOFT,4.0,True,1,True,False,False,4.0,16.5,24.7,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,16,86.577,3.0,SOFT,5.0,True,124,False,False,False,4.0,16.8,25.5,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,17,119.394,3.0,SOFT,6.0,True,4,False,False,False,4.0,16.8,25.9,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,18,127.78,3.0,SOFT,7.0,True,4,False,False,False,4.0,17.0,26.3,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,19,119.677,3.0,SOFT,8.0,True,4,False,False,False,4.0,17.1,27.5,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,20,115.729,3.0,SOFT,9.0,True,4,False,False,False,4.0,17.1,28.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,21,124.461,3.0,SOFT,10.0,True,41,False,False,False,4.0,17.2,29.0,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,22,77.477,3.0,SOFT,11.0,True,1,True,False,False,4.0,17.4,29.5,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,23,76.854,3.0,SOFT,12.0,True,1,True,False,False,4.0,17.3,29.7,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,24,76.266,3.0,SOFT,13.0,True,1,True,False,False,4.0,17.3,29.7,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,25,76.377,3.0,SOFT,14.0,True,1,True,False,False,4.0,17.3,29.7,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,26,76.38,3.0,SOFT,15.0,True,1,True,False,False,4.0,17.3,29.7,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,27,76.388,3.0,SOFT,16.0,True,1,True,False,False,4.0,17.3,29.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,28,75.901,3.0,SOFT,17.0,True,1,True,False,False,4.0,17.2,28.5,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,29,76.087,3.0,SOFT,18.0,True,1,True,False,False,4.0,17.1,28.4,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,30,76.095,3.0,SOFT,19.0,True,1,True,False,False,4.0,17.1,27.4,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,31,76.068,3.0,SOFT,20.0,True,1,True,False,False,4.0,17.0,27.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,32,76.366,3.0,SOFT,21.0,True,1,True,False,False,4.0,17.0,26.8,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,33,75.972,3.0,SOFT,22.0,True,1,True,False,False,4.0,16.9,26.8,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,34,76.059,3.0,SOFT,23.0,True,1,True,False,False,4.0,16.8,26.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,35,75.83,3.0,SOFT,24.0,True,1,True,False,False,4.0,16.8,25.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,36,75.835,3.0,SOFT,25.0,True,1,True,False,False,4.0,16.8,25.6,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,37,75.862,3.0,SOFT,26.0,True,1,True,False,False,4.0,16.9,25.5,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,38,75.626,3.0,SOFT,27.0,True,1,True,False,False,4.0,16.9,25.3,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,39,75.64,3.0,SOFT,28.0,True,1,True,False,False,4.0,16.9,25.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,40,75.654,3.0,SOFT,29.0,True,1,True,False,False,4.0,16.8,24.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,41,75.762,3.0,SOFT,30.0,True,1,True,False,False,4.0,16.9,24.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,42,75.804,3.0,SOFT,31.0,True,1,True,False,False,4.0,16.9,24.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,43,75.632,3.0,SOFT,32.0,True,1,True,False,False,4.0,17.0,24.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,44,75.749,3.0,SOFT,33.0,True,1,True,False,False,4.0,17.1,25.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,45,75.758,3.0,SOFT,34.0,True,1,True,False,False,4.0,17.3,25.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,46,79.173,3.0,SOFT,35.0,True,1,False,True,False,3.0,17.5,26.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,47,99.375,4.0,SOFT,1.0,True,1,False,False,True,6.0,17.6,28.0,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,48,75.248,4.0,SOFT,2.0,True,1,True,False,False,6.0,17.8,28.4,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,49,74.509,4.0,SOFT,3.0,True,1,True,False,False,6.0,17.7,27.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,50,75.878,4.0,SOFT,4.0,True,1,True,False,False,5.0,17.7,27.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,51,75.014,4.0,SOFT,5.0,True,1,True,False,False,5.0,17.6,26.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,52,75.059,4.0,SOFT,6.0,True,1,True,False,False,5.0,17.4,26.1,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,53,74.836,4.0,SOFT,7.0,True,1,True,False,False,5.0,17.3,25.7,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,54,74.675,4.0,SOFT,8.0,True,1,True,False,False,5.0,17.3,25.7,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,55,74.441,4.0,SOFT,9.0,True,1,True,False,False,5.0,17.3,25.6,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,56,74.925,4.0,SOFT,10.0,True,1,True,False,False,5.0,17.2,25.4,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,57,75.081,4.0,SOFT,11.0,True,1,True,False,False,5.0,17.1,25.2,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,58,75.486,4.0,SOFT,12.0,True,1,True,False,False,5.0,17.1,25.0,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,59,74.991,4.0,SOFT,13.0,True,1,True,False,False,5.0,17.1,25.0,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,60,80.355,4.0,SOFT,14.0,True,1,False,True,False,4.0,17.1,24.8,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,61,100.395,5.0,INTERMEDIATE,1.0,True,1,False,False,True,5.0,17.1,24.8,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,62,82.681,5.0,INTERMEDIATE,2.0,True,12,True,False,False,4.0,17.1,24.6,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,63,98.918,5.0,INTERMEDIATE,3.0,True,216,False,False,False,3.0,17.1,24.3,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,64,,5.0,INTERMEDIATE,4.0,True,65,False,True,False,3.0,17.0,22.8,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,65,,6.0,INTERMEDIATE,5.0,False,14,False,False,True,4.0,15.9,19.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,66,136.096,6.0,INTERMEDIATE,6.0,False,41,False,False,False,4.0,16.1,19.9,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,67,87.581,6.0,INTERMEDIATE,7.0,False,1,True,False,False,4.0,15.9,19.6,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,68,83.577,6.0,INTERMEDIATE,8.0,False,1,True,False,False,4.0,15.8,19.4,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,69,81.892,6.0,INTERMEDIATE,9.0,False,1,True,False,False,4.0,15.8,19.1,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,70,82.024,6.0,INTERMEDIATE,10.0,False,1,True,False,False,4.0,15.8,19.0,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,71,81.517,6.0,INTERMEDIATE,11.0,False,1,True,False,False,4.0,15.7,19.0,False,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,GAS,Alpine,72,81.606,6.0,INTERMEDIATE,12.0,False,1,True,False,False,4.0,15.8,19.1,True,12.0,3.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,1,99.743,1.0,SOFT,1.0,True,1,False,True,False,13.0,17.6,29.5,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,2,109.613,2.0,INTERMEDIATE,1.0,True,1,False,False,True,11.0,17.5,28.6,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,3,87.522,2.0,INTERMEDIATE,2.0,True,1,True,False,False,1.0,17.2,27.3,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,4,84.342,2.0,INTERMEDIATE,3.0,True,1,True,False,False,1.0,16.7,26.2,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,5,84.1,2.0,INTERMEDIATE,4.0,True,1,True,False,False,1.0,16.4,24.8,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,6,84.392,2.0,INTERMEDIATE,5.0,True,1,True,False,False,1.0,16.2,24.6,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,7,86.345,2.0,INTERMEDIATE,6.0,True,1,True,False,False,1.0,16.3,24.3,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,8,84.599,2.0,INTERMEDIATE,7.0,True,1,True,False,False,1.0,16.4,24.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,9,84.495,2.0,INTERMEDIATE,8.0,True,1,True,False,False,1.0,16.5,24.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,10,84.583,2.0,INTERMEDIATE,9.0,True,1,True,False,False,1.0,16.5,24.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,11,85.107,2.0,INTERMEDIATE,10.0,True,1,True,False,False,1.0,16.5,24.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,12,88.439,2.0,INTERMEDIATE,11.0,True,1,False,True,False,1.0,16.5,24.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,13,98.175,3.0,SOFT,1.0,True,1,False,False,True,2.0,16.5,24.3,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,14,76.876,3.0,SOFT,2.0,True,1,True,False,False,2.0,16.5,24.6,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,15,77.081,3.0,SOFT,3.0,True,1,True,False,False,2.0,16.5,24.7,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,16,85.78,3.0,SOFT,4.0,True,124,False,False,False,2.0,16.8,25.5,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,17,121.049,3.0,SOFT,5.0,True,4,False,False,False,2.0,16.8,25.9,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,18,128.368,3.0,SOFT,6.0,True,4,False,False,False,2.0,17.0,26.3,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,19,119.275,3.0,SOFT,7.0,True,4,False,False,False,2.0,17.1,27.5,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,20,116.001,3.0,SOFT,8.0,True,4,False,False,False,2.0,17.1,28.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,21,126.927,3.0,SOFT,9.0,True,41,False,False,False,2.0,17.2,29.0,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,22,76.989,3.0,SOFT,10.0,True,1,True,False,False,2.0,17.4,29.5,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,23,76.451,3.0,SOFT,11.0,True,1,True,False,False,2.0,17.3,29.7,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,24,75.8,3.0,SOFT,12.0,True,1,True,False,False,2.0,17.3,29.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,25,76.175,3.0,SOFT,13.0,True,1,True,False,False,2.0,17.3,29.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,26,76.38,3.0,SOFT,14.0,True,1,True,False,False,2.0,17.3,29.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,27,75.959,3.0,SOFT,15.0,True,1,True,False,False,2.0,17.3,29.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,28,75.777,3.0,SOFT,16.0,True,1,True,False,False,2.0,17.2,28.5,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,29,75.629,3.0,SOFT,17.0,True,1,True,False,False,2.0,17.1,28.4,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,30,75.576,3.0,SOFT,18.0,True,1,True,False,False,2.0,17.1,27.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,31,75.697,3.0,SOFT,19.0,True,1,True,False,False,2.0,17.0,27.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,32,75.764,3.0,SOFT,20.0,True,1,True,False,False,2.0,17.0,26.8,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,33,75.615,3.0,SOFT,21.0,True,1,True,False,False,2.0,16.9,26.8,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,34,75.377,3.0,SOFT,22.0,True,1,True,False,False,2.0,16.8,26.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,35,75.517,3.0,SOFT,23.0,True,1,True,False,False,2.0,16.8,25.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,36,75.782,3.0,SOFT,24.0,True,1,True,False,False,2.0,16.8,25.6,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,37,75.609,3.0,SOFT,25.0,True,1,True,False,False,2.0,16.9,25.5,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,38,75.44,3.0,SOFT,26.0,True,1,True,False,False,2.0,16.9,25.3,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,39,75.461,3.0,SOFT,27.0,True,1,True,False,False,2.0,16.9,25.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,40,75.676,3.0,SOFT,28.0,True,1,True,False,False,2.0,16.8,24.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,41,75.546,3.0,SOFT,29.0,True,1,True,False,False,2.0,16.9,24.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,42,75.822,3.0,SOFT,30.0,True,1,True,False,False,2.0,16.9,24.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,43,75.776,3.0,SOFT,31.0,True,1,True,False,False,2.0,17.0,24.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,44,75.722,3.0,SOFT,32.0,True,1,True,False,False,2.0,17.1,25.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,45,78.655,3.0,SOFT,33.0,True,1,False,True,False,2.0,17.3,25.1,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,46,93.107,4.0,SOFT,2.0,False,1,False,False,True,4.0,17.5,26.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,47,74.318,4.0,SOFT,3.0,False,1,True,False,False,3.0,17.6,28.0,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,48,74.867,4.0,SOFT,4.0,False,1,True,False,False,3.0,17.7,28.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,49,74.847,4.0,SOFT,5.0,False,1,True,False,False,2.0,17.7,27.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,50,74.714,4.0,SOFT,6.0,False,1,True,False,False,2.0,17.7,27.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,51,74.702,4.0,SOFT,7.0,False,1,True,False,False,2.0,17.6,26.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,52,74.658,4.0,SOFT,8.0,False,1,True,False,False,2.0,17.5,26.4,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,53,74.715,4.0,SOFT,9.0,False,1,True,False,False,2.0,17.3,25.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,54,75.006,4.0,SOFT,10.0,False,1,True,False,False,2.0,17.3,25.7,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,55,75.161,4.0,SOFT,11.0,False,1,True,False,False,2.0,17.3,25.6,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,56,74.656,4.0,SOFT,12.0,False,1,True,False,False,2.0,17.2,25.6,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,57,74.315,4.0,SOFT,13.0,False,1,True,False,False,2.0,17.1,25.2,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,58,74.313,4.0,SOFT,14.0,False,1,True,False,False,2.0,17.1,25.0,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,59,74.231,4.0,SOFT,15.0,False,1,True,False,False,2.0,17.1,25.0,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,60,78.349,4.0,SOFT,16.0,False,1,False,True,False,2.0,17.1,24.8,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,61,109.85,5.0,INTERMEDIATE,7.0,False,1,False,False,True,3.0,17.1,24.8,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,62,83.125,5.0,INTERMEDIATE,8.0,False,1,True,False,False,2.0,17.1,24.6,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,63,110.512,5.0,INTERMEDIATE,9.0,False,126,False,True,False,4.0,17.1,24.3,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,64,,6.0,INTERMEDIATE,7.0,False,651,False,True,True,6.0,17.0,22.8,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,65,,7.0,INTERMEDIATE,8.0,False,14,False,False,True,3.0,15.9,19.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,66,137.436,7.0,INTERMEDIATE,9.0,False,41,False,False,False,3.0,16.1,19.9,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,67,86.386,7.0,INTERMEDIATE,10.0,False,1,True,False,False,3.0,15.9,19.6,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,68,83.139,7.0,INTERMEDIATE,11.0,False,1,True,False,False,3.0,15.8,19.4,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,69,82.21,7.0,INTERMEDIATE,12.0,False,1,True,False,False,3.0,15.8,19.3,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,70,81.828,7.0,INTERMEDIATE,13.0,False,1,True,False,False,3.0,15.8,19.0,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,71,81.666,7.0,INTERMEDIATE,14.0,False,1,True,False,False,3.0,15.7,19.0,False,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PER,Red Bull Racing,72,81.699,7.0,INTERMEDIATE,15.0,False,1,True,False,False,3.0,15.8,19.1,True,7.0,4.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,1,92.766,1.0,SOFT,1.0,True,1,False,False,False,3.0,17.6,29.5,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,2,110.145,1.0,SOFT,2.0,True,1,False,True,False,5.0,17.5,28.6,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,3,109.357,2.0,INTERMEDIATE,1.0,True,1,False,False,True,7.0,17.2,27.3,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,4,86.225,2.0,INTERMEDIATE,2.0,True,1,True,False,False,6.0,16.7,26.2,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,5,84.932,2.0,INTERMEDIATE,3.0,True,1,True,False,False,6.0,16.4,24.8,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,6,83.975,2.0,INTERMEDIATE,4.0,True,1,True,False,False,5.0,16.2,24.6,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,7,83.182,2.0,INTERMEDIATE,5.0,True,1,True,False,False,5.0,16.3,24.3,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,8,83.756,2.0,INTERMEDIATE,6.0,True,1,True,False,False,5.0,16.5,24.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,9,84.325,2.0,INTERMEDIATE,7.0,True,1,True,False,False,5.0,16.5,24.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,10,88.333,2.0,INTERMEDIATE,8.0,True,1,False,True,False,5.0,16.5,24.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,11,100.065,3.0,SOFT,1.0,True,1,False,False,True,5.0,16.5,24.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,12,77.979,3.0,SOFT,2.0,True,1,True,False,False,3.0,16.5,24.3,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,13,77.643,3.0,SOFT,3.0,True,1,True,False,False,3.0,16.5,24.6,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,14,77.413,3.0,SOFT,4.0,True,1,True,False,False,3.0,16.5,24.6,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,15,77.415,3.0,SOFT,5.0,True,1,True,False,False,3.0,16.5,24.7,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,16,87.815,3.0,SOFT,6.0,True,124,False,False,False,3.0,16.8,25.5,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,17,118.298,3.0,SOFT,7.0,True,4,False,False,False,3.0,16.8,25.9,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,18,128.354,3.0,SOFT,8.0,True,4,False,False,False,3.0,17.0,26.3,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,19,119.078,3.0,SOFT,9.0,True,4,False,False,False,3.0,17.1,27.5,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,20,116.043,3.0,SOFT,10.0,True,4,False,False,False,3.0,17.1,28.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,21,125.885,3.0,SOFT,11.0,True,41,False,False,False,3.0,17.2,29.0,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,22,77.482,3.0,SOFT,12.0,True,1,True,False,False,3.0,17.4,29.5,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,23,76.681,3.0,SOFT,13.0,True,1,True,False,False,3.0,17.3,29.7,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,24,76.183,3.0,SOFT,14.0,True,1,True,False,False,3.0,17.3,29.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,25,76.054,3.0,SOFT,15.0,True,1,True,False,False,3.0,17.3,29.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,26,75.885,3.0,SOFT,16.0,True,1,True,False,False,3.0,17.3,29.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,27,75.944,3.0,SOFT,17.0,True,1,True,False,False,3.0,17.3,29.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,28,76.373,3.0,SOFT,18.0,True,1,True,False,False,3.0,17.2,28.5,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,29,76.333,3.0,SOFT,19.0,True,1,True,False,False,3.0,17.1,28.4,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,30,75.921,3.0,SOFT,20.0,True,1,True,False,False,3.0,17.1,27.4,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,31,76.097,3.0,SOFT,21.0,True,1,True,False,False,3.0,17.0,27.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,32,76.282,3.0,SOFT,22.0,True,1,True,False,False,3.0,17.0,26.8,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,33,75.842,3.0,SOFT,23.0,True,1,True,False,False,3.0,16.9,26.8,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,34,75.813,3.0,SOFT,24.0,True,1,True,False,False,3.0,16.8,26.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,35,75.69,3.0,SOFT,25.0,True,1,True,False,False,3.0,16.8,25.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,36,75.575,3.0,SOFT,26.0,True,1,True,False,False,3.0,16.8,25.6,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,37,75.674,3.0,SOFT,27.0,True,1,True,False,False,3.0,16.9,25.5,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,38,75.836,3.0,SOFT,28.0,True,1,True,False,False,3.0,16.9,25.3,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,39,75.612,3.0,SOFT,29.0,True,1,True,False,False,3.0,16.9,25.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,40,75.577,3.0,SOFT,30.0,True,1,True,False,False,3.0,16.8,24.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,41,75.743,3.0,SOFT,31.0,True,1,True,False,False,3.0,16.9,24.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,42,75.686,3.0,SOFT,32.0,True,1,True,False,False,3.0,16.9,24.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,43,75.829,3.0,SOFT,33.0,True,1,True,False,False,3.0,17.0,24.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,44,75.615,3.0,SOFT,34.0,True,1,True,False,False,3.0,17.1,25.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,45,75.737,3.0,SOFT,35.0,True,1,True,False,False,3.0,17.3,25.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,46,75.967,3.0,SOFT,36.0,True,1,True,False,False,2.0,17.5,26.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,47,75.841,3.0,SOFT,37.0,True,1,True,False,False,2.0,17.6,28.0,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,48,79.319,3.0,SOFT,38.0,True,1,False,True,False,2.0,17.7,28.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,49,98.405,4.0,SOFT,3.0,False,1,False,False,True,4.0,17.7,27.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,50,74.153,4.0,SOFT,4.0,False,1,True,False,False,4.0,17.7,27.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,51,74.106,4.0,SOFT,5.0,False,1,True,False,False,4.0,17.6,26.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,52,75.514,4.0,SOFT,6.0,False,1,True,False,False,3.0,17.4,26.1,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,53,74.348,4.0,SOFT,7.0,False,1,True,False,False,3.0,17.3,25.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,54,73.965,4.0,SOFT,8.0,False,1,True,False,False,3.0,17.3,25.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,55,73.862,4.0,SOFT,9.0,False,1,True,False,False,3.0,17.3,25.6,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,56,73.837,4.0,SOFT,10.0,False,1,True,False,False,3.0,17.2,25.4,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,57,74.319,4.0,SOFT,11.0,False,1,True,False,False,3.0,17.1,25.2,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,58,74.005,4.0,SOFT,12.0,False,1,True,False,False,3.0,17.1,25.0,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,59,74.158,4.0,SOFT,13.0,False,1,True,False,False,3.0,17.1,25.0,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,60,74.409,4.0,SOFT,14.0,False,1,True,False,False,3.0,17.1,24.8,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,61,89.136,4.0,SOFT,15.0,False,1,False,True,False,2.0,17.1,24.8,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,62,104.305,5.0,INTERMEDIATE,4.0,False,1,False,False,True,3.0,17.1,24.7,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,63,100.079,5.0,INTERMEDIATE,5.0,False,126,False,False,False,2.0,17.1,24.3,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,64,142.422,5.0,INTERMEDIATE,6.0,False,65,False,True,False,2.0,17.0,22.8,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,65,,6.0,INTERMEDIATE,7.0,False,14,False,False,True,2.0,15.9,19.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,66,137.533,6.0,INTERMEDIATE,8.0,False,41,False,False,False,2.0,16.1,19.9,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,67,86.0,6.0,INTERMEDIATE,9.0,False,1,True,False,False,2.0,15.9,19.6,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,68,83.132,6.0,INTERMEDIATE,10.0,False,1,True,False,False,2.0,15.8,19.4,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,69,82.3,6.0,INTERMEDIATE,11.0,False,1,True,False,False,2.0,15.8,19.3,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,70,82.213,6.0,INTERMEDIATE,12.0,False,1,True,False,False,2.0,15.8,19.0,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,71,81.622,6.0,INTERMEDIATE,13.0,False,1,True,False,False,2.0,15.7,19.0,False,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALO,Aston Martin,72,81.123,6.0,INTERMEDIATE,14.0,False,1,True,False,False,2.0,15.8,19.1,True,5.0,2.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,1,102.801,1.0,SOFT,1.0,True,1,False,True,False,15.0,17.6,29.5,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,2,118.969,2.0,INTERMEDIATE,1.0,True,1,False,False,True,17.0,17.5,28.6,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,3,90.281,2.0,INTERMEDIATE,2.0,True,1,True,False,False,6.0,17.2,27.3,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,4,85.852,2.0,INTERMEDIATE,3.0,True,1,True,False,False,5.0,16.7,26.2,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,5,84.975,2.0,INTERMEDIATE,4.0,True,1,True,False,False,5.0,16.4,24.8,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,6,85.657,2.0,INTERMEDIATE,5.0,True,1,True,False,False,6.0,16.2,24.6,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,7,84.818,2.0,INTERMEDIATE,6.0,True,1,True,False,False,6.0,16.3,24.3,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,8,85.064,2.0,INTERMEDIATE,7.0,True,1,True,False,False,6.0,16.5,24.1,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,9,87.458,2.0,INTERMEDIATE,8.0,True,1,True,False,False,7.0,16.5,24.1,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,10,86.256,2.0,INTERMEDIATE,9.0,True,1,True,False,False,6.0,16.5,24.1,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,11,90.892,2.0,INTERMEDIATE,10.0,True,1,False,True,False,4.0,16.5,24.2,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,12,107.2,3.0,SOFT,1.0,True,1,False,False,True,13.0,16.5,24.2,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,13,78.149,3.0,SOFT,2.0,True,1,True,False,False,13.0,16.5,24.6,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,14,77.837,3.0,SOFT,3.0,True,1,True,False,False,13.0,16.5,24.7,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,15,77.621,3.0,SOFT,4.0,True,12,True,False,False,13.0,16.6,24.8,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,16,97.308,3.0,SOFT,5.0,True,24,False,False,False,12.0,16.8,25.5,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,17,113.845,3.0,SOFT,6.0,True,4,False,False,False,12.0,16.9,26.1,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,18,106.782,3.0,SOFT,7.0,True,4,False,False,False,12.0,17.1,26.9,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,19,123.019,3.0,SOFT,8.0,True,4,False,False,False,12.0,17.1,27.5,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,20,114.136,3.0,SOFT,9.0,True,4,False,False,False,12.0,17.1,28.7,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,21,117.665,3.0,SOFT,10.0,True,41,False,False,False,12.0,17.2,29.0,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,22,79.372,3.0,SOFT,11.0,True,1,True,False,False,12.0,17.4,29.5,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,23,78.267,3.0,SOFT,12.0,True,1,True,False,False,12.0,17.3,29.7,True,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,24,77.769,3.0,SOFT,13.0,True,1,True,False,False,12.0,17.3,29.7,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,25,77.863,3.0,SOFT,14.0,True,1,True,False,False,12.0,17.3,29.7,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,26,79.046,3.0,SOFT,15.0,True,1,True,False,False,14.0,17.3,29.4,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,27,77.558,3.0,SOFT,16.0,True,1,True,False,False,14.0,17.3,29.2,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,28,77.431,3.0,SOFT,17.0,True,1,True,False,False,14.0,17.2,28.5,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,29,77.418,3.0,SOFT,18.0,True,1,True,False,False,14.0,17.1,27.7,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,30,78.574,3.0,SOFT,19.0,True,1,True,False,False,15.0,17.1,27.4,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,31,77.561,3.0,SOFT,20.0,True,1,True,False,False,15.0,17.0,27.1,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,32,77.432,3.0,SOFT,21.0,True,1,True,False,False,15.0,17.0,26.8,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,33,77.277,3.0,SOFT,22.0,True,1,True,False,False,15.0,16.8,26.3,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,34,77.662,3.0,SOFT,23.0,True,1,True,False,False,15.0,16.8,26.1,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,35,78.035,3.0,SOFT,24.0,True,1,True,False,False,15.0,16.8,25.9,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,36,77.936,3.0,SOFT,25.0,True,1,True,False,False,15.0,16.9,25.5,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,37,77.454,3.0,SOFT,26.0,True,1,True,False,False,15.0,16.9,25.4,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,38,78.473,3.0,SOFT,27.0,True,1,True,False,False,15.0,16.9,25.3,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,39,77.874,3.0,SOFT,28.0,True,1,True,False,False,15.0,16.9,25.2,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,40,78.096,3.0,SOFT,29.0,True,1,True,False,False,16.0,16.9,24.9,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LEC,Ferrari,41,83.662,3.0,SOFT,30.0,True,1,False,True,False,17.0,16.9,25.0,False,9.0,19.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,1,97.074,1.0,SOFT,1.0,True,1,False,False,False,8.0,17.6,29.5,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,2,110.241,1.0,SOFT,2.0,True,1,True,False,False,7.0,17.5,28.6,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,3,112.03,1.0,SOFT,3.0,True,1,True,False,False,14.0,17.2,27.3,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,4,114.041,1.0,SOFT,4.0,True,1,False,True,False,18.0,16.7,26.2,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,5,103.905,2.0,INTERMEDIATE,1.0,True,1,False,False,True,19.0,16.2,24.6,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,6,84.554,2.0,INTERMEDIATE,2.0,True,1,True,False,False,18.0,16.3,24.3,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,7,86.604,2.0,INTERMEDIATE,3.0,True,1,True,False,False,18.0,16.4,24.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,8,83.782,2.0,INTERMEDIATE,4.0,True,1,True,False,False,18.0,16.5,24.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,9,89.107,2.0,INTERMEDIATE,5.0,True,1,False,True,False,19.0,16.5,24.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,10,102.634,3.0,SOFT,1.0,True,1,False,False,True,19.0,16.5,24.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,11,79.74,3.0,SOFT,2.0,True,1,True,False,False,19.0,16.5,24.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,12,77.585,3.0,SOFT,3.0,True,1,True,False,False,19.0,16.5,24.6,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,13,78.291,3.0,SOFT,4.0,True,1,True,False,False,19.0,16.5,24.6,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,14,78.114,3.0,SOFT,5.0,True,1,True,False,False,19.0,16.5,24.7,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,15,78.52,3.0,SOFT,6.0,True,12,True,False,False,19.0,16.6,24.8,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,16,113.704,3.0,SOFT,7.0,True,24,False,True,False,19.0,16.8,25.9,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,17,127.606,4.0,MEDIUM,1.0,True,4,False,False,True,19.0,17.0,26.3,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,18,84.336,4.0,MEDIUM,2.0,True,4,False,False,False,19.0,17.1,27.5,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,19,96.486,4.0,MEDIUM,3.0,True,4,False,False,False,19.0,17.1,28.0,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,20,109.885,4.0,MEDIUM,4.0,True,4,False,False,False,19.0,17.1,28.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,21,113.444,4.0,MEDIUM,5.0,True,41,False,False,False,18.0,17.4,29.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,22,78.993,4.0,MEDIUM,6.0,True,1,True,False,False,18.0,17.4,29.5,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,23,77.939,4.0,MEDIUM,7.0,True,1,True,False,False,18.0,17.3,29.7,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,24,77.367,4.0,MEDIUM,8.0,True,1,True,False,False,18.0,17.3,29.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,25,77.011,4.0,MEDIUM,9.0,True,1,True,False,False,17.0,17.3,29.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,26,77.567,4.0,MEDIUM,10.0,True,1,True,False,False,17.0,17.3,29.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,27,77.957,4.0,MEDIUM,11.0,True,1,True,False,False,17.0,17.3,29.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,28,77.549,4.0,MEDIUM,12.0,True,1,True,False,False,17.0,17.2,28.5,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,29,77.567,4.0,MEDIUM,13.0,True,1,True,False,False,17.0,17.1,27.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,30,77.584,4.0,MEDIUM,14.0,True,1,True,False,False,17.0,17.1,27.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,31,77.689,4.0,MEDIUM,15.0,True,1,True,False,False,17.0,17.0,27.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,32,77.435,4.0,MEDIUM,16.0,True,1,True,False,False,17.0,17.0,26.8,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,33,77.786,4.0,MEDIUM,17.0,True,1,True,False,False,17.0,16.8,26.3,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,34,80.718,4.0,MEDIUM,18.0,True,1,False,True,False,19.0,16.8,26.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,35,94.591,5.0,SOFT,1.0,True,1,False,False,True,19.0,16.8,25.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,36,75.515,5.0,SOFT,2.0,True,1,True,False,False,19.0,16.9,25.5,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,37,75.171,5.0,SOFT,3.0,True,1,True,False,False,19.0,16.9,25.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,38,75.605,5.0,SOFT,4.0,True,1,True,False,False,19.0,16.9,25.3,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,39,75.409,5.0,SOFT,5.0,True,1,True,False,False,19.0,16.8,24.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,40,75.376,5.0,SOFT,6.0,True,1,True,False,False,19.0,16.9,24.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,41,75.842,5.0,SOFT,7.0,True,1,True,False,False,19.0,16.9,25.0,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,42,75.803,5.0,SOFT,8.0,True,1,True,False,False,17.0,16.9,24.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,43,75.813,5.0,SOFT,9.0,True,1,True,False,False,17.0,17.1,25.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,44,75.904,5.0,SOFT,10.0,True,1,True,False,False,17.0,17.3,25.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,45,76.116,5.0,SOFT,11.0,True,1,True,False,False,17.0,17.3,26.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,46,76.905,5.0,SOFT,12.0,True,1,True,False,False,16.0,17.6,28.0,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,47,75.717,5.0,SOFT,13.0,True,1,True,False,False,16.0,17.7,28.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,48,75.723,5.0,SOFT,14.0,True,1,True,False,False,15.0,17.8,28.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,49,75.625,5.0,SOFT,15.0,True,1,True,False,False,14.0,17.7,27.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,50,75.698,5.0,SOFT,16.0,True,1,True,False,False,14.0,17.6,26.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,51,75.617,5.0,SOFT,17.0,True,1,True,False,False,14.0,17.5,26.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,52,75.767,5.0,SOFT,18.0,True,1,True,False,False,14.0,17.4,26.1,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,53,75.782,5.0,SOFT,19.0,True,1,True,False,False,14.0,17.3,25.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,54,75.618,5.0,SOFT,20.0,True,1,True,False,False,14.0,17.3,25.6,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,55,75.811,5.0,SOFT,21.0,True,1,True,False,False,14.0,17.2,25.6,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,56,75.741,5.0,SOFT,22.0,True,1,True,False,False,14.0,17.2,25.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,57,75.898,5.0,SOFT,23.0,True,1,True,False,False,14.0,17.1,25.2,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,58,76.106,5.0,SOFT,24.0,True,1,True,False,False,14.0,17.1,25.0,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,59,75.978,5.0,SOFT,25.0,True,1,True,False,False,14.0,17.1,24.8,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,60,86.596,5.0,SOFT,26.0,True,1,False,True,False,14.0,17.1,24.8,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,61,105.281,6.0,INTERMEDIATE,6.0,False,1,False,False,True,14.0,17.1,24.7,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,62,85.479,6.0,INTERMEDIATE,7.0,False,12,True,False,False,14.0,17.1,24.6,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,63,132.24,6.0,INTERMEDIATE,8.0,False,1265,False,True,False,13.0,17.1,24.1,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,64,,7.0,INTERMEDIATE,6.0,False,514,False,True,True,13.0,16.6,21.8,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,65,,8.0,INTERMEDIATE,7.0,False,14,False,False,True,13.0,15.9,19.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,66,127.412,8.0,INTERMEDIATE,8.0,False,41,False,False,False,13.0,16.0,19.9,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,67,89.525,8.0,INTERMEDIATE,9.0,False,1,True,False,False,11.0,15.9,19.6,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,68,84.778,8.0,INTERMEDIATE,10.0,False,1,True,False,False,11.0,15.8,19.4,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,69,83.318,8.0,INTERMEDIATE,11.0,False,1,True,False,False,11.0,15.8,19.1,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,70,83.029,8.0,INTERMEDIATE,12.0,False,1,True,False,False,11.0,15.8,19.0,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,71,82.543,8.0,INTERMEDIATE,13.0,False,1,True,False,False,11.0,15.7,19.0,False,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,STR,Aston Martin,72,83.194,8.0,INTERMEDIATE,14.0,False,1,True,False,False,11.0,15.8,19.1,True,11.0,11.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,1,99.822,1.0,SOFT,1.0,True,1,False,False,False,14.0,17.6,29.5,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,2,113.444,1.0,SOFT,2.0,True,1,True,False,False,13.0,17.5,28.6,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,3,116.188,1.0,SOFT,3.0,True,1,True,False,False,19.0,17.2,27.3,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,4,108.687,1.0,SOFT,4.0,True,1,True,False,False,20.0,16.7,26.2,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,5,103.016,1.0,SOFT,5.0,True,1,True,False,False,20.0,16.2,24.6,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,6,98.379,1.0,SOFT,6.0,True,1,True,False,False,20.0,16.3,24.3,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,7,93.965,1.0,SOFT,7.0,True,1,True,False,False,20.0,16.4,24.2,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,8,89.878,1.0,SOFT,8.0,True,1,True,False,False,20.0,16.5,24.1,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,9,84.26,1.0,SOFT,9.0,True,1,True,False,False,20.0,16.5,24.1,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,10,81.081,1.0,SOFT,10.0,True,1,True,False,False,20.0,16.5,24.2,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,11,79.797,1.0,SOFT,11.0,True,1,True,False,False,20.0,16.5,24.2,False,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,12,78.688,1.0,SOFT,12.0,True,1,True,False,False,20.0,16.5,24.6,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,13,77.399,1.0,SOFT,13.0,True,1,True,False,False,20.0,16.5,24.6,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,14,77.824,1.0,SOFT,14.0,True,1,True,False,False,20.0,16.5,24.7,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAR,Williams,15,,1.0,SOFT,15.0,True,1246,False,False,False,,16.6,24.8,True,10.0,20.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,1,111.944,1.0,SOFT,1.0,True,1,False,True,True,20.0,17.6,29.5,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,2,118.312,2.0,INTERMEDIATE,1.0,True,1,False,False,True,19.0,17.4,28.5,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,3,88.198,2.0,INTERMEDIATE,2.0,True,1,True,False,False,13.0,16.9,26.2,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,4,87.297,2.0,INTERMEDIATE,3.0,True,1,True,False,False,9.0,16.7,26.2,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,5,84.267,2.0,INTERMEDIATE,4.0,True,1,True,False,False,9.0,16.2,24.6,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,6,85.666,2.0,INTERMEDIATE,5.0,True,1,True,False,False,9.0,16.2,24.6,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,7,86.119,2.0,INTERMEDIATE,6.0,True,1,True,False,False,9.0,16.3,24.3,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,8,84.956,2.0,INTERMEDIATE,7.0,True,1,True,False,False,9.0,16.5,24.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,9,89.039,2.0,INTERMEDIATE,8.0,True,1,False,True,False,10.0,16.5,24.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,10,102.023,3.0,SOFT,1.0,True,1,False,False,True,12.0,16.5,24.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,11,80.178,3.0,SOFT,2.0,True,1,True,False,False,8.0,16.5,24.2,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,12,78.419,3.0,SOFT,3.0,True,1,True,False,False,7.0,16.5,24.3,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,13,77.963,3.0,SOFT,4.0,True,1,True,False,False,7.0,16.5,24.6,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,14,77.757,3.0,SOFT,5.0,True,1,True,False,False,7.0,16.5,24.6,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,15,78.345,3.0,SOFT,6.0,True,1,True,False,False,7.0,16.6,24.8,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,16,94.259,3.0,SOFT,7.0,True,124,False,False,False,7.0,16.8,25.5,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,17,112.136,3.0,SOFT,8.0,True,4,False,False,False,7.0,16.9,26.1,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,18,119.556,3.0,SOFT,9.0,True,4,False,False,False,7.0,17.0,26.3,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,19,120.273,3.0,SOFT,10.0,True,4,False,False,False,7.0,17.1,27.5,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,20,116.41,3.0,SOFT,11.0,True,4,False,False,False,7.0,17.1,28.2,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,21,122.079,3.0,SOFT,12.0,True,41,False,False,False,7.0,17.2,29.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,22,78.662,3.0,SOFT,13.0,True,1,True,False,False,7.0,17.4,29.5,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,23,78.352,3.0,SOFT,14.0,True,1,True,False,False,8.0,17.3,29.7,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,24,77.864,3.0,SOFT,15.0,True,1,True,False,False,9.0,17.3,29.7,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,25,77.349,3.0,SOFT,16.0,True,1,True,False,False,9.0,17.3,29.7,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,26,77.0,3.0,SOFT,17.0,True,1,True,False,False,9.0,17.3,29.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,27,77.733,3.0,SOFT,18.0,True,1,True,False,False,10.0,17.3,29.2,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,28,78.175,3.0,SOFT,19.0,True,1,True,False,False,11.0,17.2,28.5,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,29,78.122,3.0,SOFT,20.0,True,1,True,False,False,12.0,17.1,28.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,30,77.292,3.0,SOFT,21.0,True,1,True,False,False,13.0,17.1,27.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,31,77.457,3.0,SOFT,22.0,True,1,True,False,False,13.0,17.0,27.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,32,76.962,3.0,SOFT,23.0,True,1,True,False,False,13.0,17.0,26.8,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,33,77.035,3.0,SOFT,24.0,True,1,True,False,False,13.0,16.8,26.3,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,34,77.04,3.0,SOFT,25.0,True,1,True,False,False,13.0,16.8,26.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,35,80.308,3.0,SOFT,26.0,True,1,False,True,False,14.0,16.8,25.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,36,96.569,4.0,MEDIUM,1.0,True,1,False,False,True,18.0,16.9,25.5,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,37,75.489,4.0,MEDIUM,2.0,True,1,True,False,False,18.0,16.9,25.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,38,76.534,4.0,MEDIUM,3.0,True,1,True,False,False,18.0,16.9,25.3,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,39,76.341,4.0,MEDIUM,4.0,True,1,True,False,False,18.0,16.8,24.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,40,76.458,4.0,MEDIUM,5.0,True,1,True,False,False,18.0,16.9,24.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,41,76.244,4.0,MEDIUM,6.0,True,1,True,False,False,18.0,16.9,25.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,42,77.406,4.0,MEDIUM,7.0,True,1,True,False,False,18.0,16.9,24.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,43,76.392,4.0,MEDIUM,8.0,True,1,True,False,False,18.0,17.1,25.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,44,76.259,4.0,MEDIUM,9.0,True,1,True,False,False,18.0,17.3,25.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,45,76.589,4.0,MEDIUM,10.0,True,1,True,False,False,18.0,17.3,26.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,46,76.362,4.0,MEDIUM,11.0,True,1,True,False,False,17.0,17.6,28.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,47,76.333,4.0,MEDIUM,12.0,True,1,True,False,False,17.0,17.7,28.2,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,48,76.238,4.0,MEDIUM,13.0,True,1,True,False,False,16.0,17.8,28.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,49,76.169,4.0,MEDIUM,14.0,True,1,True,False,False,15.0,17.7,27.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,50,76.041,4.0,MEDIUM,15.0,True,1,True,False,False,15.0,17.6,26.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,51,75.986,4.0,MEDIUM,16.0,True,1,True,False,False,15.0,17.5,26.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,52,75.941,4.0,MEDIUM,17.0,True,1,True,False,False,15.0,17.4,26.1,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,53,75.839,4.0,MEDIUM,18.0,True,1,True,False,False,15.0,17.3,25.7,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,54,75.93,4.0,MEDIUM,19.0,True,1,True,False,False,15.0,17.3,25.6,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,55,76.295,4.0,MEDIUM,20.0,True,1,True,False,False,15.0,17.2,25.6,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,56,76.861,4.0,MEDIUM,21.0,True,1,True,False,False,16.0,17.2,25.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,57,76.453,4.0,MEDIUM,22.0,True,1,True,False,False,16.0,17.1,25.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,58,76.56,4.0,MEDIUM,23.0,True,1,True,False,False,16.0,17.1,25.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,59,76.521,4.0,MEDIUM,24.0,True,1,True,False,False,16.0,17.1,24.8,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,60,89.294,4.0,MEDIUM,25.0,True,1,False,True,False,16.0,17.1,24.8,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,61,108.463,5.0,INTERMEDIATE,1.0,True,1,False,False,True,18.0,17.1,24.7,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,62,86.2,5.0,INTERMEDIATE,2.0,True,12,True,False,False,18.0,17.1,24.3,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,63,145.291,5.0,INTERMEDIATE,3.0,True,265,False,True,False,17.0,17.1,24.1,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,64,,6.0,INTERMEDIATE,4.0,False,514,False,True,True,17.0,16.3,21.8,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,65,149.068,7.0,INTERMEDIATE,5.0,False,4,False,False,True,17.0,15.9,19.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,66,121.205,7.0,INTERMEDIATE,6.0,False,41,False,False,False,17.0,16.0,19.9,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,67,90.623,7.0,INTERMEDIATE,7.0,False,1,True,False,False,16.0,15.9,19.6,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,68,85.674,7.0,INTERMEDIATE,8.0,False,1,True,False,False,15.0,15.8,19.4,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,69,84.092,7.0,INTERMEDIATE,9.0,False,1,True,False,False,15.0,15.8,19.1,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,70,83.027,7.0,INTERMEDIATE,10.0,False,1,True,False,False,15.0,15.8,19.0,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,71,83.912,7.0,INTERMEDIATE,11.0,False,1,True,False,False,15.0,15.7,19.0,False,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,MAG,Haas F1 Team,72,83.55,7.0,INTERMEDIATE,12.0,False,1,True,False,False,15.0,15.8,19.1,True,0.0,16.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,1,106.869,1.0,SOFT,1.0,True,1,False,True,False,18.0,17.6,29.5,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,2,118.845,2.0,INTERMEDIATE,6.0,False,1,False,False,True,18.0,17.4,28.5,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,3,89.747,2.0,INTERMEDIATE,7.0,False,1,True,False,False,11.0,16.9,26.2,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,4,89.073,2.0,INTERMEDIATE,8.0,False,1,True,False,False,8.0,16.7,26.2,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,5,84.82,2.0,INTERMEDIATE,9.0,False,1,True,False,False,8.0,16.2,24.6,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,6,84.838,2.0,INTERMEDIATE,10.0,False,1,True,False,False,8.0,16.2,24.6,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,7,85.039,2.0,INTERMEDIATE,11.0,False,1,True,False,False,8.0,16.3,24.3,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,8,85.894,2.0,INTERMEDIATE,12.0,False,1,True,False,False,8.0,16.5,24.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,9,85.581,2.0,INTERMEDIATE,13.0,False,1,True,False,False,8.0,16.5,24.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,10,90.464,2.0,INTERMEDIATE,14.0,False,1,False,True,False,8.0,16.5,24.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,11,100.282,3.0,SOFT,1.0,True,1,False,False,True,9.0,16.5,24.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,12,78.212,3.0,SOFT,2.0,True,1,True,False,False,9.0,16.5,24.3,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,13,77.809,3.0,SOFT,3.0,True,1,True,False,False,9.0,16.5,24.6,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,14,77.219,3.0,SOFT,4.0,True,1,True,False,False,9.0,16.5,24.6,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,15,79.161,3.0,SOFT,5.0,True,1,True,False,False,10.0,16.6,24.8,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,16,97.007,3.0,SOFT,6.0,True,124,False,False,False,10.0,16.8,25.5,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,17,112.436,3.0,SOFT,7.0,True,4,False,False,False,10.0,16.9,26.1,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,18,116.297,3.0,SOFT,8.0,True,4,False,False,False,10.0,17.0,26.3,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,19,120.983,3.0,SOFT,9.0,True,4,False,False,False,10.0,17.1,27.5,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,20,115.751,3.0,SOFT,10.0,True,4,False,False,False,10.0,17.1,28.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,21,119.79,3.0,SOFT,11.0,True,41,False,False,False,10.0,17.2,29.0,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,22,79.082,3.0,SOFT,12.0,True,1,True,False,False,10.0,17.4,29.5,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,23,77.816,3.0,SOFT,13.0,True,1,True,False,False,10.0,17.3,29.7,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,24,77.466,3.0,SOFT,14.0,True,1,True,False,False,10.0,17.3,29.7,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,25,77.214,3.0,SOFT,15.0,True,1,True,False,False,10.0,17.3,29.7,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,26,76.931,3.0,SOFT,16.0,True,1,True,False,False,10.0,17.3,29.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,27,76.943,3.0,SOFT,17.0,True,1,True,False,False,9.0,17.3,29.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,28,76.652,3.0,SOFT,18.0,True,1,True,False,False,9.0,17.2,28.5,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,29,76.458,3.0,SOFT,19.0,True,1,True,False,False,9.0,17.1,28.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,30,76.861,3.0,SOFT,20.0,True,1,True,False,False,9.0,17.1,27.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,31,77.137,3.0,SOFT,21.0,True,1,True,False,False,8.0,17.0,27.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,32,76.678,3.0,SOFT,22.0,True,1,True,False,False,8.0,17.0,26.8,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,33,76.414,3.0,SOFT,23.0,True,1,True,False,False,8.0,16.8,26.3,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,34,76.396,3.0,SOFT,24.0,True,1,True,False,False,8.0,16.8,26.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,35,76.253,3.0,SOFT,25.0,True,1,True,False,False,8.0,16.8,25.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,36,76.644,3.0,SOFT,26.0,True,1,True,False,False,8.0,16.8,25.6,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,37,76.358,3.0,SOFT,27.0,True,1,True,False,False,8.0,16.9,25.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,38,76.419,3.0,SOFT,28.0,True,1,True,False,False,8.0,16.9,25.3,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,39,76.529,3.0,SOFT,29.0,True,1,True,False,False,8.0,16.9,25.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,40,76.47,3.0,SOFT,30.0,True,1,True,False,False,8.0,16.8,24.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,41,76.44,3.0,SOFT,31.0,True,1,True,False,False,8.0,16.9,25.0,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,42,76.521,3.0,SOFT,32.0,True,1,True,False,False,7.0,16.9,24.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,43,76.506,3.0,SOFT,33.0,True,1,True,False,False,6.0,17.0,24.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,44,76.58,3.0,SOFT,34.0,True,1,True,False,False,6.0,17.3,25.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,45,76.611,3.0,SOFT,35.0,True,1,True,False,False,5.0,17.3,26.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,46,76.711,3.0,SOFT,36.0,True,1,True,False,False,5.0,17.5,26.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,47,76.69,3.0,SOFT,37.0,True,1,True,False,False,4.0,17.6,28.0,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,48,77.184,3.0,SOFT,38.0,True,1,True,False,False,5.0,17.8,28.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,49,76.854,3.0,SOFT,39.0,True,1,True,False,False,5.0,17.7,27.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,50,77.095,3.0,SOFT,40.0,True,1,True,False,False,6.0,17.7,27.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,51,76.678,3.0,SOFT,41.0,True,1,True,False,False,6.0,17.5,26.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,52,78.472,3.0,SOFT,42.0,True,1,True,False,False,7.0,17.4,26.1,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,53,77.706,3.0,SOFT,43.0,True,1,True,False,False,9.0,17.3,25.7,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,54,77.283,3.0,SOFT,44.0,True,1,True,False,False,9.0,17.3,25.7,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,55,78.227,3.0,SOFT,45.0,True,1,True,False,False,12.0,17.2,25.6,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,56,77.545,3.0,SOFT,46.0,True,1,True,False,False,12.0,17.2,25.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,57,77.191,3.0,SOFT,47.0,True,1,True,False,False,12.0,17.1,25.2,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,58,77.197,3.0,SOFT,48.0,True,1,True,False,False,12.0,17.1,25.0,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,59,76.96,3.0,SOFT,49.0,True,1,True,False,False,12.0,17.1,24.8,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,60,85.858,3.0,SOFT,50.0,True,1,False,True,False,12.0,17.1,24.8,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,61,105.045,4.0,INTERMEDIATE,6.0,False,1,False,False,True,12.0,17.1,24.7,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,62,85.53,4.0,INTERMEDIATE,7.0,False,12,True,False,False,12.0,17.1,24.6,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,63,132.676,4.0,INTERMEDIATE,8.0,False,1265,False,True,False,12.0,17.1,24.1,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,64,,5.0,INTERMEDIATE,6.0,False,514,False,True,True,12.0,16.6,21.8,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,65,,6.0,INTERMEDIATE,7.0,False,14,False,False,True,12.0,15.9,19.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,66,128.381,6.0,INTERMEDIATE,8.0,False,41,False,False,False,12.0,16.0,19.9,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,67,91.286,6.0,INTERMEDIATE,9.0,False,1,True,False,False,13.0,15.9,19.6,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,68,86.038,6.0,INTERMEDIATE,10.0,False,1,True,False,False,13.0,15.8,19.4,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,69,83.772,6.0,INTERMEDIATE,11.0,False,1,True,False,False,13.0,15.8,19.1,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,70,83.423,6.0,INTERMEDIATE,12.0,False,1,True,False,False,13.0,15.8,19.0,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,71,83.101,6.0,INTERMEDIATE,13.0,False,1,True,False,False,13.0,15.7,19.0,False,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,TSU,AlphaTauri,72,83.883,6.0,INTERMEDIATE,14.0,False,1,True,False,False,13.0,15.8,19.1,True,17.0,15.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,1,94.276,1.0,SOFT,1.0,True,1,False,False,False,4.0,17.6,29.5,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,2,108.18,1.0,SOFT,2.0,True,1,True,False,False,3.0,17.5,28.6,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,3,110.236,1.0,SOFT,3.0,True,1,True,False,False,8.0,17.2,27.3,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,4,108.341,1.0,SOFT,4.0,True,1,True,False,False,13.0,16.7,26.2,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,5,101.277,1.0,SOFT,5.0,True,1,True,False,False,14.0,16.2,24.6,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,6,94.451,1.0,SOFT,6.0,True,1,True,False,False,15.0,16.2,24.6,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,7,86.74,1.0,SOFT,7.0,True,1,True,False,False,15.0,16.4,24.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,8,82.359,1.0,SOFT,8.0,True,1,True,False,False,15.0,16.5,24.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,9,79.783,1.0,SOFT,9.0,True,1,True,False,False,15.0,16.5,24.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,10,80.383,1.0,SOFT,10.0,True,1,True,False,False,14.0,16.5,24.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,11,77.859,1.0,SOFT,11.0,True,1,True,False,False,12.0,16.5,24.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,12,77.102,1.0,SOFT,12.0,True,1,True,False,False,11.0,16.5,24.3,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,13,77.082,1.0,SOFT,13.0,True,1,True,False,False,11.0,16.5,24.6,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,14,77.315,1.0,SOFT,14.0,True,1,True,False,False,11.0,16.5,24.6,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,15,77.544,1.0,SOFT,15.0,True,1,True,False,False,9.0,16.6,24.8,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,16,94.524,1.0,SOFT,16.0,True,124,False,False,False,8.0,16.8,25.5,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,17,112.736,1.0,SOFT,17.0,True,4,False,False,False,8.0,16.9,26.1,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,18,117.209,1.0,SOFT,18.0,True,4,False,False,False,8.0,17.0,26.3,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,19,120.042,1.0,SOFT,19.0,True,4,False,False,False,8.0,17.1,27.5,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,20,116.634,1.0,SOFT,20.0,True,4,False,False,False,8.0,17.1,28.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,21,121.176,1.0,SOFT,21.0,True,41,False,False,False,8.0,17.2,29.0,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,22,78.652,1.0,SOFT,22.0,True,1,True,False,False,8.0,17.4,29.5,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,23,77.043,1.0,SOFT,23.0,True,1,True,False,False,7.0,17.3,29.7,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,24,77.04,1.0,SOFT,24.0,True,1,True,False,False,7.0,17.3,29.7,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,25,76.228,1.0,SOFT,25.0,True,1,True,False,False,6.0,17.3,29.7,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,26,76.391,1.0,SOFT,26.0,True,1,True,False,False,6.0,17.3,29.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,27,76.754,1.0,SOFT,27.0,True,1,True,False,False,6.0,17.3,29.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,28,76.452,1.0,SOFT,28.0,True,1,True,False,False,6.0,17.2,28.5,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,29,76.3,1.0,SOFT,29.0,True,1,True,False,False,6.0,17.1,28.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,30,76.402,1.0,SOFT,30.0,True,1,True,False,False,6.0,17.1,27.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,31,76.175,1.0,SOFT,31.0,True,1,True,False,False,6.0,17.0,27.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,32,76.148,1.0,SOFT,32.0,True,1,True,False,False,6.0,17.0,26.8,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,33,76.336,1.0,SOFT,33.0,True,1,True,False,False,6.0,16.9,26.8,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,34,76.377,1.0,SOFT,34.0,True,1,True,False,False,6.0,16.8,26.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,35,76.211,1.0,SOFT,35.0,True,1,True,False,False,6.0,16.8,25.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,36,76.252,1.0,SOFT,36.0,True,1,True,False,False,6.0,16.8,25.6,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,37,76.167,1.0,SOFT,37.0,True,1,True,False,False,6.0,16.9,25.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,38,76.196,1.0,SOFT,38.0,True,1,True,False,False,6.0,16.9,25.3,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,39,76.219,1.0,SOFT,39.0,True,1,True,False,False,6.0,16.9,25.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,40,76.207,1.0,SOFT,40.0,True,1,True,False,False,6.0,16.8,24.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,41,76.484,1.0,SOFT,41.0,True,1,True,False,False,6.0,16.9,25.0,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,42,76.27,1.0,SOFT,42.0,True,1,True,False,False,5.0,16.9,24.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,43,76.364,1.0,SOFT,43.0,True,1,True,False,False,5.0,17.0,24.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,44,79.87,1.0,SOFT,44.0,True,1,False,True,False,5.0,17.1,25.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,45,94.284,2.0,MEDIUM,1.0,True,1,False,False,True,11.0,17.3,26.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,46,75.363,2.0,MEDIUM,2.0,True,1,True,False,False,9.0,17.5,26.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,47,75.019,2.0,MEDIUM,3.0,True,1,True,False,False,8.0,17.7,28.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,48,75.265,2.0,MEDIUM,4.0,True,1,True,False,False,8.0,17.8,28.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,49,75.132,2.0,MEDIUM,5.0,True,1,True,False,False,8.0,17.7,27.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,50,75.024,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,17.7,27.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,51,74.917,2.0,MEDIUM,7.0,True,1,True,False,False,7.0,17.5,26.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,52,76.367,2.0,MEDIUM,8.0,True,1,True,False,False,6.0,17.4,26.1,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,53,75.396,2.0,MEDIUM,9.0,True,1,True,False,False,6.0,17.3,25.7,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,54,75.082,2.0,MEDIUM,10.0,True,1,True,False,False,6.0,17.3,25.7,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,55,74.468,2.0,MEDIUM,11.0,True,1,True,False,False,6.0,17.2,25.6,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,56,74.816,2.0,MEDIUM,12.0,True,1,True,False,False,6.0,17.2,25.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,57,74.71,2.0,MEDIUM,13.0,True,1,True,False,False,6.0,17.1,25.2,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,58,74.613,2.0,MEDIUM,14.0,True,1,True,False,False,6.0,17.1,25.0,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,59,74.483,2.0,MEDIUM,15.0,True,1,True,False,False,6.0,17.1,24.8,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,60,76.861,2.0,MEDIUM,16.0,True,1,True,False,False,6.0,17.1,24.8,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,61,93.951,2.0,MEDIUM,17.0,True,1,False,True,False,4.0,17.1,24.8,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,62,105.255,3.0,INTERMEDIATE,6.0,False,12,False,False,True,8.0,17.1,24.6,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,63,116.1,3.0,INTERMEDIATE,7.0,False,1265,False,True,False,9.0,17.1,24.3,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,64,,4.0,INTERMEDIATE,6.0,False,51,False,True,True,9.0,17.0,22.8,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,65,,5.0,INTERMEDIATE,7.0,False,14,False,False,True,8.0,15.9,19.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,66,130.646,5.0,INTERMEDIATE,8.0,False,41,False,False,False,8.0,16.0,19.9,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,67,88.51,5.0,INTERMEDIATE,9.0,False,1,True,False,False,8.0,15.9,19.6,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,68,85.116,5.0,INTERMEDIATE,10.0,False,1,True,False,False,8.0,15.8,19.4,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,69,82.887,5.0,INTERMEDIATE,11.0,False,1,True,False,False,8.0,15.8,19.1,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,70,82.401,5.0,INTERMEDIATE,12.0,False,1,True,False,False,8.0,15.8,19.0,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,71,82.247,5.0,INTERMEDIATE,13.0,False,1,True,False,False,8.0,15.7,19.0,False,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ALB,Williams,72,82.496,5.0,INTERMEDIATE,14.0,False,1,True,False,False,8.0,15.8,19.1,True,4.0,8.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,1,105.469,1.0,SOFT,1.0,True,1,False,True,False,17.0,17.6,29.5,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,2,112.606,2.0,INTERMEDIATE,1.0,True,1,False,False,True,15.0,17.4,28.5,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,3,89.926,2.0,INTERMEDIATE,2.0,True,1,True,False,False,2.0,17.2,27.3,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,4,85.286,2.0,INTERMEDIATE,3.0,True,1,True,False,False,2.0,16.7,26.2,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,5,83.977,2.0,INTERMEDIATE,4.0,True,1,True,False,False,2.0,16.4,24.8,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,6,83.522,2.0,INTERMEDIATE,5.0,True,1,True,False,False,2.0,16.2,24.6,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,7,85.449,2.0,INTERMEDIATE,6.0,True,1,True,False,False,3.0,16.3,24.3,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,8,84.884,2.0,INTERMEDIATE,7.0,True,1,True,False,False,3.0,16.5,24.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,9,85.204,2.0,INTERMEDIATE,8.0,True,1,True,False,False,3.0,16.5,24.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,10,89.135,2.0,INTERMEDIATE,9.0,True,1,False,True,False,4.0,16.5,24.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,11,104.703,3.0,MEDIUM,1.0,True,1,False,False,True,6.0,16.5,24.2,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,12,79.633,3.0,MEDIUM,2.0,True,1,True,False,False,6.0,16.5,24.3,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,13,78.607,3.0,MEDIUM,3.0,True,1,True,False,False,6.0,16.5,24.6,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,14,78.019,3.0,MEDIUM,4.0,True,1,True,False,False,6.0,16.5,24.6,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,15,77.84,3.0,MEDIUM,5.0,True,1,True,False,False,6.0,16.6,24.8,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,16,88.86,3.0,MEDIUM,6.0,True,124,False,False,False,6.0,16.8,25.5,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,17,115.64,3.0,MEDIUM,7.0,True,4,False,False,False,6.0,16.8,25.9,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,18,126.532,3.0,MEDIUM,8.0,True,4,False,False,False,6.0,17.0,26.3,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,19,120.349,3.0,MEDIUM,9.0,True,4,False,False,False,6.0,17.1,27.5,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,20,116.096,3.0,MEDIUM,10.0,True,4,False,False,False,6.0,17.1,28.2,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,21,123.109,3.0,MEDIUM,11.0,True,41,False,False,False,6.0,17.2,29.0,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,22,78.284,3.0,MEDIUM,12.0,True,1,True,False,False,6.0,17.4,29.5,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,23,77.35,3.0,MEDIUM,13.0,True,1,True,False,False,6.0,17.3,29.7,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,24,77.312,3.0,MEDIUM,14.0,True,1,True,False,False,6.0,17.3,29.7,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,25,77.751,3.0,MEDIUM,15.0,True,1,True,False,False,7.0,17.3,29.7,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,26,77.181,3.0,MEDIUM,16.0,True,1,True,False,False,7.0,17.3,29.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,27,77.7,3.0,MEDIUM,17.0,True,1,True,False,False,8.0,17.3,29.2,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,28,77.136,3.0,MEDIUM,18.0,True,1,True,False,False,8.0,17.2,28.5,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,29,76.713,3.0,MEDIUM,19.0,True,1,True,False,False,8.0,17.1,28.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,30,76.986,3.0,MEDIUM,20.0,True,1,True,False,False,8.0,17.1,27.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,31,77.926,3.0,MEDIUM,21.0,True,1,True,False,False,9.0,17.0,27.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,32,78.022,3.0,MEDIUM,22.0,True,1,True,False,False,10.0,17.0,26.8,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,33,77.83,3.0,MEDIUM,23.0,True,1,True,False,False,11.0,16.8,26.3,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,34,77.583,3.0,MEDIUM,24.0,True,1,True,False,False,12.0,16.8,26.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,35,76.959,3.0,MEDIUM,25.0,True,1,True,False,False,12.0,16.8,25.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,36,76.802,3.0,MEDIUM,26.0,True,1,True,False,False,12.0,16.8,25.6,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,37,79.808,3.0,MEDIUM,27.0,True,1,False,True,False,12.0,16.9,25.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,38,95.648,4.0,SOFT,1.0,True,1,False,False,True,17.0,16.9,25.3,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,39,75.417,4.0,SOFT,2.0,True,1,True,False,False,17.0,16.8,24.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,40,76.127,4.0,SOFT,3.0,True,1,True,False,False,17.0,16.9,24.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,41,76.244,4.0,SOFT,4.0,True,1,True,False,False,16.0,16.9,25.0,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,42,76.117,4.0,SOFT,5.0,True,1,True,False,False,16.0,16.9,24.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,43,76.123,4.0,SOFT,6.0,True,1,True,False,False,16.0,17.1,25.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,44,75.88,4.0,SOFT,7.0,True,1,True,False,False,16.0,17.3,25.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,45,76.139,4.0,SOFT,8.0,True,1,True,False,False,15.0,17.3,26.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,46,76.224,4.0,SOFT,9.0,True,1,True,False,False,15.0,17.6,28.0,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,47,75.866,4.0,SOFT,10.0,True,1,True,False,False,14.0,17.7,28.2,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,48,76.359,4.0,SOFT,11.0,True,1,True,False,False,14.0,17.8,28.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,49,75.844,4.0,SOFT,12.0,True,1,True,False,False,13.0,17.7,27.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,50,75.752,4.0,SOFT,13.0,True,1,True,False,False,13.0,17.6,26.9,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,51,75.579,4.0,SOFT,14.0,True,1,True,False,False,13.0,17.5,26.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,52,75.679,4.0,SOFT,15.0,True,1,True,False,False,13.0,17.4,26.1,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,53,75.879,4.0,SOFT,16.0,True,1,True,False,False,13.0,17.3,25.7,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,54,75.759,4.0,SOFT,17.0,True,1,True,False,False,13.0,17.3,25.6,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,55,75.914,4.0,SOFT,18.0,True,1,True,False,False,13.0,17.2,25.6,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,56,75.723,4.0,SOFT,19.0,True,1,True,False,False,13.0,17.2,25.4,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,57,76.032,4.0,SOFT,20.0,True,1,True,False,False,13.0,17.1,25.2,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,58,75.895,4.0,SOFT,21.0,True,1,True,False,False,13.0,17.1,25.0,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,59,75.968,4.0,SOFT,22.0,True,1,True,False,False,13.0,17.1,24.8,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,60,84.048,4.0,SOFT,23.0,True,1,False,True,False,13.0,17.1,24.8,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,61,105.85,5.0,INTERMEDIATE,1.0,True,1,False,False,True,13.0,17.1,24.7,False,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,62,85.085,5.0,INTERMEDIATE,2.0,True,12,True,False,False,13.0,17.1,24.6,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,ZHO,Alfa Romeo,63,,5.0,INTERMEDIATE,3.0,True,126,False,False,False,,17.1,24.1,True,15.0,18.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,1,98.096,1.0,SOFT,1.0,True,1,False,False,False,10.0,17.6,29.5,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,2,111.204,1.0,SOFT,2.0,True,1,True,False,False,10.0,17.5,28.6,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,3,112.192,1.0,SOFT,3.0,True,1,True,False,False,16.0,17.2,27.3,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,4,108.453,1.0,SOFT,4.0,True,1,True,False,False,17.0,16.7,26.2,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,5,99.606,1.0,SOFT,5.0,True,1,True,False,False,18.0,16.2,24.6,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,6,92.448,1.0,SOFT,6.0,True,1,True,False,False,19.0,16.3,24.3,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,7,87.761,1.0,SOFT,7.0,True,1,True,False,False,19.0,16.4,24.2,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,8,85.269,1.0,SOFT,8.0,True,1,True,False,False,19.0,16.5,24.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,9,82.661,1.0,SOFT,9.0,True,1,True,False,False,18.0,16.5,24.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,10,79.062,1.0,SOFT,10.0,True,1,True,False,False,17.0,16.5,24.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,11,78.396,1.0,SOFT,11.0,True,1,True,False,False,15.0,16.5,24.2,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,12,77.606,1.0,SOFT,12.0,True,1,True,False,False,15.0,16.5,24.3,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,13,77.641,1.0,SOFT,13.0,True,1,True,False,False,15.0,16.5,24.6,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,14,77.838,1.0,SOFT,14.0,True,1,True,False,False,15.0,16.5,24.7,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,15,77.29,1.0,SOFT,15.0,True,12,True,False,False,15.0,16.6,24.8,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,16,101.193,1.0,SOFT,16.0,True,24,False,True,False,14.0,16.8,25.5,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,17,127.901,2.0,MEDIUM,1.0,True,4,False,False,True,16.0,16.9,26.1,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,18,92.939,2.0,MEDIUM,2.0,True,4,False,False,False,16.0,17.1,26.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,19,123.879,2.0,MEDIUM,3.0,True,4,False,False,False,16.0,17.1,28.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,20,111.423,2.0,MEDIUM,4.0,True,4,False,False,False,16.0,17.1,28.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,21,117.015,2.0,MEDIUM,5.0,True,41,False,False,False,16.0,17.2,29.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,22,78.576,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,17.4,29.5,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,23,78.062,2.0,MEDIUM,7.0,True,1,True,False,False,16.0,17.3,29.7,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,24,77.381,2.0,MEDIUM,8.0,True,1,True,False,False,16.0,17.3,29.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,25,77.593,2.0,MEDIUM,9.0,True,1,True,False,False,16.0,17.3,29.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,26,78.076,2.0,MEDIUM,10.0,True,1,True,False,False,16.0,17.3,29.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,27,77.188,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,17.3,29.2,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,28,77.549,2.0,MEDIUM,12.0,True,1,True,False,False,15.0,17.2,28.5,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,29,77.297,2.0,MEDIUM,13.0,True,1,True,False,False,15.0,17.1,27.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,30,77.007,2.0,MEDIUM,14.0,True,1,True,False,False,14.0,17.1,27.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,31,77.514,2.0,MEDIUM,15.0,True,1,True,False,False,14.0,17.0,27.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,32,76.941,2.0,MEDIUM,16.0,True,1,True,False,False,14.0,17.0,26.8,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,33,76.848,2.0,MEDIUM,17.0,True,1,True,False,False,14.0,16.8,26.3,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,34,76.943,2.0,MEDIUM,18.0,True,1,True,False,False,14.0,16.8,26.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,35,76.992,2.0,MEDIUM,19.0,True,1,True,False,False,13.0,16.8,25.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,36,76.624,2.0,MEDIUM,20.0,True,1,True,False,False,13.0,16.9,25.5,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,37,76.549,2.0,MEDIUM,21.0,True,1,True,False,False,13.0,16.9,25.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,38,76.555,2.0,MEDIUM,22.0,True,1,True,False,False,12.0,16.9,25.3,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,39,76.84,2.0,MEDIUM,23.0,True,1,True,False,False,12.0,16.9,25.2,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,40,76.629,2.0,MEDIUM,24.0,True,1,True,False,False,12.0,16.9,24.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,41,77.13,2.0,MEDIUM,25.0,True,1,True,False,False,12.0,16.9,25.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,42,77.609,2.0,MEDIUM,26.0,True,1,True,False,False,12.0,16.9,24.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,43,76.84,2.0,MEDIUM,27.0,True,1,True,False,False,12.0,17.0,24.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,44,76.587,2.0,MEDIUM,28.0,True,1,True,False,False,11.0,17.3,25.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,45,76.728,2.0,MEDIUM,29.0,True,1,True,False,False,10.0,17.3,26.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,46,77.852,2.0,MEDIUM,30.0,True,1,True,False,False,10.0,17.5,26.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,47,77.034,2.0,MEDIUM,31.0,True,1,True,False,False,10.0,17.7,28.2,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,48,80.979,2.0,MEDIUM,32.0,True,1,False,True,False,12.0,17.8,28.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,49,93.698,3.0,SOFT,1.0,True,1,False,False,True,16.0,17.7,27.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,50,74.93,3.0,SOFT,2.0,True,1,True,False,False,16.0,17.6,26.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,51,74.986,3.0,SOFT,3.0,True,1,True,False,False,16.0,17.5,26.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,52,74.671,3.0,SOFT,4.0,True,1,True,False,False,16.0,17.4,26.1,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,53,74.472,3.0,SOFT,5.0,True,1,True,False,False,16.0,17.3,25.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,54,74.986,3.0,SOFT,6.0,True,1,True,False,False,16.0,17.3,25.6,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,55,74.486,3.0,SOFT,7.0,True,1,True,False,False,16.0,17.2,25.6,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,56,74.616,3.0,SOFT,8.0,True,1,True,False,False,15.0,17.2,25.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,57,75.014,3.0,SOFT,9.0,True,1,True,False,False,15.0,17.1,25.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,58,74.88,3.0,SOFT,10.0,True,1,True,False,False,15.0,17.1,25.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,59,75.267,3.0,SOFT,11.0,True,1,True,False,False,15.0,17.1,24.8,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,60,85.354,3.0,SOFT,12.0,True,1,False,True,False,15.0,17.1,24.8,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,61,107.71,4.0,INTERMEDIATE,4.0,False,1,False,False,True,15.0,17.1,24.7,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,62,84.932,4.0,INTERMEDIATE,5.0,False,12,True,False,False,15.0,17.1,24.6,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,63,131.99,4.0,INTERMEDIATE,6.0,False,265,False,True,False,14.0,17.1,24.1,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,64,,5.0,INTERMEDIATE,5.0,False,514,False,True,True,14.0,16.6,21.8,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,65,,6.0,INTERMEDIATE,6.0,False,14,False,False,True,14.0,15.9,19.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,66,127.078,6.0,INTERMEDIATE,7.0,False,41,False,False,False,14.0,16.0,19.9,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,67,90.09,6.0,INTERMEDIATE,8.0,False,1,True,False,False,12.0,15.9,19.6,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,68,85.084,6.0,INTERMEDIATE,9.0,False,1,True,False,False,12.0,15.8,19.4,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,69,83.077,6.0,INTERMEDIATE,10.0,False,1,True,False,False,12.0,15.8,19.1,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,70,82.593,6.0,INTERMEDIATE,11.0,False,1,True,False,False,12.0,15.8,19.0,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,71,82.423,6.0,INTERMEDIATE,12.0,False,1,True,False,False,12.0,15.7,19.0,False,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HUL,Haas F1 Team,72,83.154,6.0,INTERMEDIATE,13.0,False,1,True,False,False,12.0,15.8,19.1,True,14.0,12.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,1,99.075,1.0,SOFT,1.0,True,1,False,False,False,12.0,17.6,29.5,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,2,116.975,1.0,SOFT,2.0,True,1,False,True,False,14.0,17.5,28.6,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,3,110.095,2.0,INTERMEDIATE,1.0,True,1,False,False,True,17.0,17.2,27.3,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,4,86.929,2.0,INTERMEDIATE,2.0,True,1,True,False,False,10.0,16.7,26.2,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,5,83.38,2.0,INTERMEDIATE,3.0,True,1,True,False,False,10.0,16.2,24.6,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,6,84.049,2.0,INTERMEDIATE,4.0,True,1,True,False,False,10.0,16.2,24.6,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,7,83.837,2.0,INTERMEDIATE,5.0,True,1,True,False,False,10.0,16.3,24.3,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,8,84.391,2.0,INTERMEDIATE,6.0,True,1,True,False,False,10.0,16.5,24.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,9,85.007,2.0,INTERMEDIATE,7.0,True,1,True,False,False,9.0,16.5,24.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,10,89.44,2.0,INTERMEDIATE,8.0,True,1,False,True,False,9.0,16.5,24.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,11,99.291,3.0,SOFT,1.0,True,1,False,False,True,10.0,16.5,24.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,12,78.046,3.0,SOFT,2.0,True,1,True,False,False,10.0,16.5,24.3,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,13,77.096,3.0,SOFT,3.0,True,1,True,False,False,10.0,16.5,24.6,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,14,77.221,3.0,SOFT,4.0,True,1,True,False,False,10.0,16.5,24.6,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,15,77.973,3.0,SOFT,5.0,True,1,True,False,False,8.0,16.6,24.8,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,16,96.304,3.0,SOFT,6.0,True,124,False,False,False,9.0,16.8,25.5,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,17,112.712,3.0,SOFT,7.0,True,4,False,False,False,9.0,16.9,26.1,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,18,116.55,3.0,SOFT,8.0,True,4,False,False,False,9.0,17.0,26.3,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,19,120.361,3.0,SOFT,9.0,True,4,False,False,False,9.0,17.1,27.5,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,20,116.51,3.0,SOFT,10.0,True,4,False,False,False,9.0,17.1,28.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,21,120.315,3.0,SOFT,11.0,True,41,False,False,False,9.0,17.2,29.0,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,22,79.02,3.0,SOFT,12.0,True,1,True,False,False,9.0,17.4,29.5,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,23,77.859,3.0,SOFT,13.0,True,1,True,False,False,9.0,17.3,29.7,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,24,76.743,3.0,SOFT,14.0,True,1,True,False,False,8.0,17.3,29.7,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,25,76.735,3.0,SOFT,15.0,True,1,True,False,False,8.0,17.3,29.7,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,26,77.04,3.0,SOFT,16.0,True,1,True,False,False,8.0,17.3,29.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,27,76.343,3.0,SOFT,17.0,True,1,True,False,False,7.0,17.3,29.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,28,76.641,3.0,SOFT,18.0,True,1,True,False,False,7.0,17.2,28.5,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,29,76.572,3.0,SOFT,19.0,True,1,True,False,False,7.0,17.1,28.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,30,76.344,3.0,SOFT,20.0,True,1,True,False,False,7.0,17.1,27.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,31,76.468,3.0,SOFT,21.0,True,1,True,False,False,7.0,17.0,27.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,32,76.401,3.0,SOFT,22.0,True,1,True,False,False,7.0,17.0,26.8,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,33,76.223,3.0,SOFT,23.0,True,1,True,False,False,7.0,16.9,26.8,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,34,76.305,3.0,SOFT,24.0,True,1,True,False,False,7.0,16.8,26.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,35,76.254,3.0,SOFT,25.0,True,1,True,False,False,7.0,16.8,25.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,36,76.336,3.0,SOFT,26.0,True,1,True,False,False,7.0,16.8,25.6,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,37,76.116,3.0,SOFT,27.0,True,1,True,False,False,7.0,16.9,25.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,38,76.217,3.0,SOFT,28.0,True,1,True,False,False,7.0,16.9,25.3,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,39,76.868,3.0,SOFT,29.0,True,1,True,False,False,7.0,16.9,25.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,40,76.526,3.0,SOFT,30.0,True,1,True,False,False,7.0,16.8,24.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,41,76.671,3.0,SOFT,31.0,True,1,True,False,False,7.0,16.9,25.0,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,42,76.81,3.0,SOFT,32.0,True,1,True,False,False,6.0,16.9,24.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,43,80.543,3.0,SOFT,33.0,True,1,False,True,False,7.0,17.0,24.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,44,93.0,4.0,SOFT,1.0,True,1,False,False,True,12.0,17.3,25.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,45,75.657,4.0,SOFT,2.0,True,1,True,False,False,12.0,17.3,26.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,46,75.362,4.0,SOFT,3.0,True,1,True,False,False,11.0,17.5,26.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,47,75.534,4.0,SOFT,4.0,True,1,True,False,False,9.0,17.7,28.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,48,74.854,4.0,SOFT,5.0,True,1,True,False,False,9.0,17.8,28.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,49,74.916,4.0,SOFT,6.0,True,1,True,False,False,9.0,17.7,27.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,50,74.842,4.0,SOFT,7.0,True,1,True,False,False,9.0,17.7,27.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,51,74.57,4.0,SOFT,8.0,True,1,True,False,False,9.0,17.5,26.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,52,74.836,4.0,SOFT,9.0,True,1,True,False,False,8.0,17.4,26.1,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,53,76.707,4.0,SOFT,10.0,True,1,True,False,False,8.0,17.3,25.7,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,54,75.386,4.0,SOFT,11.0,True,1,True,False,False,8.0,17.3,25.7,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,55,75.169,4.0,SOFT,12.0,True,1,True,False,False,8.0,17.2,25.6,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,56,74.953,4.0,SOFT,13.0,True,1,True,False,False,8.0,17.2,25.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,57,75.023,4.0,SOFT,14.0,True,1,True,False,False,7.0,17.1,25.2,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,58,75.975,4.0,SOFT,15.0,True,1,True,False,False,9.0,17.1,25.0,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,59,75.294,4.0,SOFT,16.0,True,1,True,False,False,8.0,17.1,24.8,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,60,76.993,4.0,SOFT,17.0,True,1,True,False,False,7.0,17.1,24.8,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,61,93.888,4.0,SOFT,18.0,True,1,False,True,False,6.0,17.1,24.8,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,62,108.996,5.0,WET,1.0,True,12,False,False,True,11.0,17.1,24.6,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,63,121.555,5.0,WET,2.0,True,1265,False,True,False,11.0,17.1,24.1,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,64,,6.0,INTERMEDIATE,1.0,True,51,False,True,True,11.0,16.6,21.8,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,65,,7.0,INTERMEDIATE,2.0,False,14,False,False,True,11.0,15.9,19.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,66,128.716,7.0,INTERMEDIATE,3.0,False,41,False,False,False,10.0,16.0,19.9,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,67,89.32,7.0,INTERMEDIATE,4.0,False,1,True,False,False,10.0,15.9,19.6,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,68,85.058,7.0,INTERMEDIATE,5.0,False,1,True,False,False,10.0,15.8,19.4,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,69,83.178,7.0,INTERMEDIATE,6.0,False,1,True,False,False,10.0,15.8,19.1,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,70,82.476,7.0,INTERMEDIATE,7.0,False,1,True,False,False,10.0,15.8,19.0,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,71,82.487,7.0,INTERMEDIATE,8.0,False,1,True,False,False,10.0,15.7,19.0,False,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,OCO,Alpine,72,83.205,7.0,INTERMEDIATE,9.0,False,1,True,False,False,10.0,15.8,19.1,True,16.0,10.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,1,92.227,1.0,SOFT,1.0,True,1,False,False,False,2.0,17.6,29.5,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,2,107.848,1.0,SOFT,2.0,True,1,True,False,False,1.0,17.5,28.6,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,3,115.144,1.0,SOFT,3.0,True,1,False,True,False,10.0,17.2,27.3,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,4,107.537,2.0,INTERMEDIATE,1.0,True,1,False,False,True,15.0,16.7,26.2,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,5,83.686,2.0,INTERMEDIATE,2.0,True,1,True,False,False,12.0,16.2,24.6,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,6,82.403,2.0,INTERMEDIATE,3.0,True,1,True,False,False,12.0,16.2,24.6,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,7,83.048,2.0,INTERMEDIATE,4.0,True,1,True,False,False,12.0,16.4,24.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,8,85.236,2.0,INTERMEDIATE,5.0,True,1,True,False,False,12.0,16.5,24.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,9,84.392,2.0,INTERMEDIATE,6.0,True,1,True,False,False,11.0,16.5,24.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,10,88.506,2.0,INTERMEDIATE,7.0,True,1,False,True,False,10.0,16.5,24.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,11,98.11,3.0,SOFT,2.0,False,1,False,False,True,13.0,16.5,24.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,12,76.654,3.0,SOFT,3.0,False,1,True,False,False,12.0,16.5,24.3,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,13,76.2,3.0,SOFT,4.0,False,1,True,False,False,12.0,16.5,24.6,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,14,76.23,3.0,SOFT,5.0,False,1,True,False,False,12.0,16.5,24.6,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,15,76.929,3.0,SOFT,6.0,False,1,True,False,False,11.0,16.6,24.8,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,16,99.443,3.0,SOFT,7.0,False,124,False,False,False,11.0,16.8,25.5,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,17,112.778,3.0,SOFT,8.0,False,4,False,False,False,11.0,16.9,26.1,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,18,114.245,3.0,SOFT,9.0,False,4,False,False,False,11.0,17.1,26.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,19,121.374,3.0,SOFT,10.0,False,4,False,False,False,11.0,17.1,27.5,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,20,115.853,3.0,SOFT,11.0,False,4,False,False,False,11.0,17.1,28.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,21,118.462,3.0,SOFT,12.0,False,41,False,False,False,11.0,17.2,29.0,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,22,79.06,3.0,SOFT,13.0,False,1,True,False,False,11.0,17.4,29.5,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,23,78.442,3.0,SOFT,14.0,False,1,True,False,False,11.0,17.3,29.7,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,24,77.416,3.0,SOFT,15.0,False,1,True,False,False,11.0,17.3,29.7,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,25,77.363,3.0,SOFT,16.0,False,1,True,False,False,11.0,17.3,29.7,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,26,76.896,3.0,SOFT,17.0,False,1,True,False,False,11.0,17.3,29.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,27,76.797,3.0,SOFT,18.0,False,1,True,False,False,11.0,17.3,29.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,28,76.582,3.0,SOFT,19.0,False,1,True,False,False,10.0,17.2,28.5,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,29,77.107,3.0,SOFT,20.0,False,1,True,False,False,10.0,17.1,28.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,30,76.372,3.0,SOFT,21.0,False,1,True,False,False,10.0,17.1,27.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,31,77.013,3.0,SOFT,22.0,False,1,True,False,False,10.0,17.0,27.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,32,76.416,3.0,SOFT,23.0,False,1,True,False,False,9.0,17.0,26.8,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,33,76.373,3.0,SOFT,24.0,False,1,True,False,False,9.0,16.8,26.3,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,34,76.541,3.0,SOFT,25.0,False,1,True,False,False,9.0,16.8,26.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,35,76.032,3.0,SOFT,26.0,False,1,True,False,False,9.0,16.8,25.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,36,76.606,3.0,SOFT,27.0,False,1,True,False,False,9.0,16.8,25.6,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,37,76.473,3.0,SOFT,28.0,False,1,True,False,False,9.0,16.9,25.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,38,76.443,3.0,SOFT,29.0,False,1,True,False,False,9.0,16.9,25.3,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,39,76.633,3.0,SOFT,30.0,False,1,True,False,False,9.0,16.9,25.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,40,76.347,3.0,SOFT,31.0,False,1,True,False,False,9.0,16.8,24.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,41,76.562,3.0,SOFT,32.0,False,1,True,False,False,9.0,16.9,25.0,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,42,80.165,3.0,SOFT,33.0,False,1,False,True,False,10.0,16.9,24.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,43,92.039,4.0,SOFT,4.0,False,1,False,False,True,14.0,17.0,24.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,44,74.905,4.0,SOFT,5.0,False,1,True,False,False,14.0,17.3,25.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,45,75.779,4.0,SOFT,6.0,False,1,True,False,False,13.0,17.3,26.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,46,75.141,4.0,SOFT,7.0,False,1,True,False,False,12.0,17.5,26.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,47,75.088,4.0,SOFT,8.0,False,1,True,False,False,11.0,17.7,28.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,48,75.015,4.0,SOFT,9.0,False,1,True,False,False,10.0,17.8,28.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,49,74.804,4.0,SOFT,10.0,False,1,True,False,False,10.0,17.7,27.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,50,74.39,4.0,SOFT,11.0,False,1,True,False,False,10.0,17.7,27.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,51,74.625,4.0,SOFT,12.0,False,1,True,False,False,10.0,17.5,26.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,52,74.882,4.0,SOFT,13.0,False,1,True,False,False,10.0,17.4,26.1,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,53,76.79,4.0,SOFT,14.0,False,1,True,False,False,10.0,17.3,25.7,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,54,76.853,4.0,SOFT,15.0,False,1,True,False,False,10.0,17.3,25.7,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,55,74.997,4.0,SOFT,16.0,False,1,True,False,False,9.0,17.2,25.6,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,56,76.156,4.0,SOFT,17.0,False,1,True,False,False,10.0,17.2,25.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,57,75.052,4.0,SOFT,18.0,False,1,True,False,False,10.0,17.1,25.2,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,58,75.076,4.0,SOFT,19.0,False,1,True,False,False,10.0,17.1,25.0,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,59,75.085,4.0,SOFT,20.0,False,1,True,False,False,10.0,17.1,24.8,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,60,81.174,4.0,SOFT,21.0,False,1,False,True,False,9.0,17.1,24.8,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,61,100.285,5.0,INTERMEDIATE,5.0,False,1,False,False,True,9.0,17.1,24.8,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,62,82.488,5.0,INTERMEDIATE,6.0,False,12,True,False,False,7.0,17.1,24.6,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,63,111.321,5.0,INTERMEDIATE,7.0,False,1265,False,True,False,7.0,17.1,24.3,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,64,,6.0,INTERMEDIATE,12.0,False,51,False,True,True,7.0,17.0,22.8,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,65,,7.0,INTERMEDIATE,13.0,False,14,False,False,True,7.0,15.9,19.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,66,133.838,7.0,INTERMEDIATE,14.0,False,41,False,False,False,7.0,16.1,19.9,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,67,88.463,7.0,INTERMEDIATE,15.0,False,1,True,False,False,7.0,15.9,19.6,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,68,84.53,7.0,INTERMEDIATE,16.0,False,1,True,False,False,7.0,15.8,19.4,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,69,82.506,7.0,INTERMEDIATE,17.0,False,1,True,False,False,7.0,15.8,19.1,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,70,82.49,7.0,INTERMEDIATE,18.0,False,1,True,False,False,7.0,15.8,19.0,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,71,82.13,7.0,INTERMEDIATE,19.0,False,1,True,False,False,7.0,15.7,19.0,False,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,NOR,McLaren,72,82.241,7.0,INTERMEDIATE,20.0,False,1,True,False,False,7.0,15.8,19.1,True,2.0,7.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,1,110.452,1.0,SOFT,1.0,True,1,False,True,False,19.0,17.6,29.5,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,2,129.963,2.0,INTERMEDIATE,6.0,False,1,False,False,True,20.0,17.4,28.5,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,3,86.818,2.0,INTERMEDIATE,7.0,False,1,True,False,False,18.0,16.9,26.2,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,4,88.443,2.0,INTERMEDIATE,8.0,False,1,True,False,False,11.0,16.7,26.2,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,5,85.079,2.0,INTERMEDIATE,9.0,False,1,True,False,False,11.0,16.2,24.6,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,6,84.796,2.0,INTERMEDIATE,10.0,False,1,True,False,False,11.0,16.2,24.6,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,7,85.37,2.0,INTERMEDIATE,11.0,False,1,True,False,False,11.0,16.4,24.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,8,85.898,2.0,INTERMEDIATE,12.0,False,1,True,False,False,11.0,16.5,24.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,9,87.417,2.0,INTERMEDIATE,13.0,False,1,True,False,False,12.0,16.5,24.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,10,90.194,2.0,INTERMEDIATE,14.0,False,1,False,True,False,11.0,16.5,24.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,11,110.916,3.0,SOFT,1.0,True,1,False,False,True,17.0,16.5,24.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,12,78.834,3.0,SOFT,2.0,True,1,True,False,False,17.0,16.5,24.3,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,13,78.43,3.0,SOFT,3.0,True,1,True,False,False,17.0,16.5,24.6,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,14,78.261,3.0,SOFT,4.0,True,1,True,False,False,17.0,16.5,24.7,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,15,77.473,3.0,SOFT,5.0,True,12,True,False,False,17.0,16.6,24.8,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,16,106.185,3.0,SOFT,6.0,True,24,False,False,False,17.0,16.8,25.5,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,17,114.595,3.0,SOFT,7.0,True,4,False,True,False,17.0,16.9,26.1,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,18,109.796,4.0,MEDIUM,1.0,True,4,False,False,True,18.0,17.1,26.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,19,108.409,4.0,MEDIUM,2.0,True,4,False,False,False,18.0,17.1,28.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,20,110.092,4.0,MEDIUM,3.0,True,4,False,False,False,18.0,17.1,28.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,21,114.003,4.0,MEDIUM,4.0,True,41,False,False,False,17.0,17.4,29.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,22,78.517,4.0,MEDIUM,5.0,True,1,True,False,False,17.0,17.4,29.5,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,23,78.354,4.0,MEDIUM,6.0,True,1,True,False,False,17.0,17.3,29.7,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,24,77.626,4.0,MEDIUM,7.0,True,1,True,False,False,17.0,17.3,29.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,25,78.141,4.0,MEDIUM,8.0,True,1,True,False,False,18.0,17.3,29.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,26,77.743,4.0,MEDIUM,9.0,True,1,True,False,False,18.0,17.3,29.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,27,77.554,4.0,MEDIUM,10.0,True,1,True,False,False,18.0,17.3,29.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,28,77.525,4.0,MEDIUM,11.0,True,1,True,False,False,18.0,17.2,28.5,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,29,77.593,4.0,MEDIUM,12.0,True,1,True,False,False,18.0,17.1,27.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,30,77.733,4.0,MEDIUM,13.0,True,1,True,False,False,18.0,17.1,27.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,31,77.583,4.0,MEDIUM,14.0,True,1,True,False,False,18.0,17.0,27.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,32,77.266,4.0,MEDIUM,15.0,True,1,True,False,False,18.0,17.0,26.8,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,33,77.547,4.0,MEDIUM,16.0,True,1,True,False,False,18.0,16.8,26.3,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,34,77.778,4.0,MEDIUM,17.0,True,1,True,False,False,18.0,16.8,26.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,35,77.577,4.0,MEDIUM,18.0,True,1,True,False,False,18.0,16.8,25.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,36,77.228,4.0,MEDIUM,19.0,True,1,True,False,False,17.0,16.9,25.5,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,37,77.373,4.0,MEDIUM,20.0,True,1,True,False,False,17.0,16.9,25.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,38,77.529,4.0,MEDIUM,21.0,True,1,True,False,False,16.0,16.9,25.3,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,39,77.876,4.0,MEDIUM,22.0,True,1,True,False,False,16.0,16.9,25.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,40,77.692,4.0,MEDIUM,23.0,True,1,True,False,False,15.0,16.9,24.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,41,78.887,4.0,MEDIUM,24.0,True,1,True,False,False,15.0,16.9,25.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,42,77.13,4.0,MEDIUM,25.0,True,1,True,False,False,15.0,16.9,24.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,43,76.925,4.0,MEDIUM,26.0,True,1,True,False,False,15.0,17.1,25.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,44,76.975,4.0,MEDIUM,27.0,True,1,True,False,False,15.0,17.3,25.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,45,78.021,4.0,MEDIUM,28.0,True,1,True,False,False,16.0,17.3,26.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,46,80.281,4.0,MEDIUM,29.0,True,1,False,True,False,18.0,17.6,28.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,47,93.458,5.0,SOFT,1.0,True,1,False,False,True,18.0,17.7,28.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,48,75.008,5.0,SOFT,2.0,True,1,True,False,False,18.0,17.8,28.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,49,74.82,5.0,SOFT,3.0,True,1,True,False,False,18.0,17.7,27.2,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,50,75.04,5.0,SOFT,4.0,True,1,True,False,False,18.0,17.6,26.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,51,75.065,5.0,SOFT,5.0,True,1,True,False,False,18.0,17.5,26.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,52,75.253,5.0,SOFT,6.0,True,1,True,False,False,18.0,17.4,26.1,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,53,75.12,5.0,SOFT,7.0,True,1,True,False,False,18.0,17.3,25.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,54,75.308,5.0,SOFT,8.0,True,1,True,False,False,18.0,17.3,25.6,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,55,75.364,5.0,SOFT,9.0,True,1,True,False,False,18.0,17.2,25.6,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,56,75.425,5.0,SOFT,10.0,True,1,True,False,False,18.0,17.2,25.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,57,75.432,5.0,SOFT,11.0,True,1,True,False,False,18.0,17.1,25.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,58,75.081,5.0,SOFT,12.0,True,1,True,False,False,18.0,17.1,25.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,59,79.266,5.0,SOFT,13.0,True,1,False,True,False,18.0,17.1,24.8,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,60,100.943,6.0,INTERMEDIATE,1.0,True,1,False,False,True,18.0,17.1,24.8,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,61,84.989,6.0,INTERMEDIATE,2.0,True,1,True,False,False,17.0,17.1,24.7,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,62,87.438,6.0,INTERMEDIATE,3.0,True,12,True,False,False,17.0,17.1,24.3,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,63,141.288,6.0,INTERMEDIATE,4.0,True,265,False,True,False,16.0,17.1,24.1,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,64,,7.0,INTERMEDIATE,8.0,False,514,False,True,True,16.0,16.6,21.8,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,65,,8.0,INTERMEDIATE,9.0,False,14,False,False,True,16.0,15.9,19.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,66,123.419,8.0,INTERMEDIATE,10.0,False,41,False,False,False,16.0,16.0,19.9,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,67,89.528,8.0,INTERMEDIATE,11.0,False,1,True,False,False,14.0,15.9,19.6,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,68,86.291,8.0,INTERMEDIATE,12.0,False,1,True,False,False,14.0,15.8,19.4,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,69,84.068,8.0,INTERMEDIATE,13.0,False,1,True,False,False,14.0,15.8,19.1,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,70,83.296,8.0,INTERMEDIATE,14.0,False,1,True,False,False,14.0,15.8,19.0,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,71,84.122,8.0,INTERMEDIATE,15.0,False,1,True,False,False,14.0,15.7,19.0,False,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,LAW,AlphaTauri,72,83.592,8.0,INTERMEDIATE,16.0,False,1,True,False,False,14.0,15.8,19.1,True,19.0,13.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,1,98.801,1.0,MEDIUM,1.0,True,1,False,False,False,11.0,17.6,29.5,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,2,114.35,1.0,MEDIUM,2.0,True,1,True,False,False,12.0,17.5,28.6,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,3,119.015,1.0,MEDIUM,3.0,True,1,False,True,False,20.0,17.2,27.3,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,4,103.298,2.0,INTERMEDIATE,1.0,True,1,False,False,True,19.0,16.7,26.2,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,5,86.048,2.0,INTERMEDIATE,2.0,True,1,True,False,False,13.0,16.2,24.6,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,6,84.326,2.0,INTERMEDIATE,3.0,True,1,True,False,False,13.0,16.2,24.6,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,7,84.843,2.0,INTERMEDIATE,4.0,True,1,True,False,False,13.0,16.4,24.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,8,84.291,2.0,INTERMEDIATE,5.0,True,1,True,False,False,13.0,16.5,24.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,9,88.443,2.0,INTERMEDIATE,6.0,True,1,False,True,False,13.0,16.5,24.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,10,99.738,3.0,SOFT,1.0,True,1,False,False,True,18.0,16.5,24.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,11,78.902,3.0,SOFT,2.0,True,1,True,False,False,16.0,16.5,24.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,12,78.597,3.0,SOFT,3.0,True,1,True,False,False,16.0,16.5,24.3,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,13,76.887,3.0,SOFT,4.0,True,1,True,False,False,16.0,16.5,24.6,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,14,76.42,3.0,SOFT,5.0,True,1,True,False,False,16.0,16.5,24.7,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,15,75.905,3.0,SOFT,6.0,True,12,True,False,False,16.0,16.6,24.8,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,16,99.014,3.0,SOFT,7.0,True,24,False,False,False,15.0,16.8,25.5,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,17,112.338,3.0,SOFT,8.0,True,4,False,False,False,13.0,16.9,26.1,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,18,101.926,3.0,SOFT,9.0,True,4,False,False,False,13.0,17.1,26.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,19,122.642,3.0,SOFT,10.0,True,4,False,False,False,13.0,17.1,27.5,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,20,114.749,3.0,SOFT,11.0,True,4,False,False,False,13.0,17.1,28.7,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,21,116.892,3.0,SOFT,12.0,True,41,False,False,False,13.0,17.2,29.0,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,22,79.143,3.0,SOFT,13.0,True,1,True,False,False,13.0,17.4,29.5,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,23,78.286,3.0,SOFT,14.0,True,1,True,False,False,13.0,17.3,29.7,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,24,77.611,3.0,SOFT,15.0,True,1,True,False,False,13.0,17.3,29.7,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,25,77.602,3.0,SOFT,16.0,True,1,True,False,False,13.0,17.3,29.7,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,26,76.243,3.0,SOFT,17.0,True,1,True,False,False,12.0,17.3,29.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,27,76.674,3.0,SOFT,18.0,True,1,True,False,False,12.0,17.3,29.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,28,77.343,3.0,SOFT,19.0,True,1,True,False,False,12.0,17.2,28.5,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,29,76.294,3.0,SOFT,20.0,True,1,True,False,False,11.0,17.1,28.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,30,76.4,3.0,SOFT,21.0,True,1,True,False,False,11.0,17.1,27.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,31,76.993,3.0,SOFT,22.0,True,1,True,False,False,11.0,17.0,27.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,32,77.218,3.0,SOFT,23.0,True,1,True,False,False,11.0,17.0,26.8,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,33,76.473,3.0,SOFT,24.0,True,1,True,False,False,10.0,16.8,26.3,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,34,75.862,3.0,SOFT,25.0,True,1,True,False,False,10.0,16.8,26.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,35,75.996,3.0,SOFT,26.0,True,1,True,False,False,10.0,16.8,25.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,36,76.497,3.0,SOFT,27.0,True,1,True,False,False,10.0,16.8,25.6,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,37,76.528,3.0,SOFT,28.0,True,1,True,False,False,10.0,16.9,25.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,38,76.392,3.0,SOFT,29.0,True,1,True,False,False,10.0,16.9,25.3,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,39,76.519,3.0,SOFT,30.0,True,1,True,False,False,10.0,16.9,25.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,40,76.533,3.0,SOFT,31.0,True,1,True,False,False,10.0,16.8,24.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,41,76.439,3.0,SOFT,32.0,True,1,True,False,False,10.0,16.9,25.0,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,42,76.583,3.0,SOFT,33.0,True,1,True,False,False,8.0,16.9,24.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,43,75.729,3.0,SOFT,34.0,True,1,True,False,False,8.0,17.0,24.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,44,76.5,3.0,SOFT,35.0,True,1,True,False,False,7.0,17.3,25.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,45,79.832,3.0,SOFT,36.0,True,1,False,True,False,8.0,17.3,26.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,46,92.479,4.0,SOFT,1.0,True,1,False,False,True,14.0,17.5,26.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,47,75.182,4.0,SOFT,2.0,True,1,True,False,False,12.0,17.7,28.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,48,74.729,4.0,SOFT,3.0,True,1,True,False,False,11.0,17.8,28.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,49,74.708,4.0,SOFT,4.0,True,1,True,False,False,11.0,17.7,27.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,50,74.874,4.0,SOFT,5.0,True,1,True,False,False,11.0,17.7,27.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,51,74.327,4.0,SOFT,6.0,True,1,True,False,False,11.0,17.5,26.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,52,74.614,4.0,SOFT,7.0,True,1,True,False,False,11.0,17.4,26.1,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,53,74.621,4.0,SOFT,8.0,True,1,True,False,False,11.0,17.3,25.7,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,54,75.922,4.0,SOFT,9.0,True,1,True,False,False,11.0,17.3,25.7,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,55,74.838,4.0,SOFT,10.0,True,1,True,False,False,10.0,17.2,25.6,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,56,74.163,4.0,SOFT,11.0,True,1,True,False,False,9.0,17.2,25.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,57,73.963,4.0,SOFT,12.0,True,1,True,False,False,8.0,17.1,25.2,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,58,73.904,4.0,SOFT,13.0,True,1,True,False,False,7.0,17.1,25.0,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,59,75.67,4.0,SOFT,14.0,True,1,True,False,False,7.0,17.1,24.8,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,60,79.871,4.0,SOFT,15.0,True,1,False,True,False,8.0,17.1,24.8,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,61,100.266,5.0,INTERMEDIATE,7.0,False,1,False,False,True,8.0,17.1,24.8,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,62,82.067,5.0,INTERMEDIATE,8.0,False,12,True,False,False,6.0,17.1,24.6,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,63,98.708,5.0,INTERMEDIATE,9.0,False,126,False,False,False,6.0,17.1,24.3,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,64,,5.0,INTERMEDIATE,10.0,False,65,False,True,False,5.0,17.0,22.8,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,65,,6.0,INTERMEDIATE,7.0,False,14,False,False,True,6.0,15.9,19.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,66,134.532,6.0,INTERMEDIATE,8.0,False,41,False,False,False,6.0,16.1,19.9,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,67,88.708,6.0,INTERMEDIATE,9.0,False,1,True,False,False,6.0,15.9,19.6,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,68,84.34,6.0,INTERMEDIATE,10.0,False,1,True,False,False,6.0,15.8,19.4,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,69,82.802,6.0,INTERMEDIATE,11.0,False,1,True,False,False,6.0,15.8,19.1,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,70,82.446,6.0,INTERMEDIATE,12.0,False,1,True,False,False,6.0,15.8,19.0,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,71,82.001,6.0,INTERMEDIATE,13.0,False,1,True,False,False,6.0,15.7,19.0,False,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,HAM,Mercedes,72,82.879,6.0,INTERMEDIATE,14.0,False,1,True,False,False,6.0,15.8,19.1,True,13.0,6.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,1,94.694,1.0,SOFT,1.0,True,1,False,False,False,5.0,17.6,29.5,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,2,113.117,1.0,SOFT,2.0,True,1,False,True,False,8.0,17.5,28.6,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,3,108.225,2.0,INTERMEDIATE,1.0,True,1,False,False,True,12.0,17.2,27.3,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,4,85.734,2.0,INTERMEDIATE,2.0,True,1,True,False,False,7.0,16.7,26.2,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,5,83.956,2.0,INTERMEDIATE,3.0,True,1,True,False,False,7.0,16.4,24.8,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,6,84.297,2.0,INTERMEDIATE,4.0,True,1,True,False,False,7.0,16.2,24.6,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,7,84.141,2.0,INTERMEDIATE,5.0,True,1,True,False,False,7.0,16.3,24.3,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,8,85.061,2.0,INTERMEDIATE,6.0,True,1,True,False,False,7.0,16.5,24.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,9,85.156,2.0,INTERMEDIATE,7.0,True,1,True,False,False,6.0,16.5,24.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,10,88.581,2.0,INTERMEDIATE,8.0,True,1,False,True,False,7.0,16.5,24.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,11,98.827,3.0,SOFT,1.0,True,1,False,False,True,7.0,16.5,24.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,12,77.997,3.0,SOFT,2.0,True,1,True,False,False,5.0,16.5,24.3,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,13,76.472,3.0,SOFT,3.0,True,1,True,False,False,5.0,16.5,24.6,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,14,76.782,3.0,SOFT,4.0,True,1,True,False,False,5.0,16.5,24.6,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,15,77.126,3.0,SOFT,5.0,True,1,True,False,False,5.0,16.5,24.7,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,16,88.299,3.0,SOFT,6.0,True,124,False,False,False,5.0,16.8,25.5,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,17,118.497,3.0,SOFT,7.0,True,4,False,False,False,5.0,16.8,25.9,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,18,127.367,3.0,SOFT,8.0,True,4,False,False,False,5.0,17.0,26.3,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,19,120.434,3.0,SOFT,9.0,True,4,False,False,False,5.0,17.1,27.5,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,20,115.913,3.0,SOFT,10.0,True,4,False,False,False,5.0,17.1,28.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,21,122.828,3.0,SOFT,11.0,True,41,False,False,False,5.0,17.2,29.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,22,77.72,3.0,SOFT,12.0,True,1,True,False,False,5.0,17.4,29.5,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,23,77.214,3.0,SOFT,13.0,True,1,True,False,False,5.0,17.3,29.7,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,24,76.338,3.0,SOFT,14.0,True,1,True,False,False,5.0,17.3,29.7,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,25,76.317,3.0,SOFT,15.0,True,1,True,False,False,5.0,17.3,29.7,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,26,76.875,3.0,SOFT,16.0,True,1,True,False,False,5.0,17.3,29.7,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,27,76.619,3.0,SOFT,17.0,True,1,True,False,False,5.0,17.3,29.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,28,76.144,3.0,SOFT,18.0,True,1,True,False,False,5.0,17.2,28.5,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,29,76.217,3.0,SOFT,19.0,True,1,True,False,False,5.0,17.1,28.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,30,76.042,3.0,SOFT,20.0,True,1,True,False,False,5.0,17.1,27.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,31,76.054,3.0,SOFT,21.0,True,1,True,False,False,5.0,17.0,27.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,32,76.106,3.0,SOFT,22.0,True,1,True,False,False,5.0,17.0,26.8,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,33,76.231,3.0,SOFT,23.0,True,1,True,False,False,5.0,16.9,26.8,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,34,76.146,3.0,SOFT,24.0,True,1,True,False,False,5.0,16.8,26.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,35,76.041,3.0,SOFT,25.0,True,1,True,False,False,5.0,16.8,25.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,36,76.117,3.0,SOFT,26.0,True,1,True,False,False,5.0,16.8,25.6,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,37,75.973,3.0,SOFT,27.0,True,1,True,False,False,5.0,16.9,25.5,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,38,75.961,3.0,SOFT,28.0,True,1,True,False,False,5.0,16.9,25.3,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,39,76.076,3.0,SOFT,29.0,True,1,True,False,False,5.0,16.9,25.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,40,76.307,3.0,SOFT,30.0,True,1,True,False,False,5.0,16.8,24.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,41,79.511,3.0,SOFT,31.0,True,1,False,True,False,5.0,16.9,25.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,42,93.523,4.0,SOFT,3.0,False,1,False,False,True,11.0,16.9,24.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,43,74.975,4.0,SOFT,4.0,False,1,True,False,False,10.0,17.0,24.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,44,74.962,4.0,SOFT,5.0,False,1,True,False,False,9.0,17.3,25.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,45,75.093,4.0,SOFT,6.0,False,1,True,False,False,7.0,17.3,26.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,46,75.25,4.0,SOFT,7.0,False,1,True,False,False,6.0,17.5,26.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,47,75.597,4.0,SOFT,8.0,False,1,True,False,False,5.0,17.6,28.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,48,75.275,4.0,SOFT,9.0,False,1,True,False,False,4.0,17.8,28.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,49,75.288,4.0,SOFT,10.0,False,1,True,False,False,3.0,17.7,27.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,50,75.393,4.0,SOFT,11.0,False,1,True,False,False,3.0,17.7,27.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,51,75.204,4.0,SOFT,12.0,False,1,True,False,False,3.0,17.6,26.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,52,76.792,4.0,SOFT,13.0,False,1,True,False,False,4.0,17.4,26.1,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,53,75.611,4.0,SOFT,14.0,False,1,True,False,False,4.0,17.3,25.7,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,54,74.934,4.0,SOFT,15.0,False,1,True,False,False,4.0,17.3,25.7,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,55,75.219,4.0,SOFT,16.0,False,1,True,False,False,4.0,17.3,25.6,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,56,74.993,4.0,SOFT,17.0,False,1,True,False,False,4.0,17.2,25.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,57,75.169,4.0,SOFT,18.0,False,1,True,False,False,4.0,17.1,25.2,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,58,75.299,4.0,SOFT,19.0,False,1,True,False,False,4.0,17.1,25.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,59,75.288,4.0,SOFT,20.0,False,1,True,False,False,4.0,17.1,25.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,60,81.844,4.0,SOFT,21.0,False,1,False,True,False,5.0,17.1,24.8,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,61,100.849,5.0,INTERMEDIATE,16.0,False,1,False,False,True,7.0,17.1,24.8,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,62,83.317,5.0,INTERMEDIATE,17.0,False,12,True,False,False,5.0,17.1,24.6,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,63,100.28,5.0,INTERMEDIATE,18.0,False,216,False,False,False,5.0,17.1,24.3,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,64,,5.0,INTERMEDIATE,19.0,False,65,False,True,False,4.0,17.0,22.8,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,65,,6.0,INTERMEDIATE,5.0,False,14,False,False,True,5.0,15.9,19.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,66,134.99,6.0,INTERMEDIATE,6.0,False,41,False,False,False,5.0,16.1,19.9,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,67,88.361,6.0,INTERMEDIATE,7.0,False,1,True,False,False,5.0,15.9,19.6,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,68,84.482,6.0,INTERMEDIATE,8.0,False,1,True,False,False,5.0,15.8,19.4,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,69,82.74,6.0,INTERMEDIATE,9.0,False,1,True,False,False,5.0,15.8,19.1,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,70,82.613,6.0,INTERMEDIATE,10.0,False,1,True,False,False,5.0,15.8,19.0,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,71,81.902,6.0,INTERMEDIATE,11.0,False,1,True,False,False,5.0,15.7,19.0,False,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,SAI,Ferrari,72,82.652,6.0,INTERMEDIATE,12.0,False,1,True,False,False,5.0,15.8,19.1,True,6.0,5.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,1,93.241,1.0,SOFT,1.0,True,1,False,False,False,6.0,17.6,29.5,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,2,107.161,1.0,SOFT,2.0,True,1,True,False,False,4.0,17.5,28.6,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,3,106.91,1.0,SOFT,3.0,True,1,True,False,False,3.0,17.2,27.3,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,4,109.781,1.0,SOFT,4.0,True,1,False,True,False,12.0,16.7,26.2,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,5,107.148,2.0,INTERMEDIATE,1.0,True,1,False,False,True,16.0,16.2,24.6,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,6,84.37,2.0,INTERMEDIATE,2.0,True,1,True,False,False,14.0,16.3,24.3,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,7,84.846,2.0,INTERMEDIATE,3.0,True,1,True,False,False,14.0,16.4,24.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,8,84.962,2.0,INTERMEDIATE,4.0,True,1,True,False,False,14.0,16.5,24.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,9,84.61,2.0,INTERMEDIATE,5.0,True,1,True,False,False,14.0,16.5,24.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,10,89.137,2.0,INTERMEDIATE,6.0,True,1,False,True,False,16.0,16.5,24.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,11,98.867,3.0,SOFT,1.0,True,1,False,False,True,18.0,16.5,24.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,12,77.904,3.0,SOFT,2.0,True,1,True,False,False,18.0,16.5,24.3,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,13,77.05,3.0,SOFT,3.0,True,1,True,False,False,18.0,16.5,24.6,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,14,77.104,3.0,SOFT,4.0,True,1,True,False,False,18.0,16.5,24.7,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,15,76.406,3.0,SOFT,5.0,True,12,True,False,False,18.0,16.6,24.8,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,16,107.894,3.0,SOFT,6.0,True,24,False,True,False,18.0,16.8,25.5,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,17,126.262,4.0,HARD,1.0,True,4,False,False,True,18.0,16.9,26.1,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,18,84.632,4.0,HARD,2.0,True,4,False,False,False,17.0,17.1,26.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,19,115.526,4.0,HARD,3.0,True,4,False,False,False,17.0,17.1,28.0,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,20,111.276,4.0,HARD,4.0,True,4,False,False,False,17.0,17.1,28.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,21,115.605,4.0,HARD,5.0,True,41,False,False,False,19.0,17.4,29.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,22,78.507,4.0,HARD,6.0,True,1,True,False,False,19.0,17.4,29.5,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,23,77.874,4.0,HARD,7.0,True,1,True,False,False,19.0,17.3,29.7,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,24,77.336,4.0,HARD,8.0,True,1,True,False,False,19.0,17.3,29.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,25,77.883,4.0,HARD,9.0,True,1,True,False,False,19.0,17.3,29.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,26,77.874,4.0,HARD,10.0,True,1,True,False,False,19.0,17.3,29.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,27,77.671,4.0,HARD,11.0,True,1,True,False,False,19.0,17.3,29.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,28,77.45,4.0,HARD,12.0,True,1,True,False,False,19.0,17.2,28.5,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,29,77.593,4.0,HARD,13.0,True,1,True,False,False,19.0,17.1,27.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,30,77.774,4.0,HARD,14.0,True,1,True,False,False,19.0,17.1,27.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,31,77.552,4.0,HARD,15.0,True,1,True,False,False,19.0,17.0,27.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,32,77.525,4.0,HARD,16.0,True,1,True,False,False,19.0,17.0,26.8,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,33,77.031,4.0,HARD,17.0,True,1,True,False,False,19.0,16.8,26.3,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,34,77.303,4.0,HARD,18.0,True,1,True,False,False,17.0,16.8,26.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,35,77.443,4.0,HARD,19.0,True,1,True,False,False,17.0,16.8,25.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,36,76.084,4.0,HARD,20.0,True,1,True,False,False,14.0,16.9,25.5,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,37,76.053,4.0,HARD,21.0,True,1,True,False,False,14.0,16.9,25.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,38,75.915,4.0,HARD,22.0,True,1,True,False,False,13.0,16.9,25.3,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,39,76.355,4.0,HARD,23.0,True,1,True,False,False,13.0,16.9,25.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,40,75.562,4.0,HARD,24.0,True,1,True,False,False,13.0,16.9,24.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,41,76.307,4.0,HARD,25.0,True,1,True,False,False,13.0,16.9,25.0,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,42,76.189,4.0,HARD,26.0,True,1,True,False,False,13.0,16.9,24.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,43,75.857,4.0,HARD,27.0,True,1,True,False,False,11.0,17.0,24.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,44,75.659,4.0,HARD,28.0,True,1,True,False,False,10.0,17.3,25.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,45,75.466,4.0,HARD,29.0,True,1,True,False,False,9.0,17.3,26.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,46,75.356,4.0,HARD,30.0,True,1,True,False,False,8.0,17.5,26.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,47,76.492,4.0,HARD,31.0,True,1,True,False,False,7.0,17.7,28.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,48,75.523,4.0,HARD,32.0,True,1,True,False,False,7.0,17.8,28.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,49,75.648,4.0,HARD,33.0,True,1,True,False,False,7.0,17.7,27.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,50,75.617,4.0,HARD,34.0,True,1,True,False,False,7.0,17.7,27.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,51,75.3,4.0,HARD,35.0,True,1,True,False,False,8.0,17.5,26.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,52,77.207,4.0,HARD,36.0,True,1,True,False,False,9.0,17.4,26.1,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,53,75.404,4.0,HARD,37.0,True,1,True,False,False,7.0,17.3,25.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,54,75.124,4.0,HARD,38.0,True,1,True,False,False,7.0,17.3,25.7,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,55,75.208,4.0,HARD,39.0,True,1,True,False,False,7.0,17.2,25.6,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,56,76.303,4.0,HARD,40.0,True,1,True,False,False,7.0,17.2,25.4,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,57,75.604,4.0,HARD,41.0,True,1,True,False,False,9.0,17.1,25.2,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,58,75.27,4.0,HARD,42.0,True,1,True,False,False,8.0,17.1,25.0,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,59,76.832,4.0,HARD,43.0,True,1,True,False,False,9.0,17.1,24.8,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,60,82.707,4.0,HARD,44.0,True,1,False,True,False,10.0,17.1,24.8,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,61,103.611,5.0,INTERMEDIATE,13.0,False,1,False,False,True,10.0,17.1,24.8,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,62,82.553,5.0,INTERMEDIATE,14.0,False,12,True,False,False,9.0,17.1,24.6,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,63,112.41,5.0,INTERMEDIATE,15.0,False,1265,False,True,False,8.0,17.1,24.3,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,64,,6.0,INTERMEDIATE,6.0,False,51,False,True,True,8.0,17.0,22.8,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,65,,7.0,INTERMEDIATE,7.0,False,14,False,False,True,9.0,15.9,19.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,66,131.489,7.0,INTERMEDIATE,8.0,False,41,False,False,False,11.0,16.0,19.9,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,67,112.753,7.0,INTERMEDIATE,9.0,False,1,False,True,False,17.0,15.9,19.6,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,68,107.369,8.0,INTERMEDIATE,7.0,False,1,False,False,True,17.0,15.8,19.3,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,69,81.963,8.0,INTERMEDIATE,8.0,False,1,True,False,False,17.0,15.8,19.1,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,70,81.206,8.0,INTERMEDIATE,9.0,False,1,True,False,False,17.0,15.7,19.0,False,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,71,80.548,8.0,INTERMEDIATE,10.0,False,1,True,False,False,17.0,15.7,19.0,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,RUS,Mercedes,72,80.769,8.0,INTERMEDIATE,11.0,False,1,True,False,False,17.0,15.8,19.1,True,3.0,17.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,1,97.804,1.0,SOFT,1.0,True,1,False,False,False,9.0,17.6,29.5,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,2,110.912,1.0,SOFT,2.0,True,1,True,False,False,9.0,17.5,28.6,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,3,112.324,1.0,SOFT,3.0,True,1,True,False,False,15.0,17.2,27.3,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,4,108.246,1.0,SOFT,4.0,True,1,True,False,False,16.0,16.7,26.2,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,5,98.86,1.0,SOFT,5.0,True,1,True,False,False,17.0,16.2,24.6,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,6,92.468,1.0,SOFT,6.0,True,1,True,False,False,17.0,16.3,24.3,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,7,87.519,1.0,SOFT,7.0,True,1,True,False,False,17.0,16.4,24.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,8,83.722,1.0,SOFT,8.0,True,1,True,False,False,17.0,16.5,24.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,9,81.456,1.0,SOFT,9.0,True,1,True,False,False,17.0,16.5,24.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,10,79.887,1.0,SOFT,10.0,True,1,True,False,False,15.0,16.5,24.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,11,78.942,1.0,SOFT,11.0,True,1,True,False,False,14.0,16.5,24.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,12,78.907,1.0,SOFT,12.0,True,1,True,False,False,14.0,16.5,24.3,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,13,78.098,1.0,SOFT,13.0,True,1,True,False,False,14.0,16.5,24.6,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,14,77.867,1.0,SOFT,14.0,True,1,True,False,False,14.0,16.5,24.7,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,15,77.107,1.0,SOFT,15.0,True,12,True,False,False,14.0,16.6,24.8,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,16,101.521,1.0,SOFT,16.0,True,24,False,True,False,13.0,16.8,25.5,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,17,127.765,2.0,MEDIUM,1.0,True,4,False,False,True,15.0,16.9,26.1,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,18,92.291,2.0,MEDIUM,2.0,True,4,False,False,False,15.0,17.1,26.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,19,124.283,2.0,MEDIUM,3.0,True,4,False,False,False,15.0,17.1,28.0,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,20,112.289,2.0,MEDIUM,4.0,True,4,False,False,False,15.0,17.1,28.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,21,116.133,2.0,MEDIUM,5.0,True,41,False,False,False,15.0,17.2,29.0,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,22,78.796,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,17.4,29.5,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,23,78.023,2.0,MEDIUM,7.0,True,1,True,False,False,14.0,17.3,29.7,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,24,77.903,2.0,MEDIUM,8.0,True,1,True,False,False,14.0,17.3,29.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,25,77.837,2.0,MEDIUM,9.0,True,1,True,False,False,15.0,17.3,29.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,26,78.472,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,17.3,29.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,27,77.806,2.0,MEDIUM,11.0,True,1,True,False,False,16.0,17.3,29.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,28,77.469,2.0,MEDIUM,12.0,True,1,True,False,False,16.0,17.2,28.5,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,29,77.664,2.0,MEDIUM,13.0,True,1,True,False,False,16.0,17.1,27.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,30,77.715,2.0,MEDIUM,14.0,True,1,True,False,False,16.0,17.1,27.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,31,77.751,2.0,MEDIUM,15.0,True,1,True,False,False,16.0,17.0,27.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,32,77.429,2.0,MEDIUM,16.0,True,1,True,False,False,16.0,17.0,26.8,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,33,77.119,2.0,MEDIUM,17.0,True,1,True,False,False,16.0,16.8,26.3,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,34,78.321,2.0,MEDIUM,18.0,True,1,True,False,False,16.0,16.8,26.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,35,78.093,2.0,MEDIUM,19.0,True,1,True,False,False,16.0,16.8,25.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,36,77.746,2.0,MEDIUM,20.0,True,1,True,False,False,16.0,16.9,25.5,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,37,76.888,2.0,MEDIUM,21.0,True,1,True,False,False,16.0,16.9,25.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,38,76.577,2.0,MEDIUM,22.0,True,1,True,False,False,14.0,16.9,25.3,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,39,76.456,2.0,MEDIUM,23.0,True,1,True,False,False,14.0,16.9,25.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,40,76.512,2.0,MEDIUM,24.0,True,1,True,False,False,14.0,16.9,24.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,41,76.705,2.0,MEDIUM,25.0,True,1,True,False,False,14.0,16.9,25.0,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,42,76.494,2.0,MEDIUM,26.0,True,1,True,False,False,14.0,16.9,24.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,43,76.774,2.0,MEDIUM,27.0,True,1,True,False,False,13.0,17.1,25.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,44,76.633,2.0,MEDIUM,28.0,True,1,True,False,False,13.0,17.3,25.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,45,78.0,2.0,MEDIUM,29.0,True,1,True,False,False,14.0,17.3,26.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,46,76.901,2.0,MEDIUM,30.0,True,1,True,False,False,13.0,17.5,26.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,47,79.539,2.0,MEDIUM,31.0,True,1,False,True,False,13.0,17.7,28.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,48,94.072,3.0,SOFT,1.0,True,1,False,False,True,17.0,17.8,28.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,49,74.698,3.0,SOFT,2.0,True,1,True,False,False,17.0,17.7,27.2,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,50,74.793,3.0,SOFT,3.0,True,1,True,False,False,17.0,17.6,26.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,51,75.223,3.0,SOFT,4.0,True,1,True,False,False,17.0,17.5,26.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,52,75.607,3.0,SOFT,5.0,True,1,True,False,False,17.0,17.4,26.1,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,53,75.075,3.0,SOFT,6.0,True,1,True,False,False,17.0,17.3,25.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,54,75.297,3.0,SOFT,7.0,True,1,True,False,False,17.0,17.3,25.6,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,55,75.134,3.0,SOFT,8.0,True,1,True,False,False,17.0,17.2,25.6,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,56,75.653,3.0,SOFT,9.0,True,1,True,False,False,17.0,17.2,25.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,57,75.309,3.0,SOFT,10.0,True,1,True,False,False,17.0,17.1,25.0,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,58,75.995,3.0,SOFT,11.0,True,1,True,False,False,17.0,17.1,25.0,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,59,80.755,3.0,SOFT,12.0,True,1,False,True,False,17.0,17.1,24.8,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,60,99.356,4.0,INTERMEDIATE,1.0,True,1,False,False,True,17.0,17.1,24.8,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,61,83.161,4.0,INTERMEDIATE,2.0,True,1,True,False,False,16.0,17.1,24.7,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,62,85.098,4.0,INTERMEDIATE,3.0,True,12,True,False,False,16.0,17.1,24.3,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,63,136.932,4.0,INTERMEDIATE,4.0,True,265,False,True,False,15.0,17.1,24.1,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,64,,5.0,INTERMEDIATE,1.0,True,514,False,True,True,15.0,16.6,21.8,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,65,,6.0,INTERMEDIATE,2.0,False,14,False,False,True,15.0,15.9,19.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,66,125.85,6.0,INTERMEDIATE,3.0,False,41,False,False,False,15.0,16.0,19.9,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,67,90.643,6.0,INTERMEDIATE,4.0,False,1,True,False,False,15.0,15.9,19.6,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,68,87.723,6.0,INTERMEDIATE,5.0,False,1,True,False,False,16.0,15.8,19.4,False,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,69,84.601,6.0,INTERMEDIATE,6.0,False,1,True,False,False,16.0,15.8,19.1,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,70,83.331,6.0,INTERMEDIATE,7.0,False,1,True,False,False,16.0,15.8,19.0,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,71,82.873,6.0,INTERMEDIATE,8.0,False,1,True,False,False,16.0,15.7,19.0,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,BOT,Alfa Romeo,72,83.03,6.0,INTERMEDIATE,9.0,False,1,True,False,False,16.0,15.8,19.1,True,18.0,14.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,1,95.554,1.0,SOFT,1.0,True,1,False,False,False,7.0,17.6,29.5,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,2,109.109,1.0,SOFT,2.0,True,1,True,False,False,6.0,17.5,28.6,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,3,109.476,1.0,SOFT,3.0,True,1,True,False,False,9.0,17.2,27.3,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,4,107.669,1.0,SOFT,4.0,True,1,True,False,False,14.0,16.7,26.2,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,5,100.899,1.0,SOFT,5.0,True,1,True,False,False,15.0,16.2,24.6,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,6,95.164,1.0,SOFT,6.0,True,1,True,False,False,16.0,16.2,24.6,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,7,87.654,1.0,SOFT,7.0,True,1,True,False,False,16.0,16.4,24.2,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,8,82.473,1.0,SOFT,8.0,True,1,True,False,False,16.0,16.5,24.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,9,79.061,1.0,SOFT,9.0,True,1,True,False,False,16.0,16.5,24.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,10,78.587,1.0,SOFT,10.0,True,1,True,False,False,13.0,16.5,24.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,11,76.87,1.0,SOFT,11.0,True,1,True,False,False,11.0,16.5,24.2,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,12,77.1,1.0,SOFT,12.0,True,1,True,False,False,8.0,16.5,24.3,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,13,76.534,1.0,SOFT,13.0,True,1,True,False,False,8.0,16.5,24.6,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,14,76.041,1.0,SOFT,14.0,True,1,True,False,False,8.0,16.5,24.6,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,15,82.705,1.0,SOFT,15.0,True,1,False,True,False,12.0,16.6,24.8,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,16,119.213,2.0,SOFT,1.0,True,124,False,False,True,16.0,16.8,25.5,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,17,112.814,2.0,SOFT,2.0,True,4,False,False,False,14.0,16.9,26.1,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,18,97.579,2.0,SOFT,3.0,True,4,False,False,False,14.0,17.1,26.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,19,123.585,2.0,SOFT,4.0,True,4,False,False,False,14.0,17.1,28.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,20,113.013,2.0,SOFT,5.0,True,4,False,False,False,14.0,17.1,28.7,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,21,116.784,2.0,SOFT,6.0,True,41,False,False,False,14.0,17.2,29.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,22,80.282,2.0,SOFT,7.0,True,1,True,False,False,15.0,17.4,29.5,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,23,77.76,2.0,SOFT,8.0,True,1,True,False,False,15.0,17.3,29.7,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,24,77.403,2.0,SOFT,9.0,True,1,True,False,False,15.0,17.3,29.7,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,25,77.4,2.0,SOFT,10.0,True,1,True,False,False,14.0,17.3,29.7,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,26,77.555,2.0,SOFT,11.0,True,1,True,False,False,13.0,17.3,29.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,27,76.653,2.0,SOFT,12.0,True,1,True,False,False,13.0,17.3,29.2,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,28,76.933,2.0,SOFT,13.0,True,1,True,False,False,13.0,17.2,28.5,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,29,76.801,2.0,SOFT,14.0,True,1,True,False,False,13.0,17.1,28.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,30,76.64,2.0,SOFT,15.0,True,1,True,False,False,12.0,17.1,27.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,31,76.632,2.0,SOFT,16.0,True,1,True,False,False,12.0,17.0,27.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,32,76.381,2.0,SOFT,17.0,True,1,True,False,False,12.0,17.0,26.8,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,33,76.833,2.0,SOFT,18.0,True,1,True,False,False,12.0,16.8,26.3,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,34,76.914,2.0,SOFT,19.0,True,1,True,False,False,11.0,16.8,26.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,35,76.131,2.0,SOFT,20.0,True,1,True,False,False,11.0,16.8,25.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,36,76.433,2.0,SOFT,21.0,True,1,True,False,False,11.0,16.8,25.6,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,37,76.036,2.0,SOFT,22.0,True,1,True,False,False,11.0,16.9,25.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,38,76.223,2.0,SOFT,23.0,True,1,True,False,False,11.0,16.9,25.3,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,39,76.494,2.0,SOFT,24.0,True,1,True,False,False,11.0,16.9,25.2,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,40,76.185,2.0,SOFT,25.0,True,1,True,False,False,11.0,16.8,24.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,41,76.775,2.0,SOFT,26.0,True,1,True,False,False,11.0,16.9,25.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,42,76.203,2.0,SOFT,27.0,True,1,True,False,False,9.0,16.9,24.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,43,76.299,2.0,SOFT,28.0,True,1,True,False,False,9.0,17.0,24.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,44,76.211,2.0,SOFT,29.0,True,1,True,False,False,8.0,17.3,25.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,45,76.662,2.0,SOFT,30.0,True,1,True,False,False,6.0,17.3,26.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,46,80.841,2.0,SOFT,31.0,True,1,False,True,False,7.0,17.5,26.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,47,93.49,3.0,MEDIUM,1.0,True,1,False,False,True,15.0,17.6,28.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,48,74.685,3.0,MEDIUM,2.0,True,1,True,False,False,13.0,17.8,28.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,49,74.845,3.0,MEDIUM,3.0,True,1,True,False,False,12.0,17.7,27.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,50,74.412,3.0,MEDIUM,4.0,True,1,True,False,False,12.0,17.6,26.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,51,74.421,3.0,MEDIUM,5.0,True,1,True,False,False,12.0,17.5,26.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,52,74.408,3.0,MEDIUM,6.0,True,1,True,False,False,12.0,17.4,26.1,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,53,74.441,3.0,MEDIUM,7.0,True,1,True,False,False,12.0,17.3,25.7,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,54,74.299,3.0,MEDIUM,8.0,True,1,True,False,False,12.0,17.3,25.7,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,55,74.733,3.0,MEDIUM,9.0,True,1,True,False,False,11.0,17.2,25.6,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,56,74.967,3.0,MEDIUM,10.0,True,1,True,False,False,11.0,17.2,25.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,57,74.955,3.0,MEDIUM,11.0,True,1,True,False,False,11.0,17.1,25.2,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,58,74.782,3.0,MEDIUM,12.0,True,1,True,False,False,11.0,17.1,25.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,59,74.773,3.0,MEDIUM,13.0,True,1,True,False,False,11.0,17.1,24.8,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,60,85.702,3.0,MEDIUM,14.0,True,1,False,True,False,11.0,17.1,24.8,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,61,102.667,4.0,INTERMEDIATE,6.0,False,1,False,False,True,11.0,17.1,24.8,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,62,82.135,4.0,INTERMEDIATE,7.0,False,12,True,False,False,10.0,17.1,24.6,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,63,123.268,4.0,INTERMEDIATE,8.0,False,1265,False,True,False,10.0,17.1,24.3,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,64,,5.0,INTERMEDIATE,5.0,False,51,False,True,True,10.0,16.6,21.8,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,65,,6.0,INTERMEDIATE,6.0,False,14,False,False,True,10.0,15.9,19.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,66,129.864,6.0,INTERMEDIATE,7.0,False,41,False,False,False,9.0,16.0,19.9,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,67,88.541,6.0,INTERMEDIATE,8.0,False,1,True,False,False,9.0,15.9,19.6,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,68,85.004,6.0,INTERMEDIATE,9.0,False,1,True,False,False,9.0,15.8,19.4,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,69,82.911,6.0,INTERMEDIATE,10.0,False,1,True,False,False,9.0,15.8,19.1,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,70,82.659,6.0,INTERMEDIATE,11.0,False,1,True,False,False,9.0,15.8,19.0,True,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,71,82.296,6.0,INTERMEDIATE,12.0,False,1,True,False,False,9.0,15.7,19.0,False,8.0,9.0
+2023,13,Dutch Grand Prix,Zandvoort,72,PIA,McLaren,72,83.034,6.0,INTERMEDIATE,13.0,False,1,True,False,False,9.0,15.8,19.1,True,8.0,9.0

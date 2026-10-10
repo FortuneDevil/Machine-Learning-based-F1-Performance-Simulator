@@ -1,0 +1,1204 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,1,83.696,1.0,SOFT,4.0,False,1,False,False,False,2.0,29.6,49.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,2,80.083,1.0,SOFT,5.0,False,1,True,False,False,2.0,29.6,49.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,3,80.537,1.0,SOFT,6.0,False,1,True,False,False,2.0,29.5,49.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,4,81.032,1.0,SOFT,7.0,False,1,True,False,False,2.0,29.4,49.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,5,80.964,1.0,SOFT,8.0,False,1,True,False,False,2.0,29.3,49.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,6,80.822,1.0,SOFT,9.0,False,1,True,False,False,2.0,29.3,48.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,7,80.76,1.0,SOFT,10.0,False,1,True,False,False,2.0,29.1,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,8,81.019,1.0,SOFT,11.0,False,1,True,False,False,2.0,29.0,49.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,9,81.168,1.0,SOFT,12.0,False,1,True,False,False,2.0,28.9,49.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,10,81.163,1.0,SOFT,13.0,False,1,True,False,False,2.0,28.9,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,11,81.143,1.0,SOFT,14.0,False,1,True,False,False,2.0,29.0,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,12,81.623,1.0,SOFT,15.0,False,1,True,False,False,2.0,29.0,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,13,86.03,1.0,SOFT,16.0,False,1,False,True,False,3.0,29.3,49.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,14,97.2,2.0,SOFT,1.0,True,1,False,False,True,8.0,29.3,49.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,15,79.63,2.0,SOFT,2.0,True,1,True,False,False,7.0,29.2,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,16,79.45,2.0,SOFT,3.0,True,1,True,False,False,7.0,29.3,49.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,17,80.011,2.0,SOFT,4.0,True,1,True,False,False,5.0,29.3,49.2,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,18,79.786,2.0,SOFT,5.0,True,1,True,False,False,4.0,29.3,48.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,19,80.259,2.0,SOFT,6.0,True,1,True,False,False,3.0,29.3,48.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,20,79.84,2.0,SOFT,7.0,True,1,True,False,False,3.0,29.2,47.2,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,21,79.911,2.0,SOFT,8.0,True,1,True,False,False,3.0,29.0,47.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,22,79.64,2.0,SOFT,9.0,True,1,True,False,False,2.0,29.0,47.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,23,80.183,2.0,SOFT,10.0,True,1,True,False,False,1.0,28.8,47.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,24,79.958,2.0,SOFT,11.0,True,1,True,False,False,1.0,28.8,47.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,25,80.124,2.0,SOFT,12.0,True,1,True,False,False,1.0,28.9,48.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,26,80.382,2.0,SOFT,13.0,True,1,True,False,False,1.0,29.0,49.2,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,27,80.672,2.0,SOFT,14.0,True,1,True,False,False,1.0,29.1,48.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,28,80.58,2.0,SOFT,15.0,True,1,True,False,False,1.0,29.1,48.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,29,84.509,2.0,SOFT,16.0,True,1,False,True,False,2.0,29.1,48.3,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,30,96.279,3.0,MEDIUM,1.0,True,1,False,False,True,4.0,29.0,47.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,31,78.216,3.0,MEDIUM,2.0,True,1,True,False,False,4.0,29.0,47.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,32,78.455,3.0,MEDIUM,3.0,True,1,True,False,False,4.0,28.9,47.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,33,78.727,3.0,MEDIUM,4.0,True,1,True,False,False,4.0,29.0,48.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,34,78.924,3.0,MEDIUM,5.0,True,1,True,False,False,4.0,29.0,48.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,35,79.141,3.0,MEDIUM,6.0,True,1,True,False,False,4.0,28.7,47.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,36,79.218,3.0,MEDIUM,7.0,True,1,True,False,False,3.0,28.6,49.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,37,79.108,3.0,MEDIUM,8.0,True,1,True,False,False,3.0,28.6,47.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,38,79.443,3.0,MEDIUM,9.0,True,1,True,False,False,3.0,28.5,46.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,39,79.65,3.0,MEDIUM,10.0,True,1,True,False,False,3.0,28.3,47.1,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,40,79.726,3.0,MEDIUM,11.0,True,1,True,False,False,3.0,28.1,46.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,41,79.922,3.0,MEDIUM,12.0,True,1,True,False,False,3.0,28.3,47.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,42,79.963,3.0,MEDIUM,13.0,True,1,True,False,False,3.0,28.3,47.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,43,80.134,3.0,MEDIUM,14.0,True,1,True,False,False,3.0,28.2,46.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,44,79.84,3.0,MEDIUM,15.0,True,1,True,False,False,3.0,28.3,46.8,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,45,80.301,3.0,MEDIUM,16.0,True,1,True,False,False,3.0,28.4,46.8,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,46,80.367,3.0,MEDIUM,17.0,True,1,True,False,False,3.0,28.4,47.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,47,83.558,3.0,MEDIUM,18.0,True,1,False,True,False,3.0,28.3,47.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,48,95.915,4.0,SOFT,4.0,False,1,False,False,True,3.0,28.2,48.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,49,77.141,4.0,SOFT,5.0,False,1,True,False,False,3.0,28.3,48.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,50,77.997,4.0,SOFT,6.0,False,1,True,False,False,3.0,28.3,48.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,51,78.734,4.0,SOFT,7.0,False,1,True,False,False,3.0,28.5,48.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,52,78.682,4.0,SOFT,8.0,False,1,True,False,False,3.0,28.6,48.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,53,78.941,4.0,SOFT,9.0,False,1,True,False,False,3.0,28.6,47.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,54,78.584,4.0,SOFT,10.0,False,1,True,False,False,3.0,28.6,47.0,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,55,94.644,4.0,SOFT,11.0,False,124,False,True,False,3.0,28.6,47.7,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,56,145.126,5.0,HARD,1.0,True,4,False,False,True,3.0,28.7,47.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,57,126.705,5.0,HARD,2.0,True,4,False,False,False,3.0,28.7,47.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,58,128.675,5.0,HARD,3.0,True,4,False,False,False,3.0,28.8,47.6,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,59,122.657,5.0,HARD,4.0,True,4,False,False,False,3.0,28.9,47.8,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,60,122.501,5.0,HARD,5.0,True,41,False,False,False,3.0,28.9,48.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,61,78.862,5.0,HARD,6.0,True,1,True,False,False,4.0,28.9,47.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,62,77.019,5.0,HARD,7.0,True,1,True,False,False,4.0,29.0,46.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,63,77.608,5.0,HARD,8.0,True,1,True,False,False,4.0,29.0,46.5,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,64,80.06,5.0,HARD,9.0,True,1,True,False,False,5.0,29.0,46.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,65,78.122,5.0,HARD,10.0,True,1,True,False,False,5.0,29.2,47.4,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,VER,Red Bull Racing,66,78.081,5.0,HARD,11.0,True,1,True,False,False,5.0,29.3,46.9,False,3.0,10.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,1,87.934,1.0,SOFT,3.0,False,1,False,False,False,8.0,29.6,49.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,2,82.663,1.0,SOFT,4.0,False,1,True,False,False,8.0,29.6,49.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,3,82.133,1.0,SOFT,5.0,False,1,True,False,False,8.0,29.5,49.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,4,81.329,1.0,SOFT,6.0,False,1,True,False,False,8.0,29.4,49.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,5,81.681,1.0,SOFT,7.0,False,1,True,False,False,8.0,29.3,49.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,6,81.791,1.0,SOFT,8.0,False,1,True,False,False,8.0,29.3,48.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,7,81.964,1.0,SOFT,9.0,False,1,True,False,False,8.0,29.1,49.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,8,82.313,1.0,SOFT,10.0,False,1,True,False,False,8.0,29.0,49.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,9,82.16,1.0,SOFT,11.0,False,1,True,False,False,8.0,28.9,49.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,10,85.67,1.0,SOFT,12.0,False,1,False,True,False,10.0,28.9,49.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,11,98.838,2.0,SOFT,4.0,False,1,False,False,True,14.0,29.0,49.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,12,81.664,2.0,SOFT,5.0,False,1,True,False,False,14.0,29.1,49.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,13,82.252,2.0,SOFT,6.0,False,1,True,False,False,14.0,29.3,49.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,14,82.189,2.0,SOFT,7.0,False,1,True,False,False,13.0,29.2,49.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,15,81.939,2.0,SOFT,8.0,False,1,True,False,False,12.0,29.2,49.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,16,81.645,2.0,SOFT,9.0,False,1,True,False,False,12.0,29.3,49.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,17,81.636,2.0,SOFT,10.0,False,1,True,False,False,12.0,29.4,49.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,18,82.752,2.0,SOFT,11.0,False,1,True,False,False,12.0,29.3,48.7,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,19,81.937,2.0,SOFT,12.0,False,1,True,False,False,9.0,29.3,48.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,20,81.663,2.0,SOFT,13.0,False,1,True,False,False,8.0,29.1,47.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,21,81.802,2.0,SOFT,14.0,False,1,True,False,False,8.0,29.0,47.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,22,81.865,2.0,SOFT,15.0,False,1,True,False,False,7.0,28.8,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,23,82.333,2.0,SOFT,16.0,False,1,True,False,False,7.0,28.7,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,24,83.215,2.0,SOFT,17.0,False,1,True,False,False,8.0,28.8,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,25,82.755,2.0,SOFT,18.0,False,1,True,False,False,9.0,29.0,49.2,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,26,82.284,2.0,SOFT,19.0,False,1,True,False,False,9.0,29.0,48.7,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,27,82.195,2.0,SOFT,20.0,False,1,True,False,False,9.0,29.1,48.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,28,83.234,2.0,SOFT,21.0,False,1,True,False,False,10.0,29.1,48.3,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,29,82.303,2.0,SOFT,22.0,False,1,True,False,False,10.0,29.1,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,30,82.258,2.0,SOFT,23.0,False,1,True,False,False,10.0,29.0,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,31,86.267,2.0,SOFT,24.0,False,1,False,True,False,10.0,28.9,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,32,99.539,3.0,MEDIUM,1.0,True,1,False,False,True,17.0,28.9,47.7,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,33,81.034,3.0,MEDIUM,2.0,True,1,True,False,False,17.0,29.0,48.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,34,81.605,3.0,MEDIUM,3.0,True,1,True,False,False,17.0,28.9,48.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,35,81.279,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,28.6,49.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,36,82.88,3.0,MEDIUM,5.0,True,1,True,False,False,15.0,28.6,47.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,37,81.429,3.0,MEDIUM,6.0,True,1,True,False,False,15.0,28.6,47.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,38,82.23,3.0,MEDIUM,7.0,True,1,True,False,False,15.0,28.3,47.1,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,39,81.231,3.0,MEDIUM,8.0,True,1,True,False,False,15.0,28.1,46.7,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,40,82.499,3.0,MEDIUM,9.0,True,1,True,False,False,15.0,28.3,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,41,81.126,3.0,MEDIUM,10.0,True,1,True,False,False,15.0,28.3,47.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,42,80.758,3.0,MEDIUM,11.0,True,1,True,False,False,15.0,28.2,46.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,43,80.81,3.0,MEDIUM,12.0,True,1,True,False,False,13.0,28.3,46.8,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,44,81.204,3.0,MEDIUM,13.0,True,1,True,False,False,12.0,28.4,46.8,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,45,80.75,3.0,MEDIUM,14.0,True,1,True,False,False,11.0,28.4,47.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,46,80.563,3.0,MEDIUM,15.0,True,1,True,False,False,11.0,28.3,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,47,80.421,3.0,MEDIUM,16.0,True,1,True,False,False,11.0,28.2,48.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,48,80.624,3.0,MEDIUM,17.0,True,1,True,False,False,11.0,28.2,48.2,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,49,80.646,3.0,MEDIUM,18.0,True,1,True,False,False,10.0,28.3,48.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,50,80.035,3.0,MEDIUM,19.0,True,1,True,False,False,10.0,28.5,48.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,51,81.884,3.0,MEDIUM,20.0,True,1,True,False,False,10.0,28.6,48.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,52,82.812,3.0,MEDIUM,21.0,True,1,True,False,False,10.0,28.6,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,53,80.163,3.0,MEDIUM,22.0,True,1,True,False,False,10.0,28.6,47.0,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,54,94.583,3.0,MEDIUM,23.0,True,124,False,False,False,9.0,28.6,47.7,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,55,110.935,3.0,MEDIUM,24.0,True,4,False,True,False,9.0,28.7,47.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,56,106.806,4.0,SOFT,4.0,False,4,False,False,True,9.0,28.7,47.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,57,88.262,4.0,SOFT,5.0,False,4,False,False,False,9.0,28.7,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,58,98.581,4.0,SOFT,6.0,False,4,False,False,False,9.0,28.8,47.6,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,59,125.24,4.0,SOFT,7.0,False,4,False,False,False,9.0,28.9,47.8,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,60,114.878,4.0,SOFT,8.0,False,41,False,False,False,9.0,28.9,48.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,61,80.103,4.0,SOFT,9.0,False,1,True,False,False,9.0,28.9,47.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,62,78.745,4.0,SOFT,10.0,False,1,True,False,False,9.0,29.0,46.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,63,77.896,4.0,SOFT,11.0,False,1,True,False,False,9.0,29.0,46.5,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,64,78.791,4.0,SOFT,12.0,False,1,True,False,False,9.0,29.0,46.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,65,79.102,4.0,SOFT,13.0,False,1,True,False,False,9.0,29.2,47.4,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,GAS,Alpine,66,79.149,4.0,SOFT,14.0,False,1,True,False,False,9.0,29.3,46.9,False,8.0,8.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,1,87.381,1.0,SOFT,4.0,False,1,False,False,False,7.0,29.6,49.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,2,82.112,1.0,SOFT,5.0,False,1,True,False,False,7.0,29.6,49.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,3,81.874,1.0,SOFT,6.0,False,1,True,False,False,7.0,29.5,49.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,4,81.374,1.0,SOFT,7.0,False,1,True,False,False,7.0,29.4,49.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,5,81.368,1.0,SOFT,8.0,False,1,True,False,False,7.0,29.3,49.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,6,81.477,1.0,SOFT,9.0,False,1,True,False,False,7.0,29.3,48.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,7,81.707,1.0,SOFT,10.0,False,1,True,False,False,7.0,29.1,49.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,8,81.857,1.0,SOFT,11.0,False,1,True,False,False,7.0,29.0,49.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,9,81.744,1.0,SOFT,12.0,False,1,True,False,False,7.0,28.9,49.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,10,81.991,1.0,SOFT,13.0,False,1,True,False,False,7.0,28.9,49.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,11,82.021,1.0,SOFT,14.0,False,1,True,False,False,7.0,29.0,49.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,12,81.736,1.0,SOFT,15.0,False,1,True,False,False,7.0,29.1,49.6,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,13,81.845,1.0,SOFT,16.0,False,1,True,False,False,7.0,29.3,49.6,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,14,82.313,1.0,SOFT,17.0,False,1,True,False,False,6.0,29.3,49.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,15,82.181,1.0,SOFT,18.0,False,1,True,False,False,6.0,29.2,49.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,16,81.899,1.0,SOFT,19.0,False,1,True,False,False,6.0,29.3,49.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,17,82.217,1.0,SOFT,20.0,False,1,True,False,False,6.0,29.3,49.2,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,18,82.441,1.0,SOFT,21.0,False,1,True,False,False,5.0,29.3,48.7,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,19,82.26,1.0,SOFT,22.0,False,1,True,False,False,5.0,29.3,48.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,20,82.54,1.0,SOFT,23.0,False,1,True,False,False,5.0,29.2,47.2,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,21,86.745,1.0,SOFT,24.0,False,1,False,True,False,4.0,29.0,47.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,22,99.685,2.0,MEDIUM,1.0,True,1,False,False,True,8.0,29.0,47.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,23,81.65,2.0,MEDIUM,2.0,True,1,True,False,False,8.0,28.7,47.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,24,80.507,2.0,MEDIUM,3.0,True,1,True,False,False,7.0,28.8,47.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,25,80.894,2.0,MEDIUM,4.0,True,1,True,False,False,7.0,29.0,49.2,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,26,80.774,2.0,MEDIUM,5.0,True,1,True,False,False,7.0,29.0,48.7,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,27,80.696,2.0,MEDIUM,6.0,True,1,True,False,False,7.0,29.1,48.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,28,80.485,2.0,MEDIUM,7.0,True,1,True,False,False,7.0,29.1,48.3,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,29,80.518,2.0,MEDIUM,8.0,True,1,True,False,False,7.0,29.1,47.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,30,80.395,2.0,MEDIUM,9.0,True,1,True,False,False,7.0,29.0,47.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,31,80.529,2.0,MEDIUM,10.0,True,1,True,False,False,7.0,28.9,47.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,32,80.475,2.0,MEDIUM,11.0,True,1,True,False,False,7.0,28.9,47.7,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,33,80.549,2.0,MEDIUM,12.0,True,1,True,False,False,7.0,29.0,48.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,34,80.924,2.0,MEDIUM,13.0,True,1,True,False,False,7.0,28.9,48.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,35,80.728,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,28.7,47.7,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,36,80.73,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,28.6,49.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,37,80.752,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,28.6,47.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,38,80.581,2.0,MEDIUM,17.0,True,1,True,False,False,7.0,28.5,46.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,39,80.371,2.0,MEDIUM,18.0,True,1,True,False,False,7.0,28.3,47.1,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,40,80.456,2.0,MEDIUM,19.0,True,1,True,False,False,7.0,28.2,47.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,41,80.705,2.0,MEDIUM,20.0,True,1,True,False,False,7.0,28.3,47.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,42,80.713,2.0,MEDIUM,21.0,True,1,True,False,False,6.0,28.3,47.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,43,80.711,2.0,MEDIUM,22.0,True,1,True,False,False,6.0,28.3,46.9,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,44,81.604,2.0,MEDIUM,23.0,True,1,True,False,False,7.0,28.3,46.8,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,45,81.289,2.0,MEDIUM,24.0,True,1,True,False,False,7.0,28.4,47.4,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,46,80.941,2.0,MEDIUM,25.0,True,1,True,False,False,7.0,28.4,47.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,47,80.622,2.0,MEDIUM,26.0,True,1,True,False,False,6.0,28.3,47.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,48,80.434,2.0,MEDIUM,27.0,True,1,True,False,False,6.0,28.2,48.2,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,49,84.211,2.0,MEDIUM,28.0,True,1,False,True,False,7.0,28.3,48.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,50,100.297,3.0,SOFT,4.0,False,1,False,False,True,7.0,28.3,48.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,51,78.328,3.0,SOFT,5.0,False,1,True,False,False,7.0,28.6,48.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,52,78.255,3.0,SOFT,6.0,False,1,True,False,False,7.0,28.6,47.5,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,53,79.04,3.0,SOFT,7.0,False,1,True,False,False,7.0,28.6,47.0,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ANT,Mercedes,54,,3.0,SOFT,8.0,False,124,False,False,False,,28.6,47.7,False,6.0,18.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,1,88.761,1.0,SOFT,3.0,False,1,False,False,False,10.0,29.6,49.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,2,83.387,1.0,SOFT,4.0,False,1,True,False,False,11.0,29.6,49.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,3,82.424,1.0,SOFT,5.0,False,1,True,False,False,11.0,29.5,49.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,4,81.965,1.0,SOFT,6.0,False,1,True,False,False,11.0,29.4,49.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,5,81.888,1.0,SOFT,7.0,False,1,True,False,False,11.0,29.3,49.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,6,81.67,1.0,SOFT,8.0,False,1,True,False,False,11.0,29.3,48.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,7,82.247,1.0,SOFT,9.0,False,1,True,False,False,11.0,29.1,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,8,82.421,1.0,SOFT,10.0,False,1,True,False,False,11.0,29.0,49.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,9,82.498,1.0,SOFT,11.0,False,1,True,False,False,10.0,28.9,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,10,82.313,1.0,SOFT,12.0,False,1,True,False,False,9.0,28.9,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,11,82.304,1.0,SOFT,13.0,False,1,True,False,False,9.0,29.0,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,12,82.469,1.0,SOFT,14.0,False,1,True,False,False,9.0,29.1,49.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,13,90.665,1.0,SOFT,15.0,False,1,True,False,False,11.0,29.3,49.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,14,84.019,1.0,SOFT,16.0,False,1,True,False,False,11.0,29.2,49.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,15,87.958,1.0,SOFT,17.0,False,1,False,True,False,13.0,29.2,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,16,100.287,2.0,MEDIUM,2.0,False,1,False,False,True,19.0,29.3,49.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,17,80.454,2.0,MEDIUM,3.0,False,1,True,False,False,19.0,29.4,49.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,18,81.025,2.0,MEDIUM,4.0,False,1,True,False,False,17.0,29.3,48.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,19,81.033,2.0,MEDIUM,5.0,False,1,True,False,False,17.0,29.2,47.2,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,20,80.858,2.0,MEDIUM,6.0,False,1,True,False,False,16.0,29.1,47.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,21,80.959,2.0,MEDIUM,7.0,False,1,True,False,False,15.0,29.0,47.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,22,81.589,2.0,MEDIUM,8.0,False,1,True,False,False,15.0,28.8,47.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,23,81.616,2.0,MEDIUM,9.0,False,1,True,False,False,15.0,28.7,47.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,24,82.87,2.0,MEDIUM,10.0,False,1,True,False,False,14.0,28.9,48.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,25,81.727,2.0,MEDIUM,11.0,False,1,True,False,False,13.0,29.0,49.2,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,26,81.419,2.0,MEDIUM,12.0,False,1,True,False,False,13.0,29.0,48.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,27,81.394,2.0,MEDIUM,13.0,False,1,True,False,False,13.0,29.1,48.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,28,81.43,2.0,MEDIUM,14.0,False,1,True,False,False,13.0,29.1,48.3,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,29,81.505,2.0,MEDIUM,15.0,False,1,True,False,False,13.0,29.1,47.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,30,81.45,2.0,MEDIUM,16.0,False,1,True,False,False,13.0,29.0,47.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,31,82.196,2.0,MEDIUM,17.0,False,1,True,False,False,13.0,28.9,47.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,32,82.387,2.0,MEDIUM,18.0,False,1,True,False,False,12.0,28.9,47.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,33,81.918,2.0,MEDIUM,19.0,False,1,True,False,False,12.0,29.0,48.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,34,82.007,2.0,MEDIUM,20.0,False,1,True,False,False,12.0,28.9,48.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,35,82.218,2.0,MEDIUM,21.0,False,1,True,False,False,11.0,28.6,49.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,36,81.218,2.0,MEDIUM,22.0,False,1,True,False,False,11.0,28.6,47.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,37,81.5,2.0,MEDIUM,23.0,False,1,True,False,False,11.0,28.6,47.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,38,81.626,2.0,MEDIUM,24.0,False,1,True,False,False,11.0,28.3,47.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,39,81.717,2.0,MEDIUM,25.0,False,1,True,False,False,11.0,28.1,46.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,40,81.703,2.0,MEDIUM,26.0,False,1,True,False,False,11.0,28.2,47.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,41,81.98,2.0,MEDIUM,27.0,False,1,True,False,False,11.0,28.3,47.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,42,85.467,2.0,MEDIUM,28.0,False,1,False,True,False,12.0,28.2,46.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,43,98.519,3.0,SOFT,4.0,False,1,False,False,True,16.0,28.3,46.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,44,78.997,3.0,SOFT,5.0,False,1,True,False,False,15.0,28.4,46.8,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,45,79.707,3.0,SOFT,6.0,False,1,True,False,False,14.0,28.4,47.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,46,79.703,3.0,SOFT,7.0,False,1,True,False,False,14.0,28.3,47.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,47,79.587,3.0,SOFT,8.0,False,1,True,False,False,14.0,28.2,48.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,48,79.931,3.0,SOFT,9.0,False,1,True,False,False,14.0,28.2,48.2,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,49,81.771,3.0,SOFT,10.0,False,1,True,False,False,14.0,28.3,48.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,50,81.378,3.0,SOFT,11.0,False,1,True,False,False,13.0,28.5,48.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,51,82.129,3.0,SOFT,12.0,False,1,True,False,False,13.0,28.6,48.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,52,80.232,3.0,SOFT,13.0,False,1,True,False,False,12.0,28.6,47.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,53,80.137,3.0,SOFT,14.0,False,1,True,False,False,12.0,28.6,47.0,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,54,97.388,3.0,SOFT,15.0,False,124,False,True,False,11.0,28.6,47.7,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,55,138.7,4.0,SOFT,4.0,False,4,False,False,True,14.0,28.7,47.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,56,127.381,4.0,SOFT,5.0,False,4,False,False,False,13.0,28.7,47.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,57,115.407,4.0,SOFT,6.0,False,4,False,False,False,13.0,28.8,47.6,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,58,83.66,4.0,SOFT,7.0,False,4,False,False,False,13.0,28.9,48.1,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,59,81.227,4.0,SOFT,8.0,False,4,False,False,False,13.0,28.8,48.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,60,94.784,4.0,SOFT,9.0,False,41,False,False,False,13.0,28.9,48.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,61,80.638,4.0,SOFT,10.0,False,1,True,False,False,12.0,28.9,47.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,62,79.55,4.0,SOFT,11.0,False,1,True,False,False,12.0,29.0,46.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,63,79.886,4.0,SOFT,12.0,False,1,True,False,False,12.0,29.0,46.5,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,64,79.063,4.0,SOFT,13.0,False,1,True,False,False,11.0,29.0,46.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,65,78.494,4.0,SOFT,14.0,False,1,True,False,False,10.0,29.2,47.4,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALO,Aston Martin,66,78.128,4.0,SOFT,15.0,False,1,True,False,False,10.0,29.3,46.9,False,10.0,9.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,1,86.275,1.0,SOFT,2.0,False,1,False,False,False,5.0,29.6,49.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,2,81.421,1.0,SOFT,3.0,False,1,True,False,False,5.0,29.6,49.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,3,80.809,1.0,SOFT,4.0,False,1,True,False,False,5.0,29.5,49.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,4,80.725,1.0,SOFT,5.0,False,1,True,False,False,5.0,29.4,49.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,5,80.75,1.0,SOFT,6.0,False,1,True,False,False,5.0,29.3,49.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,6,81.368,1.0,SOFT,7.0,False,1,True,False,False,5.0,29.3,48.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,7,81.722,1.0,SOFT,8.0,False,1,True,False,False,5.0,29.1,49.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,8,81.841,1.0,SOFT,9.0,False,1,True,False,False,5.0,29.0,49.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,9,82.127,1.0,SOFT,10.0,False,1,True,False,False,5.0,28.9,49.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,10,81.028,1.0,SOFT,11.0,False,1,True,False,False,4.0,28.9,49.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,11,81.004,1.0,SOFT,12.0,False,1,True,False,False,4.0,29.0,49.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,12,81.086,1.0,SOFT,13.0,False,1,True,False,False,4.0,29.0,49.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,13,81.406,1.0,SOFT,14.0,False,1,True,False,False,4.0,29.3,49.6,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,14,81.341,1.0,SOFT,15.0,False,1,True,False,False,3.0,29.3,49.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,15,81.7,1.0,SOFT,16.0,False,1,True,False,False,3.0,29.2,49.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,16,81.481,1.0,SOFT,17.0,False,1,True,False,False,3.0,29.3,49.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,17,85.153,1.0,SOFT,18.0,False,1,False,True,False,3.0,29.3,49.2,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,18,99.171,2.0,MEDIUM,1.0,True,1,False,False,True,7.0,29.3,48.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,19,80.585,2.0,MEDIUM,2.0,True,1,True,False,False,6.0,29.3,48.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,20,80.775,2.0,MEDIUM,3.0,True,1,True,False,False,6.0,29.1,47.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,21,80.107,2.0,MEDIUM,4.0,True,1,True,False,False,5.0,29.0,47.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,22,79.918,2.0,MEDIUM,5.0,True,1,True,False,False,4.0,29.0,47.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,23,79.467,2.0,MEDIUM,6.0,True,1,True,False,False,4.0,28.7,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,24,79.578,2.0,MEDIUM,7.0,True,1,True,False,False,4.0,28.8,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,25,79.611,2.0,MEDIUM,8.0,True,1,True,False,False,4.0,28.9,48.6,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,26,79.983,2.0,MEDIUM,9.0,True,1,True,False,False,4.0,29.0,48.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,27,79.981,2.0,MEDIUM,10.0,True,1,True,False,False,4.0,29.1,48.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,28,80.061,2.0,MEDIUM,11.0,True,1,True,False,False,4.0,29.1,48.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,29,79.979,2.0,MEDIUM,12.0,True,1,True,False,False,4.0,29.1,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,30,80.088,2.0,MEDIUM,13.0,True,1,True,False,False,3.0,29.0,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,31,80.085,2.0,MEDIUM,14.0,True,1,True,False,False,3.0,29.0,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,32,80.007,2.0,MEDIUM,15.0,True,1,True,False,False,3.0,28.9,47.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,33,80.24,2.0,MEDIUM,16.0,True,1,True,False,False,3.0,29.0,48.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,34,80.338,2.0,MEDIUM,17.0,True,1,True,False,False,3.0,29.0,48.6,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,35,80.399,2.0,MEDIUM,18.0,True,1,True,False,False,3.0,28.7,47.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,36,81.159,2.0,MEDIUM,19.0,True,1,True,False,False,4.0,28.6,49.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,37,81.111,2.0,MEDIUM,20.0,True,1,True,False,False,4.0,28.6,47.6,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,38,80.825,2.0,MEDIUM,21.0,True,1,True,False,False,4.0,28.5,46.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,39,80.912,2.0,MEDIUM,22.0,True,1,True,False,False,4.0,28.3,47.1,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,40,85.756,2.0,MEDIUM,23.0,True,1,False,True,False,4.0,28.1,46.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,41,98.564,3.0,MEDIUM,1.0,True,1,False,False,True,6.0,28.3,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,42,79.354,3.0,MEDIUM,2.0,True,1,True,False,False,5.0,28.3,47.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,43,79.57,3.0,MEDIUM,3.0,True,1,True,False,False,5.0,28.3,46.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,44,79.321,3.0,MEDIUM,4.0,True,1,True,False,False,5.0,28.3,46.8,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,45,79.181,3.0,MEDIUM,5.0,True,1,True,False,False,5.0,28.4,46.8,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,46,79.877,3.0,MEDIUM,6.0,True,1,True,False,False,5.0,28.4,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,47,79.806,3.0,MEDIUM,7.0,True,1,True,False,False,4.0,28.3,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,48,79.304,3.0,MEDIUM,8.0,True,1,True,False,False,4.0,28.2,48.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,49,79.735,3.0,MEDIUM,9.0,True,1,True,False,False,4.0,28.3,48.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,50,79.697,3.0,MEDIUM,10.0,True,1,True,False,False,4.0,28.3,48.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,51,79.815,3.0,MEDIUM,11.0,True,1,True,False,False,4.0,28.5,48.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,52,79.831,3.0,MEDIUM,12.0,True,1,True,False,False,4.0,28.6,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,53,79.674,3.0,MEDIUM,13.0,True,1,True,False,False,4.0,28.6,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,54,79.826,3.0,MEDIUM,14.0,True,1,True,False,False,4.0,28.6,47.0,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,55,101.931,3.0,MEDIUM,15.0,True,124,False,True,False,4.0,28.6,47.7,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,56,127.848,4.0,SOFT,4.0,False,4,False,False,True,4.0,28.7,47.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,57,127.268,4.0,SOFT,5.0,False,4,False,False,False,4.0,28.7,47.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,58,123.766,4.0,SOFT,6.0,False,4,False,False,False,4.0,28.8,47.6,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,59,122.937,4.0,SOFT,7.0,False,4,False,False,False,4.0,28.9,47.8,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,60,120.826,4.0,SOFT,8.0,False,41,False,False,False,4.0,28.9,48.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,61,77.547,4.0,SOFT,9.0,False,1,True,False,False,3.0,28.9,47.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,62,77.259,4.0,SOFT,10.0,False,1,True,False,False,3.0,29.0,46.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,63,77.609,4.0,SOFT,11.0,False,1,True,False,False,3.0,29.0,46.5,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,64,78.13,4.0,SOFT,12.0,False,1,True,False,False,3.0,29.0,46.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,65,78.644,4.0,SOFT,13.0,False,1,True,False,False,3.0,29.2,47.4,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,LEC,Ferrari,66,79.137,4.0,SOFT,14.0,False,1,True,False,False,3.0,29.3,46.9,False,7.0,3.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,1,93.614,1.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.6,49.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,2,83.482,1.0,MEDIUM,2.0,True,1,True,False,False,19.0,29.6,49.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,3,83.005,1.0,MEDIUM,3.0,True,1,True,False,False,19.0,29.5,49.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,4,82.585,1.0,MEDIUM,4.0,True,1,True,False,False,19.0,29.4,49.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,5,82.249,1.0,MEDIUM,5.0,True,1,True,False,False,19.0,29.3,49.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,6,82.86,1.0,MEDIUM,6.0,True,1,True,False,False,19.0,29.2,48.2,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,7,82.95,1.0,MEDIUM,7.0,True,1,True,False,False,18.0,29.1,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,8,87.017,1.0,MEDIUM,8.0,True,1,False,True,False,18.0,29.0,49.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,9,98.978,2.0,SOFT,1.0,True,1,False,False,True,19.0,28.9,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,10,79.888,2.0,SOFT,2.0,True,1,True,False,False,17.0,28.9,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,11,80.645,2.0,SOFT,3.0,True,1,True,False,False,17.0,29.0,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,12,81.574,2.0,SOFT,4.0,True,1,True,False,False,17.0,29.1,49.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,13,81.933,2.0,SOFT,5.0,True,1,True,False,False,17.0,29.3,49.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,14,81.887,2.0,SOFT,6.0,True,1,True,False,False,17.0,29.2,49.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,15,81.715,2.0,SOFT,7.0,True,1,True,False,False,16.0,29.2,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,16,81.566,2.0,SOFT,8.0,True,1,True,False,False,15.0,29.3,49.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,17,81.943,2.0,SOFT,9.0,True,1,True,False,False,15.0,29.4,49.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,18,81.991,2.0,SOFT,10.0,True,1,True,False,False,15.0,29.3,48.7,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,19,82.216,2.0,SOFT,11.0,True,1,True,False,False,14.0,29.2,47.2,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,20,82.926,2.0,SOFT,12.0,True,1,True,False,False,13.0,29.1,47.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,21,82.496,2.0,SOFT,13.0,True,1,True,False,False,12.0,29.0,47.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,22,82.253,2.0,SOFT,14.0,True,1,True,False,False,12.0,28.8,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,23,82.452,2.0,SOFT,15.0,True,1,True,False,False,12.0,28.7,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,24,86.048,2.0,SOFT,16.0,True,1,False,True,False,15.0,28.8,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,25,98.654,3.0,SOFT,1.0,True,1,False,False,True,19.0,29.0,49.2,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,26,80.192,3.0,SOFT,2.0,True,1,True,False,False,19.0,29.1,48.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,27,80.381,3.0,SOFT,3.0,True,1,True,False,False,18.0,29.1,48.7,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,28,81.126,3.0,SOFT,4.0,True,1,True,False,False,18.0,29.1,48.3,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,29,80.38,3.0,SOFT,5.0,True,1,True,False,False,17.0,29.0,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,30,80.229,3.0,SOFT,6.0,True,1,True,False,False,17.0,29.0,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,31,80.678,3.0,SOFT,7.0,True,1,True,False,False,17.0,28.9,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,32,80.806,3.0,SOFT,8.0,True,1,True,False,False,16.0,29.0,48.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,33,80.949,3.0,SOFT,9.0,True,1,True,False,False,16.0,29.0,48.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,34,81.874,3.0,SOFT,10.0,True,1,True,False,False,15.0,28.9,48.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,35,81.452,3.0,SOFT,11.0,True,1,True,False,False,15.0,28.6,49.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,36,81.348,3.0,SOFT,12.0,True,1,True,False,False,14.0,28.6,47.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,37,81.355,3.0,SOFT,13.0,True,1,True,False,False,14.0,28.6,47.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,38,80.98,3.0,SOFT,14.0,True,1,True,False,False,13.0,28.3,47.1,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,39,81.082,3.0,SOFT,15.0,True,1,True,False,False,13.0,28.1,46.7,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,40,80.982,3.0,SOFT,16.0,True,1,True,False,False,13.0,28.2,47.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,41,82.859,3.0,SOFT,17.0,True,1,True,False,False,13.0,28.3,47.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,42,82.85,3.0,SOFT,18.0,True,1,True,False,False,13.0,28.2,46.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,43,81.433,3.0,SOFT,19.0,True,1,True,False,False,12.0,28.3,46.8,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,44,87.462,3.0,SOFT,20.0,True,1,False,True,False,13.0,28.4,46.8,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,45,98.22,4.0,SOFT,1.0,True,1,False,False,True,17.0,28.4,47.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,46,77.998,4.0,SOFT,2.0,True,1,True,False,False,17.0,28.3,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,47,80.209,4.0,SOFT,3.0,True,1,True,False,False,16.0,28.2,48.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,48,79.498,4.0,SOFT,4.0,True,1,True,False,False,16.0,28.3,48.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,49,79.133,4.0,SOFT,5.0,True,1,True,False,False,16.0,28.3,48.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,50,79.3,4.0,SOFT,6.0,True,1,True,False,False,15.0,28.5,48.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,51,79.954,4.0,SOFT,7.0,True,1,True,False,False,15.0,28.6,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,52,80.098,4.0,SOFT,8.0,True,1,True,False,False,15.0,28.6,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,53,79.718,4.0,SOFT,9.0,True,1,True,False,False,15.0,28.6,47.0,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,54,100.175,4.0,SOFT,10.0,True,124,False,True,False,15.0,28.6,47.7,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,55,133.672,5.0,SOFT,4.0,False,4,False,False,True,16.0,28.7,47.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,56,127.288,5.0,SOFT,5.0,False,4,False,False,False,15.0,28.7,47.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,57,115.321,5.0,SOFT,6.0,False,4,False,False,False,15.0,28.8,47.6,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,58,82.751,5.0,SOFT,7.0,False,4,False,False,False,15.0,28.9,47.8,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,59,82.567,5.0,SOFT,8.0,False,4,False,False,False,15.0,28.8,48.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,60,93.117,5.0,SOFT,9.0,False,41,False,False,False,15.0,28.9,48.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,61,81.36,5.0,SOFT,10.0,False,1,True,False,False,15.0,28.9,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,62,80.396,5.0,SOFT,11.0,False,1,True,False,False,15.0,29.0,46.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,63,80.25,5.0,SOFT,12.0,False,1,True,False,False,15.0,29.0,47.3,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,64,79.526,5.0,SOFT,13.0,False,1,True,False,False,14.0,29.0,46.9,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,65,80.191,5.0,SOFT,14.0,False,1,True,False,False,14.0,29.2,47.4,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,TSU,Red Bull Racing,66,80.11,5.0,SOFT,15.0,False,1,True,False,False,14.0,29.5,47.5,False,19.0,13.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,1,90.384,1.0,SOFT,4.0,False,1,False,False,False,14.0,29.6,49.5,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,2,83.703,1.0,SOFT,5.0,False,1,True,False,False,14.0,29.6,49.4,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,3,82.585,1.0,SOFT,6.0,False,1,True,False,False,14.0,29.5,49.0,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,4,82.127,1.0,SOFT,7.0,False,1,True,False,False,14.0,29.4,49.4,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,5,82.537,1.0,SOFT,8.0,False,1,True,False,False,14.0,29.3,49.9,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,6,86.284,1.0,SOFT,9.0,False,1,False,True,False,18.0,29.3,48.9,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,7,107.64,2.0,SOFT,1.0,True,1,False,False,True,19.0,29.1,49.1,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,8,80.543,2.0,SOFT,2.0,True,1,True,False,False,19.0,28.9,49.4,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,9,80.508,2.0,SOFT,3.0,True,1,True,False,False,18.0,28.9,49.1,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,10,81.462,2.0,SOFT,4.0,True,1,True,False,False,18.0,28.9,49.1,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,11,81.011,2.0,SOFT,5.0,True,1,True,False,False,18.0,29.0,49.1,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,12,81.879,2.0,SOFT,6.0,True,1,True,False,False,18.0,29.1,49.6,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,13,81.932,2.0,SOFT,7.0,True,1,True,False,False,18.0,29.3,49.6,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,14,81.793,2.0,SOFT,8.0,True,1,True,False,False,18.0,29.2,49.0,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,15,81.738,2.0,SOFT,9.0,True,1,True,False,False,17.0,29.2,49.1,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,16,81.783,2.0,SOFT,10.0,True,1,True,False,False,16.0,29.3,49.2,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,17,81.649,2.0,SOFT,11.0,True,1,True,False,False,16.0,29.4,49.4,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,18,81.96,2.0,SOFT,12.0,True,1,True,False,False,16.0,29.3,48.7,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,19,81.963,2.0,SOFT,13.0,True,1,True,False,False,15.0,29.2,47.2,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,20,82.346,2.0,SOFT,14.0,True,1,True,False,False,14.0,29.1,47.0,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,21,82.44,2.0,SOFT,15.0,True,1,True,False,False,13.0,29.0,47.0,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,22,82.388,2.0,SOFT,16.0,True,1,True,False,False,13.0,28.8,47.5,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,23,82.522,2.0,SOFT,17.0,True,1,True,False,False,13.0,28.7,47.9,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,24,83.477,2.0,SOFT,18.0,True,1,True,False,False,12.0,28.8,47.9,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,25,84.407,2.0,SOFT,19.0,True,1,True,False,False,14.0,29.0,49.2,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,26,89.868,2.0,SOFT,20.0,True,1,False,True,False,17.0,29.0,48.7,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,ALB,Williams,27,122.219,3.0,SOFT,21.0,False,1,False,True,True,19.0,29.1,48.7,False,11.0,19.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,1,88.901,1.0,SOFT,1.0,True,1,False,False,False,11.0,29.6,49.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,2,82.812,1.0,SOFT,2.0,True,1,True,False,False,10.0,29.6,49.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,3,82.138,1.0,SOFT,3.0,True,1,True,False,False,10.0,29.5,49.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,4,81.756,1.0,SOFT,4.0,True,1,True,False,False,10.0,29.4,49.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,5,81.71,1.0,SOFT,5.0,True,1,True,False,False,10.0,29.3,49.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,6,81.74,1.0,SOFT,6.0,True,1,True,False,False,10.0,29.3,48.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,7,82.315,1.0,SOFT,7.0,True,1,True,False,False,10.0,29.1,49.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,8,82.263,1.0,SOFT,8.0,True,1,True,False,False,10.0,29.0,49.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,9,85.851,1.0,SOFT,9.0,True,1,False,True,False,11.0,28.9,49.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,10,98.895,2.0,MEDIUM,1.0,True,1,False,False,True,15.0,28.9,49.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,11,81.463,2.0,MEDIUM,2.0,True,1,True,False,False,15.0,29.0,49.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,12,81.785,2.0,MEDIUM,3.0,True,1,True,False,False,15.0,29.1,49.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,13,82.901,2.0,MEDIUM,4.0,True,1,True,False,False,15.0,29.3,49.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,14,82.607,2.0,MEDIUM,5.0,True,1,True,False,False,15.0,29.2,49.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,15,81.8,2.0,MEDIUM,6.0,True,1,True,False,False,14.0,29.2,49.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,16,81.549,2.0,MEDIUM,7.0,True,1,True,False,False,13.0,29.3,49.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,17,81.829,2.0,MEDIUM,8.0,True,1,True,False,False,13.0,29.4,49.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,18,82.099,2.0,MEDIUM,9.0,True,1,True,False,False,13.0,29.3,48.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,19,82.303,2.0,MEDIUM,10.0,True,1,True,False,False,11.0,29.3,48.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,20,81.664,2.0,MEDIUM,11.0,True,1,True,False,False,9.0,29.1,47.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,21,81.715,2.0,MEDIUM,12.0,True,1,True,False,False,9.0,29.0,47.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,22,82.359,2.0,MEDIUM,13.0,True,1,True,False,False,9.0,28.8,47.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,23,81.761,2.0,MEDIUM,14.0,True,1,True,False,False,9.0,28.7,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,24,83.434,2.0,MEDIUM,15.0,True,1,True,False,False,10.0,28.8,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,25,82.107,2.0,MEDIUM,16.0,True,1,True,False,False,10.0,29.0,49.2,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,26,81.737,2.0,MEDIUM,17.0,True,1,True,False,False,10.0,29.0,48.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,27,81.554,2.0,MEDIUM,18.0,True,1,True,False,False,10.0,29.1,48.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,28,80.709,2.0,MEDIUM,19.0,True,1,True,False,False,9.0,29.1,48.3,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,29,81.344,2.0,MEDIUM,20.0,True,1,True,False,False,9.0,29.1,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,30,81.195,2.0,MEDIUM,21.0,True,1,True,False,False,9.0,29.0,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,31,81.16,2.0,MEDIUM,22.0,True,1,True,False,False,9.0,28.9,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,32,81.938,2.0,MEDIUM,23.0,True,1,True,False,False,9.0,28.9,47.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,33,81.414,2.0,MEDIUM,24.0,True,1,True,False,False,9.0,29.0,48.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,34,81.61,2.0,MEDIUM,25.0,True,1,True,False,False,9.0,28.9,48.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,35,81.406,2.0,MEDIUM,26.0,True,1,True,False,False,9.0,28.7,47.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,36,81.125,2.0,MEDIUM,27.0,True,1,True,False,False,9.0,28.6,47.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,37,81.265,2.0,MEDIUM,28.0,True,1,True,False,False,9.0,28.6,47.1,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,38,81.502,2.0,MEDIUM,29.0,True,1,True,False,False,9.0,28.5,46.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,39,81.388,2.0,MEDIUM,30.0,True,1,True,False,False,9.0,28.1,46.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,40,81.514,2.0,MEDIUM,31.0,True,1,True,False,False,9.0,28.2,47.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,41,81.13,2.0,MEDIUM,32.0,True,1,True,False,False,9.0,28.3,47.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,42,81.354,2.0,MEDIUM,33.0,True,1,True,False,False,9.0,28.2,46.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,43,81.683,2.0,MEDIUM,34.0,True,1,True,False,False,9.0,28.3,46.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,44,82.092,2.0,MEDIUM,35.0,True,1,True,False,False,9.0,28.4,46.8,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,45,85.589,2.0,MEDIUM,36.0,True,1,False,True,False,9.0,28.4,47.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,46,99.152,3.0,SOFT,1.0,True,1,False,False,True,9.0,28.4,47.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,47,80.811,3.0,SOFT,2.0,True,1,True,False,False,9.0,28.2,48.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,48,80.805,3.0,SOFT,3.0,True,1,True,False,False,9.0,28.2,48.2,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,49,80.699,3.0,SOFT,4.0,True,1,True,False,False,9.0,28.3,48.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,50,79.794,3.0,SOFT,5.0,True,1,True,False,False,9.0,28.5,48.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,51,79.936,3.0,SOFT,6.0,True,1,True,False,False,9.0,28.6,48.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,52,79.987,3.0,SOFT,7.0,True,1,True,False,False,9.0,28.6,47.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,53,81.133,3.0,SOFT,8.0,True,1,True,False,False,9.0,28.6,47.0,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,54,92.815,3.0,SOFT,9.0,True,124,False,False,False,8.0,28.6,47.7,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,55,109.475,3.0,SOFT,10.0,True,4,False,False,False,8.0,28.7,47.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,56,93.749,3.0,SOFT,11.0,True,4,False,True,False,8.0,28.7,47.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,57,109.896,4.0,SOFT,1.0,True,4,False,False,True,8.0,28.7,47.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,58,99.049,4.0,SOFT,2.0,True,4,False,False,False,8.0,28.8,47.6,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,59,124.294,4.0,SOFT,3.0,True,4,False,False,False,8.0,28.9,47.8,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,60,116.915,4.0,SOFT,4.0,True,41,False,False,False,8.0,28.9,48.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,61,79.023,4.0,SOFT,5.0,True,1,True,False,False,7.0,28.9,47.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,62,78.282,4.0,SOFT,6.0,True,1,True,False,False,7.0,29.0,46.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,63,77.575,4.0,SOFT,7.0,True,1,True,False,False,7.0,29.0,46.5,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,64,78.615,4.0,SOFT,8.0,True,1,True,False,False,7.0,29.0,46.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,65,78.056,4.0,SOFT,9.0,True,1,True,False,False,6.0,29.2,47.4,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,HUL,Kick Sauber,66,78.496,4.0,SOFT,10.0,True,1,True,False,False,6.0,29.3,46.9,False,15.0,5.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,1,89.953,1.0,SOFT,1.0,True,1,False,False,False,13.0,29.6,49.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,2,83.22,1.0,SOFT,2.0,True,1,True,False,False,13.0,29.6,49.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,3,82.634,1.0,SOFT,3.0,True,1,True,False,False,13.0,29.5,49.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,4,82.031,1.0,SOFT,4.0,True,1,True,False,False,13.0,29.4,49.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,5,82.423,1.0,SOFT,5.0,True,1,True,False,False,13.0,29.3,49.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,6,82.137,1.0,SOFT,6.0,True,1,True,False,False,13.0,29.3,48.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,7,82.695,1.0,SOFT,7.0,True,1,True,False,False,13.0,29.1,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,8,82.93,1.0,SOFT,8.0,True,1,True,False,False,13.0,29.0,49.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,9,83.238,1.0,SOFT,9.0,True,1,True,False,False,13.0,28.9,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,10,82.7,1.0,SOFT,10.0,True,1,True,False,False,12.0,28.9,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,11,82.485,1.0,SOFT,11.0,True,1,True,False,False,11.0,29.0,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,12,82.828,1.0,SOFT,12.0,True,1,True,False,False,11.0,29.1,49.6,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,13,82.277,1.0,SOFT,13.0,True,1,True,False,False,9.0,29.3,49.6,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,14,82.192,1.0,SOFT,14.0,True,1,True,False,False,9.0,29.3,49.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,15,81.968,1.0,SOFT,15.0,True,1,True,False,False,9.0,29.2,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,16,81.967,1.0,SOFT,16.0,True,1,True,False,False,9.0,29.3,49.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,17,82.308,1.0,SOFT,17.0,True,1,True,False,False,8.0,29.4,49.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,18,87.446,1.0,SOFT,18.0,True,1,False,True,False,9.0,29.3,48.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,19,100.043,2.0,MEDIUM,1.0,True,1,False,False,True,16.0,29.3,48.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,20,81.344,2.0,MEDIUM,2.0,True,1,True,False,False,15.0,29.1,47.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,21,81.187,2.0,MEDIUM,3.0,True,1,True,False,False,14.0,29.0,47.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,22,81.72,2.0,MEDIUM,4.0,True,1,True,False,False,14.0,28.8,47.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,23,81.854,2.0,MEDIUM,5.0,True,1,True,False,False,14.0,28.7,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,24,83.531,2.0,MEDIUM,6.0,True,1,True,False,False,13.0,28.8,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,25,80.771,2.0,MEDIUM,7.0,True,1,True,False,False,12.0,29.0,49.2,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,26,81.013,2.0,MEDIUM,8.0,True,1,True,False,False,12.0,29.0,48.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,27,81.36,2.0,MEDIUM,9.0,True,1,True,False,False,12.0,29.1,48.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,28,81.489,2.0,MEDIUM,10.0,True,1,True,False,False,12.0,29.1,48.3,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,29,81.494,2.0,MEDIUM,11.0,True,1,True,False,False,12.0,29.1,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,30,81.473,2.0,MEDIUM,12.0,True,1,True,False,False,12.0,29.0,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,31,83.075,2.0,MEDIUM,13.0,True,1,True,False,False,12.0,28.9,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,32,82.393,2.0,MEDIUM,14.0,True,1,True,False,False,11.0,28.9,47.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,33,81.716,2.0,MEDIUM,15.0,True,1,True,False,False,11.0,29.0,48.6,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,34,81.387,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,28.9,48.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,35,81.043,2.0,MEDIUM,17.0,True,1,True,False,False,10.0,28.7,47.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,36,81.467,2.0,MEDIUM,18.0,True,1,True,False,False,10.0,28.6,47.6,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,37,81.384,2.0,MEDIUM,19.0,True,1,True,False,False,10.0,28.6,47.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,38,81.202,2.0,MEDIUM,20.0,True,1,True,False,False,10.0,28.3,47.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,39,81.143,2.0,MEDIUM,21.0,True,1,True,False,False,10.0,28.1,46.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,40,81.321,2.0,MEDIUM,22.0,True,1,True,False,False,10.0,28.2,47.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,41,81.4,2.0,MEDIUM,23.0,True,1,True,False,False,10.0,28.3,47.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,42,81.036,2.0,MEDIUM,24.0,True,1,True,False,False,10.0,28.2,46.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,43,81.11,2.0,MEDIUM,25.0,True,1,True,False,False,10.0,28.3,46.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,44,84.71,2.0,MEDIUM,26.0,True,1,False,True,False,10.0,28.4,46.8,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,45,99.618,3.0,SOFT,4.0,False,1,False,False,True,13.0,28.4,47.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,46,79.887,3.0,SOFT,5.0,False,1,True,False,False,13.0,28.3,47.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,47,79.611,3.0,SOFT,6.0,False,1,True,False,False,13.0,28.2,48.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,48,79.86,3.0,SOFT,7.0,False,1,True,False,False,13.0,28.2,48.2,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,49,80.784,3.0,SOFT,8.0,False,1,True,False,False,12.0,28.3,48.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,50,81.891,3.0,SOFT,9.0,False,1,True,False,False,12.0,28.5,48.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,51,82.974,3.0,SOFT,10.0,False,1,True,False,False,12.0,28.6,48.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,52,79.805,3.0,SOFT,11.0,False,1,True,False,False,11.0,28.6,47.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,53,79.986,3.0,SOFT,12.0,False,1,True,False,False,11.0,28.6,47.0,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,54,95.264,3.0,SOFT,13.0,False,124,False,False,False,10.0,28.6,47.7,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,55,135.678,3.0,SOFT,14.0,False,4,False,False,False,10.0,28.7,47.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,56,126.161,3.0,SOFT,15.0,False,4,False,False,False,10.0,28.7,47.6,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,57,119.877,3.0,SOFT,16.0,False,4,False,False,False,10.0,28.7,47.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,58,84.162,3.0,SOFT,17.0,False,4,False,False,False,10.0,28.9,48.1,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,59,81.244,3.0,SOFT,18.0,False,4,False,False,False,10.0,28.8,48.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,60,96.226,3.0,SOFT,19.0,False,41,False,False,False,10.0,28.9,48.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,61,80.721,3.0,SOFT,20.0,False,1,True,False,False,10.0,28.9,47.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,62,79.424,3.0,SOFT,21.0,False,1,True,False,False,10.0,29.0,46.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,63,79.887,3.0,SOFT,22.0,False,1,True,False,False,10.0,29.0,46.5,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,64,79.834,3.0,SOFT,23.0,False,1,True,False,False,10.0,29.0,46.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,65,80.9,3.0,SOFT,24.0,False,1,True,False,False,11.0,29.2,47.4,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,LAW,Racing Bulls,66,80.015,3.0,SOFT,25.0,False,1,True,False,False,11.0,29.3,46.9,False,13.0,11.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,1,91.228,1.0,SOFT,1.0,True,1,False,False,False,16.0,29.6,49.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,2,83.815,1.0,SOFT,2.0,True,1,True,False,False,16.0,29.6,49.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,3,82.636,1.0,SOFT,3.0,True,1,True,False,False,16.0,29.5,49.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,4,82.373,1.0,SOFT,4.0,True,1,True,False,False,16.0,29.4,49.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,5,82.484,1.0,SOFT,5.0,True,1,True,False,False,16.0,29.3,49.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,6,82.586,1.0,SOFT,6.0,True,1,True,False,False,15.0,29.3,48.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,7,82.28,1.0,SOFT,7.0,True,1,True,False,False,15.0,29.1,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,8,82.643,1.0,SOFT,8.0,True,1,True,False,False,14.0,29.0,49.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,9,82.814,1.0,SOFT,9.0,True,1,True,False,False,14.0,28.9,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,10,82.833,1.0,SOFT,10.0,True,1,True,False,False,13.0,28.9,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,11,82.77,1.0,SOFT,11.0,True,1,True,False,False,12.0,29.0,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,12,82.916,1.0,SOFT,12.0,True,1,True,False,False,12.0,29.1,49.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,13,84.063,1.0,SOFT,13.0,True,1,True,False,False,12.0,29.3,49.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,14,84.388,1.0,SOFT,14.0,True,1,True,False,False,12.0,29.2,49.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,15,83.59,1.0,SOFT,15.0,True,1,True,False,False,11.0,29.2,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,16,82.357,1.0,SOFT,16.0,True,1,True,False,False,11.0,29.3,49.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,17,83.264,1.0,SOFT,17.0,True,1,True,False,False,11.0,29.4,49.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,18,83.04,1.0,SOFT,18.0,True,1,True,False,False,11.0,29.3,48.7,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,19,84.345,1.0,SOFT,19.0,True,1,True,False,False,10.0,29.3,48.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,20,88.077,1.0,SOFT,20.0,True,1,False,True,False,12.0,29.1,47.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,21,99.981,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.0,47.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,22,80.553,2.0,MEDIUM,2.0,True,1,True,False,False,19.0,28.8,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,23,80.793,2.0,MEDIUM,3.0,True,1,True,False,False,19.0,28.7,47.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,24,81.025,2.0,MEDIUM,4.0,True,1,True,False,False,19.0,28.9,48.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,25,82.556,2.0,MEDIUM,5.0,True,1,True,False,False,18.0,29.0,49.2,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,26,81.239,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.0,48.7,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,27,81.248,2.0,MEDIUM,7.0,True,1,True,False,False,16.0,29.1,48.7,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,28,80.959,2.0,MEDIUM,8.0,True,1,True,False,False,16.0,29.1,48.3,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,29,81.229,2.0,MEDIUM,9.0,True,1,True,False,False,16.0,29.1,47.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,30,81.122,2.0,MEDIUM,10.0,True,1,True,False,False,16.0,29.0,47.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,31,81.692,2.0,MEDIUM,11.0,True,1,True,False,False,16.0,28.9,47.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,32,81.617,2.0,MEDIUM,12.0,True,1,True,False,False,15.0,29.0,48.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,33,81.6,2.0,MEDIUM,13.0,True,1,True,False,False,15.0,29.0,48.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,34,82.657,2.0,MEDIUM,14.0,True,1,True,False,False,14.0,28.9,48.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,35,81.466,2.0,MEDIUM,15.0,True,1,True,False,False,14.0,28.6,49.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,36,81.311,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,28.6,47.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,37,81.48,2.0,MEDIUM,17.0,True,1,True,False,False,13.0,28.6,47.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,38,82.832,2.0,MEDIUM,18.0,True,1,True,False,False,14.0,28.3,47.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,39,83.09,2.0,MEDIUM,19.0,True,1,True,False,False,14.0,28.1,46.7,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,40,82.804,2.0,MEDIUM,20.0,True,1,True,False,False,14.0,28.2,47.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,41,81.214,2.0,MEDIUM,21.0,True,1,True,False,False,14.0,28.3,47.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,42,81.688,2.0,MEDIUM,22.0,True,1,True,False,False,14.0,28.2,46.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,43,85.554,2.0,MEDIUM,23.0,True,1,False,True,False,14.0,28.3,46.8,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,44,98.168,3.0,MEDIUM,1.0,True,1,False,False,True,17.0,28.4,46.8,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,45,80.252,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,28.4,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,46,78.624,3.0,MEDIUM,3.0,True,1,True,False,False,16.0,28.3,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,47,81.418,3.0,MEDIUM,4.0,True,1,True,False,False,17.0,28.2,48.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,48,79.54,3.0,MEDIUM,5.0,True,1,True,False,False,17.0,28.3,48.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,49,79.294,3.0,MEDIUM,6.0,True,1,True,False,False,17.0,28.3,48.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,50,79.549,3.0,MEDIUM,7.0,True,1,True,False,False,16.0,28.5,48.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,51,79.826,3.0,MEDIUM,8.0,True,1,True,False,False,16.0,28.6,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,52,79.897,3.0,MEDIUM,9.0,True,1,True,False,False,16.0,28.6,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,53,79.95,3.0,MEDIUM,10.0,True,1,True,False,False,16.0,28.6,47.0,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,54,98.073,3.0,MEDIUM,11.0,True,124,False,False,False,14.0,28.6,47.7,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,55,128.75,3.0,MEDIUM,12.0,True,4,False,False,False,12.0,28.7,47.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,56,126.139,3.0,MEDIUM,13.0,True,4,False,False,False,11.0,28.7,47.6,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,57,118.058,3.0,MEDIUM,14.0,True,4,False,False,False,11.0,28.7,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,58,83.666,3.0,MEDIUM,15.0,True,4,False,False,False,11.0,28.9,48.1,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,59,81.232,3.0,MEDIUM,16.0,True,4,False,False,False,11.0,28.8,48.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,60,96.046,3.0,MEDIUM,17.0,True,41,False,False,False,11.0,28.9,48.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,61,82.116,3.0,MEDIUM,18.0,True,1,True,False,False,13.0,28.9,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,62,80.164,3.0,MEDIUM,19.0,True,1,True,False,False,13.0,29.0,46.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,63,80.781,3.0,MEDIUM,20.0,True,1,True,False,False,14.0,29.0,47.3,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,64,81.171,3.0,MEDIUM,21.0,True,1,True,False,False,15.0,29.0,46.9,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,65,81.445,3.0,MEDIUM,22.0,True,1,True,False,False,16.0,29.2,47.4,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,OCO,Haas F1 Team,66,81.201,3.0,MEDIUM,23.0,True,1,True,False,False,17.0,29.5,47.5,False,16.0,16.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,1,84.658,1.0,SOFT,1.0,True,1,False,False,False,3.0,29.6,49.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,2,80.904,1.0,SOFT,2.0,True,1,True,False,False,3.0,29.6,49.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,3,80.69,1.0,SOFT,3.0,True,1,True,False,False,3.0,29.5,49.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,4,80.8,1.0,SOFT,4.0,True,1,True,False,False,3.0,29.4,49.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,5,80.644,1.0,SOFT,5.0,True,1,True,False,False,3.0,29.3,49.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,6,80.713,1.0,SOFT,6.0,True,1,True,False,False,3.0,29.3,48.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,7,80.837,1.0,SOFT,7.0,True,1,True,False,False,3.0,29.1,49.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,8,80.902,1.0,SOFT,8.0,True,1,True,False,False,3.0,29.0,49.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,9,80.95,1.0,SOFT,9.0,True,1,True,False,False,3.0,28.9,49.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,10,80.929,1.0,SOFT,10.0,True,1,True,False,False,3.0,28.9,49.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,11,80.959,1.0,SOFT,11.0,True,1,True,False,False,3.0,29.0,49.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,12,81.461,1.0,SOFT,12.0,True,1,True,False,False,3.0,29.0,49.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,13,80.531,1.0,SOFT,13.0,True,1,True,False,False,2.0,29.3,49.6,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,14,80.658,1.0,SOFT,14.0,True,1,True,False,False,2.0,29.3,49.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,15,80.926,1.0,SOFT,15.0,True,1,True,False,False,2.0,29.2,49.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,16,80.666,1.0,SOFT,16.0,True,1,True,False,False,2.0,29.3,49.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,17,80.846,1.0,SOFT,17.0,True,1,True,False,False,2.0,29.3,49.2,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,18,80.918,1.0,SOFT,18.0,True,1,True,False,False,2.0,29.4,49.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,19,81.089,1.0,SOFT,19.0,True,1,True,False,False,2.0,29.3,48.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,20,81.578,1.0,SOFT,20.0,True,1,True,False,False,2.0,29.2,47.2,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,21,85.617,1.0,SOFT,21.0,True,1,False,True,False,2.0,29.1,47.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,22,99.087,2.0,MEDIUM,1.0,True,1,False,False,True,3.0,29.0,47.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,23,79.844,2.0,MEDIUM,2.0,True,1,True,False,False,3.0,28.7,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,24,79.841,2.0,MEDIUM,3.0,True,1,True,False,False,3.0,28.8,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,25,79.917,2.0,MEDIUM,4.0,True,1,True,False,False,3.0,28.9,48.6,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,26,79.912,2.0,MEDIUM,5.0,True,1,True,False,False,3.0,29.0,48.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,27,79.968,2.0,MEDIUM,6.0,True,1,True,False,False,3.0,29.1,48.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,28,79.799,2.0,MEDIUM,7.0,True,1,True,False,False,3.0,29.1,48.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,29,80.016,2.0,MEDIUM,8.0,True,1,True,False,False,3.0,29.1,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,30,79.989,2.0,MEDIUM,9.0,True,1,True,False,False,2.0,29.0,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,31,80.318,2.0,MEDIUM,10.0,True,1,True,False,False,2.0,29.0,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,32,80.066,2.0,MEDIUM,11.0,True,1,True,False,False,2.0,28.9,47.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,33,79.902,2.0,MEDIUM,12.0,True,1,True,False,False,2.0,29.0,48.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,34,79.913,2.0,MEDIUM,13.0,True,1,True,False,False,2.0,29.0,48.6,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,35,79.854,2.0,MEDIUM,14.0,True,1,True,False,False,2.0,28.7,47.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,36,79.612,2.0,MEDIUM,15.0,True,1,True,False,False,2.0,28.6,49.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,37,79.65,2.0,MEDIUM,16.0,True,1,True,False,False,2.0,28.6,47.6,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,38,80.101,2.0,MEDIUM,17.0,True,1,True,False,False,2.0,28.5,46.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,39,79.449,2.0,MEDIUM,18.0,True,1,True,False,False,2.0,28.3,47.1,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,40,79.851,2.0,MEDIUM,19.0,True,1,True,False,False,2.0,28.1,46.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,41,80.568,2.0,MEDIUM,20.0,True,1,True,False,False,2.0,28.2,47.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,42,79.941,2.0,MEDIUM,21.0,True,1,True,False,False,2.0,28.3,47.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,43,79.824,2.0,MEDIUM,22.0,True,1,True,False,False,2.0,28.2,46.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,44,79.984,2.0,MEDIUM,23.0,True,1,True,False,False,2.0,28.3,46.8,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,45,80.426,2.0,MEDIUM,24.0,True,1,True,False,False,2.0,28.4,46.8,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,46,80.027,2.0,MEDIUM,25.0,True,1,True,False,False,2.0,28.4,47.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,47,80.082,2.0,MEDIUM,26.0,True,1,True,False,False,2.0,28.3,47.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,48,83.999,2.0,MEDIUM,27.0,True,1,False,True,False,2.0,28.2,48.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,49,96.4,3.0,SOFT,4.0,False,1,False,False,True,2.0,28.2,48.2,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,50,77.304,3.0,SOFT,5.0,False,1,True,False,False,2.0,28.3,48.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,51,78.315,3.0,SOFT,6.0,False,1,True,False,False,2.0,28.5,48.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,52,79.034,3.0,SOFT,7.0,False,1,True,False,False,2.0,28.6,48.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,53,78.345,3.0,SOFT,8.0,False,1,True,False,False,2.0,28.6,47.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,54,78.114,3.0,SOFT,9.0,False,1,True,False,False,2.0,28.6,47.0,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,55,93.197,3.0,SOFT,10.0,False,124,False,True,False,2.0,28.6,47.7,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,56,146.697,4.0,SOFT,4.0,False,4,False,False,True,2.0,28.7,47.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,57,125.98,4.0,SOFT,5.0,False,4,False,False,False,2.0,28.7,47.6,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,58,130.257,4.0,SOFT,6.0,False,4,False,False,False,2.0,28.7,47.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,59,123.282,4.0,SOFT,7.0,False,4,False,False,False,2.0,28.9,47.8,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,60,122.701,4.0,SOFT,8.0,False,41,False,False,False,2.0,28.9,48.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,61,76.187,4.0,SOFT,9.0,False,1,True,False,False,2.0,28.9,47.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,62,76.214,4.0,SOFT,10.0,False,1,True,False,False,2.0,29.0,46.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,63,76.716,4.0,SOFT,11.0,False,1,True,False,False,2.0,29.0,46.5,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,64,76.863,4.0,SOFT,12.0,False,1,True,False,False,2.0,29.0,46.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,65,77.505,4.0,SOFT,13.0,False,1,True,False,False,2.0,29.2,47.4,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,NOR,McLaren,66,77.519,4.0,SOFT,14.0,False,1,True,False,False,2.0,29.3,46.9,False,2.0,2.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,1,92.318,1.0,SOFT,1.0,True,1,False,False,False,18.0,29.6,49.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,2,83.993,1.0,SOFT,2.0,True,1,True,False,False,18.0,29.6,49.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,3,83.061,1.0,SOFT,3.0,True,1,True,False,False,18.0,29.5,49.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,4,82.402,1.0,SOFT,4.0,True,1,True,False,False,18.0,29.4,49.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,5,82.336,1.0,SOFT,5.0,True,1,True,False,False,18.0,29.3,49.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,6,82.776,1.0,SOFT,6.0,True,1,True,False,False,17.0,29.3,48.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,7,83.079,1.0,SOFT,7.0,True,1,True,False,False,17.0,29.1,49.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,8,83.385,1.0,SOFT,8.0,True,1,True,False,False,17.0,29.0,49.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,9,83.094,1.0,SOFT,9.0,True,1,True,False,False,15.0,28.9,49.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,10,82.147,1.0,SOFT,10.0,True,1,True,False,False,14.0,28.9,49.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,11,83.044,1.0,SOFT,11.0,True,1,True,False,False,13.0,29.0,49.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,12,83.037,1.0,SOFT,12.0,True,1,True,False,False,13.0,29.1,49.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,13,83.742,1.0,SOFT,13.0,True,1,True,False,False,13.0,29.3,49.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,14,86.715,1.0,SOFT,14.0,True,1,False,True,False,14.0,29.2,49.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,15,99.134,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.2,49.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,16,81.386,2.0,MEDIUM,2.0,True,1,True,False,False,18.0,29.3,49.2,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,17,81.625,2.0,MEDIUM,3.0,True,1,True,False,False,18.0,29.4,49.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,18,82.805,2.0,MEDIUM,4.0,True,1,True,False,False,19.0,29.3,48.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,19,82.359,2.0,MEDIUM,5.0,True,1,True,False,False,19.0,29.2,47.2,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,20,82.388,2.0,MEDIUM,6.0,True,1,True,False,False,18.0,29.1,47.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,21,82.649,2.0,MEDIUM,7.0,True,1,True,False,False,17.0,29.0,47.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,22,82.541,2.0,MEDIUM,8.0,True,1,True,False,False,17.0,28.8,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,23,82.562,2.0,MEDIUM,9.0,True,1,True,False,False,17.0,28.7,47.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,24,82.707,2.0,MEDIUM,10.0,True,1,True,False,False,17.0,28.9,48.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,25,83.729,2.0,MEDIUM,11.0,True,1,True,False,False,17.0,29.0,49.2,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,26,83.997,2.0,MEDIUM,12.0,True,1,True,False,False,18.0,29.0,48.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,27,82.766,2.0,MEDIUM,13.0,True,1,True,False,False,17.0,29.1,48.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,28,82.499,2.0,MEDIUM,14.0,True,1,True,False,False,17.0,29.1,48.3,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,29,83.503,2.0,MEDIUM,15.0,True,1,True,False,False,18.0,29.0,47.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,30,82.645,2.0,MEDIUM,16.0,True,1,True,False,False,18.0,29.0,47.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,31,82.593,2.0,MEDIUM,17.0,True,1,True,False,False,18.0,28.9,47.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,32,83.257,2.0,MEDIUM,18.0,True,1,True,False,False,18.0,29.0,48.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,33,84.241,2.0,MEDIUM,19.0,True,1,True,False,False,18.0,29.0,48.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,34,83.956,2.0,MEDIUM,20.0,True,1,True,False,False,18.0,28.9,48.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,35,82.315,2.0,MEDIUM,21.0,True,1,True,False,False,17.0,28.6,49.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,36,85.365,2.0,MEDIUM,22.0,True,1,True,False,False,17.0,28.6,47.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,37,83.395,2.0,MEDIUM,23.0,True,1,True,False,False,18.0,28.5,46.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,38,82.679,2.0,MEDIUM,24.0,True,1,True,False,False,18.0,28.3,47.1,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,39,86.444,2.0,MEDIUM,25.0,True,1,False,True,False,18.0,28.1,46.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,40,99.554,3.0,SOFT,1.0,True,1,False,False,True,18.0,28.3,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,41,78.353,3.0,SOFT,2.0,True,1,True,False,False,18.0,28.2,46.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,42,82.116,3.0,SOFT,3.0,True,1,True,False,False,18.0,28.3,46.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,43,80.805,3.0,SOFT,4.0,True,1,True,False,False,18.0,28.3,46.8,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,44,81.025,3.0,SOFT,5.0,True,1,True,False,False,18.0,28.4,47.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,45,81.05,3.0,SOFT,6.0,True,1,True,False,False,18.0,28.4,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,46,80.728,3.0,SOFT,7.0,True,1,True,False,False,18.0,28.3,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,47,80.273,3.0,SOFT,8.0,True,1,True,False,False,18.0,28.2,48.2,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,48,82.164,3.0,SOFT,9.0,True,1,True,False,False,18.0,28.3,48.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,49,80.105,3.0,SOFT,10.0,True,1,True,False,False,18.0,28.3,48.0,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,50,80.056,3.0,SOFT,11.0,True,1,True,False,False,18.0,28.6,48.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,51,80.076,3.0,SOFT,12.0,True,1,True,False,False,18.0,28.6,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,52,80.12,3.0,SOFT,13.0,True,1,True,False,False,18.0,28.6,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,53,80.08,3.0,SOFT,14.0,True,12,True,False,False,18.0,28.6,47.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,54,108.581,3.0,SOFT,15.0,True,24,False,True,False,17.0,28.6,47.7,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,55,124.85,4.0,SOFT,2.0,False,4,False,False,True,17.0,28.7,47.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,56,107.812,4.0,SOFT,3.0,False,4,False,False,False,17.0,28.7,47.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,57,114.134,4.0,SOFT,4.0,False,4,False,False,False,17.0,28.8,47.6,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,58,83.285,4.0,SOFT,5.0,False,4,False,False,False,17.0,28.9,47.8,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,59,82.685,4.0,SOFT,6.0,False,4,False,False,False,17.0,28.8,48.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,60,88.629,4.0,SOFT,7.0,False,41,False,False,False,17.0,28.9,48.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,61,82.072,4.0,SOFT,8.0,False,1,True,False,False,17.0,28.9,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,62,80.401,4.0,SOFT,9.0,False,1,True,False,False,17.0,29.0,46.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,63,80.276,4.0,SOFT,10.0,False,1,True,False,False,17.0,29.0,47.3,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,64,80.536,4.0,SOFT,11.0,False,1,True,False,False,17.0,29.0,46.9,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,65,80.343,4.0,SOFT,12.0,False,1,True,False,False,17.0,29.2,47.4,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,COL,Alpine,66,79.978,4.0,SOFT,13.0,False,1,True,False,False,16.0,29.5,47.5,False,18.0,15.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,1,85.349,1.0,SOFT,4.0,False,1,False,False,False,4.0,29.6,49.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,2,81.368,1.0,SOFT,5.0,False,1,True,False,False,4.0,29.6,49.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,3,80.753,1.0,SOFT,6.0,False,1,True,False,False,4.0,29.5,49.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,4,80.639,1.0,SOFT,7.0,False,1,True,False,False,4.0,29.4,49.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,5,81.109,1.0,SOFT,8.0,False,1,True,False,False,4.0,29.3,49.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,6,81.565,1.0,SOFT,9.0,False,1,True,False,False,4.0,29.3,48.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,7,81.623,1.0,SOFT,10.0,False,1,True,False,False,4.0,29.1,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,8,81.929,1.0,SOFT,11.0,False,1,True,False,False,4.0,29.0,49.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,9,81.974,1.0,SOFT,12.0,False,1,True,False,False,4.0,28.9,49.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,10,83.068,1.0,SOFT,13.0,False,1,True,False,False,5.0,28.9,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,11,81.552,1.0,SOFT,14.0,False,1,True,False,False,5.0,29.0,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,12,81.615,1.0,SOFT,15.0,False,1,True,False,False,5.0,29.0,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,13,81.828,1.0,SOFT,16.0,False,1,True,False,False,5.0,29.3,49.6,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,14,82.32,1.0,SOFT,17.0,False,1,True,False,False,4.0,29.3,49.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,15,81.869,1.0,SOFT,18.0,False,1,True,False,False,4.0,29.2,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,16,85.739,1.0,SOFT,19.0,False,1,False,True,False,5.0,29.3,49.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,17,99.78,2.0,MEDIUM,1.0,True,1,False,False,True,9.0,29.3,49.2,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,18,80.948,2.0,MEDIUM,2.0,True,1,True,False,False,8.0,29.3,48.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,19,81.348,2.0,MEDIUM,3.0,True,1,True,False,False,8.0,29.3,48.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,20,80.755,2.0,MEDIUM,4.0,True,1,True,False,False,7.0,29.1,47.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,21,80.545,2.0,MEDIUM,5.0,True,1,True,False,False,6.0,29.0,47.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,22,80.28,2.0,MEDIUM,6.0,True,1,True,False,False,5.0,29.0,47.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,23,80.03,2.0,MEDIUM,7.0,True,1,True,False,False,5.0,28.7,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,24,80.304,2.0,MEDIUM,8.0,True,1,True,False,False,5.0,28.8,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,25,80.509,2.0,MEDIUM,9.0,True,1,True,False,False,5.0,28.9,48.6,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,26,80.648,2.0,MEDIUM,10.0,True,1,True,False,False,5.0,29.0,48.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,27,80.426,2.0,MEDIUM,11.0,True,1,True,False,False,5.0,29.1,48.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,28,80.48,2.0,MEDIUM,12.0,True,1,True,False,False,5.0,29.1,48.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,29,80.206,2.0,MEDIUM,13.0,True,1,True,False,False,5.0,29.1,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,30,81.183,2.0,MEDIUM,14.0,True,1,True,False,False,5.0,29.0,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,31,80.343,2.0,MEDIUM,15.0,True,1,True,False,False,5.0,29.0,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,32,80.317,2.0,MEDIUM,16.0,True,1,True,False,False,5.0,28.9,47.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,33,80.257,2.0,MEDIUM,17.0,True,1,True,False,False,5.0,29.0,48.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,34,80.286,2.0,MEDIUM,18.0,True,1,True,False,False,5.0,29.0,48.6,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,35,80.283,2.0,MEDIUM,19.0,True,1,True,False,False,5.0,28.7,47.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,36,80.452,2.0,MEDIUM,20.0,True,1,True,False,False,5.0,28.6,49.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,37,80.784,2.0,MEDIUM,21.0,True,1,True,False,False,5.0,28.6,47.6,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,38,80.512,2.0,MEDIUM,22.0,True,1,True,False,False,5.0,28.5,46.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,39,80.699,2.0,MEDIUM,23.0,True,1,True,False,False,5.0,28.3,47.1,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,40,80.77,2.0,MEDIUM,24.0,True,1,True,False,False,5.0,28.2,47.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,41,80.553,2.0,MEDIUM,25.0,True,1,True,False,False,4.0,28.3,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,42,80.849,2.0,MEDIUM,26.0,True,1,True,False,False,4.0,28.3,47.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,43,81.029,2.0,MEDIUM,27.0,True,1,True,False,False,4.0,28.3,46.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,44,80.93,2.0,MEDIUM,28.0,True,1,True,False,False,4.0,28.3,46.8,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,45,81.412,2.0,MEDIUM,29.0,True,1,True,False,False,4.0,28.4,46.8,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,46,85.116,2.0,MEDIUM,30.0,True,1,False,True,False,4.0,28.4,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,47,99.788,3.0,SOFT,4.0,False,1,False,False,True,7.0,28.3,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,48,78.335,3.0,SOFT,5.0,False,1,True,False,False,7.0,28.2,48.2,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,49,78.598,3.0,SOFT,6.0,False,1,True,False,False,6.0,28.3,48.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,50,78.344,3.0,SOFT,7.0,False,1,True,False,False,6.0,28.3,48.0,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,51,78.722,3.0,SOFT,8.0,False,1,True,False,False,6.0,28.6,48.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,52,78.645,3.0,SOFT,9.0,False,1,True,False,False,6.0,28.6,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,53,79.16,3.0,SOFT,10.0,False,1,True,False,False,6.0,28.6,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,54,79.257,3.0,SOFT,11.0,False,1,True,False,False,6.0,28.6,47.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,55,105.765,3.0,SOFT,12.0,False,124,False,True,False,6.0,28.6,47.7,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,56,129.13,4.0,SOFT,4.0,False,4,False,False,True,6.0,28.7,47.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,57,113.404,4.0,SOFT,5.0,False,4,False,False,False,6.0,28.7,47.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,58,122.703,4.0,SOFT,6.0,False,4,False,False,False,6.0,28.8,47.6,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,59,123.215,4.0,SOFT,7.0,False,4,False,False,False,6.0,28.9,47.8,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,60,118.871,4.0,SOFT,8.0,False,41,False,False,False,6.0,28.9,48.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,61,79.362,4.0,SOFT,9.0,False,1,True,False,False,6.0,28.9,47.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,62,77.706,4.0,SOFT,10.0,False,1,True,False,False,6.0,29.0,46.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,63,77.939,4.0,SOFT,11.0,False,1,True,False,False,6.0,29.0,46.5,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,64,78.833,4.0,SOFT,12.0,False,1,True,False,False,6.0,29.0,46.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,65,79.738,4.0,SOFT,13.0,False,1,True,False,False,7.0,29.2,47.4,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAM,Ferrari,66,79.034,4.0,SOFT,14.0,False,1,True,False,False,7.0,29.3,46.9,False,5.0,6.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,1,89.36,1.0,SOFT,4.0,False,1,False,False,False,12.0,29.6,49.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,2,83.275,1.0,SOFT,5.0,False,1,True,False,False,12.0,29.6,49.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,3,82.493,1.0,SOFT,6.0,False,1,True,False,False,12.0,29.5,49.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,4,82.114,1.0,SOFT,7.0,False,1,True,False,False,12.0,29.4,49.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,5,82.13,1.0,SOFT,8.0,False,1,True,False,False,12.0,29.3,49.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,6,82.166,1.0,SOFT,9.0,False,1,True,False,False,12.0,29.3,48.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,7,82.531,1.0,SOFT,10.0,False,1,True,False,False,12.0,29.1,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,8,83.133,1.0,SOFT,11.0,False,1,True,False,False,12.0,29.0,49.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,9,83.248,1.0,SOFT,12.0,False,1,True,False,False,12.0,28.9,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,10,82.659,1.0,SOFT,13.0,False,1,True,False,False,11.0,28.9,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,11,82.506,1.0,SOFT,14.0,False,1,True,False,False,10.0,29.0,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,12,83.318,1.0,SOFT,15.0,False,1,True,False,False,10.0,29.1,49.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,13,84.556,1.0,SOFT,16.0,False,1,True,False,False,10.0,29.3,49.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,14,83.066,1.0,SOFT,17.0,False,1,True,False,False,10.0,29.3,49.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,15,83.295,1.0,SOFT,18.0,False,1,True,False,False,10.0,29.2,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,16,83.056,1.0,SOFT,19.0,False,1,True,False,False,10.0,29.3,49.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,17,84.138,1.0,SOFT,20.0,False,1,True,False,False,10.0,29.4,49.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,18,83.443,1.0,SOFT,21.0,False,1,True,False,False,10.0,29.3,48.7,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,19,87.666,1.0,SOFT,22.0,False,1,False,True,False,12.0,29.3,48.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,20,101.588,2.0,MEDIUM,1.0,True,1,False,False,True,19.0,29.1,47.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,21,81.974,2.0,MEDIUM,2.0,True,1,True,False,False,18.0,29.0,47.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,22,81.164,2.0,MEDIUM,3.0,True,1,True,False,False,18.0,28.8,47.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,23,81.452,2.0,MEDIUM,4.0,True,1,True,False,False,18.0,28.7,47.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,24,81.483,2.0,MEDIUM,5.0,True,1,True,False,False,18.0,28.9,48.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,25,81.192,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.0,49.2,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,26,81.225,2.0,MEDIUM,7.0,True,1,True,False,False,15.0,29.0,48.7,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,27,80.999,2.0,MEDIUM,8.0,True,1,True,False,False,15.0,29.1,48.7,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,28,81.159,2.0,MEDIUM,9.0,True,1,True,False,False,15.0,29.1,48.3,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,29,81.54,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,29.1,47.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,30,81.448,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,29.0,47.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,31,81.612,2.0,MEDIUM,12.0,True,1,True,False,False,15.0,28.9,47.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,32,82.119,2.0,MEDIUM,13.0,True,1,True,False,False,14.0,29.0,48.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,33,81.904,2.0,MEDIUM,14.0,True,1,True,False,False,14.0,29.0,48.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,34,81.874,2.0,MEDIUM,15.0,True,1,True,False,False,13.0,28.9,48.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,35,81.666,2.0,MEDIUM,16.0,True,1,True,False,False,13.0,28.6,49.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,36,81.104,2.0,MEDIUM,17.0,True,1,True,False,False,12.0,28.6,47.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,37,81.163,2.0,MEDIUM,18.0,True,1,True,False,False,12.0,28.6,47.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,38,81.432,2.0,MEDIUM,19.0,True,1,True,False,False,12.0,28.3,47.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,39,81.004,2.0,MEDIUM,20.0,True,1,True,False,False,12.0,28.1,46.7,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,40,80.881,2.0,MEDIUM,21.0,True,1,True,False,False,12.0,28.2,47.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,41,81.106,2.0,MEDIUM,22.0,True,1,True,False,False,12.0,28.3,47.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,42,81.291,2.0,MEDIUM,23.0,True,1,True,False,False,11.0,28.2,46.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,43,83.179,2.0,MEDIUM,24.0,True,1,True,False,False,11.0,28.3,46.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,44,83.274,2.0,MEDIUM,25.0,True,1,True,False,False,11.0,28.4,46.8,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,45,81.547,2.0,MEDIUM,26.0,True,1,True,False,False,10.0,28.4,47.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,46,84.398,2.0,MEDIUM,27.0,True,1,True,False,False,10.0,28.3,47.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,47,81.519,2.0,MEDIUM,28.0,True,1,True,False,False,10.0,28.2,48.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,48,81.264,2.0,MEDIUM,29.0,True,1,True,False,False,10.0,28.2,48.2,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,49,84.483,2.0,MEDIUM,30.0,True,1,False,True,False,13.0,28.3,48.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,50,98.032,3.0,SOFT,1.0,True,1,False,False,True,17.0,28.5,48.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,51,78.297,3.0,SOFT,2.0,True,1,True,False,False,17.0,28.6,47.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,52,79.386,3.0,SOFT,3.0,True,1,True,False,False,17.0,28.6,47.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,53,79.454,3.0,SOFT,4.0,True,1,True,False,False,17.0,28.6,47.0,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,54,97.819,3.0,SOFT,5.0,True,124,False,False,False,16.0,28.6,47.7,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,55,126.574,3.0,SOFT,6.0,True,4,False,False,False,13.0,28.7,47.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,56,126.88,3.0,SOFT,7.0,True,4,False,False,False,12.0,28.7,47.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,57,116.454,3.0,SOFT,8.0,True,4,False,False,False,12.0,28.8,47.6,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,58,82.738,3.0,SOFT,9.0,True,4,False,False,False,12.0,28.9,48.1,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,59,81.752,3.0,SOFT,10.0,True,4,False,False,False,12.0,28.8,48.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,60,95.364,3.0,SOFT,11.0,True,41,False,False,False,12.0,28.9,48.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,61,80.362,3.0,SOFT,12.0,True,1,True,False,False,11.0,28.9,47.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,62,79.563,3.0,SOFT,13.0,True,1,True,False,False,11.0,29.0,46.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,63,79.979,3.0,SOFT,14.0,True,1,True,False,False,11.0,29.0,46.5,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,64,80.544,3.0,SOFT,15.0,True,1,True,False,False,12.0,29.0,46.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,65,80.291,3.0,SOFT,16.0,True,1,True,False,False,12.0,29.2,47.4,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,BOR,Kick Sauber,66,79.685,3.0,SOFT,17.0,True,1,True,False,False,12.0,29.3,46.9,False,12.0,12.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,1,91.809,1.0,SOFT,1.0,True,1,False,False,False,17.0,29.6,49.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,2,83.851,1.0,SOFT,2.0,True,1,True,False,False,17.0,29.6,49.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,3,82.905,1.0,SOFT,3.0,True,1,True,False,False,17.0,29.5,49.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,4,82.37,1.0,SOFT,4.0,True,1,True,False,False,17.0,29.4,49.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,5,82.47,1.0,SOFT,5.0,True,1,True,False,False,17.0,29.3,49.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,6,82.836,1.0,SOFT,6.0,True,1,True,False,False,16.0,29.3,48.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,7,82.908,1.0,SOFT,7.0,True,1,True,False,False,16.0,29.1,49.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,8,83.405,1.0,SOFT,8.0,True,1,True,False,False,15.0,29.0,49.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,9,86.311,1.0,SOFT,9.0,True,1,False,True,False,16.0,28.9,49.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,10,108.315,2.0,SOFT,1.0,True,1,False,False,True,19.0,28.9,49.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,11,81.101,2.0,SOFT,2.0,True,1,True,False,False,19.0,29.0,49.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,12,81.02,2.0,SOFT,3.0,True,1,True,False,False,19.0,29.1,49.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,13,81.568,2.0,SOFT,4.0,True,1,True,False,False,19.0,29.3,49.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,14,81.456,2.0,SOFT,5.0,True,1,True,False,False,19.0,29.2,49.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,15,81.298,2.0,SOFT,6.0,True,1,True,False,False,18.0,29.2,49.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,16,81.32,2.0,SOFT,7.0,True,1,True,False,False,17.0,29.3,49.2,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,17,81.579,2.0,SOFT,8.0,True,1,True,False,False,17.0,29.4,49.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,18,83.128,2.0,SOFT,9.0,True,1,True,False,False,18.0,29.3,48.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,19,82.008,2.0,SOFT,10.0,True,1,True,False,False,18.0,29.2,47.2,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,20,81.894,2.0,SOFT,11.0,True,1,True,False,False,17.0,29.1,47.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,21,81.853,2.0,SOFT,12.0,True,1,True,False,False,16.0,29.0,47.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,22,81.938,2.0,SOFT,13.0,True,1,True,False,False,16.0,28.8,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,23,81.862,2.0,SOFT,14.0,True,1,True,False,False,16.0,28.7,47.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,24,81.697,2.0,SOFT,15.0,True,1,True,False,False,16.0,28.9,48.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,25,81.867,2.0,SOFT,16.0,True,1,True,False,False,15.0,29.0,49.2,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,26,81.915,2.0,SOFT,17.0,True,1,True,False,False,14.0,29.0,48.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,27,81.686,2.0,SOFT,18.0,True,1,True,False,False,14.0,29.1,48.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,28,81.877,2.0,SOFT,19.0,True,1,True,False,False,14.0,29.1,48.3,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,29,82.105,2.0,SOFT,20.0,True,1,True,False,False,14.0,29.1,47.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,30,81.918,2.0,SOFT,21.0,True,1,True,False,False,14.0,29.0,47.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,31,82.026,2.0,SOFT,22.0,True,1,True,False,False,14.0,28.9,47.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,32,81.993,2.0,SOFT,23.0,True,1,True,False,False,13.0,28.9,47.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,33,82.29,2.0,SOFT,24.0,True,1,True,False,False,13.0,29.0,48.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,34,86.912,2.0,SOFT,25.0,True,1,False,True,False,16.0,28.9,48.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,35,99.529,3.0,MEDIUM,1.0,True,1,False,False,True,18.0,28.6,49.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,36,81.478,3.0,MEDIUM,2.0,True,1,True,False,False,18.0,28.6,47.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,37,80.724,3.0,MEDIUM,3.0,True,1,True,False,False,17.0,28.5,46.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,38,80.961,3.0,MEDIUM,4.0,True,1,True,False,False,17.0,28.3,47.1,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,39,81.112,3.0,MEDIUM,5.0,True,1,True,False,False,17.0,28.1,46.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,40,80.557,3.0,MEDIUM,6.0,True,1,True,False,False,17.0,28.3,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,41,80.485,3.0,MEDIUM,7.0,True,1,True,False,False,17.0,28.3,47.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,42,80.583,3.0,MEDIUM,8.0,True,1,True,False,False,17.0,28.2,46.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,43,81.481,3.0,MEDIUM,9.0,True,1,True,False,False,17.0,28.3,46.8,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,44,80.821,3.0,MEDIUM,10.0,True,1,True,False,False,16.0,28.4,46.8,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,45,80.673,3.0,MEDIUM,11.0,True,1,True,False,False,15.0,28.4,47.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,46,80.588,3.0,MEDIUM,12.0,True,1,True,False,False,15.0,28.3,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,47,80.378,3.0,MEDIUM,13.0,True,1,True,False,False,15.0,28.2,48.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,48,80.5,3.0,MEDIUM,14.0,True,1,True,False,False,15.0,28.3,48.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,49,81.614,3.0,MEDIUM,15.0,True,1,True,False,False,15.0,28.3,48.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,50,80.402,3.0,MEDIUM,16.0,True,1,True,False,False,14.0,28.5,48.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,51,80.494,3.0,MEDIUM,17.0,True,1,True,False,False,14.0,28.6,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,52,80.603,3.0,MEDIUM,18.0,True,1,True,False,False,14.0,28.6,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,53,80.417,3.0,MEDIUM,19.0,True,1,True,False,False,14.0,28.6,47.0,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,54,97.296,3.0,MEDIUM,20.0,True,124,False,False,False,13.0,28.6,47.7,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,55,129.946,3.0,MEDIUM,21.0,True,4,False,True,False,11.0,28.7,47.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,56,137.714,4.0,SOFT,1.0,True,4,False,False,True,16.0,28.7,47.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,57,114.399,4.0,SOFT,2.0,True,4,False,False,False,16.0,28.8,47.6,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,58,82.843,4.0,SOFT,3.0,True,4,False,False,False,16.0,28.9,47.8,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,59,82.15,4.0,SOFT,4.0,True,4,False,False,False,16.0,28.8,48.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,60,91.203,4.0,SOFT,5.0,True,41,False,False,False,16.0,28.9,48.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,61,81.632,4.0,SOFT,6.0,True,1,True,False,False,16.0,28.9,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,62,80.53,4.0,SOFT,7.0,True,1,True,False,False,16.0,29.0,46.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,63,80.214,4.0,SOFT,8.0,True,1,True,False,False,16.0,29.0,47.3,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,64,80.65,4.0,SOFT,9.0,True,1,True,False,False,16.0,29.0,46.9,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,65,79.317,4.0,SOFT,10.0,True,1,True,False,False,15.0,29.2,47.4,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,SAI,Williams,66,79.899,4.0,SOFT,11.0,True,1,True,False,False,15.0,29.5,47.5,False,17.0,14.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,1,88.411,1.0,SOFT,4.0,False,1,False,False,False,9.0,29.6,49.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,2,82.858,1.0,SOFT,5.0,False,1,True,False,False,9.0,29.6,49.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,3,81.972,1.0,SOFT,6.0,False,1,True,False,False,9.0,29.5,49.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,4,81.781,1.0,SOFT,7.0,False,1,True,False,False,9.0,29.4,49.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,5,81.647,1.0,SOFT,8.0,False,1,True,False,False,9.0,29.3,49.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,6,81.82,1.0,SOFT,9.0,False,1,True,False,False,9.0,29.3,48.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,7,82.164,1.0,SOFT,10.0,False,1,True,False,False,9.0,29.1,49.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,8,82.317,1.0,SOFT,11.0,False,1,True,False,False,9.0,29.0,49.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,9,82.106,1.0,SOFT,12.0,False,1,True,False,False,9.0,28.9,49.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,10,82.171,1.0,SOFT,13.0,False,1,True,False,False,8.0,28.9,49.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,11,81.893,1.0,SOFT,14.0,False,1,True,False,False,8.0,29.0,49.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,12,81.966,1.0,SOFT,15.0,False,1,True,False,False,8.0,29.1,49.6,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,13,82.176,1.0,SOFT,16.0,False,1,True,False,False,8.0,29.3,49.6,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,14,82.235,1.0,SOFT,17.0,False,1,True,False,False,7.0,29.3,49.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,15,82.539,1.0,SOFT,18.0,False,1,True,False,False,8.0,29.2,49.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,16,82.316,1.0,SOFT,19.0,False,1,True,False,False,8.0,29.3,49.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,17,82.553,1.0,SOFT,20.0,False,1,True,False,False,7.0,29.3,49.2,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,18,82.581,1.0,SOFT,21.0,False,1,True,False,False,6.0,29.3,48.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,19,86.307,1.0,SOFT,22.0,False,1,False,True,False,7.0,29.3,48.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,20,99.16,2.0,MEDIUM,1.0,True,1,False,False,True,10.0,29.1,47.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,21,80.72,2.0,MEDIUM,2.0,True,1,True,False,False,10.0,29.0,47.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,22,81.418,2.0,MEDIUM,3.0,True,1,True,False,False,10.0,28.8,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,23,81.467,2.0,MEDIUM,4.0,True,1,True,False,False,10.0,28.7,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,24,81.367,2.0,MEDIUM,5.0,True,1,True,False,False,9.0,28.8,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,25,81.183,2.0,MEDIUM,6.0,True,1,True,False,False,8.0,29.0,49.2,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,26,81.315,2.0,MEDIUM,7.0,True,1,True,False,False,8.0,29.0,48.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,27,80.979,2.0,MEDIUM,8.0,True,1,True,False,False,8.0,29.1,48.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,28,81.005,2.0,MEDIUM,9.0,True,1,True,False,False,8.0,29.1,48.3,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,29,80.651,2.0,MEDIUM,10.0,True,1,True,False,False,8.0,29.1,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,30,80.858,2.0,MEDIUM,11.0,True,1,True,False,False,8.0,29.0,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,31,80.909,2.0,MEDIUM,12.0,True,1,True,False,False,8.0,28.9,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,32,80.781,2.0,MEDIUM,13.0,True,1,True,False,False,8.0,28.9,47.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,33,80.907,2.0,MEDIUM,14.0,True,1,True,False,False,8.0,29.0,48.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,34,80.954,2.0,MEDIUM,15.0,True,1,True,False,False,8.0,28.9,48.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,35,81.023,2.0,MEDIUM,16.0,True,1,True,False,False,8.0,28.7,47.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,36,81.135,2.0,MEDIUM,17.0,True,1,True,False,False,8.0,28.6,47.6,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,37,81.07,2.0,MEDIUM,18.0,True,1,True,False,False,8.0,28.6,47.1,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,38,80.912,2.0,MEDIUM,19.0,True,1,True,False,False,8.0,28.5,46.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,39,80.738,2.0,MEDIUM,20.0,True,1,True,False,False,8.0,28.1,46.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,40,80.977,2.0,MEDIUM,21.0,True,1,True,False,False,8.0,28.2,47.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,41,80.989,2.0,MEDIUM,22.0,True,1,True,False,False,8.0,28.3,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,42,81.11,2.0,MEDIUM,23.0,True,1,True,False,False,8.0,28.2,46.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,43,81.033,2.0,MEDIUM,24.0,True,1,True,False,False,8.0,28.3,46.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,44,80.842,2.0,MEDIUM,25.0,True,1,True,False,False,8.0,28.3,46.8,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,45,80.882,2.0,MEDIUM,26.0,True,1,True,False,False,8.0,28.4,47.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,46,80.875,2.0,MEDIUM,27.0,True,1,True,False,False,8.0,28.4,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,47,81.963,2.0,MEDIUM,28.0,True,1,True,False,False,8.0,28.3,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,48,84.323,2.0,MEDIUM,29.0,True,1,False,True,False,8.0,28.2,48.2,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,49,98.209,3.0,SOFT,4.0,False,1,False,False,True,8.0,28.3,48.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,50,80.047,3.0,SOFT,5.0,False,1,True,False,False,8.0,28.5,48.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,51,79.611,3.0,SOFT,6.0,False,1,True,False,False,8.0,28.6,48.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,52,79.702,3.0,SOFT,7.0,False,1,True,False,False,8.0,28.6,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,53,79.595,3.0,SOFT,8.0,False,1,True,False,False,8.0,28.6,47.0,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,54,87.674,3.0,SOFT,9.0,False,124,False,False,False,7.0,28.6,47.7,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,55,110.63,3.0,SOFT,10.0,False,4,False,True,False,7.0,28.7,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,56,108.443,4.0,SOFT,4.0,False,4,False,False,True,7.0,28.7,47.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,57,92.747,4.0,SOFT,5.0,False,4,False,False,False,7.0,28.7,47.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,58,118.835,4.0,SOFT,6.0,False,4,False,False,False,7.0,28.8,47.6,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,59,123.655,4.0,SOFT,7.0,False,4,False,False,False,7.0,28.9,47.8,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,60,118.244,4.0,SOFT,8.0,False,41,False,False,False,7.0,28.9,48.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,61,80.227,4.0,SOFT,9.0,False,1,True,False,False,8.0,28.9,47.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,62,78.376,4.0,SOFT,10.0,False,1,True,False,False,8.0,29.0,46.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,63,77.77,4.0,SOFT,11.0,False,1,True,False,False,8.0,29.0,46.5,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,64,78.511,4.0,SOFT,12.0,False,1,True,False,False,8.0,29.0,46.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,65,78.801,4.0,SOFT,13.0,False,1,True,False,False,8.0,29.2,47.4,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,HAD,Racing Bulls,66,78.961,4.0,SOFT,14.0,False,1,True,False,False,8.0,29.3,46.9,False,9.0,7.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,1,86.617,1.0,SOFT,4.0,False,1,False,False,False,6.0,29.6,49.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,2,81.564,1.0,SOFT,5.0,False,1,True,False,False,6.0,29.6,49.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,3,81.385,1.0,SOFT,6.0,False,1,True,False,False,6.0,29.5,49.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,4,81.126,1.0,SOFT,7.0,False,1,True,False,False,6.0,29.4,49.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,5,81.13,1.0,SOFT,8.0,False,1,True,False,False,6.0,29.3,49.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,6,81.383,1.0,SOFT,9.0,False,1,True,False,False,6.0,29.3,48.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,7,81.684,1.0,SOFT,10.0,False,1,True,False,False,6.0,29.1,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,8,81.738,1.0,SOFT,11.0,False,1,True,False,False,6.0,29.0,49.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,9,82.136,1.0,SOFT,12.0,False,1,True,False,False,6.0,28.9,49.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,10,82.081,1.0,SOFT,13.0,False,1,True,False,False,6.0,28.9,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,11,81.472,1.0,SOFT,14.0,False,1,True,False,False,6.0,29.0,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,12,81.625,1.0,SOFT,15.0,False,1,True,False,False,6.0,29.0,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,13,82.055,1.0,SOFT,16.0,False,1,True,False,False,6.0,29.3,49.6,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,14,82.339,1.0,SOFT,17.0,False,1,True,False,False,5.0,29.3,49.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,15,81.968,1.0,SOFT,18.0,False,1,True,False,False,5.0,29.2,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,16,81.547,1.0,SOFT,19.0,False,1,True,False,False,4.0,29.3,49.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,17,81.382,1.0,SOFT,20.0,False,1,True,False,False,4.0,29.3,49.2,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,18,81.732,1.0,SOFT,21.0,False,1,True,False,False,3.0,29.3,48.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,19,82.971,1.0,SOFT,22.0,False,1,True,False,False,4.0,29.3,48.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,20,86.155,1.0,SOFT,23.0,False,1,False,True,False,4.0,29.2,47.2,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,21,97.202,2.0,MEDIUM,1.0,True,1,False,False,True,7.0,29.0,47.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,22,79.163,2.0,MEDIUM,2.0,True,1,True,False,False,6.0,29.0,47.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,23,79.512,2.0,MEDIUM,3.0,True,1,True,False,False,6.0,28.7,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,24,80.074,2.0,MEDIUM,4.0,True,1,True,False,False,6.0,28.8,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,25,80.411,2.0,MEDIUM,5.0,True,1,True,False,False,6.0,28.9,48.6,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,26,80.592,2.0,MEDIUM,6.0,True,1,True,False,False,6.0,29.0,48.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,27,80.311,2.0,MEDIUM,7.0,True,1,True,False,False,6.0,29.1,48.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,28,80.726,2.0,MEDIUM,8.0,True,1,True,False,False,6.0,29.1,48.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,29,80.349,2.0,MEDIUM,9.0,True,1,True,False,False,6.0,29.1,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,30,80.427,2.0,MEDIUM,10.0,True,1,True,False,False,6.0,29.0,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,31,80.421,2.0,MEDIUM,11.0,True,1,True,False,False,6.0,29.0,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,32,80.533,2.0,MEDIUM,12.0,True,1,True,False,False,6.0,28.9,47.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,33,80.669,2.0,MEDIUM,13.0,True,1,True,False,False,6.0,29.0,48.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,34,80.421,2.0,MEDIUM,14.0,True,1,True,False,False,6.0,29.0,48.6,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,35,80.619,2.0,MEDIUM,15.0,True,1,True,False,False,6.0,28.7,47.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,36,80.368,2.0,MEDIUM,16.0,True,1,True,False,False,6.0,28.6,49.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,37,80.537,2.0,MEDIUM,17.0,True,1,True,False,False,6.0,28.6,47.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,38,80.524,2.0,MEDIUM,18.0,True,1,True,False,False,6.0,28.5,46.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,39,80.499,2.0,MEDIUM,19.0,True,1,True,False,False,6.0,28.3,47.1,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,40,80.888,2.0,MEDIUM,20.0,True,1,True,False,False,6.0,28.2,47.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,41,84.584,2.0,MEDIUM,21.0,True,1,False,True,False,5.0,28.3,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,42,95.215,3.0,SOFT,1.0,True,1,False,False,True,7.0,28.3,47.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,43,78.437,3.0,SOFT,2.0,True,1,True,False,False,7.0,28.3,46.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,44,79.079,3.0,SOFT,3.0,True,1,True,False,False,6.0,28.3,46.8,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,45,79.176,3.0,SOFT,4.0,True,1,True,False,False,6.0,28.4,47.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,46,79.351,3.0,SOFT,5.0,True,1,True,False,False,6.0,28.4,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,47,79.393,3.0,SOFT,6.0,True,1,True,False,False,5.0,28.3,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,48,79.047,3.0,SOFT,7.0,True,1,True,False,False,5.0,28.2,48.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,49,79.121,3.0,SOFT,8.0,True,1,True,False,False,5.0,28.3,48.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,50,79.416,3.0,SOFT,9.0,True,1,True,False,False,5.0,28.3,48.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,51,79.471,3.0,SOFT,10.0,True,1,True,False,False,5.0,28.5,48.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,52,79.28,3.0,SOFT,11.0,True,1,True,False,False,5.0,28.6,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,53,79.426,3.0,SOFT,12.0,True,1,True,False,False,5.0,28.6,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,54,79.578,3.0,SOFT,13.0,True,1,True,False,False,5.0,28.6,47.0,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,55,102.124,3.0,SOFT,14.0,True,124,False,True,False,5.0,28.6,47.7,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,56,127.547,4.0,SOFT,4.0,False,4,False,False,True,5.0,28.7,47.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,57,125.881,4.0,SOFT,5.0,False,4,False,False,False,5.0,28.7,47.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,58,122.245,4.0,SOFT,6.0,False,4,False,False,False,5.0,28.8,47.6,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,59,122.726,4.0,SOFT,7.0,False,4,False,False,False,5.0,28.9,47.8,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,60,120.509,4.0,SOFT,8.0,False,41,False,False,False,5.0,28.9,48.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,61,78.843,4.0,SOFT,9.0,False,1,True,False,False,5.0,28.9,47.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,62,77.244,4.0,SOFT,10.0,False,1,True,False,False,5.0,29.0,46.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,63,77.594,4.0,SOFT,11.0,False,1,True,False,False,5.0,29.0,46.5,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,64,78.793,4.0,SOFT,12.0,False,1,True,False,False,4.0,29.0,46.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,65,77.749,4.0,SOFT,13.0,False,1,True,False,False,4.0,29.2,47.4,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,RUS,Mercedes,66,78.569,4.0,SOFT,14.0,False,1,True,False,False,4.0,29.3,46.9,False,4.0,4.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,1,82.879,1.0,SOFT,1.0,True,1,False,False,False,1.0,29.6,49.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,2,80.211,1.0,SOFT,2.0,True,1,True,False,False,1.0,29.6,49.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,3,79.866,1.0,SOFT,3.0,True,1,True,False,False,1.0,29.5,49.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,4,80.359,1.0,SOFT,4.0,True,1,True,False,False,1.0,29.4,49.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,5,80.467,1.0,SOFT,5.0,True,1,True,False,False,1.0,29.3,49.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,6,80.254,1.0,SOFT,6.0,True,1,True,False,False,1.0,29.3,48.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,7,80.931,1.0,SOFT,7.0,True,1,True,False,False,1.0,29.2,48.2,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,8,80.828,1.0,SOFT,8.0,True,1,True,False,False,1.0,29.0,49.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,9,80.767,1.0,SOFT,9.0,True,1,True,False,False,1.0,28.9,49.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,10,80.89,1.0,SOFT,10.0,True,1,True,False,False,1.0,28.9,49.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,11,81.136,1.0,SOFT,11.0,True,1,True,False,False,1.0,29.0,49.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,12,81.091,1.0,SOFT,12.0,True,1,True,False,False,1.0,29.0,49.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,13,81.033,1.0,SOFT,13.0,True,1,True,False,False,1.0,29.3,49.6,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,14,80.78,1.0,SOFT,14.0,True,1,True,False,False,1.0,29.3,49.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,15,80.804,1.0,SOFT,15.0,True,1,True,False,False,1.0,29.2,49.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,16,80.659,1.0,SOFT,16.0,True,1,True,False,False,1.0,29.3,49.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,17,80.657,1.0,SOFT,17.0,True,1,True,False,False,1.0,29.3,49.2,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,18,80.693,1.0,SOFT,18.0,True,1,True,False,False,1.0,29.4,49.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,19,80.85,1.0,SOFT,19.0,True,1,True,False,False,1.0,29.3,48.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,20,81.126,1.0,SOFT,20.0,True,1,True,False,False,1.0,29.2,47.2,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,21,81.471,1.0,SOFT,21.0,True,1,True,False,False,1.0,29.1,47.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,22,85.235,1.0,SOFT,22.0,True,1,False,True,False,1.0,29.0,47.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,23,98.679,2.0,MEDIUM,1.0,True,1,False,False,True,2.0,28.8,47.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,24,79.985,2.0,MEDIUM,2.0,True,1,True,False,False,2.0,28.8,47.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,25,79.85,2.0,MEDIUM,3.0,True,1,True,False,False,2.0,28.9,48.6,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,26,79.913,2.0,MEDIUM,4.0,True,1,True,False,False,2.0,29.0,49.2,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,27,79.749,2.0,MEDIUM,5.0,True,1,True,False,False,2.0,29.1,48.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,28,79.904,2.0,MEDIUM,6.0,True,1,True,False,False,2.0,29.1,48.7,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,29,79.919,2.0,MEDIUM,7.0,True,1,True,False,False,1.0,29.1,48.3,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,30,79.807,2.0,MEDIUM,8.0,True,1,True,False,False,1.0,29.0,47.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,31,79.719,2.0,MEDIUM,9.0,True,1,True,False,False,1.0,29.0,47.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,32,79.983,2.0,MEDIUM,10.0,True,1,True,False,False,1.0,28.9,47.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,33,80.387,2.0,MEDIUM,11.0,True,1,True,False,False,1.0,29.0,48.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,34,80.474,2.0,MEDIUM,12.0,True,1,True,False,False,1.0,29.0,48.6,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,35,80.15,2.0,MEDIUM,13.0,True,1,True,False,False,1.0,28.9,48.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,36,80.129,2.0,MEDIUM,14.0,True,1,True,False,False,1.0,28.6,49.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,37,80.457,2.0,MEDIUM,15.0,True,1,True,False,False,1.0,28.6,47.6,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,38,79.681,2.0,MEDIUM,16.0,True,1,True,False,False,1.0,28.6,47.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,39,79.945,2.0,MEDIUM,17.0,True,1,True,False,False,1.0,28.3,47.1,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,40,80.293,2.0,MEDIUM,18.0,True,1,True,False,False,1.0,28.1,46.7,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,41,80.125,2.0,MEDIUM,19.0,True,1,True,False,False,1.0,28.2,47.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,42,80.141,2.0,MEDIUM,20.0,True,1,True,False,False,1.0,28.3,47.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,43,79.489,2.0,MEDIUM,21.0,True,1,True,False,False,1.0,28.2,46.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,44,79.694,2.0,MEDIUM,22.0,True,1,True,False,False,1.0,28.3,46.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,45,79.438,2.0,MEDIUM,23.0,True,1,True,False,False,1.0,28.4,46.8,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,46,79.235,2.0,MEDIUM,24.0,True,1,True,False,False,1.0,28.4,47.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,47,79.63,2.0,MEDIUM,25.0,True,1,True,False,False,1.0,28.4,47.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,48,79.378,2.0,MEDIUM,26.0,True,1,True,False,False,1.0,28.2,48.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,49,83.19,2.0,MEDIUM,27.0,True,1,False,True,False,1.0,28.2,48.2,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,50,97.74,3.0,SOFT,4.0,False,1,False,False,True,1.0,28.3,48.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,51,78.78,3.0,SOFT,5.0,False,1,True,False,False,1.0,28.5,48.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,52,78.796,3.0,SOFT,6.0,False,1,True,False,False,1.0,28.6,48.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,53,77.885,3.0,SOFT,7.0,False,1,True,False,False,1.0,28.6,47.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,54,77.766,3.0,SOFT,8.0,False,1,True,False,False,1.0,28.6,47.0,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,55,91.156,3.0,SOFT,9.0,False,124,False,True,False,1.0,28.6,47.7,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,56,148.794,4.0,SOFT,4.0,False,4,False,False,True,1.0,28.7,47.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,57,125.517,4.0,SOFT,5.0,False,4,False,False,False,1.0,28.7,47.6,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,58,131.884,4.0,SOFT,6.0,False,4,False,False,False,1.0,28.7,47.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,59,123.898,4.0,SOFT,7.0,False,4,False,False,False,1.0,28.9,47.8,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,60,123.756,4.0,SOFT,8.0,False,41,False,False,False,1.0,28.9,48.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,61,75.743,4.0,SOFT,9.0,False,1,True,False,False,1.0,28.9,47.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,62,75.933,4.0,SOFT,10.0,False,1,True,False,False,1.0,29.0,46.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,63,76.377,4.0,SOFT,11.0,False,1,True,False,False,1.0,29.0,46.5,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,64,76.58,4.0,SOFT,12.0,False,1,True,False,False,1.0,29.0,46.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,65,76.994,4.0,SOFT,13.0,False,1,True,False,False,1.0,29.2,47.4,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,PIA,McLaren,66,77.445,4.0,SOFT,14.0,False,1,True,False,False,1.0,29.3,46.9,False,1.0,1.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,1,90.837,1.0,SOFT,1.0,True,1,False,False,False,15.0,29.6,49.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,2,83.868,1.0,SOFT,2.0,True,1,True,False,False,15.0,29.6,49.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,3,82.603,1.0,SOFT,3.0,True,1,True,False,False,15.0,29.5,49.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,4,82.344,1.0,SOFT,4.0,True,1,True,False,False,15.0,29.4,49.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,5,82.177,1.0,SOFT,5.0,True,1,True,False,False,15.0,29.3,49.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,6,82.587,1.0,SOFT,6.0,True,1,True,False,False,14.0,29.3,48.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,7,82.068,1.0,SOFT,7.0,True,1,True,False,False,14.0,29.1,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,8,86.186,1.0,SOFT,8.0,True,1,False,True,False,16.0,29.0,49.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,9,97.669,2.0,MEDIUM,1.0,True,1,False,False,True,17.0,28.9,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,10,80.386,2.0,MEDIUM,2.0,True,1,True,False,False,16.0,28.9,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,11,81.715,2.0,MEDIUM,3.0,True,1,True,False,False,16.0,29.0,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,12,82.38,2.0,MEDIUM,4.0,True,1,True,False,False,16.0,29.1,49.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,13,82.327,2.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.3,49.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,14,82.444,2.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.2,49.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,15,82.126,2.0,MEDIUM,7.0,True,1,True,False,False,15.0,29.2,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,16,81.646,2.0,MEDIUM,8.0,True,1,True,False,False,14.0,29.3,49.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,17,81.777,2.0,MEDIUM,9.0,True,1,True,False,False,14.0,29.4,49.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,18,82.312,2.0,MEDIUM,10.0,True,1,True,False,False,14.0,29.3,48.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,19,82.41,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,29.2,47.2,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,20,83.758,2.0,MEDIUM,12.0,True,1,True,False,False,11.0,29.1,47.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,21,82.287,2.0,MEDIUM,13.0,True,1,True,False,False,11.0,29.0,47.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,22,82.339,2.0,MEDIUM,14.0,True,1,True,False,False,11.0,28.8,47.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,23,82.529,2.0,MEDIUM,15.0,True,1,True,False,False,11.0,28.7,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,24,82.515,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,28.8,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,25,81.911,2.0,MEDIUM,17.0,True,1,True,False,False,11.0,29.0,49.2,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,26,82.059,2.0,MEDIUM,18.0,True,1,True,False,False,11.0,29.0,48.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,27,81.802,2.0,MEDIUM,19.0,True,1,True,False,False,11.0,29.1,48.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,28,81.671,2.0,MEDIUM,20.0,True,1,True,False,False,11.0,29.1,48.3,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,29,81.576,2.0,MEDIUM,21.0,True,1,True,False,False,11.0,29.1,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,30,81.748,2.0,MEDIUM,22.0,True,1,True,False,False,11.0,29.0,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,31,83.13,2.0,MEDIUM,23.0,True,1,True,False,False,11.0,28.9,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,32,81.87,2.0,MEDIUM,24.0,True,1,True,False,False,10.0,28.9,47.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,33,81.86,2.0,MEDIUM,25.0,True,1,True,False,False,10.0,29.0,48.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,34,81.902,2.0,MEDIUM,26.0,True,1,True,False,False,10.0,28.9,48.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,35,87.065,2.0,MEDIUM,27.0,True,1,False,True,False,12.0,28.7,47.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,36,98.677,3.0,MEDIUM,1.0,True,1,False,False,True,16.0,28.6,47.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,37,82.683,3.0,MEDIUM,2.0,True,1,True,False,False,16.0,28.5,46.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,38,80.856,3.0,MEDIUM,3.0,True,1,True,False,False,16.0,28.3,47.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,39,80.508,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,28.1,46.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,40,80.849,3.0,MEDIUM,5.0,True,1,True,False,False,16.0,28.3,47.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,41,80.615,3.0,MEDIUM,6.0,True,1,True,False,False,16.0,28.3,47.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,42,80.455,3.0,MEDIUM,7.0,True,1,True,False,False,16.0,28.2,46.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,43,80.747,3.0,MEDIUM,8.0,True,1,True,False,False,15.0,28.3,46.8,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,44,80.529,3.0,MEDIUM,9.0,True,1,True,False,False,14.0,28.4,46.8,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,45,80.579,3.0,MEDIUM,10.0,True,1,True,False,False,12.0,28.4,47.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,46,80.236,3.0,MEDIUM,11.0,True,1,True,False,False,12.0,28.3,47.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,47,80.017,3.0,MEDIUM,12.0,True,1,True,False,False,12.0,28.2,48.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,48,80.963,3.0,MEDIUM,13.0,True,1,True,False,False,12.0,28.2,48.2,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,49,80.718,3.0,MEDIUM,14.0,True,1,True,False,False,11.0,28.3,48.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,50,81.975,3.0,MEDIUM,15.0,True,1,True,False,False,11.0,28.5,48.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,51,82.963,3.0,MEDIUM,16.0,True,1,True,False,False,11.0,28.6,48.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,52,82.704,3.0,MEDIUM,17.0,True,1,True,False,False,13.0,28.6,47.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,53,80.958,3.0,MEDIUM,18.0,True,1,True,False,False,13.0,28.6,47.0,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,54,98.755,3.0,MEDIUM,19.0,True,124,False,True,False,12.0,28.6,47.7,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,55,136.078,4.0,SOFT,7.0,False,4,False,False,True,15.0,28.7,47.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,56,127.286,4.0,SOFT,8.0,False,4,False,False,False,14.0,28.7,47.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,57,115.055,4.0,SOFT,9.0,False,4,False,False,False,14.0,28.8,47.6,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,58,83.573,4.0,SOFT,10.0,False,4,False,False,False,14.0,28.9,48.1,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,59,82.104,4.0,SOFT,11.0,False,4,False,False,False,14.0,28.8,48.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,60,93.977,4.0,SOFT,12.0,False,41,False,False,False,14.0,28.9,48.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,61,81.477,4.0,SOFT,13.0,False,1,True,False,False,14.0,28.9,47.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,62,80.255,4.0,SOFT,14.0,False,1,True,False,False,14.0,29.0,46.5,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,63,78.907,4.0,SOFT,15.0,False,1,True,False,False,13.0,29.0,47.3,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,64,80.3,4.0,SOFT,16.0,False,1,True,False,False,13.0,29.0,46.9,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,65,80.082,4.0,SOFT,17.0,False,1,True,False,False,13.0,29.2,47.4,False,14.0,17.0
+2025,9,Spanish Grand Prix,Barcelona,66,BEA,Haas F1 Team,66,79.675,4.0,SOFT,18.0,False,1,True,False,False,13.0,29.5,47.5,False,14.0,17.0

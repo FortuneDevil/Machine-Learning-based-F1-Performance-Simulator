@@ -1,0 +1,7 @@
+
+# Large trained models
+/models/*.pkl
+
+# Local model artifacts
+*.pkl
+# Large datasets

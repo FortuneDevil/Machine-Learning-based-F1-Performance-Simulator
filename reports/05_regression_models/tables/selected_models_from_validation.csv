@@ -1,0 +1,5 @@
+target,model,r2,rmse,mae,n_train,n_validation
+cl_total,Extra Trees,0.9994895295,0.0141076317,0.010842796,69999,15000
+cd_total,Multiple Linear Regression,1.0,0.0,0.0,69999,15000
+cop_shift,Extra Trees,0.9999928482,0.000595997,0.0003811225,69999,15000
+energy_drain_kw,Extra Trees,0.9998778759,1.6456792144,0.971719703,69999,15000

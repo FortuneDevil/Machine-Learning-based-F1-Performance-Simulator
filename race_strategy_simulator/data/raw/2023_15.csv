@@ -1,0 +1,1089 @@
+Year,Round,EventName,Location,TotalLaps,Driver,Team,LapNumber,LapTimeS,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,PitIn,PitOut,Position,AirTemp,TrackTemp,Rainfall,GridPosition,FinishPosition
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,1,109.827,1.0,HARD,1.0,True,12,False,False,False,10.0,29.8,36.7,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,2,101.596,1.0,HARD,2.0,True,12,True,False,False,9.0,29.8,37.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,3,101.51,1.0,HARD,3.0,True,1,True,False,False,9.0,29.9,37.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,4,101.143,1.0,HARD,4.0,True,1,True,False,False,9.0,29.9,37.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,5,101.308,1.0,HARD,5.0,True,1,True,False,False,9.0,29.9,37.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,6,101.313,1.0,HARD,6.0,True,1,True,False,False,8.0,30.0,36.7,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,7,100.423,1.0,HARD,7.0,True,1,True,False,False,8.0,30.0,36.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,8,100.177,1.0,HARD,8.0,True,1,True,False,False,8.0,30.0,36.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,9,100.264,1.0,HARD,9.0,True,1,True,False,False,8.0,30.0,36.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,10,100.408,1.0,HARD,10.0,True,1,True,False,False,8.0,30.0,36.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,11,100.423,1.0,HARD,11.0,True,1,True,False,False,8.0,30.0,36.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,12,100.602,1.0,HARD,12.0,True,1,True,False,False,8.0,30.1,36.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,13,100.693,1.0,HARD,13.0,True,1,True,False,False,8.0,30.1,36.6,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,14,100.633,1.0,HARD,14.0,True,1,True,False,False,8.0,30.1,36.4,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,15,100.206,1.0,HARD,15.0,True,1,True,False,False,8.0,30.1,36.4,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,16,100.39,1.0,HARD,16.0,True,1,True,False,False,8.0,30.1,36.4,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,17,100.481,1.0,HARD,17.0,True,1,True,False,False,8.0,30.1,36.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,18,100.464,1.0,HARD,18.0,True,1,True,False,False,8.0,30.0,36.4,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,19,100.746,1.0,HARD,19.0,True,12,True,False,False,8.0,30.0,36.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,20,118.294,1.0,HARD,20.0,True,14,False,False,False,6.0,30.0,36.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,21,,1.0,HARD,21.0,True,4,False,False,False,2.0,30.0,36.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,22,149.966,1.0,HARD,22.0,True,41,False,False,False,2.0,30.0,36.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,23,103.346,1.0,HARD,23.0,True,1,True,False,False,3.0,30.0,36.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,24,101.971,1.0,HARD,24.0,True,1,True,False,False,4.0,29.9,36.1,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,25,100.7,1.0,HARD,25.0,True,1,True,False,False,4.0,29.9,36.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,26,100.244,1.0,HARD,26.0,True,1,True,False,False,4.0,29.8,36.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,27,101.18,1.0,HARD,27.0,True,1,True,False,False,5.0,29.9,36.1,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,28,101.431,1.0,HARD,28.0,True,1,True,False,False,6.0,30.0,35.7,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,29,100.437,1.0,HARD,29.0,True,1,True,False,False,6.0,30.0,35.7,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,30,100.326,1.0,HARD,30.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,31,100.247,1.0,HARD,31.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,32,100.033,1.0,HARD,32.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,33,100.087,1.0,HARD,33.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,34,100.378,1.0,HARD,34.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,35,100.266,1.0,HARD,35.0,True,1,True,False,False,6.0,30.0,35.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,36,100.372,1.0,HARD,36.0,True,1,True,False,False,6.0,29.9,35.4,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,37,100.224,1.0,HARD,37.0,True,1,True,False,False,6.0,29.9,35.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,38,100.61,1.0,HARD,38.0,True,1,True,False,False,6.0,29.8,35.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,39,101.173,1.0,HARD,39.0,True,1,True,False,False,6.0,29.8,35.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,40,108.808,1.0,HARD,40.0,True,1,False,True,False,6.0,29.7,35.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,41,119.248,2.0,MEDIUM,1.0,True,1,False,False,True,15.0,29.8,35.5,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,42,97.713,2.0,MEDIUM,2.0,True,1,True,False,False,15.0,29.8,35.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,43,116.357,2.0,MEDIUM,3.0,True,126,False,False,False,13.0,29.7,34.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,44,137.522,2.0,MEDIUM,4.0,True,6,False,False,False,12.0,29.7,35.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,45,104.939,2.0,MEDIUM,5.0,True,671,False,False,False,11.0,29.6,35.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,46,97.57,2.0,MEDIUM,6.0,True,1,True,False,False,11.0,29.6,35.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,47,98.09,2.0,MEDIUM,7.0,True,12,True,False,False,10.0,29.5,34.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,48,98.333,2.0,MEDIUM,8.0,True,1,True,False,False,9.0,29.5,34.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,49,97.085,2.0,MEDIUM,9.0,True,1,True,False,False,9.0,29.5,35.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,50,99.006,2.0,MEDIUM,10.0,True,1,True,False,False,8.0,29.6,35.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,51,97.144,2.0,MEDIUM,11.0,True,1,True,False,False,8.0,29.6,35.2,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,52,96.835,2.0,MEDIUM,12.0,True,1,True,False,False,8.0,29.7,35.3,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,53,97.132,2.0,MEDIUM,13.0,True,12,True,False,False,8.0,29.6,34.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,54,98.196,2.0,MEDIUM,14.0,True,1,True,False,False,7.0,29.6,34.6,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,55,96.899,2.0,MEDIUM,15.0,True,1,True,False,False,7.0,29.5,34.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,56,97.519,2.0,MEDIUM,16.0,True,1,True,False,False,7.0,29.5,34.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,57,99.299,2.0,MEDIUM,17.0,True,1,True,False,False,6.0,29.6,34.8,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,58,96.912,2.0,MEDIUM,18.0,True,12,True,False,False,6.0,29.5,34.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,59,96.748,2.0,MEDIUM,19.0,True,21,True,False,False,6.0,29.5,35.0,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,60,96.758,2.0,MEDIUM,20.0,True,1,True,False,False,6.0,29.5,35.1,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,61,96.575,2.0,MEDIUM,21.0,True,1,True,False,False,6.0,29.5,34.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,VER,Red Bull Racing,62,98.197,2.0,MEDIUM,22.0,True,12,True,False,False,5.0,29.5,34.9,False,11.0,5.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,1,110.115,1.0,MEDIUM,1.0,True,12,False,False,False,11.0,29.8,36.7,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,2,102.353,1.0,MEDIUM,2.0,True,12,True,False,False,11.0,29.8,37.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,3,101.442,1.0,MEDIUM,3.0,True,1,True,False,False,11.0,29.9,37.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,4,101.334,1.0,MEDIUM,4.0,True,1,True,False,False,11.0,29.9,37.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,5,101.292,1.0,MEDIUM,5.0,True,1,True,False,False,11.0,29.9,37.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,6,101.829,1.0,MEDIUM,6.0,True,1,True,False,False,11.0,30.0,36.7,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,7,101.399,1.0,MEDIUM,7.0,True,1,True,False,False,11.0,30.0,36.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,8,100.677,1.0,MEDIUM,8.0,True,1,True,False,False,11.0,30.0,36.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,9,101.063,1.0,MEDIUM,9.0,True,1,True,False,False,11.0,30.0,36.6,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,10,100.378,1.0,MEDIUM,10.0,True,1,True,False,False,11.0,30.0,36.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,11,100.728,1.0,MEDIUM,11.0,True,1,True,False,False,11.0,30.0,36.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,12,100.439,1.0,MEDIUM,12.0,True,1,True,False,False,11.0,30.0,36.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,13,100.829,1.0,MEDIUM,13.0,True,1,True,False,False,11.0,30.1,36.6,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,14,100.627,1.0,MEDIUM,14.0,True,1,True,False,False,11.0,30.1,36.4,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,15,100.602,1.0,MEDIUM,15.0,True,1,True,False,False,11.0,30.1,36.4,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,16,100.929,1.0,MEDIUM,16.0,True,1,True,False,False,11.0,30.1,36.4,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,17,100.673,1.0,MEDIUM,17.0,True,1,True,False,False,11.0,30.1,36.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,18,100.866,1.0,MEDIUM,18.0,True,1,True,False,False,11.0,30.0,36.4,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,19,101.061,1.0,MEDIUM,19.0,True,12,True,False,False,11.0,30.0,36.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,20,128.721,1.0,MEDIUM,20.0,True,14,False,True,False,12.0,30.0,36.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,21,,2.0,HARD,1.0,True,4,False,False,True,12.0,30.0,36.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,22,140.73,2.0,HARD,2.0,True,41,False,False,False,12.0,30.0,36.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,23,103.344,2.0,HARD,3.0,True,1,True,False,False,11.0,30.0,36.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,24,102.407,2.0,HARD,4.0,True,1,True,False,False,11.0,29.9,36.1,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,25,101.048,2.0,HARD,5.0,True,1,True,False,False,11.0,29.9,36.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,26,100.92,2.0,HARD,6.0,True,1,True,False,False,11.0,29.8,36.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,27,100.396,2.0,HARD,7.0,True,1,True,False,False,11.0,29.9,36.1,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,28,101.536,2.0,HARD,8.0,True,1,True,False,False,11.0,30.0,35.7,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,29,101.706,2.0,HARD,9.0,True,1,True,False,False,11.0,30.0,35.7,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,30,100.28,2.0,HARD,10.0,True,1,True,False,False,11.0,30.0,35.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,31,99.974,2.0,HARD,11.0,True,1,True,False,False,11.0,30.0,35.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,32,100.406,2.0,HARD,12.0,True,1,True,False,False,11.0,30.0,35.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,33,100.154,2.0,HARD,13.0,True,1,True,False,False,11.0,30.0,35.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,34,101.321,2.0,HARD,14.0,True,1,True,False,False,11.0,30.0,35.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,35,102.563,2.0,HARD,15.0,True,1,True,False,False,11.0,30.0,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,36,99.965,2.0,HARD,16.0,True,1,True,False,False,10.0,29.9,35.4,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,37,100.508,2.0,HARD,17.0,True,1,True,False,False,10.0,29.9,35.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,38,101.261,2.0,HARD,18.0,True,1,True,False,False,10.0,29.8,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,39,102.86,2.0,HARD,19.0,True,1,True,False,False,9.0,29.8,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,40,99.885,2.0,HARD,20.0,True,1,True,False,False,9.0,29.7,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,41,99.934,2.0,HARD,21.0,True,1,True,False,False,8.0,29.8,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,42,99.835,2.0,HARD,22.0,True,1,True,False,False,8.0,29.8,35.5,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,43,110.491,2.0,HARD,23.0,True,126,False,False,False,7.0,29.7,34.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,44,137.976,2.0,HARD,24.0,True,6,False,False,False,6.0,29.7,35.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,45,111.238,2.0,HARD,25.0,True,671,False,False,False,6.0,29.6,35.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,46,98.277,2.0,HARD,26.0,True,1,True,False,False,6.0,29.6,35.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,47,98.568,2.0,HARD,27.0,True,12,True,False,False,6.0,29.5,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,48,98.548,2.0,HARD,28.0,True,1,True,False,False,6.0,29.5,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,49,98.634,2.0,HARD,29.0,True,1,True,False,False,6.0,29.5,35.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,50,98.688,2.0,HARD,30.0,True,1,True,False,False,6.0,29.6,35.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,51,98.525,2.0,HARD,31.0,True,1,True,False,False,6.0,29.6,35.2,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,52,98.755,2.0,HARD,32.0,True,1,True,False,False,6.0,29.7,35.3,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,53,98.718,2.0,HARD,33.0,True,12,True,False,False,6.0,29.6,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,54,98.844,2.0,HARD,34.0,True,1,True,False,False,6.0,29.6,34.6,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,55,99.373,2.0,HARD,35.0,True,1,True,False,False,6.0,29.5,34.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,56,99.292,2.0,HARD,36.0,True,1,True,False,False,6.0,29.5,34.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,57,100.874,2.0,HARD,37.0,True,1,True,False,False,7.0,29.6,34.8,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,58,99.658,2.0,HARD,38.0,True,12,True,False,False,7.0,29.5,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,59,99.709,2.0,HARD,39.0,True,21,True,False,False,7.0,29.5,35.0,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,60,99.62,2.0,HARD,40.0,True,1,True,False,False,7.0,29.5,35.1,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,61,99.711,2.0,HARD,41.0,True,1,True,False,False,7.0,29.5,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,GAS,Alpine,62,102.273,2.0,HARD,42.0,True,12,True,False,False,6.0,29.5,34.9,False,12.0,6.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,1,111.589,1.0,HARD,1.0,True,12,False,False,False,13.0,29.8,36.7,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,2,102.009,1.0,HARD,2.0,True,12,True,False,False,13.0,29.8,37.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,3,101.622,1.0,HARD,3.0,True,1,True,False,False,13.0,29.9,37.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,4,101.354,1.0,HARD,4.0,True,1,True,False,False,13.0,29.9,37.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,5,101.331,1.0,HARD,5.0,True,1,True,False,False,13.0,29.9,37.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,6,103.147,1.0,HARD,6.0,True,1,True,False,False,13.0,30.0,36.7,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,7,101.353,1.0,HARD,7.0,True,1,True,False,False,13.0,30.0,36.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,8,100.556,1.0,HARD,8.0,True,1,True,False,False,13.0,30.0,36.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,9,100.694,1.0,HARD,9.0,True,1,True,False,False,13.0,30.0,36.6,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,10,100.643,1.0,HARD,10.0,True,1,True,False,False,13.0,30.0,36.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,11,100.693,1.0,HARD,11.0,True,1,True,False,False,13.0,30.0,36.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,12,100.715,1.0,HARD,12.0,True,1,True,False,False,13.0,30.0,36.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,13,100.843,1.0,HARD,13.0,True,1,True,False,False,13.0,30.1,36.6,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,14,100.314,1.0,HARD,14.0,True,1,True,False,False,13.0,30.1,36.4,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,15,100.538,1.0,HARD,15.0,True,1,True,False,False,13.0,30.1,36.4,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,16,100.688,1.0,HARD,16.0,True,1,True,False,False,13.0,30.1,36.4,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,17,100.987,1.0,HARD,17.0,True,1,True,False,False,13.0,30.1,36.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,18,101.077,1.0,HARD,18.0,True,1,True,False,False,13.0,30.0,36.4,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,19,101.404,1.0,HARD,19.0,True,12,True,False,False,13.0,30.0,36.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,20,121.114,1.0,HARD,20.0,True,14,False,False,False,9.0,30.0,36.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,21,,1.0,HARD,21.0,True,4,False,False,False,4.0,30.0,36.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,22,148.562,1.0,HARD,22.0,True,41,False,False,False,4.0,30.0,36.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,23,104.195,1.0,HARD,23.0,True,1,True,False,False,5.0,30.0,36.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,24,102.735,1.0,HARD,24.0,True,1,True,False,False,6.0,29.9,36.1,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,25,101.532,1.0,HARD,25.0,True,1,True,False,False,7.0,29.9,36.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,26,100.595,1.0,HARD,26.0,True,1,True,False,False,7.0,29.8,36.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,27,100.5,1.0,HARD,27.0,True,1,True,False,False,7.0,29.9,36.1,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,28,101.833,1.0,HARD,28.0,True,1,True,False,False,7.0,30.0,35.7,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,29,100.29,1.0,HARD,29.0,True,1,True,False,False,7.0,30.0,35.7,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,30,100.319,1.0,HARD,30.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,31,100.205,1.0,HARD,31.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,32,100.254,1.0,HARD,32.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,33,100.355,1.0,HARD,33.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,34,100.822,1.0,HARD,34.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,35,100.326,1.0,HARD,35.0,True,1,True,False,False,7.0,30.0,35.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,36,101.489,1.0,HARD,36.0,True,1,True,False,False,7.0,29.9,35.4,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,37,103.171,1.0,HARD,37.0,True,1,True,False,False,7.0,29.9,35.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,38,101.321,1.0,HARD,38.0,True,1,True,False,False,7.0,29.8,35.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,39,113.087,1.0,HARD,39.0,True,1,False,True,False,15.0,29.8,35.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,40,119.337,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,29.7,35.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,41,98.551,2.0,MEDIUM,2.0,True,1,True,False,False,17.0,29.8,35.5,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,42,98.709,2.0,MEDIUM,3.0,True,12,True,False,False,17.0,29.8,35.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,43,120.69,2.0,MEDIUM,4.0,True,26,False,False,False,15.0,29.7,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,44,137.392,2.0,MEDIUM,5.0,True,67,False,False,False,14.0,29.7,35.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,45,100.229,2.0,MEDIUM,6.0,True,71,False,False,False,13.0,29.6,35.1,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,46,97.541,2.0,MEDIUM,7.0,True,12,True,False,False,13.0,29.6,35.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,47,98.235,2.0,MEDIUM,8.0,True,21,True,False,False,13.0,29.5,34.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,48,98.351,2.0,MEDIUM,9.0,True,1,True,False,False,13.0,29.6,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,49,98.01,2.0,MEDIUM,10.0,True,1,True,False,False,13.0,29.5,35.0,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,50,97.799,2.0,MEDIUM,11.0,True,1,True,False,False,13.0,29.6,35.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,51,98.116,2.0,MEDIUM,12.0,True,1,True,False,False,13.0,29.6,35.6,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,52,99.858,2.0,MEDIUM,13.0,True,12,True,False,False,12.0,29.7,35.3,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,53,99.32,2.0,MEDIUM,14.0,True,21,True,False,False,11.0,29.6,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,54,98.386,2.0,MEDIUM,15.0,True,1,True,False,False,11.0,29.6,34.6,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,55,97.746,2.0,MEDIUM,16.0,True,1,True,False,False,11.0,29.5,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,56,98.016,2.0,MEDIUM,17.0,True,1,True,False,False,11.0,29.5,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,57,101.365,2.0,MEDIUM,18.0,True,1,True,False,False,11.0,29.6,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,58,100.912,2.0,MEDIUM,19.0,True,12,True,False,False,10.0,29.5,34.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,59,102.042,2.0,MEDIUM,20.0,True,1,True,False,False,10.0,29.5,35.2,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,60,99.147,2.0,MEDIUM,21.0,True,1,True,False,False,9.0,29.5,35.1,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,61,97.108,2.0,MEDIUM,22.0,True,12,True,False,False,9.0,29.5,34.9,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PER,Red Bull Racing,62,98.189,2.0,MEDIUM,23.0,True,2,True,False,False,8.0,29.4,34.8,False,13.0,8.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,1,107.377,1.0,MEDIUM,1.0,True,12,False,False,False,6.0,29.8,36.7,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,2,102.255,1.0,MEDIUM,2.0,True,12,True,False,False,6.0,29.8,37.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,3,101.349,1.0,MEDIUM,3.0,True,1,True,False,False,6.0,29.9,37.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,4,101.356,1.0,MEDIUM,4.0,True,1,True,False,False,6.0,29.9,37.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,5,101.194,1.0,MEDIUM,5.0,True,1,True,False,False,6.0,29.9,37.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,6,100.686,1.0,MEDIUM,6.0,True,1,True,False,False,6.0,30.0,36.7,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,7,100.774,1.0,MEDIUM,7.0,True,1,True,False,False,6.0,30.0,36.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,8,100.21,1.0,MEDIUM,8.0,True,1,True,False,False,6.0,30.0,36.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,9,100.422,1.0,MEDIUM,9.0,True,1,True,False,False,6.0,30.0,36.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,10,100.555,1.0,MEDIUM,10.0,True,1,True,False,False,6.0,30.0,36.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,11,100.147,1.0,MEDIUM,11.0,True,1,True,False,False,6.0,30.0,36.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,12,100.383,1.0,MEDIUM,12.0,True,1,True,False,False,6.0,30.1,36.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,13,100.554,1.0,MEDIUM,13.0,True,1,True,False,False,6.0,30.1,36.6,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,14,100.18,1.0,MEDIUM,14.0,True,1,True,False,False,6.0,30.1,36.4,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,15,100.095,1.0,MEDIUM,15.0,True,1,True,False,False,6.0,30.1,36.4,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,16,100.238,1.0,MEDIUM,16.0,True,1,True,False,False,6.0,30.1,36.4,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,17,100.499,1.0,MEDIUM,17.0,True,1,True,False,False,6.0,30.1,36.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,18,100.316,1.0,MEDIUM,18.0,True,1,True,False,False,6.0,30.0,36.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,19,100.346,1.0,MEDIUM,19.0,True,12,True,False,False,6.0,30.0,36.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,20,124.3,1.0,MEDIUM,20.0,True,14,False,True,False,7.0,30.0,36.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,21,,2.0,HARD,1.0,True,4,False,False,True,8.0,30.0,36.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,22,145.198,2.0,HARD,2.0,True,41,False,False,False,8.0,30.0,36.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,23,103.291,2.0,HARD,3.0,True,1,True,False,False,8.0,30.0,36.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,24,103.137,2.0,HARD,4.0,True,1,True,False,False,8.0,29.9,36.1,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,25,100.689,2.0,HARD,5.0,True,1,True,False,False,8.0,29.9,36.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,26,100.896,2.0,HARD,6.0,True,1,True,False,False,8.0,29.8,36.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,27,100.185,2.0,HARD,7.0,True,1,True,False,False,8.0,29.9,36.1,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,28,101.931,2.0,HARD,8.0,True,1,True,False,False,8.0,30.0,35.7,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,29,101.292,2.0,HARD,9.0,True,1,True,False,False,8.0,30.0,35.7,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,30,100.128,2.0,HARD,10.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,31,100.049,2.0,HARD,11.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,32,100.39,2.0,HARD,12.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,33,99.636,2.0,HARD,13.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,34,100.578,2.0,HARD,14.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,35,100.626,2.0,HARD,15.0,True,1,True,False,False,8.0,30.0,35.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,36,101.265,2.0,HARD,16.0,True,1,True,False,False,8.0,29.9,35.4,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,37,104.094,2.0,HARD,17.0,True,1,True,False,False,9.0,29.9,35.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,38,101.208,2.0,HARD,18.0,True,1,True,False,False,9.0,29.8,35.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,39,102.062,2.0,HARD,19.0,True,1,True,False,False,8.0,29.8,35.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,40,100.154,2.0,HARD,20.0,True,1,True,False,False,8.0,29.7,35.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,41,100.18,2.0,HARD,21.0,True,1,True,False,False,7.0,29.8,35.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,42,100.146,2.0,HARD,22.0,True,1,True,False,False,7.0,29.8,35.5,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,43,110.179,2.0,HARD,23.0,True,126,False,False,False,6.0,29.7,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,44,144.76,2.0,HARD,24.0,True,6,False,True,False,9.0,29.7,35.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,45,146.081,3.0,SOFT,3.0,False,671,False,False,True,15.0,29.6,35.3,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,46,113.333,3.0,SOFT,4.0,False,12,True,False,False,17.0,29.5,35.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,47,96.456,3.0,SOFT,5.0,False,1,True,False,False,17.0,29.5,34.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,48,99.79,3.0,SOFT,6.0,False,1,True,False,False,17.0,29.6,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,49,98.787,3.0,SOFT,7.0,False,1,True,False,False,17.0,29.6,34.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,50,98.088,3.0,SOFT,8.0,False,1,True,False,False,17.0,29.6,35.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,51,98.463,3.0,SOFT,9.0,False,1,True,False,False,17.0,29.6,35.6,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,52,97.943,3.0,SOFT,10.0,False,12,True,False,False,16.0,29.6,34.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,53,98.559,3.0,SOFT,11.0,False,1,True,False,False,16.0,29.6,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,54,98.179,3.0,SOFT,12.0,False,1,True,False,False,16.0,29.6,34.6,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,55,98.012,3.0,SOFT,13.0,False,1,True,False,False,16.0,29.5,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,56,98.436,3.0,SOFT,14.0,False,1,True,False,False,16.0,29.5,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,57,98.303,3.0,SOFT,15.0,False,1,True,False,False,16.0,29.6,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,58,98.941,3.0,SOFT,16.0,False,12,True,False,False,16.0,29.5,35.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,59,98.518,3.0,SOFT,17.0,False,1,True,False,False,16.0,29.5,35.2,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,60,98.728,3.0,SOFT,18.0,False,1,True,False,False,16.0,29.5,35.0,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,61,101.542,3.0,SOFT,19.0,False,12,True,False,False,16.0,29.5,34.9,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALO,Aston Martin,62,104.29,3.0,SOFT,20.0,False,2,True,False,False,15.0,29.4,34.8,False,7.0,15.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,1,104.544,1.0,SOFT,4.0,False,12,False,False,False,2.0,29.8,36.7,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,2,101.338,1.0,SOFT,5.0,False,12,True,False,False,2.0,29.8,37.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,3,100.752,1.0,SOFT,6.0,False,1,True,False,False,2.0,29.9,37.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,4,100.661,1.0,SOFT,7.0,False,1,True,False,False,2.0,29.9,37.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,5,100.328,1.0,SOFT,8.0,False,1,True,False,False,2.0,29.9,37.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,6,100.165,1.0,SOFT,9.0,False,1,True,False,False,2.0,30.0,36.7,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,7,100.279,1.0,SOFT,10.0,False,1,True,False,False,2.0,30.0,36.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,8,100.396,1.0,SOFT,11.0,False,1,True,False,False,2.0,30.0,36.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,9,99.646,1.0,SOFT,12.0,False,1,True,False,False,2.0,30.0,36.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,10,100.79,1.0,SOFT,13.0,False,1,True,False,False,2.0,30.0,36.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,11,100.403,1.0,SOFT,14.0,False,1,True,False,False,2.0,30.0,36.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,12,100.392,1.0,SOFT,15.0,False,1,True,False,False,2.0,30.1,36.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,13,100.154,1.0,SOFT,16.0,False,1,True,False,False,2.0,30.1,36.6,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,14,101.622,1.0,SOFT,17.0,False,1,True,False,False,2.0,30.1,36.4,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,15,99.613,1.0,SOFT,18.0,False,1,True,False,False,2.0,30.1,36.4,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,16,99.625,1.0,SOFT,19.0,False,1,True,False,False,2.0,30.1,36.4,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,17,99.8,1.0,SOFT,20.0,False,1,True,False,False,2.0,30.1,36.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,18,99.613,1.0,SOFT,21.0,False,1,True,False,False,2.0,30.0,36.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,19,100.236,1.0,SOFT,22.0,False,12,True,False,False,2.0,30.0,36.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,20,121.624,1.0,SOFT,23.0,False,14,False,True,False,2.0,30.0,36.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,21,,2.0,HARD,1.0,True,4,False,False,True,6.0,30.0,36.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,22,147.929,2.0,HARD,2.0,True,41,False,False,False,6.0,30.0,36.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,23,103.955,2.0,HARD,3.0,True,1,True,False,False,7.0,30.0,36.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,24,102.668,2.0,HARD,4.0,True,1,True,False,False,7.0,29.9,36.1,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,25,99.748,2.0,HARD,5.0,True,1,True,False,False,6.0,29.9,36.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,26,99.892,2.0,HARD,6.0,True,1,True,False,False,6.0,29.8,36.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,27,99.899,2.0,HARD,7.0,True,1,True,False,False,6.0,29.9,36.1,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,28,99.562,2.0,HARD,8.0,True,1,True,False,False,5.0,30.0,35.7,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,29,99.683,2.0,HARD,9.0,True,1,True,False,False,5.0,30.0,35.7,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,30,99.208,2.0,HARD,10.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,31,99.433,2.0,HARD,11.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,32,99.391,2.0,HARD,12.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,33,99.485,2.0,HARD,13.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,34,99.518,2.0,HARD,14.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,35,99.747,2.0,HARD,15.0,True,1,True,False,False,5.0,30.0,35.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,36,99.443,2.0,HARD,16.0,True,1,True,False,False,5.0,29.9,35.4,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,37,99.639,2.0,HARD,17.0,True,1,True,False,False,5.0,29.9,35.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,38,99.946,2.0,HARD,18.0,True,1,True,False,False,5.0,29.8,35.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,39,99.448,2.0,HARD,19.0,True,1,True,False,False,5.0,29.8,35.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,40,99.557,2.0,HARD,20.0,True,1,True,False,False,5.0,29.7,35.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,41,99.368,2.0,HARD,21.0,True,1,True,False,False,5.0,29.8,35.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,42,99.888,2.0,HARD,22.0,True,1,True,False,False,5.0,29.8,35.5,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,43,99.996,2.0,HARD,23.0,True,126,False,False,False,5.0,29.7,34.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,44,138.447,2.0,HARD,24.0,True,6,False,False,False,3.0,29.7,34.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,45,120.846,2.0,HARD,25.0,True,671,False,False,False,3.0,29.6,35.3,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,46,98.275,2.0,HARD,26.0,True,1,True,False,False,3.0,29.6,35.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,47,98.403,2.0,HARD,27.0,True,12,True,False,False,3.0,29.5,35.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,48,98.496,2.0,HARD,28.0,True,1,True,False,False,3.0,29.5,34.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,49,98.453,2.0,HARD,29.0,True,1,True,False,False,3.0,29.6,34.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,50,98.439,2.0,HARD,30.0,True,1,True,False,False,3.0,29.6,34.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,51,98.803,2.0,HARD,31.0,True,1,True,False,False,3.0,29.6,35.2,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,52,98.848,2.0,HARD,32.0,True,1,True,False,False,3.0,29.6,35.6,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,53,100.213,2.0,HARD,33.0,True,12,True,False,False,4.0,29.6,34.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,54,101.831,2.0,HARD,34.0,True,1,True,False,False,5.0,29.6,34.6,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,55,100.617,2.0,HARD,35.0,True,1,True,False,False,5.0,29.6,34.6,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,56,100.298,2.0,HARD,36.0,True,1,True,False,False,5.0,29.5,34.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,57,100.043,2.0,HARD,37.0,True,1,True,False,False,5.0,29.6,34.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,58,100.222,2.0,HARD,38.0,True,1,True,False,False,5.0,29.6,34.8,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,59,100.545,2.0,HARD,39.0,True,12,True,False,False,5.0,29.5,35.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,60,100.105,2.0,HARD,40.0,True,1,True,False,False,5.0,29.5,35.1,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,61,100.615,2.0,HARD,41.0,True,1,True,False,False,5.0,29.5,35.0,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LEC,Ferrari,62,100.946,2.0,HARD,42.0,True,12,True,False,False,4.0,29.5,34.9,False,3.0,4.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,1,114.06,1.0,MEDIUM,1.0,True,12,False,False,False,16.0,29.8,36.7,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,2,101.983,1.0,MEDIUM,2.0,True,21,True,False,False,16.0,29.8,37.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,3,101.7,1.0,MEDIUM,3.0,True,1,True,False,False,16.0,29.9,37.3,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,4,101.875,1.0,MEDIUM,4.0,True,1,True,False,False,16.0,29.9,37.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,5,101.264,1.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.9,37.0,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,6,101.636,1.0,MEDIUM,6.0,True,1,True,False,False,16.0,30.0,36.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,7,102.886,1.0,MEDIUM,7.0,True,1,True,False,False,16.0,30.0,36.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,8,101.683,1.0,MEDIUM,8.0,True,1,True,False,False,16.0,30.0,36.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,9,101.228,1.0,MEDIUM,9.0,True,1,True,False,False,16.0,30.0,36.6,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,10,100.739,1.0,MEDIUM,10.0,True,1,True,False,False,16.0,30.0,36.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,11,100.711,1.0,MEDIUM,11.0,True,1,True,False,False,16.0,30.0,36.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,12,100.554,1.0,MEDIUM,12.0,True,1,True,False,False,16.0,30.0,36.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,13,100.797,1.0,MEDIUM,13.0,True,1,True,False,False,16.0,30.1,36.6,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,14,100.983,1.0,MEDIUM,14.0,True,1,True,False,False,16.0,30.1,36.4,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,15,100.838,1.0,MEDIUM,15.0,True,1,True,False,False,16.0,30.1,36.4,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,16,100.965,1.0,MEDIUM,16.0,True,1,True,False,False,16.0,30.1,36.4,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,17,101.113,1.0,MEDIUM,17.0,True,1,True,False,False,16.0,30.1,36.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,18,101.57,1.0,MEDIUM,18.0,True,1,True,False,False,16.0,30.0,36.4,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,19,149.645,1.0,MEDIUM,19.0,True,124,False,True,False,18.0,30.0,36.3,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,20,,2.0,HARD,1.0,True,4,False,False,True,18.0,30.0,36.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,21,135.091,2.0,HARD,2.0,True,4,False,False,False,18.0,30.0,36.4,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,22,100.354,2.0,HARD,3.0,True,41,False,False,False,18.0,29.9,36.0,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,23,99.856,2.0,HARD,4.0,True,1,True,False,False,18.0,29.9,36.1,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,24,100.39,2.0,HARD,5.0,True,1,True,False,False,18.0,29.9,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,25,100.3,2.0,HARD,6.0,True,1,True,False,False,18.0,29.9,36.0,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,26,100.338,2.0,HARD,7.0,True,1,True,False,False,18.0,29.9,36.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,27,99.889,2.0,HARD,8.0,True,1,True,False,False,18.0,30.0,36.1,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,28,99.972,2.0,HARD,9.0,True,1,True,False,False,18.0,30.0,35.7,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,29,99.748,2.0,HARD,10.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,30,99.904,2.0,HARD,11.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,31,99.69,2.0,HARD,12.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,32,99.807,2.0,HARD,13.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,33,99.763,2.0,HARD,14.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,34,99.799,2.0,HARD,15.0,True,1,True,False,False,18.0,30.0,35.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,35,99.764,2.0,HARD,16.0,True,1,True,False,False,18.0,30.0,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,36,99.878,2.0,HARD,17.0,True,1,True,False,False,18.0,29.9,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,37,99.752,2.0,HARD,18.0,True,1,True,False,False,18.0,29.9,35.3,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,38,99.877,2.0,HARD,19.0,True,1,True,False,False,18.0,29.8,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,39,100.134,2.0,HARD,20.0,True,1,True,False,False,18.0,29.7,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,40,100.28,2.0,HARD,21.0,True,1,True,False,False,17.0,29.7,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,41,100.297,2.0,HARD,22.0,True,1,True,False,False,16.0,29.8,35.5,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,42,100.602,2.0,HARD,23.0,True,12,True,False,False,16.0,29.8,35.3,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,43,128.408,2.0,HARD,24.0,True,26,False,True,False,16.0,29.7,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,44,,3.0,MEDIUM,1.0,True,671,False,False,True,17.0,29.6,35.3,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,45,98.531,3.0,MEDIUM,2.0,True,1,True,False,False,17.0,29.6,35.1,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,46,98.784,3.0,MEDIUM,3.0,True,12,True,False,False,16.0,29.5,35.0,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,47,98.589,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,29.5,34.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,48,98.711,3.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.6,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,49,98.69,3.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.6,34.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,50,98.657,3.0,MEDIUM,7.0,True,1,True,False,False,16.0,29.6,35.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,51,98.62,3.0,MEDIUM,8.0,True,1,True,False,False,16.0,29.6,35.6,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,52,98.812,3.0,MEDIUM,9.0,True,12,True,False,False,15.0,29.6,34.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,53,98.983,3.0,MEDIUM,10.0,True,1,True,False,False,15.0,29.6,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,54,98.933,3.0,MEDIUM,11.0,True,1,True,False,False,15.0,29.6,34.6,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,55,98.858,3.0,MEDIUM,12.0,True,1,True,False,False,15.0,29.5,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,56,98.881,3.0,MEDIUM,13.0,True,1,True,False,False,15.0,29.5,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,57,99.171,3.0,MEDIUM,14.0,True,1,True,False,False,15.0,29.6,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,58,100.767,3.0,MEDIUM,15.0,True,12,True,False,False,15.0,29.5,34.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,59,99.374,3.0,MEDIUM,16.0,True,1,True,False,False,15.0,29.5,35.2,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,60,99.786,3.0,MEDIUM,17.0,True,1,True,False,False,15.0,29.5,35.0,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,61,101.938,3.0,MEDIUM,18.0,True,12,True,False,False,15.0,29.5,34.9,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAR,Williams,62,103.955,3.0,MEDIUM,19.0,True,2,True,False,False,14.0,29.4,34.8,False,18.0,14.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,1,108.345,1.0,MEDIUM,1.0,True,12,False,False,False,8.0,29.8,36.7,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,2,102.668,1.0,MEDIUM,2.0,True,12,True,False,False,8.0,29.8,37.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,3,101.539,1.0,MEDIUM,3.0,True,1,True,False,False,8.0,29.9,37.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,4,101.004,1.0,MEDIUM,4.0,True,1,True,False,False,8.0,29.9,37.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,5,101.469,1.0,MEDIUM,5.0,True,1,True,False,False,8.0,29.9,37.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,6,102.626,1.0,MEDIUM,6.0,True,1,True,False,False,9.0,30.0,36.7,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,7,100.834,1.0,MEDIUM,7.0,True,1,True,False,False,9.0,30.0,36.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,8,100.63,1.0,MEDIUM,8.0,True,1,True,False,False,9.0,30.0,36.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,9,100.995,1.0,MEDIUM,9.0,True,1,True,False,False,9.0,30.0,36.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,10,100.504,1.0,MEDIUM,10.0,True,1,True,False,False,9.0,30.0,36.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,11,100.415,1.0,MEDIUM,11.0,True,1,True,False,False,9.0,30.0,36.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,12,100.705,1.0,MEDIUM,12.0,True,1,True,False,False,9.0,30.0,36.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,13,100.828,1.0,MEDIUM,13.0,True,1,True,False,False,9.0,30.1,36.6,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,14,100.515,1.0,MEDIUM,14.0,True,1,True,False,False,9.0,30.1,36.4,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,15,100.598,1.0,MEDIUM,15.0,True,1,True,False,False,9.0,30.1,36.4,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,16,100.671,1.0,MEDIUM,16.0,True,1,True,False,False,9.0,30.1,36.4,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,17,100.859,1.0,MEDIUM,17.0,True,1,True,False,False,9.0,30.1,36.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,18,100.993,1.0,MEDIUM,18.0,True,1,True,False,False,9.0,30.0,36.4,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,19,101.007,1.0,MEDIUM,19.0,True,12,True,False,False,9.0,30.0,36.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,20,126.536,1.0,MEDIUM,20.0,True,14,False,True,False,10.0,30.0,36.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,21,,2.0,HARD,1.0,True,4,False,False,True,11.0,30.0,36.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,22,141.983,2.0,HARD,2.0,True,41,False,False,False,11.0,30.0,36.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,23,103.438,2.0,HARD,3.0,True,1,True,False,False,10.0,30.0,36.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,24,102.343,2.0,HARD,4.0,True,1,True,False,False,10.0,29.9,36.1,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,25,101.109,2.0,HARD,5.0,True,1,True,False,False,10.0,29.9,36.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,26,100.851,2.0,HARD,6.0,True,1,True,False,False,10.0,29.8,36.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,27,100.481,2.0,HARD,7.0,True,1,True,False,False,10.0,29.9,36.1,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,28,101.579,2.0,HARD,8.0,True,1,True,False,False,10.0,30.0,35.7,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,29,101.565,2.0,HARD,9.0,True,1,True,False,False,10.0,30.0,35.7,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,30,100.224,2.0,HARD,10.0,True,1,True,False,False,10.0,30.0,35.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,31,100.03,2.0,HARD,11.0,True,1,True,False,False,10.0,30.0,35.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,32,100.464,2.0,HARD,12.0,True,1,True,False,False,10.0,30.0,35.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,33,100.096,2.0,HARD,13.0,True,1,True,False,False,10.0,30.0,35.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,34,101.291,2.0,HARD,14.0,True,1,True,False,False,10.0,30.0,35.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,35,102.612,2.0,HARD,15.0,True,1,True,False,False,10.0,30.0,35.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,36,108.13,2.0,HARD,16.0,True,1,True,False,False,16.0,29.9,35.4,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,37,102.352,2.0,HARD,17.0,True,1,True,False,False,16.0,29.9,35.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,38,101.591,2.0,HARD,18.0,True,1,True,False,False,16.0,29.8,35.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,39,101.934,2.0,HARD,19.0,True,1,True,False,False,16.0,29.8,35.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,40,101.757,2.0,HARD,20.0,True,1,True,False,False,15.0,29.7,35.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,41,101.307,2.0,HARD,21.0,True,1,True,False,False,14.0,29.8,35.5,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,42,100.956,2.0,HARD,22.0,True,1,True,False,False,14.0,29.8,35.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,43,126.002,2.0,HARD,23.0,True,126,False,True,False,14.0,29.7,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,44,,3.0,SOFT,4.0,False,671,False,False,True,15.0,29.7,35.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,45,99.787,3.0,SOFT,5.0,False,1,True,False,False,14.0,29.6,35.1,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,46,100.988,3.0,SOFT,6.0,False,12,True,False,False,14.0,29.5,35.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,47,99.742,3.0,SOFT,7.0,False,1,True,False,False,14.0,29.5,34.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,48,98.107,3.0,SOFT,8.0,False,1,True,False,False,14.0,29.6,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,49,98.367,3.0,SOFT,9.0,False,1,True,False,False,14.0,29.6,34.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,50,98.28,3.0,SOFT,10.0,False,1,True,False,False,14.0,29.6,35.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,51,98.215,3.0,SOFT,11.0,False,1,True,False,False,14.0,29.6,35.6,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,52,98.407,3.0,SOFT,12.0,False,12,True,False,False,14.0,29.7,35.3,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,53,98.693,3.0,SOFT,13.0,False,1,True,False,False,14.0,29.6,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,54,98.495,3.0,SOFT,14.0,False,1,True,False,False,14.0,29.6,34.6,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,55,98.29,3.0,SOFT,15.0,False,1,True,False,False,14.0,29.5,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,56,98.567,3.0,SOFT,16.0,False,1,True,False,False,14.0,29.5,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,57,98.954,3.0,SOFT,17.0,False,1,True,False,False,14.0,29.6,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,58,102.141,3.0,SOFT,18.0,False,12,True,False,False,13.0,29.5,34.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,59,100.398,3.0,SOFT,19.0,False,1,True,False,False,12.0,29.5,35.2,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,60,99.695,3.0,SOFT,20.0,False,1,True,False,False,11.0,29.5,35.0,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,61,98.445,3.0,SOFT,21.0,False,12,True,False,False,11.0,29.5,34.9,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,MAG,Haas F1 Team,62,99.418,3.0,SOFT,22.0,False,2,True,False,False,10.0,29.4,34.8,False,6.0,10.0
+2023,15,Singapore Grand Prix,Marina Bay,62,TSU,AlphaTauri,1,,1.0,SOFT,1.0,True,12,False,False,False,,29.8,36.7,False,15.0,19.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,1,113.077,1.0,MEDIUM,1.0,True,12,False,False,False,15.0,29.8,36.7,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,2,101.902,1.0,MEDIUM,2.0,True,12,True,False,False,15.0,29.8,37.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,3,101.783,1.0,MEDIUM,3.0,True,1,True,False,False,15.0,29.9,37.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,4,101.473,1.0,MEDIUM,4.0,True,1,True,False,False,15.0,29.9,37.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,5,101.361,1.0,MEDIUM,5.0,True,1,True,False,False,15.0,29.9,37.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,6,102.001,1.0,MEDIUM,6.0,True,1,True,False,False,15.0,30.0,36.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,7,103.107,1.0,MEDIUM,7.0,True,1,True,False,False,15.0,30.0,36.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,8,101.318,1.0,MEDIUM,8.0,True,1,True,False,False,15.0,30.0,36.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,9,100.869,1.0,MEDIUM,9.0,True,1,True,False,False,15.0,30.0,36.6,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,10,100.625,1.0,MEDIUM,10.0,True,1,True,False,False,15.0,30.0,36.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,11,100.363,1.0,MEDIUM,11.0,True,1,True,False,False,15.0,30.0,36.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,12,100.458,1.0,MEDIUM,12.0,True,1,True,False,False,15.0,30.0,36.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,13,100.755,1.0,MEDIUM,13.0,True,1,True,False,False,15.0,30.1,36.6,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,14,100.775,1.0,MEDIUM,14.0,True,1,True,False,False,15.0,30.1,36.4,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,15,100.638,1.0,MEDIUM,15.0,True,1,True,False,False,15.0,30.1,36.4,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,16,100.815,1.0,MEDIUM,16.0,True,1,True,False,False,15.0,30.1,36.4,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,17,100.689,1.0,MEDIUM,17.0,True,1,True,False,False,15.0,30.1,36.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,18,100.949,1.0,MEDIUM,18.0,True,1,True,False,False,15.0,30.0,36.4,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,19,101.174,1.0,MEDIUM,19.0,True,12,True,False,False,15.0,30.0,36.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,20,128.599,1.0,MEDIUM,20.0,True,14,False,True,False,15.0,30.0,36.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,21,,2.0,HARD,1.0,True,4,False,False,True,16.0,30.0,36.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,22,135.182,2.0,HARD,2.0,True,41,False,False,False,16.0,30.0,36.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,23,103.117,2.0,HARD,3.0,True,1,True,False,False,16.0,30.0,36.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,24,103.087,2.0,HARD,4.0,True,1,True,False,False,15.0,29.9,36.1,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,25,100.961,2.0,HARD,5.0,True,1,True,False,False,15.0,29.9,36.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,26,100.927,2.0,HARD,6.0,True,1,True,False,False,15.0,29.8,36.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,27,101.309,2.0,HARD,7.0,True,1,True,False,False,15.0,29.9,36.1,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,28,101.442,2.0,HARD,8.0,True,1,True,False,False,15.0,30.0,35.7,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,29,101.455,2.0,HARD,9.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,30,100.469,2.0,HARD,10.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,31,100.981,2.0,HARD,11.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,32,100.542,2.0,HARD,12.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,33,100.772,2.0,HARD,13.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,34,100.55,2.0,HARD,14.0,True,1,True,False,False,15.0,30.0,35.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,35,101.065,2.0,HARD,15.0,True,1,True,False,False,15.0,30.0,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,36,101.94,2.0,HARD,16.0,True,1,True,False,False,14.0,29.9,35.4,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,37,101.028,2.0,HARD,17.0,True,1,True,False,False,14.0,29.9,35.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,38,100.837,2.0,HARD,18.0,True,1,True,False,False,14.0,29.8,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,39,101.246,2.0,HARD,19.0,True,1,True,False,False,13.0,29.8,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,40,100.935,2.0,HARD,20.0,True,1,True,False,False,13.0,29.7,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,41,100.579,2.0,HARD,21.0,True,1,True,False,False,12.0,29.8,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,42,100.637,2.0,HARD,22.0,True,1,True,False,False,12.0,29.8,35.5,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,43,120.929,2.0,HARD,23.0,True,126,False,True,False,12.0,29.7,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,44,,3.0,MEDIUM,1.0,True,67,False,False,True,13.0,29.7,35.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,45,100.919,3.0,MEDIUM,2.0,True,71,False,False,False,12.0,29.6,35.1,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,46,97.342,3.0,MEDIUM,3.0,True,12,True,False,False,12.0,29.6,35.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,47,98.047,3.0,MEDIUM,4.0,True,21,True,False,False,12.0,29.5,34.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,48,97.992,3.0,MEDIUM,5.0,True,1,True,False,False,12.0,29.6,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,49,98.019,3.0,MEDIUM,6.0,True,1,True,False,False,12.0,29.5,35.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,50,98.122,3.0,MEDIUM,7.0,True,1,True,False,False,12.0,29.6,35.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,51,98.213,3.0,MEDIUM,8.0,True,1,True,False,False,12.0,29.6,35.6,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,52,100.048,3.0,MEDIUM,9.0,True,12,True,False,False,11.0,29.7,35.3,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,53,99.613,3.0,MEDIUM,10.0,True,21,True,False,False,10.0,29.6,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,54,98.226,3.0,MEDIUM,11.0,True,1,True,False,False,10.0,29.6,34.6,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,55,97.656,3.0,MEDIUM,12.0,True,1,True,False,False,10.0,29.5,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,56,98.387,3.0,MEDIUM,13.0,True,1,True,False,False,10.0,29.5,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,57,101.555,3.0,MEDIUM,14.0,True,1,True,False,False,10.0,29.6,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,58,117.964,3.0,MEDIUM,15.0,True,12,True,False,False,14.0,29.5,34.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,59,100.685,3.0,MEDIUM,16.0,True,1,True,False,False,13.0,29.5,35.2,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,60,99.668,3.0,MEDIUM,17.0,True,1,True,False,False,12.0,29.5,35.0,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,61,98.501,3.0,MEDIUM,18.0,True,12,True,False,False,12.0,29.5,34.9,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ALB,Williams,62,99.891,3.0,MEDIUM,19.0,True,2,True,False,False,11.0,29.4,34.8,False,14.0,11.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,1,115.057,1.0,SOFT,1.0,True,12,False,False,True,18.0,29.8,36.7,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,2,109.969,1.0,SOFT,2.0,True,21,False,True,False,18.0,29.8,37.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,3,122.716,2.0,HARD,1.0,True,1,False,False,True,18.0,29.9,37.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,4,99.869,2.0,HARD,2.0,True,1,True,False,False,18.0,29.9,37.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,5,100.371,2.0,HARD,3.0,True,1,True,False,False,18.0,29.9,37.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,6,100.471,2.0,HARD,4.0,True,1,True,False,False,18.0,30.0,36.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,7,100.588,2.0,HARD,5.0,True,1,True,False,False,18.0,30.0,36.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,8,101.24,2.0,HARD,6.0,True,1,True,False,False,18.0,30.0,36.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,9,100.555,2.0,HARD,7.0,True,1,True,False,False,18.0,30.0,36.6,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,10,100.566,2.0,HARD,8.0,True,1,True,False,False,18.0,30.0,36.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,11,100.534,2.0,HARD,9.0,True,1,True,False,False,18.0,30.0,36.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,12,100.316,2.0,HARD,10.0,True,1,True,False,False,18.0,30.0,36.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,13,100.397,2.0,HARD,11.0,True,1,True,False,False,18.0,30.1,36.6,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,14,100.833,2.0,HARD,12.0,True,1,True,False,False,18.0,30.1,36.4,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,15,100.463,2.0,HARD,13.0,True,1,True,False,False,18.0,30.1,36.4,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,16,100.425,2.0,HARD,14.0,True,1,True,False,False,18.0,30.1,36.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,17,100.424,2.0,HARD,15.0,True,1,True,False,False,18.0,30.1,36.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,18,100.582,2.0,HARD,16.0,True,1,True,False,False,18.0,30.0,36.4,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,19,101.684,2.0,HARD,17.0,True,12,True,False,False,17.0,30.0,36.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,20,136.694,2.0,HARD,18.0,True,14,False,True,False,17.0,30.0,36.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,21,,3.0,MEDIUM,1.0,True,4,False,False,True,17.0,30.0,36.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,22,120.733,3.0,MEDIUM,2.0,True,41,False,False,False,17.0,30.0,36.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,23,102.749,3.0,MEDIUM,3.0,True,1,True,False,False,17.0,30.0,36.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,24,103.949,3.0,MEDIUM,4.0,True,1,True,False,False,16.0,29.9,36.1,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,25,101.346,3.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.9,36.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,26,100.973,3.0,MEDIUM,6.0,True,1,True,False,False,16.0,29.8,36.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,27,100.57,3.0,MEDIUM,7.0,True,1,True,False,False,16.0,29.9,36.1,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,28,101.31,3.0,MEDIUM,8.0,True,1,True,False,False,16.0,30.0,35.7,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,29,101.476,3.0,MEDIUM,9.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,30,100.866,3.0,MEDIUM,10.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,31,100.778,3.0,MEDIUM,11.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,32,100.576,3.0,MEDIUM,12.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,33,100.708,3.0,MEDIUM,13.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,34,100.499,3.0,MEDIUM,14.0,True,1,True,False,False,16.0,30.0,35.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,35,101.189,3.0,MEDIUM,15.0,True,1,True,False,False,16.0,30.0,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,36,102.747,3.0,MEDIUM,16.0,True,1,True,False,False,15.0,29.9,35.4,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,37,101.148,3.0,MEDIUM,17.0,True,1,True,False,False,15.0,29.9,35.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,38,100.821,3.0,MEDIUM,18.0,True,1,True,False,False,15.0,29.8,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,39,100.894,3.0,MEDIUM,19.0,True,1,True,False,False,14.0,29.8,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,40,100.806,3.0,MEDIUM,20.0,True,1,True,False,False,14.0,29.7,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,41,100.853,3.0,MEDIUM,21.0,True,1,True,False,False,13.0,29.8,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,42,100.425,3.0,MEDIUM,22.0,True,1,True,False,False,13.0,29.8,35.5,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,43,114.357,3.0,MEDIUM,23.0,True,126,False,False,False,11.0,29.7,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,44,137.516,3.0,MEDIUM,24.0,True,6,False,False,False,11.0,29.7,35.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,45,110.632,3.0,MEDIUM,25.0,True,671,False,False,False,10.0,29.6,35.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,46,99.316,3.0,MEDIUM,26.0,True,1,True,False,False,10.0,29.6,35.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,47,100.485,3.0,MEDIUM,27.0,True,12,True,False,False,11.0,29.5,34.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,48,99.79,3.0,MEDIUM,28.0,True,1,True,False,False,11.0,29.5,34.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,49,100.042,3.0,MEDIUM,29.0,True,1,True,False,False,11.0,29.5,35.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,50,99.818,3.0,MEDIUM,30.0,True,1,True,False,False,11.0,29.6,35.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,51,100.482,3.0,MEDIUM,31.0,True,1,True,False,False,11.0,29.6,35.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,52,103.708,3.0,MEDIUM,32.0,True,12,True,False,False,13.0,29.7,35.3,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,53,101.753,3.0,MEDIUM,33.0,True,1,True,False,False,13.0,29.6,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,54,101.708,3.0,MEDIUM,34.0,True,1,True,False,False,13.0,29.6,34.6,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,55,100.798,3.0,MEDIUM,35.0,True,1,True,False,False,13.0,29.5,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,56,101.215,3.0,MEDIUM,36.0,True,1,True,False,False,13.0,29.5,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,57,101.419,3.0,MEDIUM,37.0,True,1,True,False,False,13.0,29.6,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,58,102.795,3.0,MEDIUM,38.0,True,12,True,False,False,12.0,29.5,34.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,59,103.773,3.0,MEDIUM,39.0,True,1,True,False,False,14.0,29.5,35.2,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,60,101.794,3.0,MEDIUM,40.0,True,1,True,False,False,14.0,29.5,35.0,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,61,102.01,3.0,MEDIUM,41.0,True,12,True,False,False,13.0,29.5,34.9,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,ZHO,Alfa Romeo,62,102.246,3.0,MEDIUM,42.0,True,2,True,False,False,12.0,29.4,34.8,False,19.0,12.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,1,109.191,1.0,MEDIUM,1.0,True,12,False,False,False,9.0,29.8,36.7,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,2,102.849,1.0,MEDIUM,2.0,True,12,True,False,False,10.0,29.8,37.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,3,101.4,1.0,MEDIUM,3.0,True,1,True,False,False,10.0,29.9,37.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,4,101.256,1.0,MEDIUM,4.0,True,1,True,False,False,10.0,29.9,37.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,5,101.35,1.0,MEDIUM,5.0,True,1,True,False,False,10.0,29.9,37.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,6,101.949,1.0,MEDIUM,6.0,True,1,True,False,False,10.0,30.0,36.7,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,7,101.117,1.0,MEDIUM,7.0,True,1,True,False,False,10.0,30.0,36.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,8,100.734,1.0,MEDIUM,8.0,True,1,True,False,False,10.0,30.0,36.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,9,100.978,1.0,MEDIUM,9.0,True,1,True,False,False,10.0,30.0,36.6,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,10,100.633,1.0,MEDIUM,10.0,True,1,True,False,False,10.0,30.0,36.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,11,100.559,1.0,MEDIUM,11.0,True,1,True,False,False,10.0,30.0,36.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,12,100.479,1.0,MEDIUM,12.0,True,1,True,False,False,10.0,30.0,36.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,13,100.783,1.0,MEDIUM,13.0,True,1,True,False,False,10.0,30.1,36.6,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,14,100.641,1.0,MEDIUM,14.0,True,1,True,False,False,10.0,30.1,36.4,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,15,100.693,1.0,MEDIUM,15.0,True,1,True,False,False,10.0,30.1,36.4,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,16,100.789,1.0,MEDIUM,16.0,True,1,True,False,False,10.0,30.1,36.4,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,17,100.753,1.0,MEDIUM,17.0,True,1,True,False,False,10.0,30.1,36.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,18,100.877,1.0,MEDIUM,18.0,True,1,True,False,False,10.0,30.0,36.4,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,19,101.096,1.0,MEDIUM,19.0,True,12,True,False,False,10.0,30.0,36.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,20,128.679,1.0,MEDIUM,20.0,True,14,False,True,False,11.0,30.0,36.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,21,,2.0,HARD,1.0,True,4,False,False,True,15.0,30.0,36.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,22,136.853,2.0,HARD,2.0,True,41,False,False,False,15.0,30.0,36.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,23,103.093,2.0,HARD,3.0,True,1,True,False,False,15.0,30.0,36.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,24,103.044,2.0,HARD,4.0,True,1,True,False,False,14.0,29.9,36.1,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,25,101.165,2.0,HARD,5.0,True,1,True,False,False,14.0,29.9,36.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,26,100.93,2.0,HARD,6.0,True,1,True,False,False,14.0,29.8,36.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,27,100.425,2.0,HARD,7.0,True,1,True,False,False,14.0,29.9,36.1,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,28,101.78,2.0,HARD,8.0,True,1,True,False,False,14.0,30.0,35.7,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,29,101.57,2.0,HARD,9.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,30,100.692,2.0,HARD,10.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,31,100.076,2.0,HARD,11.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,32,101.038,2.0,HARD,12.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,33,100.694,2.0,HARD,13.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,34,100.644,2.0,HARD,14.0,True,1,True,False,False,14.0,30.0,35.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,35,101.622,2.0,HARD,15.0,True,1,True,False,False,14.0,30.0,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,36,101.128,2.0,HARD,16.0,True,1,True,False,False,13.0,29.9,35.4,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,37,100.482,2.0,HARD,17.0,True,1,True,False,False,13.0,29.9,35.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,38,101.051,2.0,HARD,18.0,True,1,True,False,False,13.0,29.8,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,39,102.01,2.0,HARD,19.0,True,1,True,False,False,12.0,29.8,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,40,101.257,2.0,HARD,20.0,True,1,True,False,False,12.0,29.7,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,41,100.687,2.0,HARD,21.0,True,1,True,False,False,11.0,29.8,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,42,100.523,2.0,HARD,22.0,True,1,True,False,False,11.0,29.8,35.5,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,43,113.224,2.0,HARD,23.0,True,126,False,False,False,10.0,29.7,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,44,136.653,2.0,HARD,24.0,True,6,False,False,False,10.0,29.7,35.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,45,111.986,2.0,HARD,25.0,True,671,False,False,False,9.0,29.6,35.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,46,100.005,2.0,HARD,26.0,True,1,True,False,False,9.0,29.6,35.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,47,99.971,2.0,HARD,27.0,True,12,True,False,False,9.0,29.5,34.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,48,100.789,2.0,HARD,28.0,True,1,True,False,False,10.0,29.5,34.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,49,100.65,2.0,HARD,29.0,True,1,True,False,False,10.0,29.5,35.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,50,99.923,2.0,HARD,30.0,True,1,True,False,False,10.0,29.6,35.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,51,100.729,2.0,HARD,31.0,True,1,True,False,False,10.0,29.6,35.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,52,100.946,2.0,HARD,32.0,True,12,True,False,False,10.0,29.7,35.3,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,53,103.808,2.0,HARD,33.0,True,21,True,False,False,12.0,29.6,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,54,101.918,2.0,HARD,34.0,True,1,True,False,False,12.0,29.6,34.6,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,55,101.16,2.0,HARD,35.0,True,1,True,False,False,12.0,29.5,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,56,101.285,2.0,HARD,36.0,True,1,True,False,False,12.0,29.5,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,57,101.41,2.0,HARD,37.0,True,1,True,False,False,12.0,29.6,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,58,102.177,2.0,HARD,38.0,True,12,True,False,False,11.0,29.5,34.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,59,101.538,2.0,HARD,39.0,True,1,True,False,False,11.0,29.5,35.2,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,60,104.766,2.0,HARD,40.0,True,1,True,False,False,13.0,29.5,35.0,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,61,103.503,2.0,HARD,41.0,True,12,True,False,False,14.0,29.5,34.9,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HUL,Haas F1 Team,62,103.728,2.0,HARD,42.0,True,2,True,False,False,13.0,29.4,34.8,False,9.0,13.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,1,107.795,1.0,MEDIUM,1.0,True,12,False,False,False,7.0,29.8,36.7,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,2,102.401,1.0,MEDIUM,2.0,True,12,True,False,False,7.0,29.8,37.2,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,3,101.196,1.0,MEDIUM,3.0,True,1,True,False,False,7.0,29.9,37.3,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,4,101.375,1.0,MEDIUM,4.0,True,1,True,False,False,7.0,29.9,37.2,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,5,101.329,1.0,MEDIUM,5.0,True,1,True,False,False,7.0,29.9,37.0,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,6,100.908,1.0,MEDIUM,6.0,True,1,True,False,False,7.0,30.0,36.7,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,7,100.732,1.0,MEDIUM,7.0,True,1,True,False,False,7.0,30.0,36.8,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,8,100.339,1.0,MEDIUM,8.0,True,1,True,False,False,7.0,30.0,36.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,9,100.343,1.0,MEDIUM,9.0,True,1,True,False,False,7.0,30.0,36.3,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,10,100.689,1.0,MEDIUM,10.0,True,1,True,False,False,7.0,30.0,36.2,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,11,100.085,1.0,MEDIUM,11.0,True,1,True,False,False,7.0,30.0,36.8,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,12,100.388,1.0,MEDIUM,12.0,True,1,True,False,False,7.0,30.1,36.8,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,13,100.562,1.0,MEDIUM,13.0,True,1,True,False,False,7.0,30.1,36.6,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,14,100.247,1.0,MEDIUM,14.0,True,1,True,False,False,7.0,30.1,36.4,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,15,100.353,1.0,MEDIUM,15.0,True,1,True,False,False,7.0,30.1,36.4,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,16,100.387,1.0,MEDIUM,16.0,True,1,True,False,False,7.0,30.1,36.4,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,17,100.575,1.0,MEDIUM,17.0,True,1,True,False,False,7.0,30.1,36.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,18,100.423,1.0,MEDIUM,18.0,True,1,True,False,False,7.0,30.0,36.4,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,19,100.49,1.0,MEDIUM,19.0,True,12,True,False,False,7.0,30.0,36.3,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,20,125.887,1.0,MEDIUM,20.0,True,14,False,True,False,8.0,30.0,36.2,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,21,,2.0,HARD,1.0,True,4,False,False,True,9.0,30.0,36.3,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,22,143.293,2.0,HARD,2.0,True,41,False,False,False,9.0,30.0,36.2,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,23,103.254,2.0,HARD,3.0,True,1,True,False,False,9.0,30.0,36.0,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,24,103.091,2.0,HARD,4.0,True,1,True,False,False,9.0,29.9,36.1,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,25,100.895,2.0,HARD,5.0,True,1,True,False,False,9.0,29.9,36.0,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,26,100.885,2.0,HARD,6.0,True,1,True,False,False,9.0,29.8,36.0,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,27,100.376,2.0,HARD,7.0,True,1,True,False,False,9.0,29.9,36.1,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,28,101.755,2.0,HARD,8.0,True,1,True,False,False,9.0,30.0,35.7,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,29,101.534,2.0,HARD,9.0,True,1,True,False,False,9.0,30.0,35.7,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,30,100.04,2.0,HARD,10.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,31,100.043,2.0,HARD,11.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,32,100.362,2.0,HARD,12.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,33,99.93,2.0,HARD,13.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,34,100.303,2.0,HARD,14.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,35,100.541,2.0,HARD,15.0,True,1,True,False,False,9.0,30.0,35.9,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,36,101.211,2.0,HARD,16.0,True,1,True,False,False,9.0,29.9,35.4,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,37,102.599,2.0,HARD,17.0,True,1,True,False,False,8.0,29.9,35.3,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,38,101.319,2.0,HARD,18.0,True,1,True,False,False,8.0,29.8,35.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,39,100.875,2.0,HARD,19.0,True,1,True,False,False,7.0,29.8,35.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,40,99.931,2.0,HARD,20.0,True,1,True,False,False,7.0,29.7,35.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,41,100.064,2.0,HARD,21.0,True,1,True,False,False,6.0,29.8,35.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,42,99.995,2.0,HARD,22.0,True,1,True,False,False,6.0,29.8,35.5,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,OCO,Alpine,43,,2.0,HARD,23.0,True,126,False,False,False,,29.7,34.8,False,8.0,18.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,1,106.415,1.0,MEDIUM,1.0,True,12,False,False,False,5.0,29.8,36.7,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,2,101.826,1.0,MEDIUM,2.0,True,12,True,False,False,5.0,29.8,37.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,3,101.124,1.0,MEDIUM,3.0,True,1,True,False,False,5.0,29.9,37.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,4,101.678,1.0,MEDIUM,4.0,True,1,True,False,False,4.0,29.9,37.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,5,100.285,1.0,MEDIUM,5.0,True,1,True,False,False,4.0,29.9,37.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,6,99.992,1.0,MEDIUM,6.0,True,1,True,False,False,4.0,30.0,36.7,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,7,99.972,1.0,MEDIUM,7.0,True,1,True,False,False,4.0,30.0,36.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,8,100.301,1.0,MEDIUM,8.0,True,1,True,False,False,4.0,30.0,36.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,9,100.13,1.0,MEDIUM,9.0,True,1,True,False,False,4.0,30.0,36.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,10,99.974,1.0,MEDIUM,10.0,True,1,True,False,False,4.0,30.0,36.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,11,100.355,1.0,MEDIUM,11.0,True,1,True,False,False,4.0,30.0,36.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,12,100.466,1.0,MEDIUM,12.0,True,1,True,False,False,4.0,30.1,36.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,13,100.372,1.0,MEDIUM,13.0,True,1,True,False,False,4.0,30.1,36.6,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,14,100.421,1.0,MEDIUM,14.0,True,1,True,False,False,4.0,30.1,36.4,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,15,100.247,1.0,MEDIUM,15.0,True,1,True,False,False,4.0,30.1,36.4,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,16,100.342,1.0,MEDIUM,16.0,True,1,True,False,False,4.0,30.1,36.4,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,17,100.024,1.0,MEDIUM,17.0,True,1,True,False,False,4.0,30.1,36.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,18,99.693,1.0,MEDIUM,18.0,True,1,True,False,False,4.0,30.0,36.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,19,99.88,1.0,MEDIUM,19.0,True,12,True,False,False,4.0,30.0,36.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,20,121.158,1.0,MEDIUM,20.0,True,14,False,True,False,4.0,30.0,36.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,21,,2.0,HARD,1.0,True,4,False,False,True,5.0,30.0,36.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,22,148.267,2.0,HARD,2.0,True,41,False,False,False,5.0,30.0,36.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,23,102.789,2.0,HARD,3.0,True,1,True,False,False,4.0,30.0,36.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,24,100.32,2.0,HARD,4.0,True,1,True,False,False,3.0,29.9,36.1,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,25,100.24,2.0,HARD,5.0,True,1,True,False,False,3.0,29.9,36.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,26,99.484,2.0,HARD,6.0,True,1,True,False,False,3.0,29.8,36.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,27,99.406,2.0,HARD,7.0,True,1,True,False,False,3.0,29.9,36.1,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,28,100.267,2.0,HARD,8.0,True,1,True,False,False,3.0,30.0,35.7,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,29,100.097,2.0,HARD,9.0,True,1,True,False,False,3.0,30.0,35.7,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,30,99.736,2.0,HARD,10.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,31,99.367,2.0,HARD,11.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,32,99.291,2.0,HARD,12.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,33,99.663,2.0,HARD,13.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,34,100.06,2.0,HARD,14.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,35,99.701,2.0,HARD,15.0,True,1,True,False,False,3.0,30.0,35.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,36,99.462,2.0,HARD,16.0,True,1,True,False,False,3.0,29.9,35.4,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,37,99.838,2.0,HARD,17.0,True,1,True,False,False,3.0,29.9,35.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,38,99.72,2.0,HARD,18.0,True,1,True,False,False,3.0,29.8,35.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,39,99.271,2.0,HARD,19.0,True,1,True,False,False,3.0,29.8,35.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,40,99.346,2.0,HARD,20.0,True,1,True,False,False,3.0,29.7,35.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,41,99.662,2.0,HARD,21.0,True,1,True,False,False,3.0,29.8,35.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,42,99.606,2.0,HARD,22.0,True,1,True,False,False,3.0,29.8,35.5,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,43,99.56,2.0,HARD,23.0,True,12,True,False,False,3.0,29.7,34.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,44,138.86,2.0,HARD,24.0,True,26,False,False,False,2.0,29.7,34.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,45,120.748,2.0,HARD,25.0,True,671,False,False,False,2.0,29.6,35.3,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,46,98.046,2.0,HARD,26.0,True,1,True,False,False,2.0,29.6,35.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,47,98.157,2.0,HARD,27.0,True,12,True,False,False,2.0,29.5,35.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,48,98.049,2.0,HARD,28.0,True,1,True,False,False,2.0,29.5,34.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,49,98.173,2.0,HARD,29.0,True,1,True,False,False,2.0,29.6,34.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,50,98.148,2.0,HARD,30.0,True,1,True,False,False,2.0,29.6,34.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,51,98.124,2.0,HARD,31.0,True,1,True,False,False,2.0,29.6,35.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,52,98.25,2.0,HARD,32.0,True,1,True,False,False,2.0,29.6,35.6,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,53,98.392,2.0,HARD,33.0,True,12,True,False,False,2.0,29.6,34.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,54,98.423,2.0,HARD,34.0,True,1,True,False,False,2.0,29.6,34.6,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,55,98.492,2.0,HARD,35.0,True,1,True,False,False,2.0,29.6,34.6,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,56,98.473,2.0,HARD,36.0,True,1,True,False,False,2.0,29.5,34.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,57,98.617,2.0,HARD,37.0,True,1,True,False,False,2.0,29.6,34.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,58,99.16,2.0,HARD,38.0,True,1,True,False,False,2.0,29.6,34.8,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,59,100.416,2.0,HARD,39.0,True,12,True,False,False,2.0,29.5,35.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,60,99.396,2.0,HARD,40.0,True,1,True,False,False,2.0,29.5,35.2,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,61,99.51,2.0,HARD,41.0,True,1,True,False,False,2.0,29.5,35.0,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,NOR,McLaren,62,99.677,2.0,HARD,42.0,True,12,True,False,False,2.0,29.5,34.9,False,4.0,2.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,1,110.934,1.0,MEDIUM,1.0,True,12,False,False,False,12.0,29.8,36.7,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,2,102.139,1.0,MEDIUM,2.0,True,12,True,False,False,12.0,29.8,37.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,3,101.514,1.0,MEDIUM,3.0,True,1,True,False,False,12.0,29.9,37.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,4,101.359,1.0,MEDIUM,4.0,True,1,True,False,False,12.0,29.9,37.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,5,101.351,1.0,MEDIUM,5.0,True,1,True,False,False,12.0,29.9,37.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,6,101.933,1.0,MEDIUM,6.0,True,1,True,False,False,12.0,30.0,36.7,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,7,101.468,1.0,MEDIUM,7.0,True,1,True,False,False,12.0,30.0,36.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,8,100.893,1.0,MEDIUM,8.0,True,1,True,False,False,12.0,30.0,36.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,9,100.886,1.0,MEDIUM,9.0,True,1,True,False,False,12.0,30.0,36.6,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,10,100.598,1.0,MEDIUM,10.0,True,1,True,False,False,12.0,30.0,36.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,11,100.824,1.0,MEDIUM,11.0,True,1,True,False,False,12.0,30.0,36.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,12,100.454,1.0,MEDIUM,12.0,True,1,True,False,False,12.0,30.0,36.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,13,100.642,1.0,MEDIUM,13.0,True,1,True,False,False,12.0,30.1,36.6,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,14,100.676,1.0,MEDIUM,14.0,True,1,True,False,False,12.0,30.1,36.4,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,15,100.728,1.0,MEDIUM,15.0,True,1,True,False,False,12.0,30.1,36.4,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,16,100.941,1.0,MEDIUM,16.0,True,1,True,False,False,12.0,30.1,36.4,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,17,100.94,1.0,MEDIUM,17.0,True,1,True,False,False,12.0,30.1,36.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,18,101.119,1.0,MEDIUM,18.0,True,1,True,False,False,12.0,30.0,36.4,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,19,101.286,1.0,MEDIUM,19.0,True,12,True,False,False,12.0,30.0,36.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,20,128.455,1.0,MEDIUM,20.0,True,14,False,True,False,13.0,30.0,36.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,21,,2.0,HARD,1.0,True,4,False,False,True,14.0,30.0,36.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,22,137.713,2.0,HARD,2.0,True,41,False,False,False,14.0,30.0,36.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,23,103.523,2.0,HARD,3.0,True,1,True,False,False,14.0,30.0,36.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,24,102.294,2.0,HARD,4.0,True,1,True,False,False,13.0,29.9,36.1,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,25,101.399,2.0,HARD,5.0,True,1,True,False,False,13.0,29.9,36.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,26,100.971,2.0,HARD,6.0,True,1,True,False,False,13.0,29.8,36.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,27,100.231,2.0,HARD,7.0,True,1,True,False,False,13.0,29.9,36.1,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,28,101.5,2.0,HARD,8.0,True,1,True,False,False,13.0,30.0,35.7,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,29,101.515,2.0,HARD,9.0,True,1,True,False,False,13.0,30.0,35.7,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,30,100.999,2.0,HARD,10.0,True,1,True,False,False,13.0,30.0,35.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,31,100.44,2.0,HARD,11.0,True,1,True,False,False,13.0,30.0,35.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,32,100.055,2.0,HARD,12.0,True,1,True,False,False,13.0,30.0,35.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,33,100.334,2.0,HARD,13.0,True,1,True,False,False,13.0,30.0,35.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,34,100.953,2.0,HARD,14.0,True,1,True,False,False,13.0,30.0,35.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,35,102.148,2.0,HARD,15.0,True,1,True,False,False,13.0,30.0,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,36,101.1,2.0,HARD,16.0,True,1,True,False,False,12.0,29.9,35.4,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,37,100.797,2.0,HARD,17.0,True,1,True,False,False,12.0,29.9,35.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,38,101.106,2.0,HARD,18.0,True,1,True,False,False,12.0,29.8,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,39,101.845,2.0,HARD,19.0,True,1,True,False,False,11.0,29.8,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,40,101.182,2.0,HARD,20.0,True,1,True,False,False,11.0,29.7,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,41,100.315,2.0,HARD,21.0,True,1,True,False,False,10.0,29.8,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,42,100.181,2.0,HARD,22.0,True,1,True,False,False,10.0,29.8,35.5,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,43,111.885,2.0,HARD,23.0,True,126,False,False,False,9.0,29.7,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,44,138.528,2.0,HARD,24.0,True,6,False,False,False,8.0,29.7,35.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,45,110.881,2.0,HARD,25.0,True,671,False,False,False,8.0,29.6,35.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,46,99.132,2.0,HARD,26.0,True,1,True,False,False,8.0,29.6,35.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,47,99.028,2.0,HARD,27.0,True,12,True,False,False,8.0,29.5,34.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,48,99.386,2.0,HARD,28.0,True,1,True,False,False,8.0,29.5,34.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,49,99.783,2.0,HARD,29.0,True,1,True,False,False,8.0,29.5,35.0,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,50,101.093,2.0,HARD,30.0,True,1,True,False,False,9.0,29.6,35.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,51,100.801,2.0,HARD,31.0,True,1,True,False,False,9.0,29.6,35.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,52,99.95,2.0,HARD,32.0,True,1,True,False,False,9.0,29.7,35.3,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,53,99.996,2.0,HARD,33.0,True,12,True,False,False,9.0,29.6,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,54,99.884,2.0,HARD,34.0,True,1,True,False,False,9.0,29.6,34.6,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,55,99.803,2.0,HARD,35.0,True,1,True,False,False,9.0,29.5,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,56,99.962,2.0,HARD,36.0,True,1,True,False,False,9.0,29.5,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,57,101.698,2.0,HARD,37.0,True,1,True,False,False,9.0,29.6,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,58,101.423,2.0,HARD,38.0,True,12,True,False,False,9.0,29.5,34.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,59,101.91,2.0,HARD,39.0,True,1,True,False,False,9.0,29.5,35.2,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,60,103.089,2.0,HARD,40.0,True,1,True,False,False,10.0,29.5,35.1,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,61,101.007,2.0,HARD,41.0,True,12,True,False,False,10.0,29.5,34.9,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,LAW,AlphaTauri,62,102.328,2.0,HARD,42.0,True,2,True,False,False,9.0,29.4,34.8,False,10.0,9.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,1,105.023,1.0,MEDIUM,1.0,True,12,False,False,False,3.0,29.8,36.7,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,2,102.587,1.0,MEDIUM,2.0,True,12,True,False,False,4.0,29.8,37.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,3,101.088,1.0,MEDIUM,3.0,True,1,True,False,False,4.0,29.9,37.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,4,102.861,1.0,MEDIUM,4.0,True,1,True,False,False,5.0,29.9,37.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,5,100.978,1.0,MEDIUM,5.0,True,1,True,False,False,5.0,29.9,37.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,6,100.126,1.0,MEDIUM,6.0,True,1,True,False,False,5.0,30.0,36.7,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,7,99.918,1.0,MEDIUM,7.0,True,1,True,False,False,5.0,30.0,36.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,8,100.166,1.0,MEDIUM,8.0,True,1,True,False,False,5.0,30.0,36.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,9,100.312,1.0,MEDIUM,9.0,True,1,True,False,False,5.0,30.0,36.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,10,100.144,1.0,MEDIUM,10.0,True,1,True,False,False,5.0,30.0,36.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,11,100.241,1.0,MEDIUM,11.0,True,1,True,False,False,5.0,30.0,36.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,12,100.218,1.0,MEDIUM,12.0,True,1,True,False,False,5.0,30.1,36.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,13,100.081,1.0,MEDIUM,13.0,True,1,True,False,False,5.0,30.1,36.6,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,14,100.273,1.0,MEDIUM,14.0,True,1,True,False,False,5.0,30.1,36.4,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,15,100.394,1.0,MEDIUM,15.0,True,1,True,False,False,5.0,30.1,36.4,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,16,100.785,1.0,MEDIUM,16.0,True,1,True,False,False,5.0,30.1,36.4,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,17,100.38,1.0,MEDIUM,17.0,True,1,True,False,False,5.0,30.1,36.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,18,100.364,1.0,MEDIUM,18.0,True,1,True,False,False,5.0,30.0,36.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,19,99.394,1.0,MEDIUM,19.0,True,12,True,False,False,5.0,30.0,36.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,20,121.815,1.0,MEDIUM,20.0,True,14,False,True,False,5.0,30.0,36.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,21,,2.0,HARD,1.0,True,4,False,False,True,7.0,30.0,36.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,22,146.231,2.0,HARD,2.0,True,41,False,False,False,7.0,30.0,36.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,23,103.08,2.0,HARD,3.0,True,1,True,False,False,6.0,30.0,36.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,24,100.957,2.0,HARD,4.0,True,1,True,False,False,5.0,29.9,36.1,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,25,100.442,2.0,HARD,5.0,True,1,True,False,False,5.0,29.9,36.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,26,99.954,2.0,HARD,6.0,True,1,True,False,False,5.0,29.8,36.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,27,99.226,2.0,HARD,7.0,True,1,True,False,False,4.0,29.9,36.1,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,28,99.679,2.0,HARD,8.0,True,1,True,False,False,4.0,30.0,35.7,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,29,99.52,2.0,HARD,9.0,True,1,True,False,False,4.0,30.0,35.7,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,30,99.142,2.0,HARD,10.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,31,99.32,2.0,HARD,11.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,32,99.186,2.0,HARD,12.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,33,100.62,2.0,HARD,13.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,34,99.545,2.0,HARD,14.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,35,99.51,2.0,HARD,15.0,True,1,True,False,False,4.0,30.0,35.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,36,99.362,2.0,HARD,16.0,True,1,True,False,False,4.0,29.9,35.4,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,37,99.959,2.0,HARD,17.0,True,1,True,False,False,4.0,29.9,35.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,38,99.86,2.0,HARD,18.0,True,1,True,False,False,4.0,29.8,35.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,39,99.264,2.0,HARD,19.0,True,1,True,False,False,4.0,29.8,35.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,40,99.472,2.0,HARD,20.0,True,1,True,False,False,4.0,29.7,35.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,41,99.698,2.0,HARD,21.0,True,1,True,False,False,4.0,29.8,35.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,42,99.686,2.0,HARD,22.0,True,1,True,False,False,4.0,29.8,35.5,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,43,99.291,2.0,HARD,23.0,True,126,False,False,False,4.0,29.7,34.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,44,145.716,2.0,HARD,24.0,True,6,False,True,False,5.0,29.7,34.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,45,133.606,3.0,MEDIUM,1.0,True,671,False,False,True,5.0,29.6,35.3,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,46,96.953,3.0,MEDIUM,2.0,True,1,True,False,False,5.0,29.6,35.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,47,95.867,3.0,MEDIUM,3.0,True,12,True,False,False,5.0,29.5,35.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,48,96.122,3.0,MEDIUM,4.0,True,1,True,False,False,5.0,29.5,34.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,49,96.22,3.0,MEDIUM,5.0,True,1,True,False,False,5.0,29.5,35.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,50,96.462,3.0,MEDIUM,6.0,True,1,True,False,False,5.0,29.6,34.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,51,96.479,3.0,MEDIUM,7.0,True,1,True,False,False,5.0,29.6,35.2,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,52,96.555,3.0,MEDIUM,8.0,True,1,True,False,False,5.0,29.6,35.6,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,53,97.698,3.0,MEDIUM,9.0,True,12,True,False,False,5.0,29.6,34.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,54,97.924,3.0,MEDIUM,10.0,True,1,True,False,False,4.0,29.6,34.6,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,55,97.221,3.0,MEDIUM,11.0,True,1,True,False,False,4.0,29.6,34.6,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,56,96.411,3.0,MEDIUM,12.0,True,1,True,False,False,4.0,29.5,34.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,57,97.111,3.0,MEDIUM,13.0,True,1,True,False,False,4.0,29.6,34.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,58,97.982,3.0,MEDIUM,14.0,True,1,True,False,False,4.0,29.6,34.8,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,59,100.167,3.0,MEDIUM,15.0,True,12,True,False,False,4.0,29.5,35.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,60,99.772,3.0,MEDIUM,16.0,True,1,True,False,False,4.0,29.5,35.1,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,61,99.096,3.0,MEDIUM,17.0,True,1,True,False,False,4.0,29.5,35.0,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,HAM,Mercedes,62,99.347,3.0,MEDIUM,18.0,True,12,True,False,False,3.0,29.5,34.9,False,5.0,3.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,1,103.309,1.0,MEDIUM,1.0,True,12,False,False,False,1.0,29.8,36.7,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,2,101.383,1.0,MEDIUM,2.0,True,12,True,False,False,1.0,29.8,37.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,3,100.962,1.0,MEDIUM,3.0,True,1,True,False,False,1.0,29.9,37.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,4,100.58,1.0,MEDIUM,4.0,True,1,True,False,False,1.0,29.9,37.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,5,100.551,1.0,MEDIUM,5.0,True,1,True,False,False,1.0,29.9,37.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,6,100.113,1.0,MEDIUM,6.0,True,1,True,False,False,1.0,30.0,36.7,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,7,100.178,1.0,MEDIUM,7.0,True,1,True,False,False,1.0,30.0,36.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,8,100.503,1.0,MEDIUM,8.0,True,1,True,False,False,1.0,30.0,36.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,9,99.626,1.0,MEDIUM,9.0,True,1,True,False,False,1.0,30.0,36.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,10,100.369,1.0,MEDIUM,10.0,True,1,True,False,False,1.0,30.0,36.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,11,100.297,1.0,MEDIUM,11.0,True,1,True,False,False,1.0,30.0,36.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,12,100.53,1.0,MEDIUM,12.0,True,1,True,False,False,1.0,30.1,36.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,13,100.356,1.0,MEDIUM,13.0,True,1,True,False,False,1.0,30.1,36.6,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,14,100.398,1.0,MEDIUM,14.0,True,1,True,False,False,1.0,30.1,36.4,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,15,99.937,1.0,MEDIUM,15.0,True,1,True,False,False,1.0,30.1,36.4,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,16,99.398,1.0,MEDIUM,16.0,True,1,True,False,False,1.0,30.1,36.4,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,17,99.448,1.0,MEDIUM,17.0,True,1,True,False,False,1.0,30.1,36.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,18,98.992,1.0,MEDIUM,18.0,True,1,True,False,False,1.0,30.0,36.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,19,99.029,1.0,MEDIUM,19.0,True,12,True,False,False,1.0,30.0,36.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,20,116.824,1.0,MEDIUM,20.0,True,14,False,True,False,1.0,30.0,36.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,21,,2.0,HARD,1.0,True,4,False,False,True,1.0,30.0,36.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,22,,2.0,HARD,2.0,True,41,False,False,False,1.0,30.0,36.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,23,102.423,2.0,HARD,3.0,True,1,True,False,False,1.0,30.0,36.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,24,99.792,2.0,HARD,4.0,True,1,True,False,False,1.0,29.9,36.1,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,25,99.726,2.0,HARD,5.0,True,1,True,False,False,1.0,29.9,36.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,26,99.185,2.0,HARD,6.0,True,1,True,False,False,1.0,29.8,36.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,27,99.835,2.0,HARD,7.0,True,1,True,False,False,1.0,29.9,36.1,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,28,101.23,2.0,HARD,8.0,True,1,True,False,False,1.0,30.0,35.7,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,29,100.225,2.0,HARD,9.0,True,1,True,False,False,1.0,30.0,35.7,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,30,100.217,2.0,HARD,10.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,31,99.633,2.0,HARD,11.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,32,99.184,2.0,HARD,12.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,33,99.235,2.0,HARD,13.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,34,100.025,2.0,HARD,14.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,35,99.97,2.0,HARD,15.0,True,1,True,False,False,1.0,30.0,35.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,36,99.544,2.0,HARD,16.0,True,1,True,False,False,1.0,29.9,35.4,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,37,99.884,2.0,HARD,17.0,True,1,True,False,False,1.0,29.9,35.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,38,99.519,2.0,HARD,18.0,True,1,True,False,False,1.0,29.8,35.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,39,99.253,2.0,HARD,19.0,True,1,True,False,False,1.0,29.8,35.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,40,99.393,2.0,HARD,20.0,True,1,True,False,False,1.0,29.7,35.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,41,99.798,2.0,HARD,21.0,True,1,True,False,False,1.0,29.8,35.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,42,99.939,2.0,HARD,22.0,True,1,True,False,False,1.0,29.8,35.5,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,43,99.248,2.0,HARD,23.0,True,12,True,False,False,1.0,29.7,34.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,44,138.57,2.0,HARD,24.0,True,26,False,False,False,1.0,29.7,34.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,45,121.324,2.0,HARD,25.0,True,671,False,False,False,1.0,29.6,35.3,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,46,97.913,2.0,HARD,26.0,True,1,True,False,False,1.0,29.6,35.1,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,47,97.666,2.0,HARD,27.0,True,12,True,False,False,1.0,29.5,35.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,48,98.2,2.0,HARD,28.0,True,1,True,False,False,1.0,29.5,34.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,49,98.221,2.0,HARD,29.0,True,1,True,False,False,1.0,29.6,34.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,50,98.637,2.0,HARD,30.0,True,1,True,False,False,1.0,29.6,34.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,51,98.04,2.0,HARD,31.0,True,1,True,False,False,1.0,29.6,35.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,52,98.218,2.0,HARD,32.0,True,1,True,False,False,1.0,29.6,35.6,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,53,98.327,2.0,HARD,33.0,True,12,True,False,False,1.0,29.6,34.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,54,98.707,2.0,HARD,34.0,True,1,True,False,False,1.0,29.6,34.6,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,55,98.541,2.0,HARD,35.0,True,1,True,False,False,1.0,29.6,34.6,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,56,98.52,2.0,HARD,36.0,True,1,True,False,False,1.0,29.5,34.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,57,98.909,2.0,HARD,37.0,True,1,True,False,False,1.0,29.6,34.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,58,99.337,2.0,HARD,38.0,True,1,True,False,False,1.0,29.6,34.8,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,59,99.575,2.0,HARD,39.0,True,12,True,False,False,1.0,29.5,35.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,60,100.042,2.0,HARD,40.0,True,1,True,False,False,1.0,29.5,35.2,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,61,99.292,2.0,HARD,41.0,True,1,True,False,False,1.0,29.5,35.0,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,SAI,Ferrari,62,99.958,2.0,HARD,42.0,True,12,True,False,False,1.0,29.5,34.9,False,1.0,1.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,1,105.772,1.0,MEDIUM,1.0,True,12,False,False,False,4.0,29.8,36.7,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,2,101.103,1.0,MEDIUM,2.0,True,12,True,False,False,3.0,29.8,37.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,3,100.944,1.0,MEDIUM,3.0,True,1,True,False,False,3.0,29.9,37.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,4,101.086,1.0,MEDIUM,4.0,True,1,True,False,False,3.0,29.9,37.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,5,100.464,1.0,MEDIUM,5.0,True,1,True,False,False,3.0,29.9,37.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,6,100.221,1.0,MEDIUM,6.0,True,1,True,False,False,3.0,30.0,36.7,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,7,100.271,1.0,MEDIUM,7.0,True,1,True,False,False,3.0,30.0,36.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,8,100.464,1.0,MEDIUM,8.0,True,1,True,False,False,3.0,30.0,36.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,9,100.039,1.0,MEDIUM,9.0,True,1,True,False,False,3.0,30.0,36.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,10,100.093,1.0,MEDIUM,10.0,True,1,True,False,False,3.0,30.0,36.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,11,100.595,1.0,MEDIUM,11.0,True,1,True,False,False,3.0,30.0,36.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,12,100.463,1.0,MEDIUM,12.0,True,1,True,False,False,3.0,30.1,36.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,13,100.344,1.0,MEDIUM,13.0,True,1,True,False,False,3.0,30.1,36.6,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,14,100.758,1.0,MEDIUM,14.0,True,1,True,False,False,3.0,30.1,36.4,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,15,99.965,1.0,MEDIUM,15.0,True,1,True,False,False,3.0,30.1,36.4,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,16,100.062,1.0,MEDIUM,16.0,True,1,True,False,False,3.0,30.1,36.4,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,17,100.029,1.0,MEDIUM,17.0,True,1,True,False,False,3.0,30.1,36.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,18,99.686,1.0,MEDIUM,18.0,True,1,True,False,False,3.0,30.0,36.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,19,99.996,1.0,MEDIUM,19.0,True,12,True,False,False,3.0,30.0,36.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,20,120.405,1.0,MEDIUM,20.0,True,14,False,True,False,3.0,30.0,36.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,21,,2.0,HARD,1.0,True,4,False,False,True,3.0,30.0,36.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,22,149.337,2.0,HARD,2.0,True,41,False,False,False,3.0,30.0,36.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,23,102.341,2.0,HARD,3.0,True,1,True,False,False,2.0,30.0,36.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,24,99.501,2.0,HARD,4.0,True,1,True,False,False,2.0,29.9,36.1,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,25,99.56,2.0,HARD,5.0,True,1,True,False,False,2.0,29.9,36.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,26,99.173,2.0,HARD,6.0,True,1,True,False,False,2.0,29.8,36.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,27,100.205,2.0,HARD,7.0,True,1,True,False,False,2.0,29.9,36.1,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,28,101.181,2.0,HARD,8.0,True,1,True,False,False,2.0,30.0,35.7,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,29,100.413,2.0,HARD,9.0,True,1,True,False,False,2.0,30.0,35.7,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,30,100.067,2.0,HARD,10.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,31,99.458,2.0,HARD,11.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,32,99.319,2.0,HARD,12.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,33,99.348,2.0,HARD,13.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,34,99.961,2.0,HARD,14.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,35,99.986,2.0,HARD,15.0,True,1,True,False,False,2.0,30.0,35.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,36,99.474,2.0,HARD,16.0,True,1,True,False,False,2.0,29.9,35.4,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,37,99.776,2.0,HARD,17.0,True,1,True,False,False,2.0,29.9,35.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,38,99.635,2.0,HARD,18.0,True,1,True,False,False,2.0,29.8,35.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,39,99.169,2.0,HARD,19.0,True,1,True,False,False,2.0,29.8,35.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,40,99.322,2.0,HARD,20.0,True,1,True,False,False,2.0,29.7,35.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,41,99.803,2.0,HARD,21.0,True,1,True,False,False,2.0,29.8,35.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,42,99.845,2.0,HARD,22.0,True,1,True,False,False,2.0,29.8,35.5,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,43,99.482,2.0,HARD,23.0,True,12,True,False,False,2.0,29.7,34.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,44,144.887,2.0,HARD,24.0,True,26,False,True,False,4.0,29.7,34.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,45,131.669,3.0,MEDIUM,1.0,True,671,False,False,True,4.0,29.6,35.3,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,46,96.273,3.0,MEDIUM,2.0,True,1,True,False,False,4.0,29.6,35.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,47,96.419,3.0,MEDIUM,3.0,True,12,True,False,False,4.0,29.5,35.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,48,96.649,3.0,MEDIUM,4.0,True,1,True,False,False,4.0,29.5,34.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,49,96.569,3.0,MEDIUM,5.0,True,1,True,False,False,4.0,29.5,35.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,50,97.006,3.0,MEDIUM,6.0,True,1,True,False,False,4.0,29.6,34.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,51,96.757,3.0,MEDIUM,7.0,True,1,True,False,False,4.0,29.6,35.2,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,52,97.414,3.0,MEDIUM,8.0,True,1,True,False,False,4.0,29.6,35.6,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,53,98.567,3.0,MEDIUM,9.0,True,12,True,False,False,3.0,29.6,34.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,54,97.396,3.0,MEDIUM,10.0,True,1,True,False,False,3.0,29.6,34.6,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,55,96.937,3.0,MEDIUM,11.0,True,1,True,False,False,3.0,29.6,34.6,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,56,97.029,3.0,MEDIUM,12.0,True,1,True,False,False,3.0,29.5,34.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,57,97.246,3.0,MEDIUM,13.0,True,1,True,False,False,3.0,29.6,34.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,58,98.686,3.0,MEDIUM,14.0,True,1,True,False,False,3.0,29.6,34.8,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,59,100.239,3.0,MEDIUM,15.0,True,12,True,False,False,3.0,29.5,35.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,60,99.51,3.0,MEDIUM,16.0,True,1,True,False,False,3.0,29.5,35.1,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,61,99.314,3.0,MEDIUM,17.0,True,1,True,False,False,3.0,29.5,35.0,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,RUS,Mercedes,62,,3.0,MEDIUM,18.0,True,12,False,False,False,,29.5,34.9,False,2.0,16.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,1,114.714,1.0,HARD,1.0,True,12,False,False,False,17.0,29.8,36.7,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,2,102.182,1.0,HARD,2.0,True,21,True,False,False,17.0,29.8,37.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,3,103.036,1.0,HARD,3.0,True,1,True,False,False,17.0,29.9,37.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,4,101.766,1.0,HARD,4.0,True,1,True,False,False,17.0,29.9,37.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,5,101.757,1.0,HARD,5.0,True,1,True,False,False,17.0,29.9,37.0,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,6,101.27,1.0,HARD,6.0,True,1,True,False,False,17.0,30.0,36.8,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,7,102.397,1.0,HARD,7.0,True,1,True,False,False,17.0,30.0,36.8,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,8,102.153,1.0,HARD,8.0,True,1,True,False,False,17.0,30.0,36.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,9,101.303,1.0,HARD,9.0,True,1,True,False,False,17.0,30.0,36.6,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,10,101.23,1.0,HARD,10.0,True,1,True,False,False,17.0,30.0,36.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,11,101.376,1.0,HARD,11.0,True,1,True,False,False,17.0,30.0,36.8,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,12,101.063,1.0,HARD,12.0,True,1,True,False,False,17.0,30.0,36.8,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,13,101.194,1.0,HARD,13.0,True,1,True,False,False,17.0,30.1,36.6,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,14,100.955,1.0,HARD,14.0,True,1,True,False,False,17.0,30.1,36.4,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,15,100.793,1.0,HARD,15.0,True,1,True,False,False,17.0,30.1,36.4,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,16,100.925,1.0,HARD,16.0,True,1,True,False,False,17.0,30.1,36.4,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,17,100.809,1.0,HARD,17.0,True,1,True,False,False,17.0,30.1,36.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,18,100.904,1.0,HARD,18.0,True,1,True,False,False,17.0,30.0,36.4,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,19,101.786,1.0,HARD,19.0,True,12,True,False,False,16.0,30.0,36.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,20,124.66,1.0,HARD,20.0,True,14,False,False,False,16.0,30.0,36.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,21,,1.0,HARD,21.0,True,4,False,False,False,10.0,30.0,36.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,22,142.499,1.0,HARD,22.0,True,41,False,False,False,10.0,30.0,36.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,23,105.486,1.0,HARD,23.0,True,1,True,False,False,13.0,30.0,36.0,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,24,106.415,1.0,HARD,24.0,True,1,True,False,False,17.0,29.9,36.1,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,25,101.759,1.0,HARD,25.0,True,1,True,False,False,17.0,29.9,36.0,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,26,101.366,1.0,HARD,26.0,True,1,True,False,False,17.0,29.9,36.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,27,101.288,1.0,HARD,27.0,True,1,True,False,False,17.0,29.9,36.1,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,28,101.288,1.0,HARD,28.0,True,1,True,False,False,17.0,30.0,35.7,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,29,101.478,1.0,HARD,29.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,30,101.369,1.0,HARD,30.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,31,100.907,1.0,HARD,31.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,32,101.162,1.0,HARD,32.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,33,101.06,1.0,HARD,33.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,34,101.088,1.0,HARD,34.0,True,1,True,False,False,17.0,30.0,35.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,35,100.808,1.0,HARD,35.0,True,1,True,False,False,17.0,30.0,35.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,36,101.628,1.0,HARD,36.0,True,1,True,False,False,17.0,29.9,35.4,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,37,102.375,1.0,HARD,37.0,True,1,True,False,False,17.0,29.9,35.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,38,102.282,1.0,HARD,38.0,True,1,True,False,False,17.0,29.8,35.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,39,102.059,1.0,HARD,39.0,True,1,True,False,False,17.0,29.8,35.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,40,110.101,1.0,HARD,40.0,True,1,False,True,False,16.0,29.7,35.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,41,120.751,2.0,MEDIUM,1.0,True,1,False,False,True,18.0,29.8,35.5,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,42,98.392,2.0,MEDIUM,2.0,True,12,True,False,False,18.0,29.8,35.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,43,126.949,2.0,MEDIUM,3.0,True,26,False,False,False,17.0,29.7,34.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,44,134.405,2.0,MEDIUM,4.0,True,671,False,False,False,16.0,29.6,35.3,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,45,99.08,2.0,MEDIUM,5.0,True,1,True,False,False,16.0,29.6,35.1,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,46,98.979,2.0,MEDIUM,6.0,True,12,True,False,False,15.0,29.5,35.0,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,47,98.729,2.0,MEDIUM,7.0,True,1,True,False,False,15.0,29.5,34.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,48,98.573,2.0,MEDIUM,8.0,True,1,True,False,False,15.0,29.6,34.8,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,49,98.525,2.0,MEDIUM,9.0,True,1,True,False,False,15.0,29.6,34.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,50,98.092,2.0,MEDIUM,10.0,True,1,True,False,False,15.0,29.6,35.2,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,51,98.075,2.0,MEDIUM,11.0,True,1,True,False,False,15.0,29.6,35.6,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,BOT,Alfa Romeo,52,,2.0,MEDIUM,12.0,True,12,False,False,False,,29.6,34.9,False,16.0,17.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,1,111.927,1.0,MEDIUM,1.0,True,12,False,False,False,14.0,29.8,36.7,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,2,102.06,1.0,MEDIUM,2.0,True,12,True,False,False,14.0,29.8,37.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,3,101.909,1.0,MEDIUM,3.0,True,1,True,False,False,14.0,29.9,37.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,4,101.37,1.0,MEDIUM,4.0,True,1,True,False,False,14.0,29.9,37.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,5,101.241,1.0,MEDIUM,5.0,True,1,True,False,False,14.0,29.9,37.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,6,102.673,1.0,MEDIUM,6.0,True,1,True,False,False,14.0,30.0,36.7,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,7,102.309,1.0,MEDIUM,7.0,True,1,True,False,False,14.0,30.0,36.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,8,101.091,1.0,MEDIUM,8.0,True,1,True,False,False,14.0,30.0,36.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,9,100.474,1.0,MEDIUM,9.0,True,1,True,False,False,14.0,30.0,36.6,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,10,100.528,1.0,MEDIUM,10.0,True,1,True,False,False,14.0,30.0,36.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,11,100.678,1.0,MEDIUM,11.0,True,1,True,False,False,14.0,30.0,36.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,12,100.563,1.0,MEDIUM,12.0,True,1,True,False,False,14.0,30.0,36.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,13,101.119,1.0,MEDIUM,13.0,True,1,True,False,False,14.0,30.1,36.6,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,14,100.307,1.0,MEDIUM,14.0,True,1,True,False,False,14.0,30.1,36.4,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,15,100.709,1.0,MEDIUM,15.0,True,1,True,False,False,14.0,30.1,36.4,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,16,100.6,1.0,MEDIUM,16.0,True,1,True,False,False,14.0,30.1,36.4,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,17,100.846,1.0,MEDIUM,17.0,True,1,True,False,False,14.0,30.1,36.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,18,100.895,1.0,MEDIUM,18.0,True,1,True,False,False,14.0,30.0,36.4,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,19,101.322,1.0,MEDIUM,19.0,True,12,True,False,False,14.0,30.0,36.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,20,128.998,1.0,MEDIUM,20.0,True,14,False,True,False,14.0,30.0,36.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,21,,2.0,HARD,1.0,True,4,False,False,True,13.0,30.0,36.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,22,138.79,2.0,HARD,2.0,True,41,False,False,False,13.0,30.0,36.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,23,103.549,2.0,HARD,3.0,True,1,True,False,False,12.0,30.0,36.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,24,102.238,2.0,HARD,4.0,True,1,True,False,False,12.0,29.9,36.1,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,25,101.272,2.0,HARD,5.0,True,1,True,False,False,12.0,29.9,36.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,26,100.802,2.0,HARD,6.0,True,1,True,False,False,12.0,29.8,36.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,27,100.529,2.0,HARD,7.0,True,1,True,False,False,12.0,29.9,36.1,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,28,101.47,2.0,HARD,8.0,True,1,True,False,False,12.0,30.0,35.7,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,29,101.749,2.0,HARD,9.0,True,1,True,False,False,12.0,30.0,35.7,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,30,100.553,2.0,HARD,10.0,True,1,True,False,False,12.0,30.0,35.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,31,100.033,2.0,HARD,11.0,True,1,True,False,False,12.0,30.0,35.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,32,100.104,2.0,HARD,12.0,True,1,True,False,False,12.0,30.0,35.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,33,100.237,2.0,HARD,13.0,True,1,True,False,False,12.0,30.0,35.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,34,101.598,2.0,HARD,14.0,True,1,True,False,False,12.0,30.0,35.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,35,102.204,2.0,HARD,15.0,True,1,True,False,False,12.0,30.0,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,36,100.587,2.0,HARD,16.0,True,1,True,False,False,11.0,29.9,35.4,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,37,100.368,2.0,HARD,17.0,True,1,True,False,False,11.0,29.9,35.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,38,100.858,2.0,HARD,18.0,True,1,True,False,False,11.0,29.8,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,39,102.986,2.0,HARD,19.0,True,1,True,False,False,10.0,29.8,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,40,100.299,2.0,HARD,20.0,True,1,True,False,False,10.0,29.7,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,41,99.982,2.0,HARD,21.0,True,1,True,False,False,9.0,29.8,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,42,99.783,2.0,HARD,22.0,True,1,True,False,False,9.0,29.8,35.5,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,43,112.356,2.0,HARD,23.0,True,126,False,False,False,8.0,29.7,34.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,44,136.298,2.0,HARD,24.0,True,6,False,False,False,7.0,29.7,35.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,45,112.685,2.0,HARD,25.0,True,671,False,False,False,7.0,29.6,35.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,46,98.492,2.0,HARD,26.0,True,1,True,False,False,7.0,29.6,35.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,47,98.889,2.0,HARD,27.0,True,12,True,False,False,7.0,29.5,34.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,48,98.647,2.0,HARD,28.0,True,1,True,False,False,7.0,29.5,34.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,49,99.008,2.0,HARD,29.0,True,1,True,False,False,7.0,29.5,35.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,50,98.832,2.0,HARD,30.0,True,1,True,False,False,7.0,29.6,35.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,51,98.656,2.0,HARD,31.0,True,1,True,False,False,7.0,29.6,35.2,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,52,98.793,2.0,HARD,32.0,True,1,True,False,False,7.0,29.7,35.3,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,53,98.773,2.0,HARD,33.0,True,12,True,False,False,7.0,29.6,34.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,54,100.546,2.0,HARD,34.0,True,1,True,False,False,8.0,29.6,34.6,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,55,100.108,2.0,HARD,35.0,True,1,True,False,False,8.0,29.5,34.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,56,99.141,2.0,HARD,36.0,True,1,True,False,False,8.0,29.5,34.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,57,99.14,2.0,HARD,37.0,True,1,True,False,False,8.0,29.6,34.8,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,58,99.516,2.0,HARD,38.0,True,12,True,False,False,8.0,29.5,34.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,59,99.428,2.0,HARD,39.0,True,21,True,False,False,8.0,29.5,35.0,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,60,99.189,2.0,HARD,40.0,True,1,True,False,False,8.0,29.5,35.1,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,61,99.616,2.0,HARD,41.0,True,1,True,False,False,8.0,29.5,34.9,False,17.0,7.0
+2023,15,Singapore Grand Prix,Marina Bay,62,PIA,McLaren,62,101.41,2.0,HARD,42.0,True,12,True,False,False,7.0,29.5,34.9,False,17.0,7.0
